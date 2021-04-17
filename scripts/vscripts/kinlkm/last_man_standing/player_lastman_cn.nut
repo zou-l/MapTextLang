@@ -31,7 +31,7 @@ function SetTextItem(item)
     }
     if(item == 4)
     {
-        ItemText = "加特林机枪：\n按 E 使用";
+        ItemText = "加特林机枪：\n按 E 使用 对正前方僵尸造成伤害";
     }
     if(item == 5)
     {
@@ -39,7 +39,7 @@ function SetTextItem(item)
     }
     if(item == 6)
     {
-        ItemText = "突变基因：\n 按 E 使用放置药丸\n每人仅可使用一次药丸\n冷却时间：10秒"
+        ItemText = "突变基因：\n 按 E 使用放置药丸\n每个玩家仅可食用一次药丸\n冷却时间：10秒"
     }
     if(item == 7)
     {
