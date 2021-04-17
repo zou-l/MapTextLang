@@ -871,10 +871,10 @@ WARMUP_TEXT <- [
 	"最终关卡的体验将完全取决于\n前面所有关卡所收集的进度!",//INDEX 1
 	"你的任何行动将会改变下一轮",//INDEX 2
 	"开启四个发电机!\n激活任何一个僵尸将会大规模传送!",//INDEX 3
-	"想想你的行为!\n快点!加油!\n某些情况需要一定技巧或者牺牲!",//INDEX 4
+	"想想你的行为!\n加油!\n在某些关卡需要一定技巧或者牺牲!",//INDEX 4
 	"没有看不见的墙!\n你可以去你想去的地方!",//INDEX 5
 	"想怎么玩就怎么玩\n但别忘了倒计时\n核弹不会等你的!",//INDEX 6
-	"解锁极限模式\n但首先需要您完成正常模式!",//INDEX 7
+	"想要解锁极限模式\n但首先需要完成正常模式!",//INDEX 7
 	"僵尸提示:\n地形和环境将是你的盟友.\n总是不止有一条路!",//INDEX 8
 	"人类:\n前面四个关卡中的每一个关卡都有一台发电机.\n您的目标就是开启发电机!",//INDEX 9
 	"僵尸神器:\n某些僵尸神器功能非常强大\n但是需要正确使用技巧!",//INDEX 10
@@ -984,8 +984,8 @@ function MapStart()
 	}
     if(STAGE == 0)
 	{
-        EntFire("Global_GameText_Announcement","AddOutput","message 给房间的所有警卫\n在系统测试期间保卫该区域",25.00,null);
-		EntFire("Global_GameText_Announcement","AddOutput","message 警告!\n测试元件不稳定\n**\n为了你的安全快离开房间",35.00,null);
+        EntFire("Global_GameText_Announcement","AddOutput","message 给房间里的所有警卫\n在系统测试期间保卫该区域",25.00,null);
+		EntFire("Global_GameText_Announcement","AddOutput","message 警告!\n测试单元不稳定\n**\n为了你的安全请尽快离开房间",35.00,null);
 		EntFire("Global_GameText_Announcement","AddOutput","message 红色警报!\n安全漏洞!\n隔离房间!",45.00,null);
 		EntFire("Global_GameText_Announcement","AddOutput","message 黑色代码!\n使用致命毒气!",81.00,null);
 		EntFireByHandle(self, "RunScriptCode", "KillAll();", 85.00, null, null);
@@ -1010,7 +1010,7 @@ function MapStart()
 		EntFire("stage_0_trigger_detect_zombification_human_protection","Enable","",0.00,null);
 		EntFireByHandle(self, "RunScriptCode", "WarmUpMessage();", 1.00, null, null);
 		EntFire("stage_0_music","PlaySound","",11.00,null);
-		EntFire("Global_GameText_Stage_Start","AddOutput","message -- WARMUP --",2.00,null);
+		EntFire("Global_GameText_Stage_Start","AddOutput","message -- 热身模式 --",2.00,null);
 		EntFire("music_stage_0","PlaySound","",0.00,null);
 		EntFire("Stage_0_Music_Selector","Kill","",30.00,null);
 		EntFire("Global_GameText_Stage_Start","FireUser1","",2.00,null);
@@ -1570,7 +1570,7 @@ function GameTextMisc(n)
 {
 	if(n == 0)
 	{
-		EntFire("Global_GameText_Announcement","SetText","BOSS DEFEATED!\nSURVIVE UNTIL REINFORCEMENTS ARRIVE",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText","BOSS 死了!\n在援军到来之前生存下来",0.00,null);
 	}
 	if(n == 1)
 	{
@@ -1578,15 +1578,15 @@ function GameTextMisc(n)
 	}
 	if(n == 2)
 	{
-		EntFire("Global_GameText_Announcement","SetText","INFECTION DETECTED!\nISOLATING ROOMS",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText","检测到感染!\n房间隔离中",0.00,null);
 	}
 	if(n == 3)
 	{
-		EntFire("Global_GameText_Announcement","SetText","INFECTION ELIMINATED!\nOPENING DOORS!",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText","感染已清除!\n隔离解除!",0.00,null);
 	}
 	if(n == 4)
 	{
-		EntFire("Global_GameText_Announcement","SetText","REINFORCEMENTS HAVE ARRIVED!\nLEAVE THE MAIN DOOR!\nGO GO GO!",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText","增援部队到了!\n快离开正门",0.00,null);
 	}
 	if(n == 5)
 	{
@@ -1594,7 +1594,7 @@ function GameTextMisc(n)
 	}
 	if(n == 6)
 	{
-		EntFire("Global_GameText_Announcement","SetText","GATE OPENS AUTOMATICALLY\nAFTER 35 SECONDS",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText","马路大门将在35秒后自动开启",0.00,null);
 	}
 	if(n == 7)
 	{
@@ -1606,7 +1606,7 @@ function GameTextMisc(n)
 	}
 	if(n == 9)
 	{
-		EntFire("Global_GameText_Announcement","SetText","THE DESTINY OF THE WORLD IN YOUR HANDS\n**\nWHAT WILL YOU CHOOSE?\n(20s to choose)",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText","世界的命运掌握在你手中\n**\n你会选择什么?\n(你只有20秒选择时间)",0.00,null);
 	}
 	if(n == 10)
 	{
@@ -1614,7 +1614,7 @@ function GameTextMisc(n)
 	}
 	if(n == 11)
 	{
-		EntFire("Global_GameText_Announcement","SetText","CORE IS ACTIVATED!\nACTIVATING TELEPORTER IN 5 SECONDS!\nESCAPE!\nGO GO GO!",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText","核心启动完毕!\n传送将在5秒后激活!\n准备撤退",0.00,null);
 	}
 	if(n == 12)
 	{
@@ -1630,15 +1630,15 @@ function GameTextMisc(n)
 	}
 	if(n == 16)
 	{
-		EntFire("Global_GameText_Announcement","SetText","WE MADE IT!\nGET READY!\nWE ARE GOIN TO THE MIDDLE BASE!",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText","我们成功了!\n准备就绪!\nWE ARE GOIN TO THE MIDDLE BASE!",0.00,null);
 	}
 	if(n == 17)
 	{
-		EntFire("Global_GameText_Announcement","SetText","THIS IS OUR LAST STAND!\nWE ARE GOING TO KILL THIS THING!",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText","这是我们最后的退路了!\n我们必须杀死这只雷兽!",0.00,null);
 	}
 	if(n == 18)
 	{
-		EntFire("Global_GameText_Announcement","SetText","HEY!\nHURRY UP!\nTHIS PLACE IS GONNA BLOW UP!\nTURN ON THE GENERATOR!\nIN LESS THAN 80 SECONDS",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText","快点!\n该区域快要爆炸了!\n赶紧去开启发电机!\n你还有不到80秒的时间",0.00,null);
 	}
 	if(n == 19)
 	{
@@ -1654,7 +1654,7 @@ function GameTextMisc(n)
 	}
 	if(n == 22)
 	{
-		EntFire("Global_GameText_Announcement","SetText","JUST HELPED SOME GUYS ON THE SOUTH!\nLET ME HELP ALL YOU!\nLETS GET OUT OF HERE!",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText","我们之前帮助的那些人来帮助我们了!\n让我们离开这个鬼地方吧!",0.00,null);
 	}
 	if(n == 23)
 	{
@@ -1670,15 +1670,15 @@ function GameTextMisc(n)
 	}
 	if(n == 25)
 	{
-		EntFire("Global_GameText_Announcement","SetText","GO GO GO\nPREPARE YOUR LAST DEFENSE!",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText","准备最后的防御!",0.00,null);
 	}
 	if(n == 26)
 	{
-		EntFire("Global_GameText_Announcement","SetText","CORE AT FULL ENERGY!\nTAKE THE LIFT!",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText","核心能量已充能完毕!\n快去乘坐中间的电梯!",0.00,null);
 	}
 	if(n == 27)
 	{
-		EntFire("Global_GameText_Announcement","SetText","HE IS STUNNED!\nGO GO ESCAPE FROM THE LAB!",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText","救援到了!\n快逃离这该死的实验室!",0.00,null);
 	}
 }
 
@@ -1769,7 +1769,7 @@ function PressButtonStage3()
 {
 	if(activator.GetTeam() == 3)
 	{
-        EntFire("Global_GameText_Announcement","AddOutput","message ** VERTICAL TUBES ACTIVATING IN 20 SECONDS **",0.00,null);
+        EntFire("Global_GameText_Announcement","AddOutput","message ** 垂直管道将在20秒后激活 **",0.00,null);
 		EntFire("Global_GameText_Announcement","FireUser4","",0.00,null);
 		EntFire("stage_3_timer_tubes","Disable","",0.00,null);
 		EntFire("stage_3_tube_elevators_case","PickRandom","",0.00,null);
@@ -1780,7 +1780,7 @@ function PressButtonStage3()
 	}
 	else if(activator.GetTeam() == 2)
 	{
-        EntFire("Global_GameText_Announcement","AddOutput","message ** VERTICAL TUBES ACTIVATING IN 35 SECONDS **",0.00,null);
+        EntFire("Global_GameText_Announcement","AddOutput","message ** 垂直管道将在35秒后激活 **",0.00,null);
 		EntFire("Global_GameText_Announcement","FireUser4","",0.00,null);
 		EntFire("stage_3_timer_tubes","Disable","",0.00,null);
 		EntFire("stage_3_tube_elevators_case","PickRandom","",0.00,null);
@@ -1860,7 +1860,7 @@ function Stage5BlueEnding()
 {
 	if(activator.GetTeam() == 3)
 	{
-        EntFire("Global_GameText_Announcement","AddOutput","message ** HUMAN IS TRYING TO SAVE THE WORLD **",0.00,null);
+        EntFire("Global_GameText_Announcement","AddOutput","message ** 人类选择努力拯救世界 **",0.00,null);
 		EntFire("stage_5_extreme_relay","Trigger","",3.00,null);
 		EntFire("stage_5_core_column_end_button_*","Kill","",0.00,null);
 		EntFire("stage_5_end_button_blue","FireUser1","",0.00,null);
@@ -1886,7 +1886,7 @@ function Stage5RedEnding()
 		EntFire("stage_5_end_button_blue","Kill","",0.00,null);
 		EntFire("stage_5_end_button_red","Lock","",0.00,null);
 		EntFire("stage_5_core_column_end_button_*","Kill","",0.00,null);
-		EntFire("Global_GameText_Announcement","AddOutput","message ** OVERLOADING MAIN ENGINE **",0.00,null);
+		EntFire("Global_GameText_Announcement","AddOutput","message ** 核心过载即将爆炸 **",0.00,null);
 		EntFire("map_brush","RunScriptCode","CheckPlayer();",37.00,null);
 		EntFire("Global_Big_Shake","FireUser2","",0.00,null);
 		EntFire("stage_5_last_man_trigger_core_end_bad","Enable","",28.00,null);
@@ -1996,7 +1996,7 @@ function StartTextHud()
         {
             if(au == 1)
             {
-				EntFire("td_text", "SetText", TimerText+""+min1+" min", 0.00, null);
+				EntFire("td_text", "SetText", TimerText+"还剩"+min1+" 分钟", 0.00, null);
 		        EntFire("td_text", "Display", "", 0.05, null);
                 // Time--;
             }
