@@ -955,6 +955,10 @@ function MapStart()
 	CounTextWarmUp = -1;
 	if(TEMP_EVENTS_ARRAY.len() > 0){TEMP_EVENTS_ARRAY.clear();}
 	if(PlayersArr.len() > 0){PlayersArr.clear();}
+	//stage0 热身关尸变比64
+	//stage1-4  尸变比7
+	//stage5、10 尸变比2
+	//stage6-9 尸变比4
 	if(STAGE >= 6 && STAGE < 11)
 	{
 		EXTREME = true;
@@ -1596,13 +1600,14 @@ function GameTextMisc(n)
 	{
 		EntFire("Global_GameText_Announcement","SetText","马路大门将在35秒后自动开启",0.00,null);
 	}
+	//don't use
 	if(n == 7)
 	{
 		EntFire("Global_GameText_Announcement","SetText","THERE IS NO TIME FOR THOSE HEROS!\nTAKE THE LIFT NOW!",0.00,null);
 	}
 	if(n == 8)
 	{
-		EntFire("Global_GameText_Announcement","SetText","CONNECT THE THREE CORE GENERATORS!\nHURRY UP!",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText","快使用能量柱连接三个核心发电机!",0.00,null);
 	}
 	if(n == 9)
 	{
@@ -1610,7 +1615,7 @@ function GameTextMisc(n)
 	}
 	if(n == 10)
 	{
-		EntFire("Global_GameText_Announcement","SetText","DOOR MALFUNCTION\n**\nDOOR OPENING IN 10 SECONDS",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText","大门故障修理中\n**\n预计需要10秒修理时间",0.00,null);
 	}
 	if(n == 11)
 	{
@@ -1618,15 +1623,15 @@ function GameTextMisc(n)
 	}
 	if(n == 12)
 	{
-		EntFire("Global_GameText_Announcement","SetText","DOOR MALFUNCTIONING\n**\nOPENING IN 15 SECONDS",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText","大门故障修理中\n**\n预计需要15秒修理时间",0.00,null);
 	}
 	if(n == 14)
 	{
-		EntFire("Global_GameText_Announcement","SetText","ZOMBIE PRESENCE DETECTED\n**\nDOOR MUST BE CLOSED TO START TEST",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText","检测到僵尸D\n**\n必须关闭大门才可以开始测试",0.00,null);
 	}
 	if(n == 15)
 	{
-		EntFire("Global_GameText_Announcement","SetText","ZOMBIE PRESENCE DETECTED\n**\nDOOR MUST BE CLOSED TO START TEST",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText","检测到僵尸\n**\n必须关闭大门才可以开始测试",0.00,null);
 	}
 	if(n == 16)
 	{
@@ -1642,7 +1647,7 @@ function GameTextMisc(n)
 	}
 	if(n == 19)
 	{
-		EntFire("Global_GameText_Announcement","SetText","GENERATOR IS AT FULL POWER!\nSTARTING SEQUENCE OF CURE IN 15S",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText","核心充能完毕!\n将在15秒后开始启动",0.00,null);
 	}
 	if(n == 20)
 	{
@@ -1658,19 +1663,19 @@ function GameTextMisc(n)
 	}
 	if(n == 23)
 	{
-		EntFire("Global_GameText_Announcement","SetText","PLEASE!\nTAKE OUT THIS TRAIN!\nWE NEED TO LEAVE!",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText","赶紧把火车开出去!\n飞机要起飞了!",0.00,null);
 	}
 	if(n == 24)
 	{
-		EntFire("Global_GameText_Announcement","SetText","YOU COMPLETED 30 EVENTS IN MODE EXTREME!\nYOU WON!",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText","你在极限模式下完成了30个事件!\nYOU WON!",0.00,null);
 	}
 	if(n == 24)
 	{
-		EntFire("Global_GameText_Announcement","SetText","GO GO GO!\nLETS LEAVE THIS PLACE!\nNO NEED TO PROTECT THE CORE ANYMORE!",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText","GO GO GO!\n让我们离开这个地方!\n不需要再保护核心了!",0.00,null);
 	}
 	if(n == 25)
 	{
-		EntFire("Global_GameText_Announcement","SetText","准备最后的防御!",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText","准备进行最后的防御!",0.00,null);
 	}
 	if(n == 26)
 	{
@@ -1678,7 +1683,7 @@ function GameTextMisc(n)
 	}
 	if(n == 27)
 	{
-		EntFire("Global_GameText_Announcement","SetText","救援到了!\n快逃离这该死的实验室!",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText","救援到了!\n赶紧逃离这该死的实验室!",0.00,null);
 	}
 }
 
@@ -1996,7 +2001,7 @@ function StartTextHud()
         {
             if(au == 1)
             {
-				EntFire("td_text", "SetText", TimerText+"还剩"+min1+" 分钟", 0.00, null);
+				EntFire("td_text", "SetText", TimerText+"还剩"+min1+"分钟", 0.00, null);
 		        EntFire("td_text", "Display", "", 0.05, null);
                 // Time--;
             }
