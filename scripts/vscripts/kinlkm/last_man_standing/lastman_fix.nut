@@ -872,14 +872,14 @@ WARMUP_TEXT <- [
 	"你的任何行动将会改变下一轮",//INDEX 2
 	"开启四个发电机!\n激活任何一个僵尸将会大规模传送!",//INDEX 3
 	"想想你的行为!\n加油!\n在某些关卡需要一定技巧或者牺牲!",//INDEX 4
-	"没有看不见的墙!\n你可以去你想去的地方!",//INDEX 5
+	"没有看不见的墙!\n你可以去你任何想去的地方!",//INDEX 5
 	"想怎么玩就怎么玩\n但别忘了倒计时\n核弹不会等你的!",//INDEX 6
 	"想要解锁极限模式\n但首先需要完成正常模式!",//INDEX 7
 	"僵尸提示:\n地形和环境将是你的盟友.\n总是不止有一条路!",//INDEX 8
 	"人类:\n前面四个关卡中的每一个关卡都有一台发电机.\n您的目标就是开启发电机!",//INDEX 9
 	"僵尸神器:\n某些僵尸神器功能非常强大\n但是需要正确使用技巧!",//INDEX 10
 	"在大多数情况下爆炸都是可以对双方造成伤害!\n小心!",//INDEX 11
-	"一枚全球核弹将在9分钟后消灭所有人类",//INDEX 12
+	"一枚全球核弹将在9分钟后消灭所有生物",//INDEX 12
 	"甚至一个人都可以改变世界!\n未来并不是一成不变的!",//INDEX 13
 	"装满尸体的垃圾桶将会是\n僵尸的重生点!"//INDEX 14
 ]
@@ -988,10 +988,10 @@ function MapStart()
 	}
     if(STAGE == 0)
 	{
-        EntFire("Global_GameText_Announcement","AddOutput","message 给房间里的所有警卫\n在系统测试期间保卫该区域",25.00,null);
-		EntFire("Global_GameText_Announcement","AddOutput","message 警告!\n测试单元不稳定\n**\n为了你的安全请尽快离开房间",35.00,null);
-		EntFire("Global_GameText_Announcement","AddOutput","message 红色警报!\n安全漏洞!\n隔离房间!",45.00,null);
-		EntFire("Global_GameText_Announcement","AddOutput","message 黑色代码!\n使用致命毒气!",81.00,null);
+        EntFire("Global_GameText_Announcement","AddOutput","message 在实验过程中,警卫保卫该区域 ",25.00,null);
+		EntFire("Global_GameText_Announcement","AddOutput","message 警告!!核心不稳定,请马上离开实验房间 ",35.00,null);
+		EntFire("Global_GameText_Announcement","AddOutput","message 红色警报,开始隔离实验房间 ",45.00,null);
+		EntFire("Global_GameText_Announcement","AddOutput","message 黑色警报,神经毒气开始释放 ",81.00,null);
 		EntFireByHandle(self, "RunScriptCode", "KillAll();", 85.00, null, null);
 		EntFire("stage_0_zombie_boss","Kill","",25.00,null);
 		EntFire("stage_0_trigger_detect_zombification","Enable","",25.00,null);
@@ -1014,7 +1014,7 @@ function MapStart()
 		EntFire("stage_0_trigger_detect_zombification_human_protection","Enable","",0.00,null);
 		EntFireByHandle(self, "RunScriptCode", "WarmUpMessage();", 1.00, null, null);
 		EntFire("stage_0_music","PlaySound","",11.00,null);
-		EntFire("Global_GameText_Stage_Start","AddOutput","message -- 热身模式 --",2.00,null);
+		EntFire("Global_GameText_Stage_Start","AddOutput","message -- 热身回合 --",2.00,null);
 		EntFire("music_stage_0","PlaySound","",0.00,null);
 		EntFire("Stage_0_Music_Selector","Kill","",30.00,null);
 		EntFire("Global_GameText_Stage_Start","FireUser1","",2.00,null);
@@ -1032,7 +1032,7 @@ function MapStart()
 	{
 		EntFire("console","Command","sm_cvar zr_infect_mzombie_ratio 7",1.00,null);
 		EntFire("Global_GameText_Stage_Start","FireUser1","",2.00,null);
-		EntFire("Global_GameText_Stage_Start","AddOutput","message -- STAGE 1 :  DEAD PASS --",2.00,null);
+		EntFire("Global_GameText_Stage_Start","AddOutput","message -- STAGE 1 :  致命旅途 --",2.00,null);
 		EntFire("Spawn_Tank_Teleport","Teleport","",1.00,null);
 		EntFire("stages_1_skybox_mountains","Enable","",0.50,null);
 		EntFire("Mode_Extreme_Counter","Enable","",0.00,null);
@@ -1050,7 +1050,7 @@ function MapStart()
 	else if(STAGE == 2)
 	{
 		EntFire("console","Command","sm_cvar zr_infect_mzombie_ratio 7",1.00,null);
-		EntFire("Global_GameText_Stage_Start","AddOutput","message -- STAGE 2 : FORGOTTEN FACTORY --",2.00,null);
+		EntFire("Global_GameText_Stage_Start","AddOutput","message -- STAGE 2 : 被遗忘的工厂 --",2.00,null);
 		EntFire("Stage_Start_Stage_2_Spawn","Trigger","",0.00,null);
 		EntFire("Weapon_Mutator_Template","FireUser1","",2.00,null);
 		EntFire("Weapon_Thundergun_Template","FireUser1","",2.00,null);
@@ -1070,7 +1070,7 @@ function MapStart()
 	else if(STAGE == 3)
 	{
 		EntFire("console","Command","sm_cvar zr_infect_mzombie_ratio 7",1.00,null);
-		EntFire("Global_GameText_Stage_Start","AddOutput","message -- STAGE 3 : SLAUGHTER LAB --",2.00,null);
+		EntFire("Global_GameText_Stage_Start","AddOutput","message -- STAGE 3 : 死亡实验室 --",2.00,null);
 		EntFire("stage_x_boss_pipe","FireUser1","",0.00,null);
 		EntFire("Spawn_Explosive_Barrel_Spawner","FireUser1","",0.00,null);
 		EntFire("stage_x_boss_candidate","Enable","",0.00,null);
@@ -1089,7 +1089,7 @@ function MapStart()
 	else if(STAGE == 4)
 	{
 		EntFire("console","Command","sm_cvar zr_infect_mzombie_ratio 7",1.00,null);
-		EntFire("Global_GameText_Stage_Start","AddOutput","message -- STAGE 4 : THE LAST STAND --",2.00,null);
+		EntFire("Global_GameText_Stage_Start","AddOutput","message -- STAGE 4 : 最后的防线 --",2.00,null);
 		EntFire("Global_Sound_War_Loop","PlaySound","",2.00,null);
 		EntFire("Global_Sound_Siren","PlaySound","",3.00,null);
 		EntFire("Global_GameText_Stage_Start","FireUser1","",2.00,null);
@@ -1123,7 +1123,7 @@ function MapStart()
 	{
 		EntFire("console","Command","sm_cvar zr_infect_mzombie_ratio 7",1.00,null);
 		EntFire("Global_GameText_Stage_Start","FireUser1","",2.00,null);
-		EntFire("Global_GameText_Stage_Start","AddOutput","message -- STAGE 1 :  DEAD PASS --",2.00,null);
+		EntFire("Global_GameText_Stage_Start","AddOutput","message -- STAGE 1 :  死亡轮回 --",2.00,null);
 		EntFire("Spawn_Tank_Teleport","Teleport","",1.00,null);
 		EntFire("stages_1_skybox_mountains","Enable","",3.50,null);
 		EntFire("Mode_Extreme_Counter","Enable","",0.00,null);
@@ -1163,7 +1163,7 @@ function MapStart()
 	else if(STAGE == 7)
 	{
 		EntFire("console","Command","sm_cvar zr_infect_mzombie_ratio 7",1.00,null);
-		EntFire("Global_GameText_Stage_Start","AddOutput","message -- STAGE 2 : FORGOTTEN FACTORY --",2.00,null);
+		EntFire("Global_GameText_Stage_Start","AddOutput","message -- STAGE 2 : 重返神秘工厂 --",2.00,null);
 		EntFire("Stage_Start_Stage_2_Spawn","Trigger","",0.00,null);
 		EntFire("Weapon_Mutator_Template","FireUser1","",2.00,null);
 		EntFire("Weapon_Thundergun_Template","FireUser1","",2.00,null);
@@ -1199,7 +1199,7 @@ function MapStart()
 	else if(STAGE == 8)
 	{
 		EntFire("console","Command","sm_cvar zr_infect_mzombie_ratio 7",1.00,null);
-		EntFire("Global_GameText_Stage_Start","AddOutput","message -- STAGE 3 : SLAUGHTER LAB --",2.00,null);
+		EntFire("Global_GameText_Stage_Start","AddOutput","message -- STAGE 3 : 死亡实验室 --",2.00,null);
 		EntFire("stage_x_boss_pipe","FireUser1","",0.00,null);
 		EntFire("Spawn_Explosive_Barrel_Spawner","FireUser1","",0.00,null);
 		EntFire("stage_x_boss_candidate","Enable","",0.00,null);
@@ -1236,7 +1236,7 @@ function MapStart()
 	else if(STAGE == 9)
 	{
 		EntFire("console","Command","sm_cvar zr_infect_mzombie_ratio 7",1.00,null);
-		EntFire("Global_GameText_Stage_Start","AddOutput","message -- STAGE 4 : THE LAST STAND --",2.00,null);
+		EntFire("Global_GameText_Stage_Start","AddOutput","message -- STAGE 4 : 背水一战 --",2.00,null);
 		EntFire("Global_Sound_War_Loop","PlaySound","",2.00,null);
 		EntFire("Global_Sound_Siren","PlaySound","",3.00,null);
 		EntFire("Global_GameText_Stage_Start","FireUser1","",2.00,null);
@@ -1330,24 +1330,22 @@ function MessageStage5Hud(mes)
 {
 	if(mes == 1)
 	{
-        //HUMANS: PROTECT THE CORE TO SURVIVE\nZOMBIES: TOUCH THE CORE TO WIN AND EARN POINTS
-        ScriptPrintMessageCenterAll("人类：保护核心阻止僵尸触碰核心并生存下去\n僵尸：触摸核心来损坏核心获取胜利");
+        ScriptPrintMessageCenterAll(" 人类: 保护核心直到充能完毕 僵尸: 冲入核心并破坏它 ");
 	}
 	if(mes == 2)
 	{
-        ScriptPrintMessageCenterAll("快乘坐房间正中间的电梯");
+        ScriptPrintMessageCenterAll(" 快上电梯 ");
 	}
 	if(mes == 3)
 	{
-        //ESCAPE WITH THE HELICOPTER
-        ScriptPrintMessageCenterAll("乘坐直升机撤离");
+        ScriptPrintMessageCenterAll(" 快坐直升机逃离 ");
 	}
 	if(mes == 4)
 	{
-        //HOLD THE ZOMBIES COMING FROM THE\nCORRIDOR WITH THE GREEN LIGHT\nWAIT UNTIL THE 4 BRIDGES\nARE CONNECTED
-        ScriptPrintMessageCenterAll("消灭从地下室来的僵尸\n在绿色走廊\n并等待桥完全连接");
+        ScriptPrintMessageCenterAll(" 基地内的剩余人类请马上前往北门防守进犯的僵尸直到4座桥连接中央核心 ");
 	}
 }
+
 
 
 function CheckEventsCompleted()
@@ -1539,14 +1537,14 @@ function StopMusic()
 	{
 		Music = false;
 		mp++;
-		EntFire("Global_GameText_Announcement","SetText","** 下一轮地图音乐已禁用 **",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText","** 下回合地图音乐已禁用 **",0.00,null);
 	}
 	else if(!Music)
 	{
 		Music = true;
 		MaxVolume = 10;
 		mp++;
-		EntFire("Global_GameText_Announcement","SetText","** 下一轮地图音乐已启用 **",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText","** 下回合地图音乐已启用 **",0.00,null);
 	}
 	else if(Music && mp == 2)
 	{
@@ -1574,116 +1572,115 @@ function GameTextMisc(n)
 {
 	if(n == 0)
 	{
-		EntFire("Global_GameText_Announcement","SetText","BOSS 死了!\n在援军到来之前生存下来",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText"," 艾利克斯死了\n在援军到来之前生存下来 ",0.00,null);
 	}
 	if(n == 1)
 	{
-		EntFire("Global_GameText_Announcement","SetText","ZOMBIES BROKE THE NUKE PAD!\nIS NOT GONNA WORK!",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText"," 僵尸破坏了核弹保护罩\n即将失效! ",0.00,null);
 	}
 	if(n == 2)
 	{
-		EntFire("Global_GameText_Announcement","SetText","检测到感染!\n房间隔离中",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText"," 检测到基地内泄露了丧尸病毒\n开始隔离清除中 ",0.00,null);
 	}
 	if(n == 3)
 	{
-		EntFire("Global_GameText_Announcement","SetText","感染已清除!\n隔离解除!",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText"," 感染源已清除!\n隔离解除! ",0.00,null);
 	}
 	if(n == 4)
 	{
-		EntFire("Global_GameText_Announcement","SetText","增援部队到了!\n快离开正门",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText"," 增援部队到了!\n快远离正门 ",0.00,null);
 	}
 	if(n == 5)
 	{
-		EntFire("Global_GameText_Announcement","SetText","ALRIGHT!\nWE ARE ALL TOGETHER NOW!\nLETS GO TO THE UPPER PLACE!\nTAKE THE LIFT!",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText"," 所有人类已经集合\n现在乘坐电梯\n去面对人类命运的终焉! ",0.00,null);
 	}
 	if(n == 6)
 	{
-		EntFire("Global_GameText_Announcement","SetText","马路大门将在35秒后自动开启",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText"," 吊机已经成功启动\n闸门将在35秒后自动开启 ",0.00,null);
 	}
-	//don't use
 	if(n == 7)
 	{
-		EntFire("Global_GameText_Announcement","SetText","THERE IS NO TIME FOR THOSE HEROS!\nTAKE THE LIFT NOW!",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText"," 没有时间缅怀那些断后的英雄了\n快上电梯! ",0.00,null);
 	}
 	if(n == 8)
 	{
-		EntFire("Global_GameText_Announcement","SetText","快使用能量柱连接三个核心发电机!",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText"," 快使用能量柱连接三个核心发电机! ",0.00,null);
 	}
 	if(n == 9)
 	{
-		EntFire("Global_GameText_Announcement","SetText","世界的命运掌握在你手中\n**\n你会选择什么?\n(你只有20秒选择时间)",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText"," 世界的命运掌握在你手中\n**\n你会选择什么?\n(你只有20秒的选择时间) ",0.00,null);
 	}
 	if(n == 10)
 	{
-		EntFire("Global_GameText_Announcement","SetText","大门故障修理中\n**\n预计需要10秒修理时间",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText"," 这道门需要解锁\n**\n门将在10秒后打开 ",0.00,null);
 	}
 	if(n == 11)
 	{
-		EntFire("Global_GameText_Announcement","SetText","核心启动完毕!\n传送将在5秒后激活!\n准备撤退",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText"," 核心已被激活\n传送将在5秒后启动\n准备撤退! ",0.00,null);
 	}
 	if(n == 12)
 	{
-		EntFire("Global_GameText_Announcement","SetText","大门故障修理中\n**\n预计需要15秒修理时间",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText"," 这道门需要解锁\n**\n门将在15秒后打开 ",0.00,null);
 	}
 	if(n == 14)
 	{
-		EntFire("Global_GameText_Announcement","SetText","检测到僵尸D\n**\n必须关闭大门才可以开始测试",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText"," 检测到丧尸存在\n**\n门将延迟打开 ",0.00,null);
 	}
 	if(n == 15)
 	{
-		EntFire("Global_GameText_Announcement","SetText","检测到僵尸\n**\n必须关闭大门才可以开始测试",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText"," 感染源消失\n**\n门已经打开 ",0.00,null);
 	}
 	if(n == 16)
 	{
-		EntFire("Global_GameText_Announcement","SetText","我们成功了!\n准备就绪!\nWE ARE GOIN TO THE MIDDLE BASE!",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText"," 我们总算到了\n集合!\n现在赶紧去中央大门! ",0.00,null);
 	}
 	if(n == 17)
 	{
-		EntFire("Global_GameText_Announcement","SetText","这是我们最后的退路了!\n我们必须杀死这只雷兽!",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText"," 现在我们就是这里最后的防线!\n构筑阵地\n拿起你的武器消灭僵尸和雷兽! ",0.00,null);
 	}
 	if(n == 18)
 	{
-		EntFire("Global_GameText_Announcement","SetText","快点!\n该区域快要爆炸了!\n赶紧去开启发电机!\n你还有不到80秒的时间",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText"," 整个区域快要爆炸了\n请务必在80秒内打开发电机 ",0.00,null);
 	}
 	if(n == 19)
 	{
-		EntFire("Global_GameText_Announcement","SetText","核心充能完毕!\n将在15秒后开始启动",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText"," 发电机已经满功率运行\n15秒后充能完毕! ",0.00,null);
 	}
 	if(n == 20)
 	{
-		EntFire("Global_GameText_Announcement","SetText","THIS IS IT!\nYOU MADE IT ALL!\nLETS GET OUT OF THE BASE!\nTAKE THE TRUCK",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText"," 就是这样\n做得很好\n现在赶紧离开这座基地 ",0.00,null);
 	}
 	if(n == 21)
 	{
-		EntFire("Global_GameText_Announcement","SetText","GENERATOR EXPOSED\n**\nMANUAL ACTIVATION REQUIRED",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText"," 核心已经弹出\n**\n需要有人手动启动开关 ",0.00,null);
 	}
 	if(n == 22)
 	{
-		EntFire("Global_GameText_Announcement","SetText","我们之前帮助的那些人来帮助我们了!\n让我们离开这个鬼地方吧!",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText"," 南门有人类的幸存军队\n我们需要更多的支援\n让全世界汇合! ",0.00,null);
 	}
 	if(n == 23)
 	{
-		EntFire("Global_GameText_Announcement","SetText","赶紧把火车开出去!\n飞机要起飞了!",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText"," 冲\n我们搞到了火车!\n现在可以走了 ",0.00,null);
 	}
 	if(n == 24)
 	{
-		EntFire("Global_GameText_Announcement","SetText","你在极限模式下完成了30个事件!\nYOU WON!",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText","你在EX模式完成了30个支线任务\n干得漂亮!",0.00,null);
 	}
 	if(n == 24)
 	{
-		EntFire("Global_GameText_Announcement","SetText","GO GO GO!\n让我们离开这个地方!\n不需要再保护核心了!",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText"," 快撤\n核心已经不需要我们保护了\n净化世界还有2分钟 ",0.00,null);
 	}
 	if(n == 25)
 	{
-		EntFire("Global_GameText_Announcement","SetText","准备进行最后的防御!",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText"," 我们已经退无可退,身后就是核心!\n准备进行最后的防御! ",0.00,null);
 	}
 	if(n == 26)
 	{
-		EntFire("Global_GameText_Announcement","SetText","核心能量已充能完毕!\n快去乘坐中间的电梯!",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText"," 核心充能完毕\n现在启动电梯! ",0.00,null);
 	}
 	if(n == 27)
 	{
-		EntFire("Global_GameText_Announcement","SetText","救援到了!\n赶紧逃离这该死的实验室!",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText"," 艾利克斯暂时处于机能停止状态\n我们赶紧离开这里 ",0.00,null);
 	}
 }
 
@@ -1774,7 +1771,7 @@ function PressButtonStage3()
 {
 	if(activator.GetTeam() == 3)
 	{
-        EntFire("Global_GameText_Announcement","AddOutput","message ** 垂直管道将在20秒后激活 **",0.00,null);
+        EntFire("Global_GameText_Announcement","AddOutput","message ** 垂直升降电梯将在20秒后离开 **",0.00,null);
 		EntFire("Global_GameText_Announcement","FireUser4","",0.00,null);
 		EntFire("stage_3_timer_tubes","Disable","",0.00,null);
 		EntFire("stage_3_tube_elevators_case","PickRandom","",0.00,null);
@@ -1785,7 +1782,7 @@ function PressButtonStage3()
 	}
 	else if(activator.GetTeam() == 2)
 	{
-        EntFire("Global_GameText_Announcement","AddOutput","message ** 垂直管道将在35秒后激活 **",0.00,null);
+        EntFire("Global_GameText_Announcement","AddOutput","message ** 垂直升降电梯将在35秒后离开 **",0.00,null);
 		EntFire("Global_GameText_Announcement","FireUser4","",0.00,null);
 		EntFire("stage_3_timer_tubes","Disable","",0.00,null);
 		EntFire("stage_3_tube_elevators_case","PickRandom","",0.00,null);
@@ -1865,7 +1862,7 @@ function Stage5BlueEnding()
 {
 	if(activator.GetTeam() == 3)
 	{
-        EntFire("Global_GameText_Announcement","AddOutput","message ** 人类选择努力拯救世界 **",0.00,null);
+        EntFire("Global_GameText_Announcement","AddOutput","message ** 核心已经展开就绪\n你就是拯救这个世界最后的希望!!天选之人! **",0.00,null);
 		EntFire("stage_5_extreme_relay","Trigger","",3.00,null);
 		EntFire("stage_5_core_column_end_button_*","Kill","",0.00,null);
 		EntFire("stage_5_end_button_blue","FireUser1","",0.00,null);
@@ -1875,7 +1872,7 @@ function Stage5BlueEnding()
 		EntFire("stage_x_main_lift","Kill","",0.00,null);
 		EntFire("stage_5_teleport_to_core","Enable","",0.00,null);
 		EntFire("Global_GameText_Announcement","FireUser4","",0.00,null);
-		EntFire("stage_5_end_hint","AddOutput","message DESCEND TO THE CORE!",0.00,null);
+		EntFire("stage_5_end_hint","AddOutput","message 人类的命运皆与你手中!",0.00,null);
 		EntFire("stage_5_end_wall_to_core","Kill","",3.00,null);
 		EntFire("item_c","RunScriptCode","DisableZmItem();",3.00,null);
 	}
@@ -1891,13 +1888,13 @@ function Stage5RedEnding()
 		EntFire("stage_5_end_button_blue","Kill","",0.00,null);
 		EntFire("stage_5_end_button_red","Lock","",0.00,null);
 		EntFire("stage_5_core_column_end_button_*","Kill","",0.00,null);
-		EntFire("Global_GameText_Announcement","AddOutput","message ** 核心过载即将爆炸 **",0.00,null);
+		EntFire("Global_GameText_Announcement","AddOutput","message ** 充能完毕 **",0.00,null);
 		EntFire("map_brush","RunScriptCode","CheckPlayer();",37.00,null);
 		EntFire("Global_Big_Shake","FireUser2","",0.00,null);
 		EntFire("stage_5_last_man_trigger_core_end_bad","Enable","",28.00,null);
 		EntFire("stage_x_rotation","Start","",13.00,null);
 		EntFire("stage_5_core_light_2_end_bad","FireUser1","",13.50,null);
-		EntFire("stage_5_end_hint","AddOutput","message HOLD AND SURVIVE!",0.00,null);
+		EntFire("stage_5_end_hint","AddOutput","message 生存下去\n让整个世界一起毁灭吧 ",0.00,null);
 	}
 }
 
@@ -2178,4 +2175,10 @@ function ClearPlayer()
 	{
 		EntFireByHandle(activator,"RunScriptCode","ClearVar();",0.00,activator,activator);
 	}
+}
+
+function FixBridgeHp()
+{
+	EntFire("stage_x_end_bridge_2_physbox","SetHealth","600",10.00,null);
+	EntFire("stage_x_end_bridge_3_physbox","SetHealth","600",10.00,null);
 }
