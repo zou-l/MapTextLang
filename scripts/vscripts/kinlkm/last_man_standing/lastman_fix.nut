@@ -1484,6 +1484,30 @@ function CheckEventsCompleted()
 	if(EVENT_ARRAY[28][1] == "COMPLETED" && STAGE == 5 || EVENT_ARRAY[28][1] == "COMPLETED" && STAGE == 10)
 	{
 		EntFire("Human_Item_Mech_Knife","AddOutput","origin 3952 -1536 9890",2.00,null);
+		EntFire("Human_Item_Mech_Knife","AddOutput","origin 3952 -1536 9890",26.00,null);
+		EntFire("Human_Item_Mech_Knife","AddOutput","origin 3952 -1536 9890",28.00,null);
+		EntFire("Human_Item_Mech_Knife","AddOutput","origin 3952 -1536 9890",30.00,null);
+		EntFire("Human_Item_Mech_Knife","AddOutput","origin 3952 -1536 9890",32.00,null);
+		EntFire("Human_Item_Mech_Knife","AddOutput","origin 3952 -1536 9890",34.00,null);
+		EntFire("Human_Item_Mech_Knife","AddOutput","origin 3952 -1536 9890",36.00,null);
+		EntFire("Human_Item_Mech_Knife","AddOutput","origin 3952 -1536 9890",38.00,null);
+		EntFire("Human_Item_Mech_Knife","AddOutput","origin 3952 -1536 9890",40.00,null);
+		EntFire("Human_Item_Mech_Knife","AddOutput","origin 3952 -1536 9890",42.00,null);
+		EntFire("Human_Item_Mech_Knife","AddOutput","origin 3952 -1536 9890",44.00,null);
+		EntFire("Human_Item_Mech_Knife","AddOutput","origin 3952 -1536 9890",46.00,null);
+		EntFire("Human_Item_Mech_Knife","AddOutput","origin 3952 -1536 9890",48.00,null);
+		EntFire("Human_Item_Mech_Knife","AddOutput","origin 3952 -1536 9890",50.00,null);
+		EntFire("Human_Item_Mech_Knife","AddOutput","origin 3952 -1536 9890",52.00,null);
+		EntFire("Human_Item_Mech_Knife","AddOutput","origin 3952 -1536 9890",54.00,null);
+		EntFire("Human_Item_Mech_Knife","AddOutput","origin 3952 -1536 9890",56.00,null);
+		EntFire("Human_Item_Mech_Knife","AddOutput","origin 3952 -1536 9890",58.00,null);
+		EntFire("Human_Item_Mech_Knife","AddOutput","origin 3952 -1536 9890",60.00,null);
+		EntFire("Human_Item_Mech_Knife","AddOutput","origin 3952 -1536 9890",70.00,null);
+		EntFire("Human_Item_Mech_Knife","AddOutput","origin 3952 -1536 9890",80.00,null);
+		EntFire("Human_Item_Mech_Knife","AddOutput","origin 3952 -1536 9890",90.00,null);
+		EntFire("Human_Item_Mech_Knife","AddOutput","origin 3952 -1536 9890",100.00,null);
+		EntFire("Human_Item_Mech_Knife","AddOutput","origin 3952 -1536 9890",110.00,null);
+		EntFire("Human_Item_Mech_Knife","AddOutput","origin 3952 -1536 9890",120.00,null);
 		EntFire("Human_Item_Mech_Model","SetAnimation","idle",2.00,null);
 		EntFire("Human_Item_Mech_Model","SetDefaultAnimation","idle",2.00,null);
 	}
