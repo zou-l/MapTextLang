@@ -1330,7 +1330,7 @@ function MessageStage5Hud(mes)
 {
 	if(mes == 1)
 	{
-        ScriptPrintMessageCenterAll(" 人类: 保护核心直到充能完毕 僵尸: 冲入核心并破坏它 ");
+        ScriptPrintMessageCenterAll(" 人类: 保护核心直到充能完毕 \n 僵尸: 冲入核心并破坏它 ");
 	}
 	if(mes == 2)
 	{
@@ -1484,8 +1484,6 @@ function CheckEventsCompleted()
 	if(EVENT_ARRAY[28][1] == "COMPLETED" && STAGE == 5 || EVENT_ARRAY[28][1] == "COMPLETED" && STAGE == 10)
 	{
 		EntFire("Human_Item_Mech_Knife","AddOutput","origin 3952 -1536 9890",2.00,null);
-		EntFire("Human_Item_Mech_Knife","AddOutput","origin 3952 -1536 9890",26.00,null);
-		EntFire("Human_Item_Mech_Knife","AddOutput","origin 3952 -1536 9890",28.00,null);
 		EntFire("Human_Item_Mech_Knife","AddOutput","origin 3952 -1536 9890",30.00,null);
 		EntFire("Human_Item_Mech_Knife","AddOutput","origin 3952 -1536 9890",32.00,null);
 		EntFire("Human_Item_Mech_Knife","AddOutput","origin 3952 -1536 9890",34.00,null);
@@ -1502,6 +1500,10 @@ function CheckEventsCompleted()
 		EntFire("Human_Item_Mech_Knife","AddOutput","origin 3952 -1536 9890",56.00,null);
 		EntFire("Human_Item_Mech_Knife","AddOutput","origin 3952 -1536 9890",58.00,null);
 		EntFire("Human_Item_Mech_Knife","AddOutput","origin 3952 -1536 9890",60.00,null);
+		EntFire("Human_Item_Mech_Knife","AddOutput","origin 3952 -1536 9890",62.00,null);
+		EntFire("Human_Item_Mech_Knife","AddOutput","origin 3952 -1536 9890",64.00,null);
+		EntFire("Human_Item_Mech_Knife","AddOutput","origin 3952 -1536 9890",66.00,null);
+		EntFire("Human_Item_Mech_Knife","AddOutput","origin 3952 -1536 9890",68.00,null);
 		EntFire("Human_Item_Mech_Knife","AddOutput","origin 3952 -1536 9890",70.00,null);
 		EntFire("Human_Item_Mech_Knife","AddOutput","origin 3952 -1536 9890",80.00,null);
 		EntFire("Human_Item_Mech_Knife","AddOutput","origin 3952 -1536 9890",90.00,null);
@@ -1596,35 +1598,35 @@ function GameTextMisc(n)
 {
 	if(n == 0)
 	{
-		EntFire("Global_GameText_Announcement","SetText"," 艾利克斯死了\n在援军到来之前生存下来 ",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText"," 艾利克斯死了\n 在援军到来之前生存下来 ",0.00,null);
 	}
 	if(n == 1)
 	{
-		EntFire("Global_GameText_Announcement","SetText"," 僵尸破坏了核弹保护罩\n即将失效! ",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText"," 僵尸破坏了核弹保护罩\n 即将失效! ",0.00,null);
 	}
 	if(n == 2)
 	{
-		EntFire("Global_GameText_Announcement","SetText"," 检测到基地内泄露了丧尸病毒\n开始隔离清除中 ",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText"," 检测到基地内泄露了丧尸病毒\n 开始隔离清除中 ",0.00,null);
 	}
 	if(n == 3)
 	{
-		EntFire("Global_GameText_Announcement","SetText"," 感染源已清除!\n隔离解除! ",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText"," 感染源已清除!\n 隔离解除! ",0.00,null);
 	}
 	if(n == 4)
 	{
-		EntFire("Global_GameText_Announcement","SetText"," 增援部队到了!\n快远离正门 ",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText"," 增援部队到了!\n 快远离正门 ",0.00,null);
 	}
 	if(n == 5)
 	{
-		EntFire("Global_GameText_Announcement","SetText"," 所有人类已经集合\n现在乘坐电梯\n去面对人类命运的终焉! ",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText"," 所有人类已经集合\n 现在乘坐电梯\n 去面对人类命运的终焉! ",0.00,null);
 	}
 	if(n == 6)
 	{
-		EntFire("Global_GameText_Announcement","SetText"," 吊机已经成功启动\n闸门将在35秒后自动开启 ",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText"," 吊机已经成功启动\n 闸门将在35秒后自动开启 ",0.00,null);
 	}
 	if(n == 7)
 	{
-		EntFire("Global_GameText_Announcement","SetText"," 没有时间缅怀那些断后的英雄了\n快上电梯! ",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText"," 没有时间缅怀那些断后的英雄了\n 快上电梯! ",0.00,null);
 	}
 	if(n == 8)
 	{
@@ -1632,79 +1634,79 @@ function GameTextMisc(n)
 	}
 	if(n == 9)
 	{
-		EntFire("Global_GameText_Announcement","SetText"," 世界的命运掌握在你手中\n**\n你会选择什么?\n(你只有20秒的选择时间) ",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText"," 世界的命运掌握在你手中\n **\n 你会选择什么?\n (你只有20秒的选择时间) ",0.00,null);
 	}
 	if(n == 10)
 	{
-		EntFire("Global_GameText_Announcement","SetText"," 这道门需要解锁\n**\n门将在10秒后打开 ",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText"," 这道门需要解锁\n **\n 门将在10秒后打开 ",0.00,null);
 	}
 	if(n == 11)
 	{
-		EntFire("Global_GameText_Announcement","SetText"," 核心已被激活\n传送将在5秒后启动\n准备撤退! ",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText"," 核心已被激活\n 传送将在5秒后启动\n 准备撤退! ",0.00,null);
 	}
 	if(n == 12)
 	{
-		EntFire("Global_GameText_Announcement","SetText"," 这道门需要解锁\n**\n门将在15秒后打开 ",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText"," 这道门需要解锁\n **\n 门将在15秒后打开 ",0.00,null);
 	}
 	if(n == 14)
 	{
-		EntFire("Global_GameText_Announcement","SetText"," 检测到丧尸存在\n**\n门将延迟打开 ",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText"," 检测到丧尸存在\n **\n 门将延迟打开 ",0.00,null);
 	}
 	if(n == 15)
 	{
-		EntFire("Global_GameText_Announcement","SetText"," 感染源消失\n**\n门已经打开 ",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText"," 感染源消失\n **\n 门已经打开 ",0.00,null);
 	}
 	if(n == 16)
 	{
-		EntFire("Global_GameText_Announcement","SetText"," 我们总算到了\n集合!\n现在赶紧去中央大门! ",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText"," 我们总算到了\n 集合!\n 现在赶紧去中央大门! ",0.00,null);
 	}
 	if(n == 17)
 	{
-		EntFire("Global_GameText_Announcement","SetText"," 现在我们就是这里最后的防线!\n构筑阵地\n拿起你的武器消灭僵尸和雷兽! ",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText"," 现在我们就是这里最后的防线!\n 构筑阵地\n 拿起你的武器消灭僵尸和雷兽! ",0.00,null);
 	}
 	if(n == 18)
 	{
-		EntFire("Global_GameText_Announcement","SetText"," 整个区域快要爆炸了\n请务必在80秒内打开发电机 ",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText"," 整个区域快要爆炸了\n 请务必在80秒内打开发电机 ",0.00,null);
 	}
 	if(n == 19)
 	{
-		EntFire("Global_GameText_Announcement","SetText"," 发电机已经满功率运行\n15秒后充能完毕! ",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText"," 发电机已经满功率运行\n 15秒后充能完毕! ",0.00,null);
 	}
 	if(n == 20)
 	{
-		EntFire("Global_GameText_Announcement","SetText"," 就是这样\n做得很好\n现在赶紧离开这座基地 ",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText"," 就是这样\n做得很好\n 现在赶紧离开这座基地 ",0.00,null);
 	}
 	if(n == 21)
 	{
-		EntFire("Global_GameText_Announcement","SetText"," 核心已经弹出\n**\n需要有人手动启动开关 ",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText"," 核心已经弹出\n **\n 需要有人手动启动开关 ",0.00,null);
 	}
 	if(n == 22)
 	{
-		EntFire("Global_GameText_Announcement","SetText"," 南门有人类的幸存军队\n我们需要更多的支援\n让全世界汇合! ",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText"," 南门有人类的幸存军队\n 我们需要更多的支援\n 让全世界汇合! ",0.00,null);
 	}
 	if(n == 23)
 	{
-		EntFire("Global_GameText_Announcement","SetText"," 冲\n我们搞到了火车!\n现在可以走了 ",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText"," 冲\n我们搞到了火车!\n 现在可以走了 ",0.00,null);
 	}
 	if(n == 24)
 	{
-		EntFire("Global_GameText_Announcement","SetText","你在EX模式完成了30个支线任务\n干得漂亮!",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText","你在EX模式完成了30个支线任务\n 干得漂亮!",0.00,null);
 	}
 	if(n == 24)
 	{
-		EntFire("Global_GameText_Announcement","SetText"," 快撤\n核心已经不需要我们保护了\n净化世界还有2分钟 ",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText"," 快撤\n核心已经不需要我们保护了\n 净化世界还有2分钟 ",0.00,null);
 	}
 	if(n == 25)
 	{
-		EntFire("Global_GameText_Announcement","SetText"," 我们已经退无可退,身后就是核心!\n准备进行最后的防御! ",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText"," 我们已经退无可退,身后就是核心!\n 准备进行最后的防御! ",0.00,null);
 	}
 	if(n == 26)
 	{
-		EntFire("Global_GameText_Announcement","SetText"," 核心充能完毕\n现在启动电梯! ",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText"," 核心充能完毕\n 现在启动电梯! ",0.00,null);
 	}
 	if(n == 27)
 	{
-		EntFire("Global_GameText_Announcement","SetText"," 艾利克斯暂时处于机能停止状态\n我们赶紧离开这里 ",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText"," 艾利克斯暂时处于机能停止状态\n 我们赶紧离开这里 ",0.00,null);
 	}
 }
 
@@ -1886,7 +1888,7 @@ function Stage5BlueEnding()
 {
 	if(activator.GetTeam() == 3)
 	{
-        EntFire("Global_GameText_Announcement","AddOutput","message ** 核心已经展开就绪\n你就是拯救这个世界最后的希望!!天选之人! **",0.00,null);
+        EntFire("Global_GameText_Announcement","AddOutput","message ** 核心已经展开就绪\n 你就是拯救这个世界最后的希望!! **",0.00,null);
 		EntFire("stage_5_extreme_relay","Trigger","",3.00,null);
 		EntFire("stage_5_core_column_end_button_*","Kill","",0.00,null);
 		EntFire("stage_5_end_button_blue","FireUser1","",0.00,null);
