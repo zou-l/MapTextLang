@@ -52,7 +52,7 @@
 	}
 	"***BUTTON PRESSED***"
 	{
-		"chi"		"**全部按钮已按下 **"
+		"chi"		"**按钮已按下 **"
 	}
 	"***INITIATE THE TOASTER***"
 	{
