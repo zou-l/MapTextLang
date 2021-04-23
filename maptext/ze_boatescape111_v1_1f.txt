@@ -1,6 +1,6 @@
 "Console_T"
 {
-	"** CURRENT MODE : ALL ITEM BATTLE MODE **"
+	"** CURRENT MODE : ALL ITEMS BATTLE MODE **"
 	{
 		"chi"		"** 当前模式：解锁所有物品 **"
 	}
