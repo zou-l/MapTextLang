@@ -20,8 +20,8 @@ function EPick(){
 		ent=Entities.CreateByClassname("player_speedmod");
 	}
 	EntFireByHandle(ent, "ModifySpeed", "0.75", 0, activator, caller);
-	EntFireByHandle(ent, "ModifySpeed", "1", 3, activator, caller);
-	EntFireByHandle(activator, "IgniteLifetime", "3", 0, activator, caller);
+	EntFireByHandle(ent, "ModifySpeed", "1", 5, activator, caller);
+	EntFireByHandle(activator, "IgniteLifetime", "10", 0, activator, caller);
 	ScriptPrintMessageChatAll(" \x02按e仔被点燃了，笑他\x01");
 }
 
