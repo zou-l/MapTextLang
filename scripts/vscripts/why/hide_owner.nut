@@ -109,6 +109,7 @@ function CreateGlow(activator,object,index){
 	glow.__KeyValueFromString("targetname", name);
 	par <- Entities.CreateByClassname("info_particle_system");
 	EntFireByHandle(par, "SetParent", name, 0, null, null);
+	EntFireByHandle(glow, "Alpha", "50", 0, activator, object);
 	EntFireByHandle(glow, "SetParent", "!activator", 0, activator, object);
 	//EntFireByHandle(glow, "SetParentAttachment", "pistol", 0.01, null, null);
 	//EntFireByHandle(glow, "SetParentAttachment", "Knife", 0.01, null, null);
