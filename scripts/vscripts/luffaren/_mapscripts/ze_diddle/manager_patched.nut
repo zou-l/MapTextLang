@@ -3297,3 +3297,65 @@ function FetusFaceBoobie()
 	EntFire("stripstrop_fetusface_particle","Stop","",time,null);
 	EntFireByHandle(self,"RunScriptCode"," FetusFaceBoobie(); ",time + RandomFloat(1.00,500.00),null,null);
 }
+
+antishopoverdefend_pos <- Vector(7780,320,236);        //pos to check for nearby CT's
+antishopoverdefend_dist <- 1500;                    //radius to check, relative from 'pos'
+antishopoverdefend_rate <- 7.00;                    //how often to check/spawn yellow lasers
+antishopoverdefend_startdelay <- 50.00;                //time until check starts (from 'shopgate' breaking)
+function AntiShopOverdefend()
+{
+
+        EntFireByHandle(self,"RunScriptCode"," AntiShopOverdefend(); ",antishopoverdefend_rate,null,null);
+        local hlist = [];
+        local h=null;while(null!=(h=Entities.FindByClassnameWithin(h,"player",antishopoverdefend_pos,antishopoverdefend_dist)))
+    {
+            if(h==null||!h.IsValid()||h.GetClassname()!="player"||h.GetTeam()!=3||h.GetHealth()<=0)continue;
+                hlist.push(h);
+    }
+            if(hlist.len()>0)
+    {
+        local hplayer = hlist[RandomInt(0,hlist.len()-1)];
+        if(hplayer==null||!hplayer.IsValid())
+            return;
+        local ylaser = Entities.FindByName(null,"blobblaser_tem1");
+        if(ylaser==null)return;
+            ylaser.SetOrigin(hplayer.GetOrigin()+Vector(0,0,48));
+            EntFireByHandle(ylaser,"ForceSpawn","",0.05,null,null);
+    }
+}
+
+pv<-null;function Respv(){EntFireByHandle(self,"RunScriptCode"," Respv(); ",3.00,null,null);local m=Entities.FindByName(null,"manager");
+if(m==null)return;m.GetScriptScope().pivv=true;m.GetScriptScope().piv=pv;if(pv!=null)EntFireByHandle(pv,"AddOutput","targetname doodler",0.00,null,null);}
+tickshopname <- false;
+tickshophandle <- null;
+function TickShopNameCall()
+{
+    if(!tickshopname)
+        return;
+    EntFireByHandle(self,"RunScriptCode"," TickShopNameCall(); ",0.05,null,null);
+    if(tickshophandle!=null&&tickshophandle.IsValid()&&tickshophandle.GetOrigin().x < 7432)
+        tickshophandle = null;
+    local ep = Entities.FindByClassnameNearest("player",Vector(7830,400,260),250);
+    if(ep==null||!ep.IsValid())
+        return;
+    if(ep != tickshophandle && ep.GetTeam()==3 && ep.GetHealth()>0)
+    {
+        tickshophandle = ep;
+        local man = Entities.FindByName(null,"manager");
+        if(man!=null)
+        {
+            man.ValidateScriptScope();
+            local sc = man.GetScriptScope();
+            ep.ValidateScriptScope();
+            local psc = ep.GetScriptScope();
+            if("userid" in psc)
+            {
+                foreach(sbb in sc.SBplayers)
+                {
+                    if(psc.userid == sbb.userid)
+                        EntFire("server","Command","say ENTERED SHOP: ["+sbb.steamid.tostring()+" "+sbb.name.tostring()+"]",0.00,null);
+                }
+            }
+        }
+    }
+}
