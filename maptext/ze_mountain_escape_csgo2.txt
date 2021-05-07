@@ -855,4 +855,8 @@
 	{
 		"chi"		"** **"
 	}
+    "***Warning: Sephiroth has appeared.***"
+    {
+		"chi"		"** **"
+    }
 }
