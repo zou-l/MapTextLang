@@ -548,7 +548,7 @@
 	}
 	">>> HOLD <<<"
 	{
-		"chi"		">>>守住<<<"
+		"chi"		">>>守住40秒<<<"
 	}
 	"||| KRAKEN HAS SENT AN EXPLOSIVE ZOMBIE |||"
 	{
