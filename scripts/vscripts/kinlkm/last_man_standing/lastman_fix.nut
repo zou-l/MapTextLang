@@ -1267,8 +1267,8 @@ function MapStart()
 		EntFire("Zombie_Item_Vortigaunt_Template","ForceSpawn","",22.00,null);
 		EntFire("Zombie_Item_Jumper_Template","ForceSpawn","",22.00,null);
 		EntFire("Zombie_Item_Tank_Spawn","ForceSpawn","",22.00,null);
-		EntFire("stage_x_end_bridge_3_physbox","SetHealth","99999",0.00,null);
-		EntFire("stage_x_end_bridge_2_physbox","SetHealth","99999",0.00,null);
+		EntFire("stage_x_end_bridge_3_physbox","SetHealth","999999",0.00,null);
+		EntFire("stage_x_end_bridge_2_physbox","SetHealth","999999",0.00,null);
 		EntFire("correction2","Enable","",3.00,null);
 	}
 	else if(STAGE == 10)
@@ -2205,6 +2205,8 @@ function ClearPlayer()
 
 function FixBridgeHp()
 {
-	EntFire("stage_x_end_bridge_2_physbox","SetHealth","600",10.00,null);
-	EntFire("stage_x_end_bridge_3_physbox","SetHealth","600",10.00,null);
+	if(STAGE == 9){
+		EntFire("stage_x_end_bridge_2_physbox","SetHealth","600",10.00,null);
+		EntFire("stage_x_end_bridge_3_physbox","SetHealth","600",10.00,null);
+	}
 }
