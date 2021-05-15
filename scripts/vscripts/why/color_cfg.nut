@@ -16,6 +16,6 @@ COLOR_LIST<-{
 	//FFFFFF
 	WHITE=["255 255 255","holy","heal","cura","recovery","cure","scathe"]
 	//33FF00
-	GREEN=["51 255 0","wind","bio","ult","viento"]
+	GREEN=["51 255 0","wind","bio","ult","viento","poison"]
 };
 ScriptPrintMessageChatAll(" \x03公用神器手枪高亮颜色已加载\x01");
