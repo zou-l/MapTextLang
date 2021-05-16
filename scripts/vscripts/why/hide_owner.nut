@@ -100,7 +100,7 @@ function CreateGlow(activator,object,index){
 		weaponModel="models/weapons/w"+weaponModel.slice(16);
 	}
 	glow <- CreateProp("prop_dynamic_glow",activator.GetOrigin(),weaponModel,0);
-	glow.__KeyValueFromInt("glowdist", 2048);
+	glow.__KeyValueFromInt("glowdist", 10000);
 	glow.__KeyValueFromInt("solid", 0);
 	glow.__KeyValueFromString("glowcolor", "0 255 255");
 	glow.__KeyValueFromInt("glowstyle", 2);
