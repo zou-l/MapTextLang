@@ -2,12 +2,12 @@
 {
     "** PLAYER HAS PICKED UP MOKUTON **"
     {
-        "chi" "***习得木遁忍术**"
+        "chi" "***习得木遁忍术-花树界降临**"
     }
 
     "** PLAYER HAS PICKED UP RASHOMON **"
     {
-        "chi" "**习得通灵忍术罗生门 **"
+        "chi" "**习得通灵忍术-五重罗生门 **"
     }
 
     ">> PLAYER HAS PICKED UP DOTON <<"
@@ -17,7 +17,7 @@
 
     "** PLAYER HAS PICKED UP CHAKRA **"
     {
-        "chi" "**习得了医疗忍术-阴愈伤灭 **"
+        "chi" "**得到了秘卷-查克拉 **"
     }
 
     "** PLAYER HAS PICKED UP SUITON **"
@@ -43,36 +43,31 @@
     "**LEFT DOOR OPENS IN 30 SECONDS**"
     {
         "chi" "**左门将在30秒后打开 **"
-		"DoorCountdown"		"30"
     }
 
     "**GATE OPENS IN 15 SECONDS**"
     {
         "chi" "**大门将在15秒后打开 **"
-		"DoorCountdown"		"15"
     }
 
     "**GATE OPENS IN 25 SECONDS**"
     {
         "chi" "**大门将在25秒后打开 **"
-		"DoorCountdown"		"25"
     }
 
     "**GATE OPENS IN 20 SECONDS**"
     {
         "chi" "**大门将在20秒后打开 **"
-		"DoorCountdown"		"20"
     }
 
     "**GATE OPENS IN 10 SECONDS**"
     {
         "chi" "**大门将在10秒后打开 **"
-		"DoorCountdown"		"10"
     }
 
     "** ITACHI IS USING A STRONG GENJUTSU **"
     {
-        "chi" "**宇智波鼬使用了强力幻术月读 **"
+        "chi" "**宇智波鼬使用了幻术-月读 **"
     }
 
     "** STAY IN THE MIDDLE **"
@@ -88,7 +83,6 @@
     "**ITACHI DOORS OPENS IN 15 SECONDS**"
     {
         "chi" "**宇智波鼬的大门将在15秒后打开 **"
-		"DoorCountdown"		"15"
     }
 
     "** GET IN FAST **"
@@ -104,18 +98,17 @@
     "**DOORS OPENS IN 20 SECONDS**"
     {
         "chi" "** 此门将于20秒后打开 **"
-		"DoorCountdown"		"20"
     }
 
     "**FINAL GATE OPEN IN 15 SECONDS**"
     {
         "chi" "** 最终之门将于15秒后打开 **"
-		"DoorCountdown"		"15"
+
     }
 
     "** DODGE ITACHI KATON **"
     {
-        "chi" "**宇智波鼬对两边墙壁释放了火遁 **"
+        "chi" "**宇智波鼬释放了火遁- **"
     }
 
     "**NADES DO MORE DAMAGE**"
@@ -126,13 +119,11 @@
     "**FINAL DOOR OPENS IN 60 SECONDS**"
     {
         "chi" "** 最终之门将于60秒后打开 **"
-		"DoorCountdown"		"60"
     }
 
     "** DEFEND THE BRIDGE 25 MORE SECONDS **"
     {
         "chi" "** 坚守此桥25秒 **"
-		"DoorCountdown"		"25"
     }
 
     "**THIS IS YOUR LAST CHANCE**"
@@ -153,49 +144,41 @@
     "**RIGHT DOOR OPENS IN 30 SECONDS**"
     {
         "chi" "**右门将在30秒后打开 **"
-		"DoorCountdown"		"30"
     }
 
     "**DOOR OPENS IN 20 SECONDS**"
     {
         "chi" "**大门将在20秒后打开 **"
-		"DoorCountdown"		"20"
     }
 
     "**TELEPORT IN 10 SECONDS**"
     {
         "chi" "**10秒后将对挂机玩家施展传送忍术-天送之术 **"
-		"DoorCountdown"		"10"
     }
 
     "**GATES OPENS IN 15 SECONDS**"
     {
         "chi" "**大门将在15秒后打开 **"
-		"DoorCountdown"		"15"
     }
 
     "**CAVE GATE OPENS IN 15 SECONDS**"
     {
         "chi" "**大门将在15秒后打开 **"
-		"DoorCountdown"		"15"
     }
 
     "**DOOR OPENS IN 10 SECONDS**"
     {
         "chi" "**大门将在10秒后打开 **"
-		"DoorCountdown"		"10"
     }
 
     "**GATES OPENS IN 20 SECONDS**"
     {
         "chi" "**大门将在20秒后打开 **"
-		"DoorCountdown"		"20"
     }
 
     "**DOOR OPENS IN 15 SECONDS**"
     {
         "chi" "**大门将在15秒后打开 **"
-		"DoorCountdown"		"15"
     }
 
     "**DEFEND UNTIL SOMETHING HAPPEN**"
@@ -206,7 +189,6 @@
     "**30 SECONDS LEFT**"
     {
         "chi" "**还有30秒 **"
-		"DoorCountdown"		"30"
     }
 
     "**YOU WON STAGE 2**"
@@ -217,12 +199,11 @@
     "**CAVE ENTRANCE OPENS IN 15 SECONDS**"
     {
         "chi" "**大门将在15秒后打开 **"
-		"DoorCountdown"		"15"
     }
 
     "** KATON - FIRE RAIN**"
     {
-        "chi" "**火遁-凤仙花火! **"
+        "chi" "**火遁-爆风乱舞! **"
     }
 
     "** KATON **"
@@ -232,12 +213,12 @@
 
     "** MOKUTON **"
     {
-        "chi" "**木遁-花树界降临,快去边缘,不要碰到树! **"
+        "chi" "**木遁-树界降临,快去边缘,不要碰到树! **"
     }
 
     "** REGENERATION **"
     {
-        "chi" "**医疗忍术! **"
+        "chi" "**阴伤愈灭!此时吸收攻击的所有伤害! **"
     }
 
     "** MADARA JUST APPEAR **"
@@ -247,7 +228,7 @@
 
     "** SHOOT HIM OR GO TO THE SIDE NOW **"
     {
-        "chi" "**在他放出忍术之前打断他或者站在场地边缘 **"
+        "chi" "**这就是..神的力量!站在场地边缘躲避! **"
     }
 
     "** ZOMBIES **"
@@ -267,7 +248,7 @@
 
     "** GOOD JOB YOU FORCED OBITO TO TELEPORT **"
     {
-        "chi" "**干得好,带土使用神威逃跑了! **"
+        "chi" "**我们打败了他!带土使用神威逃跑了! **"
     }
 
     "** PRESS THE CRYSTAL TO ENABLE THE TELEPORT **"
@@ -278,37 +259,31 @@
     "**DOOR OPENS IN 30 SECONDS**"
     {
         "chi" "**门将在在30秒后打开 **"
-		"DoorCountdown"		"30"
     }
 
     "**OBITO ARENA DOOR OPENS IN 15 SECONDS**"
     {
-        "chi" "**15秒后将与他一绝死战,宇智波带土 **"
-		"DoorCountdown"		"15"
+        "chi" "**15秒后将与宇智波带土决一死战! **"
     }
 
     "** TELEPORT READY IN 10 SECONDS **"
     {
         "chi" "**天送之术将在10秒后启动 **"
-		"DoorCountdown"		"10"
     }
 
     "** ZM TELEPORT IN 5 SECONDS **"
     {
         "chi" "**僵尸将在5秒后传送 **"
-		"DoorCountdown"		"5"
     }
 
     "** MIDDLE RIGHT DOOR OPENS IN 30 SECONDS**"
     {
         "chi" "**中间靠右的大门30秒后开 **"
-		"DoorCountdown"		"30"
     }
 
     "** FINAL GATE OPENS IN 25 SECONDS **"
     {
-        "chi" "**最终之门将于25秒后打开！我们还能走到多远？ **"
-		"DoorCountdown"		"25"
+        "chi" "**我们还能走到多远？坚持25秒！ **"
     }
 
     "** LOW GRAVITY ENABLED **"
@@ -323,12 +298,12 @@
 
     "** OBITO TRANSFORMED IN JINCHIRUKI **"
     {
-        "chi" "**带土朝我们飞过来了! **"
+        "chi" "**飞过来的那是?宇智波带土! **"
     }
 
     "** GET READY FOR HIS LAST ATTACK **"
     {
-        "chi" "**带土吸收了十尾,准备迎接六道之力的攻击!看天上!**"
+        "chi" "**带土得到了六道之力!躲避天上的弹幕!**"
     }
 
     "**YOU WON STAGE 3**"
@@ -339,13 +314,11 @@
     "** CAVE DOOR OPENS IN 30 SECONDS **"
     {
         "chi" "**门将在30秒后打开 **"
-		"DoorCountdown"		"30"
     }
 
     "** DOOR OPENS IN 25 SECONDS **"
     {
         "chi" "**门在25秒后打开 **"
-		"DoorCountdown"		"15"
     }
 
     "** MIDDLE WAY OPENING SOON.. **"
@@ -371,25 +344,21 @@
     "** PATH OPEN IN 35 SECONDS **"
     {
         "chi" "**路在35秒后打开 **"
-		"DoorCountdown"		"35"
     }
 
     "** TELEPORT ENABLE IN 20 SECONDS **"
     {
         "chi" "**天送之术将在20后释放! **"
-		"DoorCountdown"		"20"
     }
 
     "** ZM TELEPORT IN 10 SECONDS **"
     {
         "chi" "**僵尸在10秒后传送 **"
-		"DoorCountdown"		"10"
     }
 
     "** GATE OPENS IN 10 SECONDS **"
     {
         "chi" "**门将在10秒后打开 **"
-		"DoorCountdown"		"10"
     }
 
     "** FIND THE LEVER UNDER THE WATERFALL TO OPEN THE LEFT DOOR **"
@@ -405,25 +374,21 @@
     "** LEFT DOOR OPENS IN 20 SECONDS **"
     {
         "chi" "**左门将在20秒后打开 **"
-		"DoorCountdown"		"20"
     }
 
     "** SHORTCUT OPEN IN 5 SECONDS **"
     {
         "chi" "**小道将在5秒后打开 **"
-		"DoorCountdown"		"5"
     }
 
     "** DOOR OPENS IN 20 SECONDS **"
     {
         "chi" "**门将在20秒后打开 **"
-		"DoorCountdown"		"20"
     }
 
     "** MIDDLE LEFT DOOR OPENS IN 30 SECONDS**"
     {
         "chi" "**中间靠左的门将于30秒后打开 **"
-		"DoorCountdown"		"30"
     }
 
     "** SENPO INTON RAIHA **"
@@ -519,19 +484,16 @@
     "** FINAL DOOR OPENS IN 25 SECONDS **"
     {
         "chi" "**最终之门将在25秒后打开 **"
-		"DoorCountdown"		"25"
     }
 
     "** DOOR OPENS IN 15 SECONDS **"
     {
         "chi" "**门将在15秒后打开 **"
-		"DoorCountdown"		"15"
     }
 
     "** MADARA ARENA DOOR OPENS IN 15 SECONDS **"
     {
         "chi" "**15秒后，我们将见识到宇智波斑的力量! **"
-		"DoorCountdown"		"15"
     }
 
     "** ACTIVATE THE LEVER UNDER THE WATERFALL AGAIN **"
@@ -541,17 +503,17 @@
 
     "** GET READY FOR HIS FINAL ATTACK **"
     {
-        "chi" "**准备好面对宇智波斑最后的攻击! **"
+        "chi" "**斑:你见过哪个大人会和小孩动真格的吗? **"
     }
 
     "** MADARA WAS WAITING FOR YOU **"
     {
-        "chi" "**宇智波斑居然在等着我们! **"
+        "chi" "**斑:这是什么表情..我们之间的差距你们不是早已领教过了吗? **"
     }
 
     "** FINISH HIM NOW **"
     {
-        "chi" "**现在解决他! **"
+        "chi" "**区区砂砾..不及我半分! **"
     }
 
     "** YOU'RE A TRUE SHINOBI **"
@@ -566,12 +528,12 @@
 
     "** STAGE 1 **"
     {
-        "chi" "**只要我一时兴起，就足以要了你的命**"
+        "chi" "**你的失败，就是我的现实**"
     }
 
     "** STAGE 2 **"
     {
-        "chi" "**你的失败，就是我的现实 **"
+        "chi" "**只要我一时兴起，就足以要了你的命 **"
     }
 
     "** STAGE 3 **"
