@@ -245,10 +245,12 @@
 	}
 	"Ultimate hitting in 20 seconds!"
 	{
-		"chi"		"** **"
+		"chi"		"**终极20秒后生效**"
+		"DoorCountdown"		"-1"
 	}
 	"Ultimate hitting in 10 seconds!"
 	{
-		"chi"		"** **"
+		"chi"		"**终极10秒后生效**"
+		"DoorCountdown"		"-1"
 	}
 }
