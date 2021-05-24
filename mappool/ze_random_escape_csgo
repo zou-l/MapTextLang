@@ -1,0 +1,9 @@
+"mapname"
+{
+	"ze_random_escape_csgo"
+	{
+    "chi" "新随机小游戏"
+    "onlynominate"           "1"
+		"onlyadmin"              "1"
+	}
+}
