@@ -12,7 +12,9 @@ function UseItemSummoner()
                 SummonerToggle = false;
                 SummonerUses++;
                 if(PortalList.len()>1){
-                    PortalList[0].Destroy();
+                    if(PortalList[0].IsValid()){
+                        PortalList[0].Destroy();
+                    }
                     PortalList[0]=PortalList[1];
                 }
                 EntFire("Summoner_Tele_Maker", "ForceSpawnAtEntityOrigin", "!activator", 0.0, activator);
@@ -31,11 +33,15 @@ function UseItemSummoner()
     }
     catch(error)
     {
+        printl(error);
         return;
     }
 }
 
 function DetectSummoner(){
+    if(!SummonerCaller.IsValid()||SummonerCaller.GetOwner() != SummonerAct){
+        ClearSummon();return;
+    }
     EntFireByHandle(caller, "FireUser4", "", 0.1, activator, caller);
     local cal=caller;
     local hasAdd=false;
@@ -66,4 +72,10 @@ function DetectSummoner(){
 function SummonTele(){
     if(!SummonerCaller.IsValid()||!SummonerAct.IsValid())return;
     activator.SetOrigin(SummonerAct.GetOrigin());
+}
+
+function ClearSummon(){
+    for(local i=0;i<PortalList.len();i++){
+        PortalList[i].Destroy();
+    }
 }
