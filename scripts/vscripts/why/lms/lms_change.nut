@@ -65,6 +65,5 @@ function DetectSummoner(){
 
 function SummonTele(){
     if(!SummonerCaller.IsValid()||!SummonerAct.IsValid())return;
-    if(activator.GetTeam()!=2)return;
     activator.SetOrigin(SummonerAct.GetOrigin());
 }
