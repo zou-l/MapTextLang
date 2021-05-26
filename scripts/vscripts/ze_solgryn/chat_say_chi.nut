@@ -295,13 +295,13 @@
 ::Level3AlreadyDead <- " \x04***很好, 看起来你已经在序章击败了他... 逃亡开始?***";
 
 ::Level3SolgrynAttackCorners <- " \x04***SOLGRYN在角落发起了攻击!***";
-::Level3SolgrynAttackWater <- " \x04***SOLGRYN发动了水阵!***";
-::Level3SolgrynAttackSpam1 <- " \x04***SOLGRYN 在放音频, 快搞烂他!***";
-::Level3SolgrynAttackSpam2 <- " \x04***SOLGRYN 在放音频, 快把他静音!***";
-::Level3SolgrynAttackSpam3 <- " \x04***SOLGRYN 在放音频, 快把他禁言!***";
-::Level3SolgrynAttackSpam4 <- " \x04***SOLGRYN 在放音频, 快把他永BAN! ***";
-::Level3SolgrynAttackPull <- " \x04***SOLGRYN 使用了吸力!***";
-::Level3SolgrynAttackStare <- " \x04***SOLGRYN直视着你准备发动催命符!***";
+::Level3SolgrynAttackWater <- " \x04***SOLGRYN使用了水!***";
+::Level3SolgrynAttackSpam1 <- " \x04***SOLGRYN在放音频, 快搞烂他!***";
+::Level3SolgrynAttackSpam2 <- " \x04***SOLGRYN在放音频, 快把他静音!(向右移动)***";
+::Level3SolgrynAttackSpam3 <- " \x04***SOLGRYN在放音频, 快把他禁言!***";
+::Level3SolgrynAttackSpam4 <- " \x04***SOLGRYN在放音频, 快把他永BAN! ***";
+::Level3SolgrynAttackPull <- " \x04***SOLGRYN使用了吸力!(按住S)***";
+::Level3SolgrynAttackStare <- " \x04***SOLGRYN直视着你准备发动死亡攻击!(背对boss)!***";
 
 ::Level3SolgrynDead <- " \x04***你做到了! 你击败了他! 我们可以离开这里了\x04 ***";
 ::Level3SolgrynBlessing <- " \x04***SOLGRYN已死亡 所有玩家将会获得Buff: \x02 无摔伤 \x04 和 \x02 自动连跳 \x04 ***";
