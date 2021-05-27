@@ -82,11 +82,13 @@ function ClearSummon(){
 
 function ClearSummonOnL3(){
     for(local i=0;i<PortalList.len();i++){
+        if(!PortalList[i].IsValid())continue;
         local tmpV=PortalList[i].GetOrigin();
         if(tmpV.x<7000&&tmpV.x>6800&&tmpV.y<6400&&tmpV.y>6000){
             PortalList[i].Destroy();
         }
     }
+    if(PortalList.len()<2)return;
     if(!PortalList[1].IsValid()&&PortalList[0].IsValid()){
         PortalList[1]=PortalList[0];
     }
