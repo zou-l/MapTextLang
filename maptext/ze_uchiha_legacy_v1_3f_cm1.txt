@@ -204,11 +204,13 @@
     "** KATON - FIRE RAIN**"
     {
         "chi" "**火遁-爆风乱舞! **"
+        "DoorCountdown"		"6"
     }
 
     "** KATON **"
     {
         "chi" "**火遁-豪火球之术! **"
+        "DoorCountdown"		"4"
     }
 
     "** MOKUTON **"
@@ -234,6 +236,7 @@
     "** ZOMBIES **"
     {
         "chi" "**宇智波带土召唤了僵尸协助,小心! **"
+        "DoorCountdown"		"9"
     }
 
     "** RUN BEHIND KAKASHI **"
@@ -399,6 +402,7 @@
     "** UCHIHA REFLECTION **"
     {
         "chi" "**宇智波反弹!停火！**"
+        "DoorCountdown"		"6"
     }
 
     "** MOKUTON - DEEP FOREST EMERGENCE **"
@@ -419,6 +423,7 @@
     "** RINNEGAN - ABSORPTION **"
     {
         "chi" "**封术吸印,可以吸收伤害! **"
+        "DoorCountdown"		"7"
     }
 
     "** KATON - HIDING IN ASH **"
