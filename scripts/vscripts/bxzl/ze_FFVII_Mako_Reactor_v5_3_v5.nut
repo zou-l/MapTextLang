@@ -7,7 +7,7 @@ bxzl_holy_time   <-  0;
 bxzl_elevator_time <- 0;
 bxzl_first_line  <-  "";
 bxzl_second_line <-  "";
-bxzl_thrid_line <-  "";
+bxzl_third_line <-  "";
 
 function Say_ScriptDate()
 {
@@ -28,9 +28,9 @@ function bxzl_check_text_1()
 	if(bxzl_door_time>0)
 	{
 		bxzl_first_line = "大门将在"+bxzl_door_time.tostring()+"秒后打开";
-		EntFireByHandle(caller,"RunScriptCode","bxzl_door_time-=1;",1.00,null,null);
+		EntFireByHandle(self,"RunScriptCode","bxzl_door_time-=1;",1.00,null,null);
 	}
-	bxzl_text.__KeyValueFromString("message", bxzl_first_line.tostring()+"\n"+bxzl_second_line.tostring()+"\n"+bxzl_thrid_line.tostring());
+	bxzl_text.__KeyValueFromString("message", bxzl_first_line.tostring()+"\n"+bxzl_second_line.tostring()+"\n"+bxzl_third_line.tostring());
 }
 
 function bxzl_check_text_2()
@@ -42,10 +42,10 @@ function bxzl_check_text_2()
 	}
 	if(bxzl_holy_time>0)
 	{
-		bxzl_second_line = "终极将在"+bxzl_holy_time.tostring()+"秒生效";
-		EntFireByHandle(caller,"RunScriptCode","bxzl_holy_time-=1;",1.00,null,null);
+		bxzl_second_line = "终极将在"+bxzl_holy_time.tostring()+"秒后生效";
+		EntFireByHandle(self,"RunScriptCode","bxzl_holy_time-=1;",1.00,null,null);
 	}
-	bxzl_text.__KeyValueFromString("message", bxzl_first_line.tostring()+"\n"+bxzl_second_line.tostring()+"\n"+bxzl_thrid_line.tostring());
+	bxzl_text.__KeyValueFromString("message", bxzl_first_line.tostring()+"\n"+bxzl_second_line.tostring()+"\n"+bxzl_third_line.tostring());
 }
 
 function bxzl_check_text_3()
@@ -57,8 +57,8 @@ function bxzl_check_text_3()
 	}
 	if(bxzl_elevator_time>0)
 	{
-		bxzl_thrid_line = "电梯将在"+bxzl_elevator_time.tostring()+"秒后离开";
-		EntFireByHandle(caller,"RunScriptCode","bxzl_elevator_time-=1;",1.00,null,null);
+		bxzl_third_line = "电梯将在"+bxzl_elevator_time.tostring()+"秒后离开";
+		EntFireByHandle(self,"RunScriptCode","bxzl_elevator_time-=1;",1.00,null,null);
 	}
-	bxzl_text.__KeyValueFromString("message", bxzl_first_line.tostring()+"\n"+bxzl_second_line.tostring()+"\n"+bxzl_thrid_line.tostring());
+	bxzl_text.__KeyValueFromString("message", bxzl_first_line.tostring()+"\n"+bxzl_second_line.tostring()+"\n"+bxzl_third_line.tostring());
 }
