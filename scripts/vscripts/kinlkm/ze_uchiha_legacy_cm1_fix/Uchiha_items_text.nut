@@ -8,5 +8,6 @@ function OnPostSpawn() {
 	if(self.GetName().find("zkaleidoscope_hud_hint") == 0){Text = "名称: 加具土命 \n描述 : 阻止人类移动 \n效果: 扔出一团粒子特效人类接触它就会被冰冻 \n持续时间: 5 秒 \n冷却时间: 70 秒";}
 	if(self.GetName().find("zmadara_hud_hint") == 0){Text = "名称: 宇智波斑 \n效果: 召唤宇智波斑他会在周围召唤火焰. 对人类造成巨大伤害 \n持续时间: 3 秒 \n冷却时间: 160 秒";}
 	if(self.GetName().find("zsharingan_HudHint") == 0){Text = "名称: 万象天引 \n效果: 将周围人类吸附到你身旁 \n持续时间: 2 秒 \n冷却时间: 90 秒";}
+	if(self.GetName().find("zitachi_hud_hint") == 0){Text = "Name: Itachi clone \nEffect: Spawn Itachi clone that explose after few seconds \nDuration: Unknown \nCooldown: 60 Secs";}
 	if(Text != null)self.__KeyValueFromString("message",Text);
 }
