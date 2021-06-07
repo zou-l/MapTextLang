@@ -144,4 +144,89 @@
 		"hammerid"		"530259"
 		"m_iname"		"wyjscie55"
 	}
+	"558474"
+	{
+		"enable"		"-1"
+		"hammerid"		"558474"
+	}
+	"505512"
+	{
+		"enable"		"-1"
+		"hammerid"		"505512"
+	}
+	"466408"
+	{
+		"enable"		"-1"
+		"hammerid"		"466408"
+	}
+	"430402"
+	{
+		"enable"		"-1"
+		"hammerid"		"430402"
+	}
+	"413905"
+	{
+		"enable"		"-1"
+		"hammerid"		"413905"
+	}
+	"402280"
+	{
+		"enable"		"-1"
+		"hammerid"		"402280"
+	}
+	"308183"
+	{
+		"enable"		"-1"
+		"hammerid"		"308183"
+	}
+	"272275"
+	{
+		"enable"		"-1"
+		"hammerid"		"272275"
+	}
+	"280012"
+	{
+		"enable"		"-1"
+		"hammerid"		"280012"
+	}
+	"196609"
+	{
+		"enable"		"-1"
+		"hammerid"		"196609"
+	}
+	"144869"
+	{
+		"enable"		"-1"
+		"hammerid"		"144869"
+	}
+	"136495"
+	{
+		"enable"		"-1"
+		"hammerid"		"136495"
+	}
+	"128511"
+	{
+		"enable"		"-1"
+		"hammerid"		"128511"
+	}
+	"128902"
+	{
+		"enable"		"-1"
+		"hammerid"		"128902"
+	}
+	"128920"
+	{
+		"enable"		"-1"
+		"hammerid"		"128920"
+	}
+	"89391"
+	{
+		"enable"		"-1"
+		"hammerid"		"89391"
+	}
+	"384"
+	{
+		"enable"		"-1"
+		"hammerid"		"384"
+	}
 }

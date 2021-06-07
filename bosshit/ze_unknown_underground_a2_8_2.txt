@@ -36,4 +36,22 @@
 		"hammerid"		"338306"
 		"m_iname"		"item1_st2_target1_phys&4795"
 	}
+	"231270"
+	{
+		"enable"		"-1"
+		"hammerid"		"231270"
+		"m_iname"		"admin_physbox_ex1"
+	}
+	"191345"
+	{
+		"enable"		"-1"
+		"hammerid"		"191345"
+		"m_iname"		"admin_physbox_l1"
+	}
+	"191363"
+	{
+		"enable"		"-1"
+		"hammerid"		"191363"
+		"m_iname"		"admin_physbox_l2"
+	}
 }

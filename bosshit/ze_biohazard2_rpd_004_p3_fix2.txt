@@ -228,4 +228,54 @@
 		"hammerid"		"872411"
 		"m_iname"		"zm_10"
 	}
+	"872259"
+	{
+		"enable"		"-1"
+		"hammerid"		"872259"
+	}
+	"872262"
+	{
+		"enable"		"-1"
+		"hammerid"		"872262"
+	}
+	"872265"
+	{
+		"enable"		"-1"
+		"hammerid"		"872265"
+	}
+	"872268"
+	{
+		"enable"		"-1"
+		"hammerid"		"872268"
+	}
+	"872271"
+	{
+		"enable"		"-1"
+		"hammerid"		"872271"
+	}
+	"872277"
+	{
+		"enable"		"-1"
+		"hammerid"		"872277"
+	}
+	"872280"
+	{
+		"enable"		"-1"
+		"hammerid"		"872280"
+	}
+	"872283"
+	{
+		"enable"		"-1"
+		"hammerid"		"872283"
+	}
+	"872286"
+	{
+		"enable"		"-1"
+		"hammerid"		"872286"
+	}
+	"872610"
+	{
+		"enable"		"-1"
+		"hammerid"		"872610"
+	}
 }

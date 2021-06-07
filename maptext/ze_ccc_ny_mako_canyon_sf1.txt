@@ -7,7 +7,7 @@
 	"*** Defend yourselfs and hope that Luigi can rescue you in time ! ***"
 	{
 		"chi"		"**守住这个地方等待路易吉来营救你们**"
-                "DoorCountDown"		"60"
+		"DoorCountdown"		"60"
 	}
 	"*** Beware of Bowser's Fire Breath! ***"
 	{
@@ -89,7 +89,7 @@
 	{
 		"chi"		"**火车15秒后离开**"
 	}
- 	"*** NY MARATHON: GET READY TO RUN! ***"
+	"*** NY MARATHON: GET READY TO RUN! ***"
 	{
 		"chi"		"**马拉松赛跑：预备**"
 	}
@@ -140,5 +140,13 @@
 	"** Stay in the grey lest you want the tentacles to grab you and take you to your end. **"
 	{
 		"chi"		"**呆在中间，别作死站两边，延伸出的台阶搞不好会出人命的**"
+	}
+	"*** Beware of Bowsers Fire Breath! ***"
+	{
+		"chi"		"** **"
+	}
+	"** Moving forward and destroying for change... mumbling progress... an ideal... **"
+	{
+		"chi"		"** **"
 	}
 }

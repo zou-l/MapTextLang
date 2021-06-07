@@ -19,7 +19,7 @@
 	"* * * Warning: 2 minutes remaining * * *"
 	{
 		"chi"		"**小心：还剩2分钟**"
-		"DoorCountdown"		"120"
+		"DoorCountDown"		"120"
 	}
 	"* * * Warning: 1 minute remaining * * *"
 	{

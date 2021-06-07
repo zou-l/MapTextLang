@@ -120,4 +120,9 @@
 		"hammerid"		"183996"
 		"m_iname"		"cbble_box_1"
 	}
+	"110924"
+	{
+		"enable"		"-1"
+		"hammerid"		"110924"
+	}
 }

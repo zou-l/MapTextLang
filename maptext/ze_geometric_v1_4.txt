@@ -66,7 +66,7 @@
 	}
 	"sync_version"
 	{
-		"syncvalue"		"11866"
+		"syncvalue"		"26503"
 	}
 	"<< Hold for 40 seconds>>"
 	{
@@ -106,6 +106,14 @@
 		"chi"		">>>暴风雨前的宁静......<<<"
 	}
 	"<< RTV plz >>"
+	{
+		"chi"		"** **"
+	}
+	"<< RTV3 >>"
+	{
+		"chi"		"** **"
+	}
+	"<< RTV2 >>"
 	{
 		"chi"		"** **"
 	}

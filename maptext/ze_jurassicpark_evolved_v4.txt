@@ -27,7 +27,7 @@
 	"** Call the mainland - Tell them to send the damn helicopter! **"
 	{
 		"chi"		"**信号已发送，直升机很快就会抵达！**"
-		"DoorCountdown"		"87"
+		"DoorCountDown"		"87"
 	}
 	"** SECURE THE AREA **"
 	{

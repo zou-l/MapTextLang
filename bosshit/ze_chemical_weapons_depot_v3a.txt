@@ -78,4 +78,29 @@
 		"hammerid"		"1776"
 		"m_iname"		"EntranceFence"
 	}
+	"1384853"
+	{
+		"enable"		"-1"
+		"hammerid"		"1384853"
+	}
+	"531424"
+	{
+		"enable"		"-1"
+		"hammerid"		"531424"
+	}
+	"526162"
+	{
+		"enable"		"-1"
+		"hammerid"		"526162"
+	}
+	"168923"
+	{
+		"enable"		"-1"
+		"hammerid"		"168923"
+	}
+	"169936"
+	{
+		"enable"		"-1"
+		"hammerid"		"169936"
+	}
 }

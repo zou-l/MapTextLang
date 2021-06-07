@@ -3,12 +3,12 @@
 	"MAP MADE BY ricca2554"
 	{
 		"chi"		"地图作者：ricca2554 翻译：血色的龙琉璃"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"STAGE 1 (ryen zone) starting in 60 sec"
 	{
-		"chi"		"**60秒后开启关卡一(ryen zone)**"
-		"DoorCountdown"		"60"
+		"chi"		"**关卡一 (ryen zone)将在60秒后开启**"
+		"DoorCountDown"		"60"
 	}
 	"wall bracks in 40 sec"
 	{
@@ -37,7 +37,7 @@
 	"STAGE 2 (doomnack kingdom) starting in 60 sec"
 	{
 		"chi"		"**60秒后开启关卡二(doomnack kingdom)**"
-		"DoorCountdown"		"60"
+		"DoorCountDown"		"60"
 	}
 	"boogie is not done with you"
 	{
@@ -46,5 +46,57 @@
 	"sync_version"
 	{
 		"syncvalue"		"63384"
+	}
+	"**僵尸将在3秒后传送**"
+	{
+		"chi"		"** **"
+	}
+	"**路将在45秒后开放**"
+	{
+		"chi"		"** **"
+	}
+	"**僵尸将在12秒后传送**"
+	{
+		"chi"		"** **"
+	}
+	"**人类将在20秒后传送**"
+	{
+		"chi"		"** **"
+	}
+	"**僵尸将在5秒后传送**"
+	{
+		"chi"		"** **"
+	}
+	"**80秒后允许我们通行**"
+	{
+		"chi"		"** **"
+	}
+	"**20秒后AFK传送**"
+	{
+		"chi"		"** **"
+	}
+	"**180秒后核爆**"
+	{
+		"chi"		"** **"
+	}
+	"**10秒后AFK传送**"
+	{
+		"chi"		"** **"
+	}
+	"**5秒后AFK传送**"
+	{
+		"chi"		"** **"
+	}
+	"**160秒后核爆**"
+	{
+		"chi"		"** **"
+	}
+	"**150秒后核爆**"
+	{
+		"chi"		"** **"
+	}
+	"grill bracking in 80 sec"
+	{
+		"chi"		"** **"
 	}
 }

@@ -282,4 +282,9 @@
 		"hammerid"		"1378955"
 		"m_iname"		"xtrem_props_add"
 	}
+	"709903"
+	{
+		"enable"		"-1"
+		"hammerid"		"709903"
+	}
 }

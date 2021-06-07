@@ -102,4 +102,29 @@
 		"hammerid"		"377732"
 		"m_iname"		"garage_break_esc"
 	}
+	"204191"
+	{
+		"enable"		"-1"
+		"hammerid"		"204191"
+	}
+	"321909"
+	{
+		"enable"		"-1"
+		"hammerid"		"321909"
+	}
+	"321920"
+	{
+		"enable"		"-1"
+		"hammerid"		"321920"
+	}
+	"329750"
+	{
+		"enable"		"-1"
+		"hammerid"		"329750"
+	}
+	"330968"
+	{
+		"enable"		"-1"
+		"hammerid"		"330968"
+	}
 }

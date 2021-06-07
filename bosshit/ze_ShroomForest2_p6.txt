@@ -744,4 +744,93 @@
 		"hammerid"		"1350811"
 		"m_iname"		"ZM_Grid"
 	}
+	"862"
+	{
+		"enable"		"-1"
+		"hammerid"		"862"
+	}
+	"871"
+	{
+		"enable"		"-1"
+		"hammerid"		"871"
+	}
+	"880"
+	{
+		"enable"		"-1"
+		"hammerid"		"880"
+	}
+	"889"
+	{
+		"enable"		"-1"
+		"hammerid"		"889"
+	}
+	"898"
+	{
+		"enable"		"-1"
+		"hammerid"		"898"
+	}
+	"907"
+	{
+		"enable"		"-1"
+		"hammerid"		"907"
+	}
+	"1211"
+	{
+		"enable"		"-1"
+		"hammerid"		"1211"
+	}
+	"1373"
+	{
+		"enable"		"-1"
+		"hammerid"		"1373"
+	}
+	"1381"
+	{
+		"enable"		"-1"
+		"hammerid"		"1381"
+	}
+	"1383"
+	{
+		"enable"		"-1"
+		"hammerid"		"1383"
+	}
+	"1391"
+	{
+		"enable"		"-1"
+		"hammerid"		"1391"
+	}
+	"1399"
+	{
+		"enable"		"-1"
+		"hammerid"		"1399"
+	}
+	"1408"
+	{
+		"enable"		"-1"
+		"hammerid"		"1408"
+	}
+	"1417"
+	{
+		"enable"		"-1"
+		"hammerid"		"1417"
+	}
+	"1350344"
+	{
+		"enable"		"-1"
+		"hammerid"		"1350344"
+	}
+	"1350354"
+	{
+		"enable"		"-1"
+		"hammerid"		"1350354"
+	}
+	"1350364"
+	{
+		"enable"		"-1"
+		"hammerid"		"1350364"
+	}
+	"17170"
+	{
+		"enable"		"1"
+	}
 }

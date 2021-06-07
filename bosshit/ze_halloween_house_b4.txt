@@ -126,4 +126,55 @@
 		"hammerid"		"94556"
 		"m_iname"		"Window"
 	}
+	"375686"
+	{
+		"enable"		"-1"
+		"hammerid"		"375686"
+	}
+	"336645"
+	{
+		"enable"		"-1"
+		"hammerid"		"336645"
+	}
+	"336648"
+	{
+		"enable"		"-1"
+		"hammerid"		"336648"
+	}
+	"336651"
+	{
+		"enable"		"-1"
+		"hammerid"		"336651"
+	}
+	"336654"
+	{
+		"enable"		"-1"
+		"hammerid"		"336654"
+	}
+	"322551"
+	{
+		"enable"		"-1"
+		"hammerid"		"322551"
+	}
+	"261683"
+	{
+		"enable"		"-1"
+		"hammerid"		"261683"
+	}
+	"246199"
+	{
+		"enable"		"-1"
+		"hammerid"		"246199"
+	}
+	"246202"
+	{
+		"enable"		"-1"
+		"hammerid"		"246202"
+	}
+	"237348"
+	{
+		"enable"		"-1"
+		"hammerid"		"237348"
+		"m_iname"		"CounterBreakable"
+	}
 }

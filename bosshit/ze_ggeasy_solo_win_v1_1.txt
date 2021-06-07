@@ -246,4 +246,14 @@
 		"hammerid"		"105032"
 		"m_iname"		"Sasuke edge chidori"
 	}
+	"8237"
+	{
+		"enable"		"-1"
+		"hammerid"		"8237"
+	}
+	"8478"
+	{
+		"enable"		"-1"
+		"hammerid"		"8478"
+	}
 }

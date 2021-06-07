@@ -1,5 +1,5 @@
 "Console_T"
-{	
+{
 	"Special Thanks: Airvulpes"
 	{
 		"chi"		"**特别感谢: Airvulpes**"
@@ -8,7 +8,7 @@
 	{
 		"chi"		"**测试服务器: PSE**"
 	}
-        "[CAST] Tempest Wing----大风"
+	"[CAST] Tempest Wing----大风"
 	{
 		"chi"		"**[CAST] Tempest Wing----大风**"
 		"DoorCountDown"		"4"

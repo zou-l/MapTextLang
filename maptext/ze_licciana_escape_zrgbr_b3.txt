@@ -120,4 +120,36 @@
 	{
 		"chi"		"** **"
 	}
+	"+++Heal picked up+++"
+	{
+		"chi"		"** **"
+	}
+	"++ 15 SECONDS LEFT TO GET TO SAFE GROUNDS : LICCIANA !! ++"
+	{
+		"chi"		"** **"
+	}
+	"YOU W..."
+	{
+		"chi"		"** **"
+	}
+	"+++ WAIT, WTF IS THIS? +++"
+	{
+		"chi"		"** **"
+	}
+	"+++ THE HARU APPEARED! KILL HIM +++"
+	{
+		"chi"		"** **"
+	}
+	"+++ PUT THE PENIS IN HIS ASS +++"
+	{
+		"chi"		"** **"
+	}
+	"YOU WON LEVEL EXTREME"
+	{
+		"chi"		"** **"
+	}
+	"CONGRATULATIONS, YOU WON ALL THE LEVELS!"
+	{
+		"chi"		"** **"
+	}
 }

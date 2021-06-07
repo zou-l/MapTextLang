@@ -4,7 +4,7 @@
 	{
 		"chi"		"**难度：热身**"
 	}
-	"Door Opens in 30 seconds!"
+	"Door Opens in 30 Seconds!"
 	{
 		"chi"		"**大门将在30s后打开**"
 	}
@@ -95,6 +95,7 @@
 	"touch L33T to kill the zombies for us!"
 	{
 		"chi"		"**接触1337获得胜利！**"
+		"DoorCountDown"		"-1"
 	}
 	"Stage 1 is Over!"
 	{
@@ -324,7 +325,7 @@
 	{
 		"chi"		"**5s后传送存活人类！**"
 	}
-	"Teleporting Zombies in 5 seconds!"
+	"Teleporting Zombies in 5 Seconds!"
 	{
 		"chi"		"**5s后传送僵尸！**"
 	}
@@ -394,7 +395,7 @@
 	}
 	"Get the fuck out of my room!"
 	{
-		"chi"		"**快TMD的进门！**"
+		"chi"		"**快从我的房间里滚出去--18**"
 	}
 	"Player(s) Detected!"
 	{
@@ -442,7 +443,7 @@
 	}
 	"sync_version"
 	{
-		"syncvalue"		"22215"
+		"syncvalue"		"24882"
 	}
 	"Metal Door opens in 10 Seconds!"
 	{
@@ -469,6 +470,10 @@
 		"chi"		"** **"
 	}
 	"1!!"
+	{
+		"chi"		"** **"
+	}
+	"Level 4 - Chicken Revenge Extreme"
 	{
 		"chi"		"** **"
 	}

@@ -90,4 +90,99 @@
 		"hammerid"		"11666"
 		"m_iname"		"Endboxs"
 	}
+	"7845"
+	{
+		"enable"		"-1"
+		"hammerid"		"7845"
+	}
+	"7853"
+	{
+		"enable"		"-1"
+		"hammerid"		"7853"
+	}
+	"7861"
+	{
+		"enable"		"-1"
+		"hammerid"		"7861"
+	}
+	"7869"
+	{
+		"enable"		"-1"
+		"hammerid"		"7869"
+	}
+	"7877"
+	{
+		"enable"		"-1"
+		"hammerid"		"7877"
+	}
+	"7885"
+	{
+		"enable"		"-1"
+		"hammerid"		"7885"
+	}
+	"7893"
+	{
+		"enable"		"-1"
+		"hammerid"		"7893"
+	}
+	"7901"
+	{
+		"enable"		"-1"
+		"hammerid"		"7901"
+	}
+	"8030"
+	{
+		"enable"		"-1"
+		"hammerid"		"8030"
+	}
+	"8038"
+	{
+		"enable"		"-1"
+		"hammerid"		"8038"
+	}
+	"8046"
+	{
+		"enable"		"-1"
+		"hammerid"		"8046"
+	}
+	"8054"
+	{
+		"enable"		"-1"
+		"hammerid"		"8054"
+	}
+	"8062"
+	{
+		"enable"		"-1"
+		"hammerid"		"8062"
+	}
+	"8070"
+	{
+		"enable"		"-1"
+		"hammerid"		"8070"
+	}
+	"8078"
+	{
+		"enable"		"-1"
+		"hammerid"		"8078"
+	}
+	"8086"
+	{
+		"enable"		"-1"
+		"hammerid"		"8086"
+	}
+	"8094"
+	{
+		"enable"		"-1"
+		"hammerid"		"8094"
+	}
+	"8102"
+	{
+		"enable"		"-1"
+		"hammerid"		"8102"
+	}
+	"9502"
+	{
+		"enable"		"-1"
+		"hammerid"		"9502"
+	}
 }

@@ -24,4 +24,19 @@
 		"hammerid"		"522268"
 		"m_iname"		"secound wall tp"
 	}
+	"98588"
+	{
+		"enable"		"-1"
+		"hammerid"		"98588"
+	}
+	"99456"
+	{
+		"enable"		"-1"
+		"hammerid"		"99456"
+	}
+	"90136"
+	{
+		"enable"		"-1"
+		"hammerid"		"90136"
+	}
 }

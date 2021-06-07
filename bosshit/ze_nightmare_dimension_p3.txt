@@ -144,4 +144,9 @@
 		"hammerid"		"148160"
 		"m_iname"		"spawn_door1"
 	}
+	"185762"
+	{
+		"enable"		"-1"
+		"hammerid"		"185762"
+	}
 }

@@ -40,4 +40,12 @@
 	{
 		"chi"		"** **"
 	}
+	"*** SELF DESTRUCT ACTIVATED - 60 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** MAP CRASH FIXED BY 5UNZ ***"
+	{
+		"chi"		"** **"
+	}
 }

@@ -15,7 +15,7 @@
 	"*** Door Opens in 15 seconds ***"
 	{
 		"chi"		"**大门15秒后打开**"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"*** Door Opens in 5 seconds ***"
 	{
@@ -24,12 +24,12 @@
 	"*** Door opens in 25 seconds ***"
 	{
 		"chi"		"**大门25秒后打开**"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"*** Door opens in 30 seconds ***"
 	{
 		"chi"		"**大门30秒后打开**"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"MapGlobal_ConVars"
 	{
@@ -45,7 +45,7 @@
 	"*** Door Closes in 20 seconds ***"
 	{
 		"chi"		"**大门20秒后关闭**"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"*** STAGE COMPLETED ***"
 	{
@@ -55,12 +55,20 @@
 	{
 		"chi"		"**当前难度:机械运转**"
 	}
-	"*** Door Opens in 20 seconds ***"
+	"*** DOOR OPENS IN 20 SECONDS ***"
 	{
 		"chi"		"**大门20秒后打开**"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"!!! KILL ALL ZOMBIES !!!"
+	{
+		"chi"		"** **"
+	}
+	"The se"
+	{
+		"chi"		"** **"
+	}
+	"Admin pressed Inspection button"
 	{
 		"chi"		"** **"
 	}

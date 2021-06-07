@@ -28,7 +28,7 @@
 	{
 		"chi"		"**缆车10秒后移动**"
 	}
-	"*** zombie teleport in 5 seconds ***"
+	"*** ZOMBIE TELEPORT IN 5 SECONDS ***"
 	{
 		"chi"		"**僵尸5秒后传送**"
 	}

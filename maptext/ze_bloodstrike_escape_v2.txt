@@ -60,7 +60,7 @@
 	{
 		"syncvalue"		"46634"
 	}
-	"**stage 1**"
+	"**Stage 1**"
 	{
 		"chi"		"** **"
 	}
@@ -68,7 +68,7 @@
 	{
 		"chi"		"** **"
 	}
-	"**stage 2**"
+	"**Stage 2**"
 	{
 		"chi"		"** **"
 	}
@@ -147,7 +147,7 @@
 	"**wood and glass break in 8 seconds**"
 	{
 		"chi"		"** **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"**boat move in 15 seconds**"
 	{
@@ -180,7 +180,7 @@
 	"**CD 60 seconds**"
 	{
 		"chi"		"** **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"**Item_Wind use**"
 	{
@@ -205,7 +205,7 @@
 	"**CD 40seconds**"
 	{
 		"chi"		"** **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"**zombies will teleport in 5 seconds**"
 	{

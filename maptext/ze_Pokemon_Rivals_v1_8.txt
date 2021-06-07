@@ -148,7 +148,7 @@
 	{
 		"chi"		"** 一个正在睡觉的精灵挡住了路！**"
 	}
-	"Hold for 30 seconds!"
+	"Hold for 30 Seconds!"
 	{
 		"chi"		"**坚守30秒！**"
 	}
@@ -318,7 +318,7 @@
 	}
 	"Enemy SPEAROW used LEER!"
 	{
-		"chi"		"**敌方烈雀使用了瞪眼！**"
+		"chi"		"**敌方烈雀使用了无能狂怒！**"
 	}
 	"HUMANs POKEMONs DEFENSE fell!"
 	{
@@ -808,7 +808,7 @@
 	{
 		"chi"		"** **"
 	}
-	"Hold for 25 seconds!"
+	"Hold for 25 Seconds!"
 	{
 		"chi"		"** **"
 	}
@@ -908,7 +908,15 @@
 	{
 		"chi"		"** **"
 	}
+	"HORSEA used LEER!"
+	{
+		"chi"		"** **"
+	}
 	"Enemy DIGLETT used GROWL!"
+	{
+		"chi"		"** **"
+	}
+	"WEEDLE used TACKLE!"
 	{
 		"chi"		"** **"
 	}

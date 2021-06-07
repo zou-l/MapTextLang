@@ -150,4 +150,99 @@
 		"hammerid"		"5261"
 		"m_iname"		"Breakable_1"
 	}
+	"536"
+	{
+		"enable"		"-1"
+		"hammerid"		"536"
+	}
+	"538"
+	{
+		"enable"		"-1"
+		"hammerid"		"538"
+	}
+	"540"
+	{
+		"enable"		"-1"
+		"hammerid"		"540"
+	}
+	"542"
+	{
+		"enable"		"-1"
+		"hammerid"		"542"
+	}
+	"544"
+	{
+		"enable"		"-1"
+		"hammerid"		"544"
+	}
+	"552"
+	{
+		"enable"		"-1"
+		"hammerid"		"552"
+	}
+	"558"
+	{
+		"enable"		"-1"
+		"hammerid"		"558"
+	}
+	"560"
+	{
+		"enable"		"-1"
+		"hammerid"		"560"
+	}
+	"562"
+	{
+		"enable"		"-1"
+		"hammerid"		"562"
+	}
+	"571"
+	{
+		"enable"		"-1"
+		"hammerid"		"571"
+	}
+	"610"
+	{
+		"enable"		"-1"
+		"hammerid"		"610"
+	}
+	"612"
+	{
+		"enable"		"-1"
+		"hammerid"		"612"
+	}
+	"614"
+	{
+		"enable"		"-1"
+		"hammerid"		"614"
+	}
+	"626"
+	{
+		"enable"		"-1"
+		"hammerid"		"626"
+	}
+	"650"
+	{
+		"enable"		"-1"
+		"hammerid"		"650"
+	}
+	"654"
+	{
+		"enable"		"-1"
+		"hammerid"		"654"
+	}
+	"665"
+	{
+		"enable"		"-1"
+		"hammerid"		"665"
+	}
+	"667"
+	{
+		"enable"		"-1"
+		"hammerid"		"667"
+	}
+	"669"
+	{
+		"enable"		"-1"
+		"hammerid"		"669"
+	}
 }

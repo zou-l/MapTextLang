@@ -76,19 +76,19 @@
 	{
 		"chi"		"**15秒后桥打开**"
 	}
-	"***Fall back***"
+	"***Fall Back***"
 	{
 		"chi"		"**溜溜球!!!**"
 	}
 	"***Button 2 is triggered***"
 	{
 		"chi"		"**按钮2被触发**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"***Button 1 is triggered***"
 	{
 		"chi"		"**按钮1被触发**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"***All buttons are pressed***"
 	{
@@ -453,32 +453,32 @@
 	"***YOU HAVE 2 MINS TO DEFEAT ME***"
 	{
 		"chi"		"**你有2分钟的时间来击败我**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"***SUPERNOVA***"
 	{
-		"chi"		"**超新星（按W抵抗推力）**"
-		"DoorCountdown"		"3"
+		"chi"		"**超新星风暴**"
+		"DoorCountDown"		"4"
 	}
 	"***SERVANTS***"
 	{
-		"chi"		"**尸笼（回头防守僵尸）**"
-		"DoorCountdown"		"3"
+		"chi"		"**恶魔之仆(尸笼)**"
+		"DoorCountDown"		"4"
 	}
 	"***SABER***"
 	{
 		"chi"		"**利刃**"
-		"DoorCountdown"		"3"
+		"DoorCountDown"		"3"
 	}
 	"***BLACK HOLE***"
 	{
-		"chi"		"**黑洞（按S抵抗吸力）**"
-		"DoorCountdown"		"3"
+		"chi"		"**黑洞**"
+		"DoorCountDown"		"4"
 	}
 	"***DEATH LIGHT***"
 	{
-		"chi"		"**死亡光线（蹲下躲避刀刃）**"
-		"DoorCountdown"		"3"
+		"chi"		"**死亡光线(蹲下)**"
+		"DoorCountDown"		"4"
 	}
 	"***You take too much of time!!!***"
 	{
@@ -507,7 +507,7 @@
 	"***Hold them for 2 minutess***"
 	{
 		"chi"		"**坚守2分钟**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"***ZOMBIE REACHED THE FINAL ESCAPE ROOM***"
 	{
@@ -516,7 +516,7 @@
 	"**1 minute left, keep holding***"
 	{
 		"chi"		"**倒计时1分钟**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"***Admin button is pressed !!!***"
 	{
@@ -589,12 +589,12 @@
 	"***Lasers!!!***"
 	{
 		"chi"		"**注意按钮那边飞来的激光刀（共十刀）**"
-		"DoorCountdown"		"12"
+		"DoorCountDown"		"12"
 	}
 	"***Lasers!!!**"
 	{
 		"chi"		"**注意按钮那边飞来的激光刀（共十刀）**"
-		"DoorCountdown"		"12"
+		"DoorCountDown"		"12"
 	}
 	"***The portal will activate in 70s***"
 	{

@@ -150,4 +150,24 @@
 		"hammerid"		"16193"
 		"m_iname"		"cem_shgate"
 	}
+	"13125"
+	{
+		"enable"		"-1"
+		"hammerid"		"13125"
+	}
+	"13147"
+	{
+		"enable"		"-1"
+		"hammerid"		"13147"
+	}
+	"13306"
+	{
+		"enable"		"-1"
+		"hammerid"		"13306"
+	}
+	"14706"
+	{
+		"enable"		"-1"
+		"hammerid"		"14706"
+	}
 }

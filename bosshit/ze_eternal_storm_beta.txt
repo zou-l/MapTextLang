@@ -60,4 +60,9 @@
 		"hammerid"		"13069"
 		"m_iname"		"boss_1"
 	}
+	"905"
+	{
+		"enable"		"-1"
+		"hammerid"		"905"
+	}
 }

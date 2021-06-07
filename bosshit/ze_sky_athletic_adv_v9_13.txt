@@ -240,4 +240,214 @@
 		"hammerid"		"1008202"
 		"m_iname"		"boss_burning_hantei_1"
 	}
+	"1126036"
+	{
+		"enable"		"-1"
+		"hammerid"		"1126036"
+		"m_iname"		"stage1 phys"
+	}
+	"1126208"
+	{
+		"enable"		"-1"
+		"hammerid"		"1126208"
+		"m_iname"		"stage1 phys"
+	}
+	"803217"
+	{
+		"enable"		"-1"
+		"hammerid"		"803217"
+		"m_iname"		"stage3 phys"
+	}
+	"742243"
+	{
+		"enable"		"-1"
+		"hammerid"		"742243"
+		"m_iname"		"stage1 phys"
+	}
+	"509233"
+	{
+		"enable"		"-1"
+		"hammerid"		"509233"
+		"m_iname"		"stage3 phys"
+	}
+	"8391"
+	{
+		"enable"		"-1"
+		"hammerid"		"8391"
+		"m_iname"		"stage1 phys"
+	}
+	"8449"
+	{
+		"enable"		"-1"
+		"hammerid"		"8449"
+		"m_iname"		"stage2 phys"
+	}
+	"27922"
+	{
+		"enable"		"-1"
+		"hammerid"		"27922"
+	}
+	"40696"
+	{
+		"enable"		"-1"
+		"hammerid"		"40696"
+		"m_iname"		"stage3 phys"
+	}
+	"46840"
+	{
+		"enable"		"-1"
+		"hammerid"		"46840"
+	}
+	"196068"
+	{
+		"enable"		"-1"
+		"hammerid"		"196068"
+		"m_iname"		"stage1 phys"
+	}
+	"207596"
+	{
+		"enable"		"-1"
+		"hammerid"		"207596"
+		"m_iname"		"stage1 phys"
+	}
+	"207704"
+	{
+		"enable"		"-1"
+		"hammerid"		"207704"
+		"m_iname"		"stage1 phys"
+	}
+	"991612"
+	{
+		"enable"		"-1"
+		"hammerid"		"991612"
+		"m_iname"		"cute target_angry"
+	}
+	"991721"
+	{
+		"enable"		"1"
+		"hammerid"		"991721"
+		"m_iname"		"stage2_boss_angry_elec_phys&511"
+	}
+	"67533"
+	{
+		"enable"		"1"
+		"hammerid"		"67533"
+		"m_iname"		"crasher target"
+	}
+	"1065261"
+	{
+		"enable"		"1"
+		"hammerid"		"1065261"
+		"m_iname"		"boss_cold_hantei_4"
+	}
+	"1065264"
+	{
+		"enable"		"1"
+		"hammerid"		"1065264"
+		"m_iname"		"boss_burning_hantei_4"
+	}
+	"1072717"
+	{
+		"enable"		"1"
+		"hammerid"		"1072717"
+		"m_iname"		"boss_push_hantei_4"
+	}
+	"416534"
+	{
+		"enable"		"1"
+		"hammerid"		"416534"
+		"m_iname"		"ex2_boss_target"
+	}
+	"425678"
+	{
+		"enable"		"1"
+		"hammerid"		"425678"
+		"m_iname"		"ex2_boss_target2"
+	}
+	"561273"
+	{
+		"enable"		"1"
+	}
+	"364705"
+	{
+		"enable"		"1"
+		"hammerid"		"364705"
+		"m_iname"		"stage3_boss_esc1"
+	}
+	"366737"
+	{
+		"enable"		"1"
+		"hammerid"		"366737"
+		"m_iname"		"stage3_boss_esc2"
+	}
+	"551198"
+	{
+		"enable"		"-1"
+		"hammerid"		"551198"
+		"m_iname"		"ex1_girl_cloud_breakble"
+	}
+	"561301"
+	{
+		"enable"		"-1"
+		"hammerid"		"561301"
+		"m_iname"		"ex1_girl_cloud2_breakble"
+	}
+	"1047507"
+	{
+		"enable"		"1"
+		"hammerid"		"1047507"
+		"m_iname"		"boss_cold_hantei_2"
+	}
+	"1047498"
+	{
+		"enable"		"1"
+		"hammerid"		"1047498"
+		"m_iname"		"boss_push_hantei_2"
+	}
+	"1047435"
+	{
+		"enable"		"1"
+		"hammerid"		"1047435"
+		"m_iname"		"boss_burning_hantei_2"
+	}
+	"620034"
+	{
+		"enable"		"1"
+	}
+	"406833"
+	{
+		"enable"		"1"
+		"hammerid"		"406833"
+		"m_iname"		"final_boss_truetarget"
+	}
+	"612625"
+	{
+		"enable"		"-1"
+		"hammerid"		"612625"
+		"m_iname"		"CY01physic2"
+	}
+	"1087762"
+	{
+		"enable"		"1"
+		"hammerid"		"1087762"
+		"m_iname"		"boss_cold_hantei_5"
+	}
+	"1087765"
+	{
+		"enable"		"1"
+		"hammerid"		"1087765"
+		"m_iname"		"boss_burning_hantei_5"
+	}
+	"1087759"
+	{
+		"enable"		"1"
+		"hammerid"		"1087759"
+		"m_iname"		"boss_push_hantei_5"
+	}
+	"785931"
+	{
+		"enable"		"-1"
+		"hammerid"		"785931"
+		"m_iname"		"final_crasher_after_phys_break"
+	}
 }

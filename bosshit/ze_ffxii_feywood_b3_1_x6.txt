@@ -264,4 +264,46 @@
 		"hammerid"		"3965565"
 		"m_iname"		"lvl3_dragon_bullet_wall"
 	}
+	"440608"
+	{
+		"enable"		"-1"
+		"hammerid"		"440608"
+		"m_iname"		"Phys_Level_Changer"
+	}
+	"441049"
+	{
+		"enable"		"-1"
+		"hammerid"		"441049"
+		"m_iname"		"Phys_Level_Changer"
+	}
+	"441052"
+	{
+		"enable"		"-1"
+		"hammerid"		"441052"
+		"m_iname"		"Phys_Level_Changer"
+	}
+	"441055"
+	{
+		"enable"		"-1"
+		"hammerid"		"441055"
+		"m_iname"		"Phys_Level_Changer"
+	}
+	"441058"
+	{
+		"enable"		"-1"
+		"hammerid"		"441058"
+		"m_iname"		"Phys_Level_Changer"
+	}
+	"441061"
+	{
+		"enable"		"-1"
+		"hammerid"		"441061"
+		"m_iname"		"Phys_Level_Changer"
+	}
+	"441064"
+	{
+		"enable"		"-1"
+		"hammerid"		"441064"
+		"m_iname"		"Phys_Level_Changer"
+	}
 }

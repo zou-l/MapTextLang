@@ -23,7 +23,7 @@
 	"***Incoming laser***"
 	{
 		"chi"		"**小心前方激光刀，准备跳刀**"
-		"DoorCountdown"		"5"
+		"DoorCountDown"		"5"
 	}
 	"***Map by Kiriya***"
 	{
@@ -35,11 +35,11 @@
 	}
 	"***Defend 50 seconds for next level***"
 	{
-		"chi"		"** **"
+		"chi"		"**防守50秒至下一个点**"
 	}
 	"***Zombie released in 20 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸20秒后出笼**"
 	}
 	"***Defend 40 seconds for final level***"
 	{
@@ -48,5 +48,9 @@
 	"***Warning: Glass will be break in 5 seconds***"
 	{
 		"chi"		"**警告：玻璃将在5秒后破碎**"
+	}
+	"The se"
+	{
+		"chi"		"** **"
 	}
 }

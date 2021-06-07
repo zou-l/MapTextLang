@@ -104,4 +104,8 @@
 	{
 		"chi"		"15秒后AFK传送"
 	}
+	"***THE GATE WILL OPEN IN 30 SECOND***"
+	{
+		"chi"		"** **"
+	}
 }

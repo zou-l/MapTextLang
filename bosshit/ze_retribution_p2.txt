@@ -88,4 +88,29 @@
 		"hammerid"		"81221"
 		"m_iname"		"auto1"
 	}
+	"80109"
+	{
+		"enable"		"-1"
+		"hammerid"		"80109"
+	}
+	"80112"
+	{
+		"enable"		"-1"
+		"hammerid"		"80112"
+	}
+	"81498"
+	{
+		"enable"		"-1"
+		"hammerid"		"81498"
+	}
+	"81668"
+	{
+		"enable"		"-1"
+		"hammerid"		"81668"
+	}
+	"81678"
+	{
+		"enable"		"-1"
+		"hammerid"		"81678"
+	}
 }

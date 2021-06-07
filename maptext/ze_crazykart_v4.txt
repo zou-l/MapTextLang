@@ -7820,4 +7820,2528 @@
 	{
 		"chi"		"** **"
 	}
+	"[私は八尺様を愛 DIED DUE TO INACTIVITYCAMPING]"
+	{
+		"chi"		"** **"
+	}
+	"[中路狙神祁同伟 CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[userid-399 CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[userid-164 CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[Amamiya Mei FINISHED 1]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-428> FINISHED 2]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-387> FINISHED 4]"
+	{
+		"chi"		"** **"
+	}
+	"[userid-354 FINISHED 5]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-436> DIED DUE TO INACTIVITYCAMPING]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-164> FINISHED 4]"
+	{
+		"chi"		"** **"
+	}
+	"[中路狙神祁同伟 DIED DUE TO ITEMBOX CAMPINGTROLLING]"
+	{
+		"chi"		"** **"
+	}
+	"[Amamiya Mei FINISHED 2]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-428> FINISHED 3]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-352> FINISHED 4]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-164> FINISHED 5]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-287> FINISHED 6]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-387> FINISHED 7]"
+	{
+		"chi"		"** **"
+	}
+	"[虚坤菜菜子 FINISHED 8]"
+	{
+		"chi"		"** **"
+	}
+	"[小铃铛叮当 FINISHED 3]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-428> FINISHED 4]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-387> FINISHED 5]"
+	{
+		"chi"		"** **"
+	}
+	"[小铃铛叮当 FINISHED 1]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-317> FINISHED 2]"
+	{
+		"chi"		"** **"
+	}
+	"[Amamiya Mei FINISHED 3]"
+	{
+		"chi"		"** **"
+	}
+	"[ÓÍÔÎÕÏÖ CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[欧拉欧拉欧啦！！！ DIED DUE TO INACTIVITYCAMPING]"
+	{
+		"chi"		"** **"
+	}
+	"[Amamiya Mei CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-352> DIED DUE TO ITEMBOX CAMPINGTROLLING]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-387> FINISHED 1]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-174> CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-399> FINISHED 14]"
+	{
+		"chi"		"** **"
+	}
+	"[脆皮鸡 FINISHED 13]"
+	{
+		"chi"		"** **"
+	}
+	"[ÓÍÔÎÕÏÖ FINISHED 12]"
+	{
+		"chi"		"** **"
+	}
+	"[荞麦 FINISHED 11]"
+	{
+		"chi"		"** **"
+	}
+	"[高町家的小奈叶 FINISHED 10]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-287> FINISHED 9]"
+	{
+		"chi"		"** **"
+	}
+	"[JIA JIA. FINISHED 8]"
+	{
+		"chi"		"** **"
+	}
+	"[auelroy FINISHED 7]"
+	{
+		"chi"		"** **"
+	}
+	"[桐須真冬♪ FINISHED 6]"
+	{
+		"chi"		"** **"
+	}
+	"[小铃铛叮当 FINISHED 5]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-317> FINISHED 4]"
+	{
+		"chi"		"** **"
+	}
+	"[blue   smoke FINISHED 3]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-387> - LAST ALIVE]"
+	{
+		"chi"		"** **"
+	}
+	"[ÓÍÔÎÕÏÖ FINISHED 1]"
+	{
+		"chi"		"** **"
+	}
+	"[高町家的小奈叶 FINISHED 2]"
+	{
+		"chi"		"** **"
+	}
+	"[小铃铛叮当 FINISHED 2]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-399> DIED DUE TO ITEMBOX CAMPINGTROLLING]"
+	{
+		"chi"		"** **"
+	}
+	"[JIA JIA. FINISHED 2]"
+	{
+		"chi"		"** **"
+	}
+	"[嫉妒 - LAST ALIVE]"
+	{
+		"chi"		"** **"
+	}
+	"[ℳ₯吃派の阿能͡ꦿ᭄☆ CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-14> CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[ぱひびぶぷへ小鱼へ CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[肉蛋葱鸡 CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[突击の瀦儿虫 CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[userid-2 CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-4> FINISHED 1]"
+	{
+		"chi"		"** **"
+	}
+	"[火龙果(StarOath予星) CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-13> FINISHED 2]"
+	{
+		"chi"		"** **"
+	}
+	"[草莓仔 FINISHED 4]"
+	{
+		"chi"		"** **"
+	}
+	"[满天繁星 FINISHED 5]"
+	{
+		"chi"		"** **"
+	}
+	"[榴莲丶棒棒糖 FINISHED 6]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-6> CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[Bu_Nai DIED DUE TO ITEMBOX CAMPINGTROLLING]"
+	{
+		"chi"		"** **"
+	}
+	"[和泉纱雾 DIED DUE TO INACTIVITYCAMPING]"
+	{
+		"chi"		"** **"
+	}
+	"[跟痔瞄一样 FINISHED 1]"
+	{
+		"chi"		"** **"
+	}
+	"[草莓仔 FINISHED 2]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-14> FINISHED 5]"
+	{
+		"chi"		"** **"
+	}
+	"[突击の瀦儿虫 FINISHED 7]"
+	{
+		"chi"		"** **"
+	}
+	"[满天繁星 FINISHED 8]"
+	{
+		"chi"		"** **"
+	}
+	"[ℳ₯吃派の阿能͡ꦿ᭄☆ FINISHED 9]"
+	{
+		"chi"		"** **"
+	}
+	"[霞之秋诗羽 FINISHED 10]"
+	{
+		"chi"		"** **"
+	}
+	"[Potter_Lee FINISHED 11]"
+	{
+		"chi"		"** **"
+	}
+	"[精肛互撸娃 FINISHED 12]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-8> FINISHED 13]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-13> FINISHED 1]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-4> FINISHED 2]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-14> FINISHED 3]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-2> FINISHED 4]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-13> FINISHED 20]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-14> FINISHED 19]"
+	{
+		"chi"		"** **"
+	}
+	"[酒暮 FINISHED 18]"
+	{
+		"chi"		"** **"
+	}
+	"[突击の瀦儿虫 FINISHED 17]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-8> FINISHED 16]"
+	{
+		"chi"		"** **"
+	}
+	"[满天繁星 FINISHED 15]"
+	{
+		"chi"		"** **"
+	}
+	"[肉蛋葱鸡 FINISHED 14]"
+	{
+		"chi"		"** **"
+	}
+	"[Potter_Lee FINISHED 13]"
+	{
+		"chi"		"** **"
+	}
+	"[ℳ₯吃派の阿能͡ꦿ᭄☆ FINISHED 12]"
+	{
+		"chi"		"** **"
+	}
+	"[满天繁星 FINISHED 11 BY STEALING A KART]"
+	{
+		"chi"		"** **"
+	}
+	"[年少白给 FINISHED 10]"
+	{
+		"chi"		"** **"
+	}
+	"[火龙果(StarOath予星) FINISHED 9]"
+	{
+		"chi"		"** **"
+	}
+	"[Bu_Nai FINISHED 7]"
+	{
+		"chi"		"** **"
+	}
+	"[和泉纱雾 FINISHED 6]"
+	{
+		"chi"		"** **"
+	}
+	"[满天繁星 FINISHED 5 BY STEALING A KART]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-6> FINISHED 4]"
+	{
+		"chi"		"** **"
+	}
+	"[𝓰𝓹𝓱𝓽 FINISHED 3]"
+	{
+		"chi"		"** **"
+	}
+	"[精肛互撸娃 - LAST ALIVE]"
+	{
+		"chi"		"** **"
+	}
+	"[ひな CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[精肛互撸娃 CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[逆向_LoOp DIED DUE TO INACTIVITYCAMPING]"
+	{
+		"chi"		"** **"
+	}
+	"[逆向_LoOp CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[乔尔 FINISHED 3]"
+	{
+		"chi"		"** **"
+	}
+	"[丶の阿露露⍨IGXE.CN FINISHED 2]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-4> FINISHED 3]"
+	{
+		"chi"		"** **"
+	}
+	"[乔尔 FINISHED 4]"
+	{
+		"chi"		"** **"
+	}
+	"[肉蛋葱鸡 FINISHED 6]"
+	{
+		"chi"		"** **"
+	}
+	"[咪 ？ FINISHED 1]"
+	{
+		"chi"		"** **"
+	}
+	"[突击の瀦儿虫 FINISHED 3]"
+	{
+		"chi"		"** **"
+	}
+	"[绯红零月 - LAST ALIVE]"
+	{
+		"chi"		"** **"
+	}
+	"[三色院堇子 DIED DUE TO INACTIVITYCAMPING]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-3460> DIED DUE TO INACTIVITYCAMPING]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-3469> FINISHED 1]"
+	{
+		"chi"		"** **"
+	}
+	"[用核彈炸蒼蠅 FINISHED 2]"
+	{
+		"chi"		"** **"
+	}
+	"[观星仙人除胸去腰 FINISHED 3]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-3380> FINISHED 4]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-3529> FINISHED 5]"
+	{
+		"chi"		"** **"
+	}
+	"[星与你消失之日 FINISHED 6]"
+	{
+		"chi"		"** **"
+	}
+	"[嫉妒 FINISHED 7]"
+	{
+		"chi"		"** **"
+	}
+	"[用核彈炸蒼蠅 FINISHED 1]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-3469> FINISHED 2]"
+	{
+		"chi"		"** **"
+	}
+	"[嫉妒 FINISHED 3]"
+	{
+		"chi"		"** **"
+	}
+	"[观星仙人除胸去腰 DIED DUE TO ITEMBOX CAMPINGTROLLING]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-3380> CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[星与你消失之日 CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-3529> FINISHED 1]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-3533> FINISHED 4]"
+	{
+		"chi"		"** **"
+	}
+	"[用核彈炸蒼蠅 CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-3380> FINISHED 1]"
+	{
+		"chi"		"** **"
+	}
+	"[星与你消失之日 FINISHED 2]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-3469> FINISHED 3]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-3529> FINISHED 4]"
+	{
+		"chi"		"** **"
+	}
+	"[嫉妒 FINISHED 2]"
+	{
+		"chi"		"** **"
+	}
+	"[观星仙人除胸去腰 FINISHED 4]"
+	{
+		"chi"		"** **"
+	}
+	"[用核彈炸蒼蠅 FINISHED 5]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-3533> FINISHED 6]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-3533> CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[七猫斩 CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[杀人我不行 白给第一名 DIED DUE TO ITEMBOX CAMPINGTROLLING]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-3380> FINISHED 2]"
+	{
+		"chi"		"** **"
+	}
+	"[杀人我不行 白给第一名 CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[杀人我不行 白给第一名 FINISHED 5]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-3460> FINISHED 4]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-3380> - LAST ALIVE]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-3469> DIED DUE TO INACTIVITYCAMPING]"
+	{
+		"chi"		"** **"
+	}
+	"[userid-526 CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-609> CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-599> CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-553> DIED DUE TO INACTIVITYCAMPING]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-539> CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-597> CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-607> FINISHED 1]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-617> CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-611> FINISHED 2]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-606> FINISHED 3]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-605> FINISHED 4]"
+	{
+		"chi"		"** **"
+	}
+	"[起飞[R] 马来西亚飞行员 FINISHED 5]"
+	{
+		"chi"		"** **"
+	}
+	"[userid-624 FINISHED 6]"
+	{
+		"chi"		"** **"
+	}
+	"[童話の庭 CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-603> FINISHED 7]"
+	{
+		"chi"		"** **"
+	}
+	"[花⑦喵                   ❀YoShino♪♫ FINISHED 8]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-598> FINISHED 9]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-479> FINISHED 10]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-540> CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-527> DIED DUE TO INACTIVITYCAMPING]"
+	{
+		"chi"		"** **"
+	}
+	"[童話の庭 FINISHED 1]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-607> FINISHED 2]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-605> FINISHED 3]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-611> FINISHED 4]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-624> FINISHED 5]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-617> FINISHED 6]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-610> FINISHED 7]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-513> FINISHED 8]"
+	{
+		"chi"		"** **"
+	}
+	"[Lang FINISHED 9]"
+	{
+		"chi"		"** **"
+	}
+	"[❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀ DIED DUE TO INACTIVITYCAMPING]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-100> CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-563> DIED DUE TO INACTIVITYCAMPING]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-611> FINISHED 1]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-540> FINISHED 2]"
+	{
+		"chi"		"** **"
+	}
+	"[Young for me FINISHED 3]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-598> FINISHED 4]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-607> FINISHED 5]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-612> FINISHED 6]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-597> FINISHED 7]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-606> FINISHED 8]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-479> FINISHED 9]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-602> FINISHED 10]"
+	{
+		"chi"		"** **"
+	}
+	"[路呢(*′▽`)？ FINISHED 11]"
+	{
+		"chi"		"** **"
+	}
+	"[童話の庭 FINISHED 12]"
+	{
+		"chi"		"** **"
+	}
+	"[nokikon FINISHED 13]"
+	{
+		"chi"		"** **"
+	}
+	"[大眼睛龙飞 FINISHED 14]"
+	{
+		"chi"		"** **"
+	}
+	"[Lang FINISHED 15]"
+	{
+		"chi"		"** **"
+	}
+	"[阿轩 FINISHED 16]"
+	{
+		"chi"		"** **"
+	}
+	"[猫だよ CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[伊井野弥子想让我告白 DIED DUE TO INACTIVITYCAMPING]"
+	{
+		"chi"		"** **"
+	}
+	"[Amiens❀鹿 DIED DUE TO INACTIVITYCAMPING]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-598> FINISHED 1]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-597> FINISHED 3]"
+	{
+		"chi"		"** **"
+	}
+	"[阿轩 FINISHED 4]"
+	{
+		"chi"		"** **"
+	}
+	"[笨蛋⑨baka FINISHED 5]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-611> FINISHED 6]"
+	{
+		"chi"		"** **"
+	}
+	"[危机里昂 FINISHED 54]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-573> FINISHED 53]"
+	{
+		"chi"		"** **"
+	}
+	"[91大神茄碧萝殿下❀ FINISHED 52]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-527> FINISHED 51]"
+	{
+		"chi"		"** **"
+	}
+	"[阿轩 FINISHED 50]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-479> FINISHED 49]"
+	{
+		"chi"		"** **"
+	}
+	"[大眼睛龙飞 FINISHED 48]"
+	{
+		"chi"		"** **"
+	}
+	"[路呢(*′▽`)？ FINISHED 47]"
+	{
+		"chi"		"** **"
+	}
+	"[笨蛋⑨baka FINISHED 46]"
+	{
+		"chi"		"** **"
+	}
+	"[Liu.sir FINISHED 45]"
+	{
+		"chi"		"** **"
+	}
+	"[花香久散风中 FINISHED 44]"
+	{
+		"chi"		"** **"
+	}
+	"[Amiens❀鹿 FINISHED 43]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-403> FINISHED 42]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-616> FINISHED 41]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-540> FINISHED 40]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-570> FINISHED 39]"
+	{
+		"chi"		"** **"
+	}
+	"[xxLa. FINISHED 38]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-539> FINISHED 37]"
+	{
+		"chi"		"** **"
+	}
+	"[Young for me FINISHED 36]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-100> FINISHED 35]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-615> FINISHED 34]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-605> FINISHED 33]"
+	{
+		"chi"		"** **"
+	}
+	"[私は感情のない萌え新 FINISHED 32]"
+	{
+		"chi"		"** **"
+	}
+	"[Natsun FINISHED 31]"
+	{
+		"chi"		"** **"
+	}
+	"[猫だよ FINISHED 30]"
+	{
+		"chi"		"** **"
+	}
+	"[Lang FINISHED 29]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-531> FINISHED 28]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-333> FINISHED 27]"
+	{
+		"chi"		"** **"
+	}
+	"[2389259573 FINISHED 26]"
+	{
+		"chi"		"** **"
+	}
+	"[Amiens❀鹿 FINISHED 25 BY STEALING A KART]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-617> FINISHED 24]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-513> FINISHED 23]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-612> FINISHED 22]"
+	{
+		"chi"		"** **"
+	}
+	"[清新的二哈 FINISHED 21]"
+	{
+		"chi"		"** **"
+	}
+	"[绯色奈落 FINISHED 20]"
+	{
+		"chi"		"** **"
+	}
+	"[ZymOo FINISHED 19]"
+	{
+		"chi"		"** **"
+	}
+	"[賭聖周星星 FINISHED 18]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-597> FINISHED 17]"
+	{
+		"chi"		"** **"
+	}
+	"[我值三百元 FINISHED 16]"
+	{
+		"chi"		"** **"
+	}
+	"[3105627128 FINISHED 15]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-606> FINISHED 14]"
+	{
+		"chi"		"** **"
+	}
+	"[小哥哥 FINISHED 13]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-599> FINISHED 11]"
+	{
+		"chi"		"** **"
+	}
+	"[菜菜桑i♪☄-Blive:1082310 FINISHED 10]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-611> FINISHED 9]"
+	{
+		"chi"		"** **"
+	}
+	"[nokikon FINISHED 8]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-522> FINISHED 7]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-607> FINISHED 6]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-602> FINISHED 5]"
+	{
+		"chi"		"** **"
+	}
+	"[我要在你腿上写个惨字 FINISHED 4]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-598> FINISHED 3]"
+	{
+		"chi"		"** **"
+	}
+	"[❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀ - LAST ALIVE]"
+	{
+		"chi"		"** **"
+	}
+	"[神迹小蛋 CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-333> CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[赤目天使立华奏 FINISHED 2]"
+	{
+		"chi"		"** **"
+	}
+	"[91大神茄碧萝殿下❀ CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-605> CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-533> CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-522> CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[赤目天使立华奏 FINISHED 1]"
+	{
+		"chi"		"** **"
+	}
+	"[笨蛋⑨baka FINISHED 3]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-597> FINISHED 4]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-540> FINISHED 5]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-598> FINISHED 6]"
+	{
+		"chi"		"** **"
+	}
+	"[绯色奈落 FINISHED 7]"
+	{
+		"chi"		"** **"
+	}
+	"[3105627128 FINISHED 8]"
+	{
+		"chi"		"** **"
+	}
+	"[Young for me FINISHED 9]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-611> FINISHED 10]"
+	{
+		"chi"		"** **"
+	}
+	"[阿轩 FINISHED 11]"
+	{
+		"chi"		"** **"
+	}
+	"[iospo FINISHED 12]"
+	{
+		"chi"		"** **"
+	}
+	"[Natsun FINISHED 13]"
+	{
+		"chi"		"** **"
+	}
+	"[清新的二哈 FINISHED 14]"
+	{
+		"chi"		"** **"
+	}
+	"[SIre FINISHED 15]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-616> CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[Young for me CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀ CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-531> CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[三明 CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[鸽子王 我先咕了 DIED DUE TO INACTIVITYCAMPING]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-100> DIED DUE TO INACTIVITYCAMPING]"
+	{
+		"chi"		"** **"
+	}
+	"[猫だよ DIED DUE TO INACTIVITYCAMPING]"
+	{
+		"chi"		"** **"
+	}
+	"[小哥哥 DIED DUE TO INACTIVITYCAMPING]"
+	{
+		"chi"		"** **"
+	}
+	"[Fallen Time DIED DUE TO INACTIVITYCAMPING]"
+	{
+		"chi"		"** **"
+	}
+	"[大眼睛龙飞 FINISHED 3]"
+	{
+		"chi"		"** **"
+	}
+	"[清新的二哈 FINISHED 4]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-606> FINISHED 5]"
+	{
+		"chi"		"** **"
+	}
+	"[SIre FINISHED 6]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-611> FINISHED 7]"
+	{
+		"chi"		"** **"
+	}
+	"[赤目天使立华奏 FINISHED 8]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-612> FINISHED 10]"
+	{
+		"chi"		"** **"
+	}
+	"[AMD yes!!! CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-2526> DIED DUE TO ITEMBOX CAMPINGTROLLING]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-2412> FINISHED 1]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-2538> FINISHED 2]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-2547> FINISHED 3]"
+	{
+		"chi"		"** **"
+	}
+	"[EZPZ097 FINISHED 4]"
+	{
+		"chi"		"** **"
+	}
+	"[我值三百元 DIED DUE TO INACTIVITYCAMPING]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-2538> FINISHED 1]"
+	{
+		"chi"		"** **"
+	}
+	"[pppeashy FINISHED 2]"
+	{
+		"chi"		"** **"
+	}
+	"[綠色曱甴 FINISHED 4]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-2412> FINISHED 5]"
+	{
+		"chi"		"** **"
+	}
+	"[shun_ye FINISHED 6]"
+	{
+		"chi"		"** **"
+	}
+	"[EZPZ097 FINISHED 7]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-2530> FINISHED 8]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-2547> FINISHED 2]"
+	{
+		"chi"		"** **"
+	}
+	"[ZYWOO FINISHED 3]"
+	{
+		"chi"		"** **"
+	}
+	"[userid-1954 CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[userid-2039 CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[userid-2054 CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[Sherlock.海绵宝宝 CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[顺丰派大星 CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[userid-1964 DIED DUE TO INACTIVITYCAMPING]"
+	{
+		"chi"		"** **"
+	}
+	"[喵内嘎(●◡●) FINISHED 1]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-1967> FINISHED 2]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-2035> FINISHED 3]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-2071> FINISHED 4]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-2055> FINISHED 5]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-2052> FINISHED 6]"
+	{
+		"chi"		"** **"
+	}
+	"[诗音 FINISHED 2]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-1842> FINISHED 3]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-2048> FINISHED 4]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-2057> FINISHED 6]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-2035> FINISHED 7]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-1967> FINISHED 8]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-1978> FINISHED 9]"
+	{
+		"chi"		"** **"
+	}
+	"[✪B17? FINISHED 10]"
+	{
+		"chi"		"** **"
+	}
+	"[诗音 FINISHED 1]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-1755> CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-1961> FINISHED 3]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-35> FINISHED 1]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-43> FINISHED 2]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-39> DIED DUE TO INACTIVITYCAMPING]"
+	{
+		"chi"		"** **"
+	}
+	"[浮生不觉 FINISHED 3]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-43> DIED DUE TO ITEMBOX CAMPINGTROLLING]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-1922> FINISHED 1]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-1822> FINISHED 2]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-1904> FINISHED 3]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-1913> DIED DUE TO ITEMBOX CAMPINGTROLLING]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-1893> FINISHED 4]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-1926> FINISHED 5]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-1892> FINISHED 6]"
+	{
+		"chi"		"** **"
+	}
+	"[userid-1924 FINISHED 7]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-1916> FINISHED 8]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-1893> FINISHED 1]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-1922> FINISHED 2]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-1924> FINISHED 3]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-1892> FINISHED 4]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-1879> FINISHED 5]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-1861> DIED DUE TO INACTIVITYCAMPING]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-1924> DIED DUE TO ITEMBOX CAMPINGTROLLING]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-1893> FINISHED 3]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-1918> FINISHED 4]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-1892> FINISHED 5]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-1657> FINISHED 6]"
+	{
+		"chi"		"** **"
+	}
+	"[你不彳亍 FINISHED 7]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-1657> CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-1892> FINISHED 1]"
+	{
+		"chi"		"** **"
+	}
+	"[喵MO帕Wan斯 FINISHED 3]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-1924> FINISHED 4]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-1822> FINISHED 5]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-380> CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[高町家的小奈叶 CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-416> CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-402> CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-376> - LAST ALIVE]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-406> FINISHED 20]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-398> FINISHED 19]"
+	{
+		"chi"		"** **"
+	}
+	"[乚亻乜冫 FINISHED 18]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-420> FINISHED 17]"
+	{
+		"chi"		"** **"
+	}
+	"[谁在说话？ FINISHED 16]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-416> FINISHED 15]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-425> FINISHED 14]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-391> FINISHED 13]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-402> FINISHED 12]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-376> FINISHED 11]"
+	{
+		"chi"		"** **"
+	}
+	"[ℳ₯吃派の阿能͡ꦿ᭄☆ FINISHED 10]"
+	{
+		"chi"		"** **"
+	}
+	"[乚亻乜冫 FINISHED 9 BY STEALING A KART]"
+	{
+		"chi"		"** **"
+	}
+	"[狂妄之骨 & Sans FINISHED 8]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-359> FINISHED 7]"
+	{
+		"chi"		"** **"
+	}
+	"[高町家的小奈叶 FINISHED 6]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-400> FINISHED 5]"
+	{
+		"chi"		"** **"
+	}
+	"[IZANAMI FINISHED 4]"
+	{
+		"chi"		"** **"
+	}
+	"[谁在说话？ FINISHED 3 BY STEALING A KART]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-412> FINISHED 1]"
+	{
+		"chi"		"** **"
+	}
+	"[IZANAMI FINISHED 2]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-398> FINISHED 3]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-376> FINISHED 36]"
+	{
+		"chi"		"** **"
+	}
+	"[SIre FINISHED 34]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-359> FINISHED 33]"
+	{
+		"chi"		"** **"
+	}
+	"[乚亻乜冫 FINISHED 32]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-402> FINISHED 31]"
+	{
+		"chi"		"** **"
+	}
+	"[MoonR1se FINISHED 30]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-375> FINISHED 29]"
+	{
+		"chi"		"** **"
+	}
+	"[谁在说话？ FINISHED 28]"
+	{
+		"chi"		"** **"
+	}
+	"[❤Yuzuriha Inori❤ FINISHED 27]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-391> FINISHED 26]"
+	{
+		"chi"		"** **"
+	}
+	"[丶Timmo- FINISHED 25]"
+	{
+		"chi"		"** **"
+	}
+	"[月下丶星辉 FINISHED 24]"
+	{
+		"chi"		"** **"
+	}
+	"[帅豪 FINISHED 23]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-421> FINISHED 22]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-414> FINISHED 21]"
+	{
+		"chi"		"** **"
+	}
+	"[夕阳红车队 FINISHED 20]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-404> FINISHED 18]"
+	{
+		"chi"		"** **"
+	}
+	"[BismarckCG FINISHED 16]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-406> FINISHED 15]"
+	{
+		"chi"		"** **"
+	}
+	"[Strygwyr FINISHED 14]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-386> FINISHED 13]"
+	{
+		"chi"		"** **"
+	}
+	"[鸽子王 我先咕了 FINISHED 12]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-400> FINISHED 11]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-416> FINISHED 10]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-420> FINISHED 9]"
+	{
+		"chi"		"** **"
+	}
+	"[祢豆子 FINISHED 8]"
+	{
+		"chi"		"** **"
+	}
+	"[ℳ₯吃派の阿能͡ꦿ᭄☆ FINISHED 7]"
+	{
+		"chi"		"** **"
+	}
+	"[IZANAMI FINISHED 6]"
+	{
+		"chi"		"** **"
+	}
+	"[幻梦安洛水依 FINISHED 5]"
+	{
+		"chi"		"** **"
+	}
+	"[小鱼干109还是没有抛瓦 FINISHED 4]"
+	{
+		"chi"		"** **"
+	}
+	"[油香 FINISHED 3]"
+	{
+		"chi"		"** **"
+	}
+	"[蒼い鳥 - LAST ALIVE]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-404> CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[蒼い鳥 FINISHED 1]"
+	{
+		"chi"		"** **"
+	}
+	"[白给王中王 CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[奥力给 CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[岚雪 CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[小鱼干109还是没有抛瓦 CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[月牙灬天冲 CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[BOY CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[绝世猛男草莓酱 DIED DUE TO INACTIVITYCAMPING]"
+	{
+		"chi"		"** **"
+	}
+	"[绝世猛男草莓酱 CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[lansv CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[小苏的脚丫 CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[2472663761 CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[鸽子王 我先咕了 FINISHED 1]"
+	{
+		"chi"		"** **"
+	}
+	"[爱风 CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-375> DIED DUE TO INACTIVITYCAMPING]"
+	{
+		"chi"		"** **"
+	}
+	"[Alice酱 CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-376> DIED DUE TO ITEMBOX CAMPINGTROLLING]"
+	{
+		"chi"		"** **"
+	}
+	"[你看这个闸总发牌员 FINISHED 1]"
+	{
+		"chi"		"** **"
+	}
+	"[地缚少年 FINISHED 1]"
+	{
+		"chi"		"** **"
+	}
+	"[您的快递请签收 FINISHED 1]"
+	{
+		"chi"		"** **"
+	}
+	"[音与 FINISHED 2]"
+	{
+		"chi"		"** **"
+	}
+	"[徐少（人菜枪马）QwQ FINISHED 3]"
+	{
+		"chi"		"** **"
+	}
+	"[祈祷落幕 FINISHED 4]"
+	{
+		"chi"		"** **"
+	}
+	"[祈祷落幕 FINISHED 2]"
+	{
+		"chi"		"** **"
+	}
+	"[音与 FINISHED 4]"
+	{
+		"chi"		"** **"
+	}
+	"[徐少（人菜枪马）QwQ DIED DUE TO INACTIVITYCAMPING]"
+	{
+		"chi"		"** **"
+	}
+	"[音与 FINISHED 1]"
+	{
+		"chi"		"** **"
+	}
+	"[您的快递请签收 FINISHED 2]"
+	{
+		"chi"		"** **"
+	}
+	"[祈祷落幕 FINISHED 3]"
+	{
+		"chi"		"** **"
+	}
+	"[煮 鱼 人 FINISHED 4]"
+	{
+		"chi"		"** **"
+	}
+	"[小葫芦(●･◡･●) CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[userid-642 CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[userid-650 CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-571> CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[userid-396 CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[userid-314 CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[userid-674 CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-562> CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-467> CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-675> FINISHED 1]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-580> FINISHED 2]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-572> FINISHED 3]"
+	{
+		"chi"		"** **"
+	}
+	"[userid-516 CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-570> FINISHED 4]"
+	{
+		"chi"		"** **"
+	}
+	"[userid-664 FINISHED 5]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-459> FINISHED 6]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-621> FINISHED 7]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-590> FINISHED 8]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-581> FINISHED 9]"
+	{
+		"chi"		"** **"
+	}
+	"[7981_ FINISHED 10]"
+	{
+		"chi"		"** **"
+	}
+	"[鴉羽和夜 FINISHED 11]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-654> FINISHED 12]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-509> DIED DUE TO INACTIVITYCAMPING]"
+	{
+		"chi"		"** **"
+	}
+	"[小葫芦(●･◡･●) FINISHED 1]"
+	{
+		"chi"		"** **"
+	}
+	"[三明 FINISHED 2]"
+	{
+		"chi"		"** **"
+	}
+	"[酒鬼 FINISHED 3]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-572> FINISHED 4]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-581> FINISHED 5]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-664> FINISHED 6]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-580> FINISHED 7]"
+	{
+		"chi"		"** **"
+	}
+	"[Force.Crh FINISHED 8]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-459> FINISHED 9]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-570> FINISHED 10]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-669> FINISHED 11]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-624> FINISHED 12]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-665> FINISHED 13]"
+	{
+		"chi"		"** **"
+	}
+	"[鴉羽和夜 FINISHED 14]"
+	{
+		"chi"		"** **"
+	}
+	"[7981_ FINISHED 15]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-621> FINISHED 16]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-654> DIED DUE TO INACTIVITYCAMPING]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-664> DIED DUE TO INACTIVITYCAMPING]"
+	{
+		"chi"		"** **"
+	}
+	"[大懒胖 FINISHED 3]"
+	{
+		"chi"		"** **"
+	}
+	"[★｜京急久里浜｜★ FINISHED 6]"
+	{
+		"chi"		"** **"
+	}
+	"[鱼鱼 DIED DUE TO INACTIVITYCAMPING]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-580> FINISHED 8]"
+	{
+		"chi"		"** **"
+	}
+	"[酒鬼 FINISHED 9]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-459> FINISHED 10]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-518> DIED DUE TO INACTIVITYCAMPING]"
+	{
+		"chi"		"** **"
+	}
+	"[♚懿星 DIED DUE TO INACTIVITYCAMPING]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-562> DIED DUE TO INACTIVITYCAMPING]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-596> DIED DUE TO INACTIVITYCAMPING]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-642> DIED DUE TO INACTIVITYCAMPING]"
+	{
+		"chi"		"** **"
+	}
+	"[酒鬼 FINISHED 1]"
+	{
+		"chi"		"** **"
+	}
+	"[小葫芦(●･◡･●) FINISHED 2]"
+	{
+		"chi"		"** **"
+	}
+	"[♚懿星 CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-647> FINISHED 4]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-570> FINISHED 5]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-528> FINISHED 6]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-590> FINISHED 7]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-596> CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-377> CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[酒鬼 FINISHED 2]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-396> CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-665> FINISHED 3]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-654> FINISHED 4]"
+	{
+		"chi"		"** **"
+	}
+	"[一色伊吕波 FINISHED 5]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-670> FINISHED 7]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-570> FINISHED 8]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-45> FINISHED 1]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-40> FINISHED 2]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-54> DIED DUE TO INACTIVITYCAMPING]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-60> FINISHED 3]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-55> FINISHED 3]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-40> CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-55> FINISHED 2]"
+	{
+		"chi"		"** **"
+	}
+	"[我的兄弟 阿鸡 - LAST ALIVE]"
+	{
+		"chi"		"** **"
+	}
+	"[我的兄弟 阿鸡 DIED DUE TO ITEMBOX CAMPINGTROLLING]"
+	{
+		"chi"		"** **"
+	}
+	"[绝不白给 DIED DUE TO INACTIVITYCAMPING]"
+	{
+		"chi"		"** **"
+	}
+	"[1147321168 FINISHED 2]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-40> FINISHED 4]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-51> FINISHED 15]"
+	{
+		"chi"		"** **"
+	}
+	"[Ennead FINISHED 14]"
+	{
+		"chi"		"** **"
+	}
+	"[绝不白给 FINISHED 13]"
+	{
+		"chi"		"** **"
+	}
+	"[路易 FINISHED 12]"
+	{
+		"chi"		"** **"
+	}
+	"[飘飘 FINISHED 11]"
+	{
+		"chi"		"** **"
+	}
+	"[我的兄弟 阿鸡 FINISHED 10]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-55> FINISHED 9]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-45> FINISHED 8]"
+	{
+		"chi"		"** **"
+	}
+	"[18575363245 FINISHED 7]"
+	{
+		"chi"		"** **"
+	}
+	"[1147321168 FINISHED 6]"
+	{
+		"chi"		"** **"
+	}
+	"[你好SAO啊 FINISHED 5]"
+	{
+		"chi"		"** **"
+	}
+	"[言葉がない FINISHED 4]"
+	{
+		"chi"		"** **"
+	}
+	"[这一枪叫晚安 FINISHED 3]"
+	{
+		"chi"		"** **"
+	}
+	"[锦依虞风 - LAST ALIVE]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-55> FINISHED 1]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-45> FINISHED 2]"
+	{
+		"chi"		"** **"
+	}
+	"[飘飘 FINISHED 3]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-131> FINISHED 1]"
+	{
+		"chi"		"** **"
+	}
+	"[KirisameMarisa FINISHED 2]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-131> DIED DUE TO ITEMBOX CAMPINGTROLLING]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-131> - LAST ALIVE]"
+	{
+		"chi"		"** **"
+	}
+	"[z2604947449 CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[浪人索僧李青懂 - LAST ALIVE]"
+	{
+		"chi"		"** **"
+	}
+	"[B站22628600 柰子中间的瓜 - LAST ALIVE]"
+	{
+		"chi"		"** **"
+	}
+	"[minatoaqua CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[2410364038 CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-24> - LAST ALIVE]"
+	{
+		"chi"		"** **"
+	}
+	"[minatoaqua - LAST ALIVE]"
+	{
+		"chi"		"** **"
+	}
+	"[minatoaqua FINISHED 1]"
+	{
+		"chi"		"** **"
+	}
+	"[❤拾七❤ FINISHED 1]"
+	{
+		"chi"		"** **"
+	}
+	"[roy CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[贝优妮塔的柴郡猫 CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-508> FINISHED 1]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-440> FINISHED 2]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-553> FINISHED 3]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-558> FINISHED 4]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-564> FINISHED 5]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-321> FINISHED 6]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-550> FINISHED 7]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-494> FINISHED 8]"
+	{
+		"chi"		"** **"
+	}
+	"[(´・ω・｀)POI? CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[♥ʚ.柚子˚͜ ˚.ɞ♥ DIED DUE TO ITEMBOX CAMPINGTROLLING]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-491> DIED DUE TO ITEMBOX CAMPINGTROLLING]"
+	{
+		"chi"		"** **"
+	}
+	"[阳光少年马利克 CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-564> FINISHED 1]"
+	{
+		"chi"		"** **"
+	}
+	"[年轻人不讲武德 CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-577> DIED DUE TO ITEMBOX CAMPINGTROLLING]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-508> FINISHED 2]"
+	{
+		"chi"		"** **"
+	}
+	"[rain DIED DUE TO INACTIVITYCAMPING]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-563> DIED DUE TO ITEMBOX CAMPINGTROLLING]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-568> FINISHED 3]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-553> FINISHED 4]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-495> FINISHED 5]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-552> CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[Big L0uis FINISHED 6]"
+	{
+		"chi"		"** **"
+	}
+	"[tingting FINISHED 7]"
+	{
+		"chi"		"** **"
+	}
+	"[ho ho FINISHED 8]"
+	{
+		"chi"		"** **"
+	}
+	"[Monsoon FINISHED 10]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-595> FINISHED 11]"
+	{
+		"chi"		"** **"
+	}
+	"[冰封仪式 DIED DUE TO ITEMBOX CAMPINGTROLLING]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-537> CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[🌺 DIED DUE TO ITEMBOX CAMPINGTROLLING]"
+	{
+		"chi"		"** **"
+	}
+	"[rain FINISHED 1]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-548> FINISHED 4]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-440> FINISHED 5]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-568> FINISHED 6]"
+	{
+		"chi"		"** **"
+	}
+	"[小铃铛叮当 FINISHED 7]"
+	{
+		"chi"		"** **"
+	}
+	"[年轻人不讲武德 FINISHED 8]"
+	{
+		"chi"		"** **"
+	}
+	"[ho ho FINISHED 9]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-564> FINISHED 10]"
+	{
+		"chi"		"** **"
+	}
+	"[丶不坏 FINISHED 11]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-595> FINISHED 12]"
+	{
+		"chi"		"** **"
+	}
+	"[兔子丷 FINISHED 13]"
+	{
+		"chi"		"** **"
+	}
+	"[冰封仪式 FINISHED 14]"
+	{
+		"chi"		"** **"
+	}
+	"[贝优妮塔的柴郡猫 FINISHED 15]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-553> DIED DUE TO ITEMBOX CAMPINGTROLLING]"
+	{
+		"chi"		"** **"
+	}
+	"[koyo FINISHED 1]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-885> FINISHED 2]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-842> FINISHED 3]"
+	{
+		"chi"		"** **"
+	}
+	"[往事如梦 FINISHED 4]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-844> FINISHED 5]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-855> FINISHED 6]"
+	{
+		"chi"		"** **"
+	}
+	"[Evi1aD DIED DUE TO ITEMBOX CAMPINGTROLLING]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-842> FINISHED 1]"
+	{
+		"chi"		"** **"
+	}
+	"[电竞蔡徐坤 FINISHED 2]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-885> FINISHED 3]"
+	{
+		"chi"		"** **"
+	}
+	"[五陵太空人 CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-890> FINISHED 7]"
+	{
+		"chi"		"** **"
+	}
+	"[Evi1aD FINISHED 3]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-862> DIED DUE TO INACTIVITYCAMPING]"
+	{
+		"chi"		"** **"
+	}
+	"[乌蝇哥 DIED DUE TO INACTIVITYCAMPING]"
+	{
+		"chi"		"** **"
+	}
+	"[多肉多年 DIED DUE TO INACTIVITYCAMPING]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-898> DIED DUE TO ITEMBOX CAMPINGTROLLING]"
+	{
+		"chi"		"** **"
+	}
+	"[Evi1aD FINISHED 1]"
+	{
+		"chi"		"** **"
+	}
+	"[koyo FINISHED 3]"
+	{
+		"chi"		"** **"
+	}
+	"[恒星守护协会会长 FINISHED 5]"
+	{
+		"chi"		"** **"
+	}
+	"[csgo不好玩 CHEATED AND DIED]"
+	{
+		"chi"		"** **"
+	}
+	"[画雁听风 FINISHED 1]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-855> FINISHED 2]"
+	{
+		"chi"		"** **"
+	}
+	"[电竞蔡徐坤 FINISHED 3]"
+	{
+		"chi"		"** **"
+	}
+	"[恒星守护协会会长 FINISHED 4]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-885> FINISHED 5]"
+	{
+		"chi"		"** **"
+	}
+	"[<userid-863> FINISHED 6]"
+	{
+		"chi"		"** **"
+	}
 }

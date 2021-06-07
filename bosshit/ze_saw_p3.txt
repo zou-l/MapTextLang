@@ -114,4 +114,19 @@
 		"hammerid"		"1074208"
 		"m_iname"		"reitti1_brushes"
 	}
+	"73616"
+	{
+		"enable"		"-1"
+		"hammerid"		"73616"
+	}
+	"160960"
+	{
+		"enable"		"-1"
+		"hammerid"		"160960"
+	}
+	"175960"
+	{
+		"enable"		"-1"
+		"hammerid"		"175960"
+	}
 }

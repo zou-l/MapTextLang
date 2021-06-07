@@ -92,4 +92,8 @@
 	{
 		"syncvalue"		"4148"
 	}
+	"**Custom stripper changes are active on this map not done by the original mapper**"
+	{
+		"chi"		"** **"
+	}
 }

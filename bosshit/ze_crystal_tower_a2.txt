@@ -128,14 +128,134 @@
 	}
 	"55120"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"55120"
-		"m_iname"		"crystal_breakable"
+		"m_iname"		"mt_add"
 	}
 	"34047"
 	{
 		"enable"		"0"
 		"hammerid"		"34047"
 		"m_iname"		"item_blade_effect"
+	}
+	"128361"
+	{
+		"enable"		"-1"
+		"hammerid"		"128361"
+	}
+	"128369"
+	{
+		"enable"		"-1"
+		"hammerid"		"128369"
+	}
+	"124637"
+	{
+		"enable"		"-1"
+		"hammerid"		"124637"
+	}
+	"124641"
+	{
+		"enable"		"-1"
+		"hammerid"		"124641"
+	}
+	"106211"
+	{
+		"enable"		"-1"
+		"hammerid"		"106211"
+	}
+	"106221"
+	{
+		"enable"		"-1"
+		"hammerid"		"106221"
+	}
+	"106255"
+	{
+		"enable"		"-1"
+		"hammerid"		"106255"
+	}
+	"104607"
+	{
+		"enable"		"-1"
+		"hammerid"		"104607"
+	}
+	"105056"
+	{
+		"enable"		"-1"
+		"hammerid"		"105056"
+	}
+	"105105"
+	{
+		"enable"		"-1"
+		"hammerid"		"105105"
+	}
+	"93400"
+	{
+		"enable"		"-1"
+		"hammerid"		"93400"
+	}
+	"93500"
+	{
+		"enable"		"-1"
+		"hammerid"		"93500"
+	}
+	"93522"
+	{
+		"enable"		"-1"
+		"hammerid"		"93522"
+	}
+	"93577"
+	{
+		"enable"		"-1"
+		"hammerid"		"93577"
+	}
+	"93621"
+	{
+		"enable"		"-1"
+		"hammerid"		"93621"
+	}
+	"97382"
+	{
+		"enable"		"-1"
+		"hammerid"		"97382"
+	}
+	"97386"
+	{
+		"enable"		"-1"
+		"hammerid"		"97386"
+	}
+	"97390"
+	{
+		"enable"		"-1"
+		"hammerid"		"97390"
+	}
+	"97394"
+	{
+		"enable"		"-1"
+		"hammerid"		"97394"
+	}
+	"97398"
+	{
+		"enable"		"-1"
+		"hammerid"		"97398"
+	}
+	"36625"
+	{
+		"enable"		"-1"
+		"hammerid"		"36625"
+	}
+	"36784"
+	{
+		"enable"		"-1"
+		"hammerid"		"36784"
+	}
+	"36798"
+	{
+		"enable"		"-1"
+		"hammerid"		"36798"
+	}
+	"36812"
+	{
+		"enable"		"-1"
+		"hammerid"		"36812"
 	}
 }

@@ -84,4 +84,14 @@
 		"hammerid"		"76110"
 		"m_iname"		"boss_hitbox"
 	}
+	"186159"
+	{
+		"enable"		"-1"
+		"hammerid"		"186159"
+	}
+	"187517"
+	{
+		"enable"		"-1"
+		"hammerid"		"187517"
+	}
 }

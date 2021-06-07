@@ -216,4 +216,32 @@
 		"hammerid"		"1077846"
 		"m_iname"		"undyne_arrowu_phys"
 	}
+	"958473"
+	{
+		"enable"		"-1"
+		"hammerid"		"958473"
+	}
+	"853597"
+	{
+		"enable"		"1"
+		"hammerid"		"853597"
+		"m_iname"		"mt_add"
+	}
+	"853719"
+	{
+		"enable"		"1"
+		"hammerid"		"853719"
+		"m_iname"		"mt_add"
+	}
+	"836985"
+	{
+		"enable"		"-1"
+		"hammerid"		"836985"
+	}
+	"14773"
+	{
+		"enable"		"-1"
+		"hammerid"		"14773"
+		"m_iname"		"stage_phys"
+	}
 }

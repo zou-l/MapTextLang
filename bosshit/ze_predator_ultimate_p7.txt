@@ -198,4 +198,154 @@
 		"hammerid"		"627529"
 		"m_iname"		"phys_rock_1"
 	}
+	"3996719"
+	{
+		"enable"		"-1"
+		"hammerid"		"3996719"
+	}
+	"3996765"
+	{
+		"enable"		"-1"
+		"hammerid"		"3996765"
+	}
+	"3996783"
+	{
+		"enable"		"-1"
+		"hammerid"		"3996783"
+	}
+	"3996801"
+	{
+		"enable"		"-1"
+		"hammerid"		"3996801"
+	}
+	"3996849"
+	{
+		"enable"		"-1"
+		"hammerid"		"3996849"
+	}
+	"3996861"
+	{
+		"enable"		"-1"
+		"hammerid"		"3996861"
+	}
+	"3778054"
+	{
+		"enable"		"-1"
+		"hammerid"		"3778054"
+		"m_iname"		"w_nade_w_phys&0447"
+	}
+	"4562445"
+	{
+		"enable"		"-1"
+		"hammerid"		"4562445"
+		"m_iname"		"rollermine_phys_2&0486"
+	}
+	"2080268"
+	{
+		"enable"		"1"
+		"hammerid"		"2080268"
+		"m_iname"		"cboss_death_break"
+	}
+	"3101739"
+	{
+		"enable"		"1"
+		"hammerid"		"3101739"
+		"m_iname"		"cboss_cage_breakable"
+	}
+	"1331846"
+	{
+		"enable"		"-1"
+		"hammerid"		"1331846"
+		"m_iname"		"skybox_spaceship_phys"
+	}
+	"1332045"
+	{
+		"enable"		"-1"
+		"hammerid"		"1332045"
+		"m_iname"		"skybox_spaceship_phys"
+	}
+	"1332062"
+	{
+		"enable"		"-1"
+		"hammerid"		"1332062"
+		"m_iname"		"skybox_spaceship_phys"
+	}
+	"1332179"
+	{
+		"enable"		"-1"
+		"hammerid"		"1332179"
+		"m_iname"		"skybox_spaceship_phys"
+	}
+	"1332211"
+	{
+		"enable"		"-1"
+		"hammerid"		"1332211"
+		"m_iname"		"skybox_spaceship_phys"
+	}
+	"1332228"
+	{
+		"enable"		"-1"
+		"hammerid"		"1332228"
+		"m_iname"		"skybox_spaceship_phys"
+	}
+	"3776042"
+	{
+		"enable"		"-1"
+		"hammerid"		"3776042"
+		"m_iname"		"hyper_hold_break"
+	}
+	"3638010"
+	{
+		"enable"		"1"
+		"hammerid"		"3638010"
+		"m_iname"		"cboss_hit"
+	}
+	"4133504"
+	{
+		"enable"		"1"
+		"hammerid"		"4133504"
+		"m_iname"		"cboss_hit"
+	}
+	"3757674"
+	{
+		"enable"		"-1"
+		"hammerid"		"3757674"
+		"m_iname"		"rollermine_phys_3&1268"
+	}
+	"3759576"
+	{
+		"enable"		"1"
+		"hammerid"		"3759576"
+		"m_iname"		"fboss_door_z"
+	}
+	"3759579"
+	{
+		"enable"		"1"
+		"hammerid"		"3759579"
+		"m_iname"		"fboss_door_e"
+	}
+	"3757883"
+	{
+		"enable"		"-1"
+		"hammerid"		"3757883"
+		"m_iname"		"mob_grudge_phys1"
+	}
+	"4133640"
+	{
+		"enable"		"-1"
+		"hammerid"		"4133640"
+		"m_iname"		"mob_grudge_rot1"
+	}
+	"3757488"
+	{
+		"enable"		"1"
+		"hammerid"		"3757488"
+		"m_iname"		"fboss_l_phys&1289"
+	}
+	"3756080"
+	{
+		"enable"		"1"
+		"hammerid"		"3756080"
+		"m_iname"		"fboss_ee_phys"
+	}
 }

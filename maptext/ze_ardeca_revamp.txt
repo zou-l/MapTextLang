@@ -19,6 +19,7 @@
 	"Magical Piece of shit moves in 40 Seconds!"
 	{
 		"chi"		"**40秒后移动！ **"
+		"DoorCountDown"		"40"
 	}
 	"Magical Piece of shit moves in 20 Seconds!"
 	{
@@ -107,10 +108,12 @@
 	"Survive Here for 60 Seconds to win"
 	{
 		"chi"		"**保住你的菊花60秒获得胜利！ **"
+		"DoorCountDown"		"60"
 	}
 	"Teleporting Zombies in 20 Seconds!"
 	{
 		"chi"		"**僵尸将在20秒后传送！ **"
+		"DoorCountDown"		"-1"
 	}
 	"Teleporting Zombies to the Magic Portal!"
 	{
@@ -135,6 +138,7 @@
 	"Survive Here for 80 Seconds to win"
 	{
 		"chi"		"**保住你的菊花80秒后获得胜利**"
+		"DoorCountDown"		"80"
 	}
 	"###$$$%%%LEVEL 3%%%$$$###"
 	{
@@ -162,7 +166,7 @@
 	}
 	"Teleporting Zombies in 5 Seconds!"
 	{
-		"chi"		"**5秒后传送僵尸 **"
+		"chi"		"**5秒后传送僵尸**"
 	}
 	"Hold here for 30 Seconds!"
 	{
@@ -259,5 +263,33 @@
 	"Right side is triggered! Path opens in 10 sec"
 	{
 		"chi"		"**右侧已触发！道路将在10秒后打开 **"
+	}
+	"Hold for 20 Seconds!"
+	{
+		"chi"		"** **"
+	}
+	"Teleporting humans inside in 15 seconds"
+	{
+		"chi"		"** **"
+	}
+	"Boss Fight in 5 Seconds!"
+	{
+		"chi"		"** **"
+	}
+	"Path is open, Teleporting Zombies in 10 Seconds!"
+	{
+		"chi"		"** **"
+	}
+	"Door opens in 15 Seconds!"
+	{
+		"chi"		"** **"
+	}
+	"Final Door Opens in 40 Seconds!"
+	{
+		"chi"		"** **"
+	}
+	"Final Door Opens in 20 Seconds!"
+	{
+		"chi"		"** **"
 	}
 }

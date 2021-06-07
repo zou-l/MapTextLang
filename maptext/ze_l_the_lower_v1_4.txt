@@ -144,4 +144,72 @@
 	{
 		"chi"		"** **"
 	}
+	"**If zombies reach the boxes is over**"
+	{
+		"chi"		"** **"
+	}
+	"**We must defend the city gates**"
+	{
+		"chi"		"** **"
+	}
+	"**Get on the ritual platform**"
+	{
+		"chi"		"** **"
+	}
+	"**Viz: Lets see if you can take the Lower Test**"
+	{
+		"chi"		"** **"
+	}
+	"**You dont have to shoot Viz, just survive**"
+	{
+		"chi"		"** **"
+	}
+	"**Crouch and defend!**"
+	{
+		"chi"		"** **"
+	}
+	"**Get ready to jump**"
+	{
+		"chi"		"** **"
+	}
+	"**Ready to defend**"
+	{
+		"chi"		"** **"
+	}
+	"**Viz: You survived the 1st round**"
+	{
+		"chi"		"** **"
+	}
+	"**Viz: Lets travel through your memories...**"
+	{
+		"chi"		"** **"
+	}
+	"**Viz: ..and live them once again**"
+	{
+		"chi"		"** **"
+	}
+	"**Humans defend the circle**"
+	{
+		"chi"		"** **"
+	}
+	"**Viz: You survived round 2**"
+	{
+		"chi"		"** **"
+	}
+	"**Viz: Survive this final round**"
+	{
+		"chi"		"** **"
+	}
+	"**Get ready to dodge lasers!**"
+	{
+		"chi"		"** **"
+	}
+	"**Viz: Test passed**"
+	{
+		"chi"		"** **"
+	}
+	"**Humans win!**"
+	{
+		"chi"		"** **"
+	}
 }

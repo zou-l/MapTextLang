@@ -72,4 +72,34 @@
 		"hammerid"		"794634"
 		"m_iname"		"Zombieblock04"
 	}
+	"17603"
+	{
+		"enable"		"-1"
+		"hammerid"		"17603"
+	}
+	"81666"
+	{
+		"enable"		"-1"
+		"hammerid"		"81666"
+	}
+	"145982"
+	{
+		"enable"		"-1"
+		"hammerid"		"145982"
+	}
+	"176404"
+	{
+		"enable"		"-1"
+		"hammerid"		"176404"
+	}
+	"244287"
+	{
+		"enable"		"-1"
+		"hammerid"		"244287"
+	}
+	"244290"
+	{
+		"enable"		"-1"
+		"hammerid"		"244290"
+	}
 }

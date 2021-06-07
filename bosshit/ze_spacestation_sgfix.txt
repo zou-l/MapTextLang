@@ -240,4 +240,69 @@
 		"hammerid"		"351555"
 		"m_iname"		"ct_spawn_secret_door"
 	}
+	"367176"
+	{
+		"enable"		"-1"
+		"hammerid"		"367176"
+	}
+	"327202"
+	{
+		"enable"		"-1"
+		"hammerid"		"327202"
+	}
+	"2324"
+	{
+		"enable"		"-1"
+		"hammerid"		"2324"
+	}
+	"2561"
+	{
+		"enable"		"-1"
+		"hammerid"		"2561"
+	}
+	"2570"
+	{
+		"enable"		"-1"
+		"hammerid"		"2570"
+	}
+	"2577"
+	{
+		"enable"		"-1"
+		"hammerid"		"2577"
+	}
+	"2584"
+	{
+		"enable"		"-1"
+		"hammerid"		"2584"
+	}
+	"3156"
+	{
+		"enable"		"-1"
+		"hammerid"		"3156"
+	}
+	"3158"
+	{
+		"enable"		"-1"
+		"hammerid"		"3158"
+	}
+	"3164"
+	{
+		"enable"		"-1"
+		"hammerid"		"3164"
+	}
+	"3170"
+	{
+		"enable"		"-1"
+		"hammerid"		"3170"
+	}
+	"3254"
+	{
+		"enable"		"-1"
+		"hammerid"		"3254"
+	}
+	"3256"
+	{
+		"enable"		"-1"
+		"hammerid"		"3256"
+	}
 }

@@ -78,4 +78,19 @@
 		"hammerid"		"1402132"
 		"m_iname"		"ShooterBody&0690"
 	}
+	"2958536"
+	{
+		"enable"		"-1"
+		"hammerid"		"2958536"
+	}
+	"798267"
+	{
+		"enable"		"-1"
+		"hammerid"		"798267"
+	}
+	"330276"
+	{
+		"enable"		"-1"
+		"hammerid"		"330276"
+	}
 }

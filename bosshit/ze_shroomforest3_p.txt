@@ -684,4 +684,286 @@
 		"hammerid"		"95449"
 		"m_iname"		"Spawn_WoodDoor"
 	}
+	"1164359"
+	{
+		"enable"		"-1"
+		"hammerid"		"1164359"
+		"m_iname"		"Mole_Clip2"
+	}
+	"1164362"
+	{
+		"enable"		"-1"
+		"hammerid"		"1164362"
+		"m_iname"		"Mole_Clip"
+	}
+	"1164365"
+	{
+		"enable"		"-1"
+		"hammerid"		"1164365"
+		"m_iname"		"Mole_Hands_Model"
+	}
+	"1123675"
+	{
+		"enable"		"-1"
+		"hammerid"		"1123675"
+		"m_iname"		"Ext3_Elevator_Clip"
+	}
+	"1126178"
+	{
+		"enable"		"-1"
+		"hammerid"		"1126178"
+		"m_iname"		"Ext3_Wood1"
+	}
+	"2324329"
+	{
+		"enable"		"-1"
+		"hammerid"		"2324329"
+		"m_iname"		"Ext3_Grid1"
+	}
+	"2324332"
+	{
+		"enable"		"-1"
+		"hammerid"		"2324332"
+		"m_iname"		"Ext3_Grid1"
+	}
+	"2324335"
+	{
+		"enable"		"-1"
+		"hammerid"		"2324335"
+		"m_iname"		"Ext3_Grid2"
+	}
+	"2324403"
+	{
+		"enable"		"-1"
+		"hammerid"		"2324403"
+		"m_iname"		"Ext3_Pikachu_Physbox"
+	}
+	"2324412"
+	{
+		"enable"		"-1"
+		"hammerid"		"2324412"
+		"m_iname"		"Ext3_Pikachu_HeadPhys"
+	}
+	"1229242"
+	{
+		"enable"		"-1"
+		"hammerid"		"1229242"
+		"m_iname"		"House_ClockBreak"
+	}
+	"2307724"
+	{
+		"enable"		"-1"
+		"hammerid"		"2307724"
+		"m_iname"		"House_ClockBattery_Break"
+	}
+	"2307786"
+	{
+		"enable"		"-1"
+		"hammerid"		"2307786"
+		"m_iname"		"House_ClockBattery_Break"
+	}
+	"2096199"
+	{
+		"enable"		"-1"
+		"hammerid"		"2096199"
+		"m_iname"		"Item_Pokeball_Physbox&3227"
+	}
+	"1291301"
+	{
+		"enable"		"-1"
+		"hammerid"		"1291301"
+		"m_iname"		"Lvl7_WoodDoor"
+	}
+	"1291310"
+	{
+		"enable"		"-1"
+		"hammerid"		"1291310"
+		"m_iname"		"Lvl7_WoodDoor"
+	}
+	"1292576"
+	{
+		"enable"		"-1"
+		"hammerid"		"1292576"
+		"m_iname"		"Lvl7_Wood1"
+	}
+	"1292585"
+	{
+		"enable"		"-1"
+		"hammerid"		"1292585"
+		"m_iname"		"Lvl7_WoodDoor"
+	}
+	"1292728"
+	{
+		"enable"		"-1"
+		"hammerid"		"1292728"
+		"m_iname"		"Lvl7_Grid1"
+	}
+	"1292738"
+	{
+		"enable"		"-1"
+		"hammerid"		"1292738"
+		"m_iname"		"Lvl7_Grid2"
+	}
+	"1293425"
+	{
+		"enable"		"-1"
+		"hammerid"		"1293425"
+		"m_iname"		"Lvl7_Wall1"
+	}
+	"2260436"
+	{
+		"enable"		"1"
+		"hammerid"		"2260436"
+		"m_iname"		"Lvl7_Boss_Grid2"
+	}
+	"2260439"
+	{
+		"enable"		"1"
+		"hammerid"		"2260439"
+		"m_iname"		"Lvl7_Boss_Grid2"
+	}
+	"1573503"
+	{
+		"enable"		"-1"
+		"hammerid"		"1573503"
+		"m_iname"		"Shr0_Skybox_Stuff"
+	}
+	"1708997"
+	{
+		"enable"		"-1"
+		"hammerid"		"1708997"
+		"m_iname"		"Shr0_Skybox_Stuff"
+	}
+	"1832797"
+	{
+		"enable"		"1"
+		"hammerid"		"1832797"
+		"m_iname"		"Hitler_Boss_Phys"
+	}
+	"1985462"
+	{
+		"enable"		"1"
+		"hammerid"		"1985462"
+		"m_iname"		"Hitler_Boss_Tank1_Break"
+	}
+	"1985656"
+	{
+		"enable"		"1"
+		"hammerid"		"1985656"
+		"m_iname"		"Hitler_Boss_Tank2_Break"
+	}
+	"2274266"
+	{
+		"enable"		"1"
+		"hammerid"		"2274266"
+		"m_iname"		"Hitler_Boss_SatanBody"
+	}
+	"1874518"
+	{
+		"enable"		"-1"
+		"hammerid"		"1874518"
+		"m_iname"		"TankAmmo_Phys&3342"
+	}
+	"2273363"
+	{
+		"enable"		"-1"
+		"hammerid"		"2273363"
+		"m_iname"		"Hell_Platform1"
+	}
+	"2273369"
+	{
+		"enable"		"-1"
+		"hammerid"		"2273369"
+		"m_iname"		"Hell_Platform2"
+	}
+	"2260510"
+	{
+		"enable"		"1"
+		"hammerid"		"2260510"
+		"m_iname"		"Satan_Boss_Physbox"
+	}
+	"2260513"
+	{
+		"enable"		"1"
+		"hammerid"		"2260513"
+		"m_iname"		"Satan_Boss_Break"
+	}
+	"2274615"
+	{
+		"enable"		"-1"
+		"hammerid"		"2274615"
+		"m_iname"		"MinionNpc_Movement&3372"
+	}
+	"2274495"
+	{
+		"enable"		"-1"
+		"hammerid"		"2274495"
+		"m_iname"		"Attack_Electro_Phys&3375"
+	}
+	"2274871"
+	{
+		"enable"		"-1"
+		"hammerid"		"2274871"
+		"m_iname"		"Satan_Laser_Phys"
+	}
+	"1572568"
+	{
+		"enable"		"-1"
+		"hammerid"		"1572568"
+		"m_iname"		"Shr1_Skybox_Stuff"
+	}
+	"1572579"
+	{
+		"enable"		"-1"
+		"hammerid"		"1572579"
+		"m_iname"		"Shr1_Skybox_Stuff"
+	}
+	"1572586"
+	{
+		"enable"		"-1"
+		"hammerid"		"1572586"
+		"m_iname"		"Shr1_Skybox_Stuff"
+	}
+	"2275348"
+	{
+		"enable"		"-1"
+		"hammerid"		"2275348"
+		"m_iname"		"Shr1_Door"
+	}
+	"2275357"
+	{
+		"enable"		"-1"
+		"hammerid"		"2275357"
+		"m_iname"		"Shr1_Door"
+	}
+	"2275366"
+	{
+		"enable"		"-1"
+		"hammerid"		"2275366"
+		"m_iname"		"Shr1_Door"
+	}
+	"2275375"
+	{
+		"enable"		"-1"
+		"hammerid"		"2275375"
+		"m_iname"		"Shr1_Door"
+	}
+	"2274577"
+	{
+		"enable"		"-1"
+		"hammerid"		"2274577"
+		"m_iname"		"Attack_Ice_Phys&2257"
+	}
+	"2096270"
+	{
+		"enable"		"-1"
+		"hammerid"		"2096270"
+		"m_iname"		"Item_Masterball_Physbox"
+	}
+	"2274603"
+	{
+		"enable"		"-1"
+		"hammerid"		"2274603"
+		"m_iname"		"Attack_Mines_Phys&3227"
+	}
 }

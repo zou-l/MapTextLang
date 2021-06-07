@@ -7,7 +7,7 @@
 	"*** NUKE will arrive in two minutes... ***"
 	{
 		"chi"		"**核弹将在2分钟后到达**"
-		"DoorCountdown"		"120"
+		"DoorCountDown"		"120"
 	}
 	"*** Escape door opening in 5 seconds ***"
 	{
@@ -56,7 +56,7 @@
 	"*** Open again in 30 seconds! ***"
 	{
 		"chi"		"**好吧，30秒后逃生大门再次打开**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"*** Escape door is now open! ***"
 	{
@@ -67,6 +67,10 @@
 		"chi"		"** **"
 	}
 	"*** IMPACT! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** This button unlock when your teammates come ***"
 	{
 		"chi"		"** **"
 	}

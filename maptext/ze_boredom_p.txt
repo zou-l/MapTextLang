@@ -365,4 +365,12 @@
 	{
 		"chi"		"** **"
 	}
+	"** LEVEL CHANGED TO FOURIERS FINISHED FEAST FOOD **"
+	{
+		"chi"		"** **"
+	}
+	"** ASSAMUTH HAS EATEN QUANTUM MECHANICS! IS IT THERE EVEN? **"
+	{
+		"chi"		"** **"
+	}
 }

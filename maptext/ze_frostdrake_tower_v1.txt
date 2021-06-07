@@ -16,20 +16,20 @@
 	{
 		"chi"		"**现在去找最后[ 1 ]个机关**"
 	}
-	"***BOTH LEVERS HAVE BEEN PRESSED***"
+	"***Both Levers Have Been Pressed***"
 	{
 		"chi"		"**已经按了二个机关**"
 	}
 	"***THE GATE WILL OPEN IN 30 SECONDS***"
 	{
 		"chi"		"**30秒后开门**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"***THE GATE IS OPENING***"
 	{
 		"chi"		"**门开辣!**"
 	}
-	"***Fall back***"
+	"***Fall Back***"
 	{
 		"chi"		"**撤退!**"
 	}
@@ -44,7 +44,7 @@
 	"***THE GATE WILL OPEN IN 60 SECONDS***"
 	{
 		"chi"		"**60秒后开门**"
-		"DoorCountdown"		"60"
+		"DoorCountDown"		"60"
 	}
 	"***FIND A HIDING SPOT AND HOLD OUT UNTIL THEN***"
 	{
@@ -74,7 +74,7 @@
 	{
 		"chi"		"**门开辣!**"
 	}
-	"***HOLD FOR 20 seconds***"
+	"***HOLD FOR 20 SECONDS***"
 	{
 		"chi"		"**坚守20秒**"
 	}
@@ -162,7 +162,7 @@
 	{
 		"chi"		"**现在逃跑吧**"
 	}
-	"***JUMP***"
+	"***jump***"
 	{
 		"chi"		"**信仰之跃!**"
 	}
@@ -197,7 +197,7 @@
 	"***THE GATES ARE OPENING IN 30 SECONDS***"
 	{
 		"chi"		"**大门将在30秒后打开**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"***THE GATES ARE OPENING***"
 	{

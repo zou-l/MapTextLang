@@ -82,4 +82,22 @@
 	{
 		"enable"		"0"
 	}
+	"30321"
+	{
+		"enable"		"-1"
+		"hammerid"		"30321"
+		"m_iname"		"phys_admin_l3"
+	}
+	"30334"
+	{
+		"enable"		"-1"
+		"hammerid"		"30334"
+		"m_iname"		"phys_admin_l1"
+	}
+	"30337"
+	{
+		"enable"		"-1"
+		"hammerid"		"30337"
+		"m_iname"		"phys_admin_l2"
+	}
 }

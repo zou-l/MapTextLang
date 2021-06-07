@@ -24,4 +24,14 @@
 		"hammerid"		"10678"
 		"m_iname"		"break1"
 	}
+	"21981"
+	{
+		"enable"		"-1"
+		"hammerid"		"21981"
+	}
+	"21997"
+	{
+		"enable"		"-1"
+		"hammerid"		"21997"
+	}
 }

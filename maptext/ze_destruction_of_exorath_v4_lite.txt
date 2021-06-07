@@ -35,7 +35,7 @@
 	"** THE GATE IN SECTION A5 WILL BREAK IN 10 SECONDS **"
 	{
 		"chi"		"**A5大门将会在10秒后打破**"
-		"DoorCountdown"		"10"
+		"DoorCountDown"		"10"
 	}
 	"** THE GATE IN SECTION A5 WILL BREAK IN 5 SECONDS **"
 	{
@@ -48,7 +48,7 @@
 	"** TRAM 1 WILL LEAVE IN 30 SECONDS **"
 	{
 		"chi"		"**一号电车将会在30秒后离开**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"** EVERYBODY COVER TRAM 1 **"
 	{
@@ -69,7 +69,7 @@
 	"** COVER SECTION B4 FOR 15 SECONDS **"
 	{
 		"chi"		"**防守B4大门15秒**"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"** THE GATE IN SECTION B4 WILL BREAK IN 10 SECONDS **"
 	{
@@ -82,7 +82,7 @@
 	"** THE ELEVATOR IS LEAVING IN 30 SECONDS **"
 	{
 		"chi"		"**电梯将会在30秒后启动**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"** THE ELEVATOR IS LEAVING IN 20 SECONDS **"
 	{
@@ -123,17 +123,17 @@
 	"** ROCKY DOOR IN SECTION D8 WILL BREAK IN 30 SECONDS **"
 	{
 		"chi"		"**D8岩石门将会在30秒后爆破**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"** ROCKY DOOR IN SECTION D8 WILL BREAK IN 20 SECONDS **"
 	{
 		"chi"		"**D8岩石门将会在20秒后爆破**"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"** ROCKY DOOR IN SECTION D8 WILL BREAK IN 10 SECONDS **"
 	{
 		"chi"		"**D8岩石门将会在10秒后爆破**"
-		"DoorCountdown"		"10"
+		"DoorCountDown"		"10"
 	}
 	"** ROCKY DOOR IN SECTION D8 WILL BREAK IN 5 SECONDS **"
 	{
@@ -262,7 +262,7 @@
 	"** THE GATE IN SECTION A3 WILL BREAK IN 10 SECONDS **"
 	{
 		"chi"		"**A3大门将会在10秒后打破**"
-		"DoorCountdown"		"10"
+		"DoorCountDown"		"10"
 	}
 	"** THE GATE IN SECTION A3 WILL BREAK IN 5 SECONDS **"
 	{
@@ -275,7 +275,7 @@
 	"** TRAM 2 WILL LEAVE IN 30 SECONDS **"
 	{
 		"chi"		"**二号电车将会在30秒后离开**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"** EVERYBODY COVER TRAM 2 **"
 	{
@@ -296,7 +296,7 @@
 	"** COVER SECTION B7 FOR 15 SECONDS **"
 	{
 		"chi"		"**防守B7大门15秒**"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"** THE GATE IN SECTION B7 WILL BREAK IN 10 SECONDS **"
 	{
@@ -373,7 +373,7 @@
 	"** TRAM 1 AND 2 WILL LEAVE IN 30 SECONDS **"
 	{
 		"chi"		"**一号、二号电车将会在30秒后同时离开**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"** EVERYBODY COVER TRAM 1 AND 2 **"
 	{
@@ -394,7 +394,7 @@
 	"** ROCKY DOOR IN SECTION D8 WILL BREAK IN 15 SECONDS **"
 	{
 		"chi"		"**D8岩石门将会在15秒后爆破**"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"** THE TELEPORTER WILL BE ACTIVATED IN 40 SECONDS **"
 	{
@@ -607,6 +607,7 @@
 	"** ALL ROCKY DOORS IN SECTION D8 WILL BREAK IN 20 SECONDS **"
 	{
 		"chi"		"**所有岩石都将在20秒后破碎 **"
+		"DoorCountDown"		"20"
 	}
 	"** ALL ROCKY DOORS IN SECTION D8 WILL BREAK IN 15 SECONDS **"
 	{
@@ -811,5 +812,21 @@
 	"** GODMODE SELECTED **"
 	{
 		"chi"		"**选择了上帝难度(第四关) **"
+	}
+	"** EXTREME MODE HAS BEEN ACTIVATED VIA THE ADMIN ROOM **"
+	{
+		"chi"		"** **"
+	}
+	"** MASSIVE NUKE INCOMMING **"
+	{
+		"chi"		"** **"
+	}
+	"** 3 **"
+	{
+		"chi"		"** **"
+	}
+	"** 2 **"
+	{
+		"chi"		"** **"
 	}
 }

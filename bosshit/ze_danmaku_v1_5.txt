@@ -186,4 +186,34 @@
 		"hammerid"		"377244"
 		"m_iname"		"l3_eye_of_healing_break_left"
 	}
+	"1077505"
+	{
+		"enable"		"-1"
+		"hammerid"		"1077505"
+	}
+	"7061"
+	{
+		"enable"		"-1"
+		"hammerid"		"7061"
+	}
+	"7072"
+	{
+		"enable"		"-1"
+		"hammerid"		"7072"
+	}
+	"7083"
+	{
+		"enable"		"-1"
+		"hammerid"		"7083"
+	}
+	"7091"
+	{
+		"enable"		"-1"
+		"hammerid"		"7091"
+	}
+	"7105"
+	{
+		"enable"		"-1"
+		"hammerid"		"7105"
+	}
 }

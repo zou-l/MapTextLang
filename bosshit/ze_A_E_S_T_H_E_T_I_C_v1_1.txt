@@ -237,4 +237,34 @@
 		"enable"		"-1"
 		"hammerid"		"54831"
 	}
+	"346300"
+	{
+		"enable"		"-1"
+		"hammerid"		"346300"
+		"m_iname"		"NPC_Standard_Phys&1239"
+	}
+	"468837"
+	{
+		"enable"		"1"
+		"hammerid"		"468837"
+		"m_iname"		"Boss_Mini_Hitbox"
+	}
+	"568972"
+	{
+		"enable"		"-1"
+		"hammerid"		"568972"
+		"m_iname"		"Burger_Fire&1335"
+	}
+	"479444"
+	{
+		"enable"		"-1"
+		"hammerid"		"479444"
+		"m_iname"		"DestinyBridge"
+	}
+	"479729"
+	{
+		"enable"		"-1"
+		"hammerid"		"479729"
+		"m_iname"		"FinalPlatform"
+	}
 }

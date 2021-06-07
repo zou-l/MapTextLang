@@ -159,4 +159,10 @@
 		"enable"		"-1"
 		"hammerid"		"41605"
 	}
+	"55692"
+	{
+		"enable"		"-1"
+		"hammerid"		"55692"
+		"m_iname"		"Ice_Bridge_Brush"
+	}
 }

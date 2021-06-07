@@ -138,6 +138,12 @@
 		"hammerid"		"314804"
 		"m_iname"		"S1_Diablo_Box"
 	}
+	"155088"
+	{
+		"enable"		"0"
+		"hammerid"		"155088"
+		"m_iname"		"Wisp_Phys&1055"
+	}
 	"683328"
 	{
 		"enable"		"0"
@@ -150,30 +156,6 @@
 		"hammerid"		"148780"
 		"m_iname"		"S1_Hogg_Bridge"
 	}
-	"639582"
-	{
-		"enable"		"1"
-		"hammerid"		"639582"
-		"m_iname"		"Diablo_Shield_Hitbox"
-	}
-	"583255"
-	{
-		"enable"		"1"
-		"hammerid"		"583255"
-		"m_iname"		"Diablo_Hitbox_3"
-	}
-	"738424"
-	{
-		"enable"		"0"
-		"hammerid"		"738424"
-		"m_iname"		"Skill_Diablo_Push_Phys"
-	}
-	"155088"
-	{
-		"enable"		"0"
-		"hammerid"		"155088"
-		"m_iname"		"Wisp_Phys&2982"
-	}
 	"1327028"
 	{
 		"enable"		"0"
@@ -185,6 +167,18 @@
 		"enable"		"0"
 		"hammerid"		"1328658"
 		"m_iname"		"Dark_Phys"
+	}
+	"639582"
+	{
+		"enable"		"1"
+		"hammerid"		"639582"
+		"m_iname"		"Diablo_Shield_Hitbox"
+	}
+	"583255"
+	{
+		"enable"		"1"
+		"hammerid"		"583255"
+		"m_iname"		"Diablo_Hitbox_3"
 	}
 	"1304687"
 	{
@@ -250,12 +244,24 @@
 	{
 		"enable"		"0"
 		"hammerid"		"1147881"
-		"m_iname"		"NPC_Ronka_Phys&1559"
+		"m_iname"		"NPC_Ronka_Phys&1341"
 	}
 	"1281530"
 	{
 		"enable"		"0"
 		"hammerid"		"1281530"
 		"m_iname"		"Rock_Break"
+	}
+	"738424"
+	{
+		"enable"		"0"
+		"hammerid"		"738424"
+		"m_iname"		"Skill_Diablo_Push_Phys"
+	}
+	"1305838"
+	{
+		"enable"		"-1"
+		"hammerid"		"1305838"
+		"m_iname"		"Top_Debris"
 	}
 }

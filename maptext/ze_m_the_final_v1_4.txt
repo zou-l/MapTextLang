@@ -4,7 +4,7 @@
 	{
 		"chi"		"** **"
 	}
-	"<< map by Misaka >>"
+	"<< Map by Misaka >>"
 	{
 		"chi"		"** **"
 	}
@@ -83,5 +83,9 @@
 	"<< No BUG WAY YOU Mother Fucker>>"
 	{
 		"chi"		">>>你TMD继续走BUG路啊？<<<"
+	}
+	"<< The legendary Mapper is coming! Misaka is GOD !!! >>"
+	{
+		"chi"		">>>地图作者在服务器里！MISAKA IS GOD!!!<<<"
 	}
 }

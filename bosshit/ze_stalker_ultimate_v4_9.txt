@@ -204,4 +204,85 @@
 		"hammerid"		"821994"
 		"m_iname"		"l4_break1"
 	}
+	"2793983"
+	{
+		"enable"		"-1"
+		"hammerid"		"2793983"
+	}
+	"1021"
+	{
+		"enable"		"-1"
+		"hammerid"		"1021"
+	}
+	"1085"
+	{
+		"enable"		"-1"
+		"hammerid"		"1085"
+	}
+	"198484"
+	{
+		"enable"		"-1"
+		"hammerid"		"198484"
+		"m_iname"		"spheres"
+	}
+	"198487"
+	{
+		"enable"		"-1"
+		"hammerid"		"198487"
+		"m_iname"		"spheres"
+	}
+	"198490"
+	{
+		"enable"		"-1"
+		"hammerid"		"198490"
+		"m_iname"		"spheres"
+	}
+	"198493"
+	{
+		"enable"		"-1"
+		"hammerid"		"198493"
+		"m_iname"		"spheres"
+	}
+	"198496"
+	{
+		"enable"		"-1"
+		"hammerid"		"198496"
+		"m_iname"		"spheres"
+	}
+	"198499"
+	{
+		"enable"		"-1"
+		"hammerid"		"198499"
+		"m_iname"		"spheres"
+	}
+	"3634648"
+	{
+		"enable"		"-1"
+		"hammerid"		"3634648"
+		"m_iname"		"CY01Physic"
+	}
+	"2157286"
+	{
+		"enable"		"-1"
+		"hammerid"		"2157286"
+		"m_iname"		"phys1_1"
+	}
+	"762933"
+	{
+		"enable"		"1"
+		"hammerid"		"762933"
+		"m_iname"		"boss3_break"
+	}
+	"2183337"
+	{
+		"enable"		"-1"
+		"hammerid"		"2183337"
+		"m_iname"		"lvl3_Break"
+	}
+	"2183352"
+	{
+		"enable"		"-1"
+		"hammerid"		"2183352"
+		"m_iname"		"lvl3_Break"
+	}
 }

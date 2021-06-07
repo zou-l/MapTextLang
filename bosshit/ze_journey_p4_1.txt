@@ -121,4 +121,10 @@
 		"enable"		"-1"
 		"hammerid"		"583609"
 	}
+	"674017"
+	{
+		"enable"		"-1"
+		"hammerid"		"674017"
+		"m_iname"		"phys_rock&0299"
+	}
 }

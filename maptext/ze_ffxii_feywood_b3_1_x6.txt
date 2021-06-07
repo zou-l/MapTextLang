@@ -406,7 +406,7 @@
 	{
 		"chi"		"**大门将在10秒后打开**"
 	}
-	"**HOLD HERE FOR 20 SECONDS**"
+	"**Hold here for 20 seconds**"
 	{
 		"chi"		"**在这里守住20秒**"
 	}
@@ -585,7 +585,7 @@
 		"chi"		"**一位僵尸拿起了火-Lv.3 **"
 		"DoorCountDown"		"-1"
 	}
-	"**YOU HAVE FAILED**"
+	"**You have failed**"
 	{
 		"chi"		"**你失败了 **"
 	}

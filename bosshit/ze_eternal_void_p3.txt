@@ -462,4 +462,174 @@
 		"hammerid"		"130283"
 		"m_iname"		"gate_p_break1"
 	}
+	"77602"
+	{
+		"enable"		"-1"
+		"hammerid"		"77602"
+	}
+	"77610"
+	{
+		"enable"		"-1"
+		"hammerid"		"77610"
+	}
+	"77618"
+	{
+		"enable"		"-1"
+		"hammerid"		"77618"
+	}
+	"77626"
+	{
+		"enable"		"-1"
+		"hammerid"		"77626"
+	}
+	"77634"
+	{
+		"enable"		"-1"
+		"hammerid"		"77634"
+	}
+	"77642"
+	{
+		"enable"		"-1"
+		"hammerid"		"77642"
+	}
+	"77689"
+	{
+		"enable"		"-1"
+		"hammerid"		"77689"
+	}
+	"77692"
+	{
+		"enable"		"-1"
+		"hammerid"		"77692"
+	}
+	"77695"
+	{
+		"enable"		"-1"
+		"hammerid"		"77695"
+	}
+	"77698"
+	{
+		"enable"		"-1"
+		"hammerid"		"77698"
+	}
+	"77701"
+	{
+		"enable"		"-1"
+		"hammerid"		"77701"
+	}
+	"77704"
+	{
+		"enable"		"-1"
+		"hammerid"		"77704"
+	}
+	"77798"
+	{
+		"enable"		"-1"
+		"hammerid"		"77798"
+	}
+	"77806"
+	{
+		"enable"		"-1"
+		"hammerid"		"77806"
+	}
+	"77814"
+	{
+		"enable"		"-1"
+		"hammerid"		"77814"
+	}
+	"77822"
+	{
+		"enable"		"-1"
+		"hammerid"		"77822"
+	}
+	"77830"
+	{
+		"enable"		"-1"
+		"hammerid"		"77830"
+	}
+	"77838"
+	{
+		"enable"		"-1"
+		"hammerid"		"77838"
+	}
+	"77846"
+	{
+		"enable"		"-1"
+		"hammerid"		"77846"
+	}
+	"77854"
+	{
+		"enable"		"-1"
+		"hammerid"		"77854"
+	}
+	"77862"
+	{
+		"enable"		"-1"
+		"hammerid"		"77862"
+	}
+	"77870"
+	{
+		"enable"		"-1"
+		"hammerid"		"77870"
+	}
+	"77878"
+	{
+		"enable"		"-1"
+		"hammerid"		"77878"
+	}
+	"77886"
+	{
+		"enable"		"-1"
+		"hammerid"		"77886"
+	}
+	"110018"
+	{
+		"enable"		"-1"
+		"hammerid"		"110018"
+	}
+	"140067"
+	{
+		"enable"		"-1"
+		"hammerid"		"140067"
+	}
+	"204766"
+	{
+		"enable"		"-1"
+		"hammerid"		"204766"
+	}
+	"205155"
+	{
+		"enable"		"-1"
+		"hammerid"		"205155"
+	}
+	"205167"
+	{
+		"enable"		"-1"
+		"hammerid"		"205167"
+	}
+	"205171"
+	{
+		"enable"		"-1"
+		"hammerid"		"205171"
+	}
+	"205207"
+	{
+		"enable"		"-1"
+		"hammerid"		"205207"
+	}
+	"205211"
+	{
+		"enable"		"-1"
+		"hammerid"		"205211"
+	}
+	"205299"
+	{
+		"enable"		"-1"
+		"hammerid"		"205299"
+	}
+	"205303"
+	{
+		"enable"		"-1"
+		"hammerid"		"205303"
+	}
 }

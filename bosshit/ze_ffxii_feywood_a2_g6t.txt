@@ -120,4 +120,51 @@
 		"hammerid"		"1502868"
 		"m_iname"		"lvl5_Beam_3"
 	}
+	"440608"
+	{
+		"enable"		"0"
+		"hammerid"		"440608"
+		"m_iname"		"Phys_Level_Changer"
+	}
+	"441049"
+	{
+		"enable"		"0"
+		"hammerid"		"441049"
+		"m_iname"		"Phys_Level_Changer"
+	}
+	"441052"
+	{
+		"enable"		"0"
+		"hammerid"		"441052"
+		"m_iname"		"Phys_Level_Changer"
+	}
+	"441055"
+	{
+		"enable"		"0"
+		"hammerid"		"441055"
+		"m_iname"		"Phys_Level_Changer"
+	}
+	"441058"
+	{
+		"enable"		"0"
+		"hammerid"		"441058"
+		"m_iname"		"Phys_Level_Changer"
+	}
+	"441061"
+	{
+		"enable"		"0"
+		"hammerid"		"441061"
+		"m_iname"		"Phys_Level_Changer"
+	}
+	"441064"
+	{
+		"enable"		"0"
+		"hammerid"		"441064"
+		"m_iname"		"Phys_Level_Changer"
+	}
+	"39652"
+	{
+		"enable"		"-1"
+		"hammerid"		"39652"
+	}
 }

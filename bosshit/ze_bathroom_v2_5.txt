@@ -138,4 +138,34 @@
 		"hammerid"		"394631"
 		"m_iname"		"dira_vana"
 	}
+	"666192"
+	{
+		"enable"		"-1"
+		"hammerid"		"666192"
+		"m_iname"		"vana_zebrik"
+	}
+	"630553"
+	{
+		"enable"		"-1"
+		"hammerid"		"630553"
+		"m_iname"		"level_2_baterie_break"
+	}
+	"573541"
+	{
+		"enable"		"-1"
+		"hammerid"		"573541"
+		"m_iname"		"lvl2_blok_sprcha"
+	}
+	"512886"
+	{
+		"enable"		"-1"
+		"hammerid"		"512886"
+		"m_iname"		"pasticka_drevo"
+	}
+	"512944"
+	{
+		"enable"		"-1"
+		"hammerid"		"512944"
+		"m_iname"		"pasticka syr"
+	}
 }

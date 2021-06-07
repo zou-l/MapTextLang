@@ -60,4 +60,8 @@
 	{
 		"chi"		"** **"
 	}
+	"*** Admin Selected HARD Mode ***"
+	{
+		"chi"		"** **"
+	}
 }

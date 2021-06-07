@@ -216,4 +216,49 @@
 		"hammerid"		"2231"
 		"m_iname"		"cave_r2"
 	}
+	"1900"
+	{
+		"enable"		"-1"
+		"hammerid"		"1900"
+	}
+	"2116"
+	{
+		"enable"		"-1"
+		"hammerid"		"2116"
+	}
+	"2119"
+	{
+		"enable"		"-1"
+		"hammerid"		"2119"
+	}
+	"2205"
+	{
+		"enable"		"-1"
+		"hammerid"		"2205"
+	}
+	"2207"
+	{
+		"enable"		"-1"
+		"hammerid"		"2207"
+	}
+	"2532"
+	{
+		"enable"		"-1"
+		"hammerid"		"2532"
+	}
+	"2535"
+	{
+		"enable"		"-1"
+		"hammerid"		"2535"
+	}
+	"2663"
+	{
+		"enable"		"-1"
+		"hammerid"		"2663"
+	}
+	"2720"
+	{
+		"enable"		"-1"
+		"hammerid"		"2720"
+	}
 }

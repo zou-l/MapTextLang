@@ -224,13 +224,13 @@
 	}
 	"4736714"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"4736714"
 		"m_iname"		"Shinra_Shiva_Phys"
 	}
 	"4736736"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"4736736"
 		"m_iname"		"Shinra_Jenova_Phys"
 	}
@@ -337,5 +337,11 @@
 	{
 		"enable"		"-1"
 		"hammerid"		"5048444"
+	}
+	"0"
+	{
+		"enable"		"-1"
+		"hammerid"		"0"
+		"m_iname"		"Ultimate_Seph_Event_Physbox"
 	}
 }

@@ -280,4 +280,10 @@
 		"enable"		"-1"
 		"hammerid"		"140210"
 	}
+	"67321"
+	{
+		"enable"		"-1"
+		"hammerid"		"67321"
+		"m_iname"		"cade"
+	}
 }

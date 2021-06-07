@@ -6,4 +6,24 @@
 		"hammerid"		"26392"
 		"m_iname"		"hold2"
 	}
+	"9640"
+	{
+		"enable"		"-1"
+		"hammerid"		"9640"
+	}
+	"9655"
+	{
+		"enable"		"-1"
+		"hammerid"		"9655"
+	}
+	"9664"
+	{
+		"enable"		"-1"
+		"hammerid"		"9664"
+	}
+	"9673"
+	{
+		"enable"		"-1"
+		"hammerid"		"9673"
+	}
 }

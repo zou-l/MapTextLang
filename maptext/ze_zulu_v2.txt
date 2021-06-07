@@ -24,4 +24,24 @@
 	{
 		"syncvalue"		"95588"
 	}
+	"**The wall will explode in 30 s**"
+	{
+		"chi"		"** **"
+	}
+	"**The bridge will break in 25 s**"
+	{
+		"chi"		"** **"
+	}
+	"**STAGE 1 COMPLETE !**"
+	{
+		"chi"		"** **"
+	}
+	"**STAGE 2**"
+	{
+		"chi"		"** **"
+	}
+	"**Dont let zombies in this room !! DEFEND**"
+	{
+		"chi"		"** **"
+	}
 }

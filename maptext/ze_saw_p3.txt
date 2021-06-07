@@ -51,6 +51,7 @@
 	">- Hold for 40 seconds  -<"
 	{
 		"chi"		">>>坚守55秒<<<"
+		"DoorCountDown"		"55"
 	}
 	">- nervegas released in elevator area  -<"
 	{

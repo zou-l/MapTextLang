@@ -8,7 +8,7 @@
 	{
 		"chi"		"**20秒**"
 	}
-	">>> 5 seconds left <<<"
+	">>> 5 SECONDS LEFT <<<"
 	{
 		"chi"		"**还剩5秒**"
 	}
@@ -36,7 +36,7 @@
 	{
 		"chi"		"**墙20秒后碎裂**"
 	}
-	">>> Door break in 30 seconds <<<"
+	">>> door break in 30 seconds <<<"
 	{
 		"chi"		"**门30秒后碎裂**"
 	}
@@ -52,7 +52,7 @@
 	">>> secret2 on :3 <<<"
 	{
 		"chi"		"**彩蛋2**"
-		"DoorCountdown"		"-1"		
+		"DoorCountdown"		"-1"
 	}
 	">>> secret1 on :3 <<<"
 	{
@@ -229,10 +229,6 @@
 	{
 		"chi"		"**生存25秒**"
 	}
-	">>> ??? <<<"
-	{
-		"chi"		""
-	}
 	">>> What is this ?? <<<"
 	{
 		"chi"		"**这是怎么一回事啊??**"
@@ -244,10 +240,6 @@
 	">>> aaaaaaaaaaaaaaaaaaaaaahhhh!! <<<"
 	{
 		"chi"		"**嗯啊啊啊啊啊啊啊!!**"
-	}
-	">>> ??! <<<"
-	{
-		"chi"		""
 	}
 	">>> what? <<<"
 	{
@@ -380,5 +372,41 @@
 	">>> Difficulty : Normal 2 Stage <<<"
 	{
 		"chi"		"**第二关 难度：正常**"
+	}
+	">>> Difficulty : WarmUp Stage <<<"
+	{
+		"chi"		"** **"
+	}
+	">>>  5 seconds left <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> Next level : Normal 2 Stage <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> Difficulty : Normal 2 Stage"
+	{
+		"chi"		"** **"
+	}
+	">>> tram leaving in 20 seconds <<< <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> 10 seconds left<<<"
+	{
+		"chi"		"** **"
+	}
+	">>> ??? <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> ??! <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> 5 seconds left  <<<"
+	{
+		"chi"		"** **"
 	}
 }

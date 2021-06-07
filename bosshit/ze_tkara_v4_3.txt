@@ -114,4 +114,10 @@
 		"hammerid"		"469856"
 		"m_iname"		"template1"
 	}
+	"1221358"
+	{
+		"enable"		"0"
+		"hammerid"		"1221358"
+		"m_iname"		"phys"
+	}
 }

@@ -390,4 +390,85 @@
 		"hammerid"		"573023"
 		"m_iname"		"nrk3_breakable_room_gang"
 	}
+	"635117"
+	{
+		"enable"		"0"
+		"hammerid"		"635117"
+		"m_iname"		"nrk1_zombie_fence"
+	}
+	"392860"
+	{
+		"enable"		"-1"
+		"hammerid"		"392860"
+	}
+	"392881"
+	{
+		"enable"		"-1"
+		"hammerid"		"392881"
+	}
+	"173312"
+	{
+		"enable"		"-1"
+		"hammerid"		"173312"
+	}
+	"173321"
+	{
+		"enable"		"-1"
+		"hammerid"		"173321"
+	}
+	"173332"
+	{
+		"enable"		"-1"
+		"hammerid"		"173332"
+	}
+	"173341"
+	{
+		"enable"		"-1"
+		"hammerid"		"173341"
+	}
+	"173352"
+	{
+		"enable"		"-1"
+		"hammerid"		"173352"
+	}
+	"173363"
+	{
+		"enable"		"-1"
+		"hammerid"		"173363"
+	}
+	"173374"
+	{
+		"enable"		"-1"
+		"hammerid"		"173374"
+	}
+	"173385"
+	{
+		"enable"		"-1"
+		"hammerid"		"173385"
+	}
+	"173396"
+	{
+		"enable"		"-1"
+		"hammerid"		"173396"
+	}
+	"173407"
+	{
+		"enable"		"-1"
+		"hammerid"		"173407"
+	}
+	"173418"
+	{
+		"enable"		"-1"
+		"hammerid"		"173418"
+	}
+	"173429"
+	{
+		"enable"		"-1"
+		"hammerid"		"173429"
+	}
+	"173440"
+	{
+		"enable"		"-1"
+		"hammerid"		"173440"
+	}
 }

@@ -636,4 +636,106 @@
 		"hammerid"		"758346"
 		"m_iname"		"Zeal_Cage"
 	}
+	"3919"
+	{
+		"enable"		"-1"
+		"hammerid"		"3919"
+		"m_iname"		"Icecap_Breakable"
+	}
+	"130453"
+	{
+		"enable"		"-1"
+		"hammerid"		"130453"
+		"m_iname"		"Icecap_Breakable"
+	}
+	"36863"
+	{
+		"enable"		"-1"
+		"hammerid"		"36863"
+		"m_iname"		"Train_Breakable"
+	}
+	"1299590"
+	{
+		"enable"		"-1"
+		"hammerid"		"1299590"
+		"m_iname"		"Sonic_Break1"
+	}
+	"1299603"
+	{
+		"enable"		"-1"
+		"hammerid"		"1299603"
+		"m_iname"		"Sonic_Break2"
+	}
+	"1635839"
+	{
+		"enable"		"-1"
+		"hammerid"		"1635839"
+		"m_iname"		"Sonic_Breakable"
+	}
+	"36873"
+	{
+		"enable"		"-1"
+		"hammerid"		"36873"
+		"m_iname"		"Sonic_BreakCade"
+	}
+	"37204"
+	{
+		"enable"		"-1"
+		"hammerid"		"37204"
+		"m_iname"		"Sonic_BreakCade2"
+	}
+	"175589"
+	{
+		"enable"		"-1"
+		"hammerid"		"175589"
+		"m_iname"		"City_Breakable"
+	}
+	"1846514"
+	{
+		"enable"		"-1"
+		"hammerid"		"1846514"
+		"m_iname"		"ZombieMurder_Letter_M"
+	}
+	"1846521"
+	{
+		"enable"		"-1"
+		"hammerid"		"1846521"
+		"m_iname"		"ZombieMurder_Letter_U"
+	}
+	"1846529"
+	{
+		"enable"		"-1"
+		"hammerid"		"1846529"
+		"m_iname"		"ZombieMurder_Letter_R"
+	}
+	"1846536"
+	{
+		"enable"		"-1"
+		"hammerid"		"1846536"
+		"m_iname"		"ZombieMurder_Letter_D"
+	}
+	"1846544"
+	{
+		"enable"		"-1"
+		"hammerid"		"1846544"
+		"m_iname"		"ZombieMurder_Letter_E"
+	}
+	"1846550"
+	{
+		"enable"		"-1"
+		"hammerid"		"1846550"
+		"m_iname"		"ZombieMurder_Letter_R2"
+	}
+	"1846619"
+	{
+		"enable"		"1"
+		"hammerid"		"1846619"
+		"m_iname"		"ZombieMurder_Boss_Break"
+	}
+	"1846657"
+	{
+		"enable"		"-1"
+		"hammerid"		"1846657"
+		"m_iname"		"ZombieMurder_Sign"
+	}
 }

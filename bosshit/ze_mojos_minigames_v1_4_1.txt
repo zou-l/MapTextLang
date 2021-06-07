@@ -102,4 +102,26 @@
 		"hammerid"		"1239"
 		"m_iname"		"valley_boulder1_physbox&8979"
 	}
+	"9082"
+	{
+		"enable"		"-1"
+		"hammerid"		"9082"
+	}
+	"9179"
+	{
+		"enable"		"-1"
+		"hammerid"		"9179"
+	}
+	"603731"
+	{
+		"enable"		"-1"
+		"hammerid"		"603731"
+		"m_iname"		"crate"
+	}
+	"603726"
+	{
+		"enable"		"-1"
+		"hammerid"		"603726"
+		"m_iname"		"crate_breakable"
+	}
 }

@@ -78,4 +78,9 @@
 		"hammerid"		"1124055"
 		"m_iname"		"stage_5_boss_hitbox"
 	}
+	"1035671"
+	{
+		"enable"		"-1"
+		"hammerid"		"1035671"
+	}
 }

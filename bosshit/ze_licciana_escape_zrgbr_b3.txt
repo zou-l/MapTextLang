@@ -120,4 +120,55 @@
 		"hammerid"		"9149"
 		"m_iname"		"break_door2"
 	}
+	"7598"
+	{
+		"enable"		"-1"
+		"hammerid"		"7598"
+	}
+	"7918"
+	{
+		"enable"		"-1"
+		"hammerid"		"7918"
+	}
+	"7954"
+	{
+		"enable"		"-1"
+		"hammerid"		"7954"
+	}
+	"7962"
+	{
+		"enable"		"-1"
+		"hammerid"		"7962"
+	}
+	"7970"
+	{
+		"enable"		"-1"
+		"hammerid"		"7970"
+	}
+	"7978"
+	{
+		"enable"		"-1"
+		"hammerid"		"7978"
+	}
+	"7986"
+	{
+		"enable"		"-1"
+		"hammerid"		"7986"
+	}
+	"8010"
+	{
+		"enable"		"-1"
+		"hammerid"		"8010"
+	}
+	"8833"
+	{
+		"enable"		"-1"
+		"hammerid"		"8833"
+	}
+	"103118"
+	{
+		"enable"		"-1"
+		"hammerid"		"103118"
+		"m_iname"		"phys_penis"
+	}
 }

@@ -2322,4 +2322,204 @@
 		"hammerid"		"307375"
 		"m_iname"		"fin_phys3_1"
 	}
+	"69176"
+	{
+		"enable"		"-1"
+		"hammerid"		"69176"
+	}
+	"69180"
+	{
+		"enable"		"-1"
+		"hammerid"		"69180"
+	}
+	"69184"
+	{
+		"enable"		"-1"
+		"hammerid"		"69184"
+	}
+	"71963"
+	{
+		"enable"		"-1"
+		"hammerid"		"71963"
+	}
+	"71966"
+	{
+		"enable"		"-1"
+		"hammerid"		"71966"
+	}
+	"71969"
+	{
+		"enable"		"-1"
+		"hammerid"		"71969"
+	}
+	"71990"
+	{
+		"enable"		"-1"
+		"hammerid"		"71990"
+	}
+	"71996"
+	{
+		"enable"		"-1"
+		"hammerid"		"71996"
+	}
+	"72026"
+	{
+		"enable"		"-1"
+		"hammerid"		"72026"
+	}
+	"72032"
+	{
+		"enable"		"-1"
+		"hammerid"		"72032"
+	}
+	"72209"
+	{
+		"enable"		"-1"
+		"hammerid"		"72209"
+	}
+	"72230"
+	{
+		"enable"		"-1"
+		"hammerid"		"72230"
+	}
+	"72242"
+	{
+		"enable"		"-1"
+		"hammerid"		"72242"
+	}
+	"72672"
+	{
+		"enable"		"-1"
+		"hammerid"		"72672"
+	}
+	"72675"
+	{
+		"enable"		"-1"
+		"hammerid"		"72675"
+	}
+	"92733"
+	{
+		"enable"		"-1"
+		"hammerid"		"92733"
+	}
+	"102027"
+	{
+		"enable"		"-1"
+		"hammerid"		"102027"
+	}
+	"104069"
+	{
+		"enable"		"-1"
+		"hammerid"		"104069"
+	}
+	"104151"
+	{
+		"enable"		"-1"
+		"hammerid"		"104151"
+	}
+	"105324"
+	{
+		"enable"		"-1"
+		"hammerid"		"105324"
+	}
+	"105356"
+	{
+		"enable"		"-1"
+		"hammerid"		"105356"
+	}
+	"132158"
+	{
+		"enable"		"-1"
+		"hammerid"		"132158"
+	}
+	"133950"
+	{
+		"enable"		"-1"
+		"hammerid"		"133950"
+	}
+	"134019"
+	{
+		"enable"		"-1"
+		"hammerid"		"134019"
+	}
+	"139729"
+	{
+		"enable"		"-1"
+		"hammerid"		"139729"
+	}
+	"139743"
+	{
+		"enable"		"-1"
+		"hammerid"		"139743"
+	}
+	"139902"
+	{
+		"enable"		"-1"
+		"hammerid"		"139902"
+	}
+	"141294"
+	{
+		"enable"		"-1"
+		"hammerid"		"141294"
+	}
+	"141311"
+	{
+		"enable"		"-1"
+		"hammerid"		"141311"
+	}
+	"141598"
+	{
+		"enable"		"-1"
+		"hammerid"		"141598"
+	}
+	"141619"
+	{
+		"enable"		"-1"
+		"hammerid"		"141619"
+	}
+	"142717"
+	{
+		"enable"		"-1"
+		"hammerid"		"142717"
+	}
+	"143444"
+	{
+		"enable"		"-1"
+		"hammerid"		"143444"
+	}
+	"144380"
+	{
+		"enable"		"-1"
+		"hammerid"		"144380"
+	}
+	"263933"
+	{
+		"enable"		"-1"
+		"hammerid"		"263933"
+	}
+	"290309"
+	{
+		"enable"		"-1"
+		"hammerid"		"290309"
+	}
+	"323022"
+	{
+		"enable"		"-1"
+		"hammerid"		"323022"
+	}
+	"324393"
+	{
+		"enable"		"-1"
+		"hammerid"		"324393"
+	}
+	"324396"
+	{
+		"enable"		"-1"
+		"hammerid"		"324396"
+	}
+	"324411"
+	{
+		"enable"		"-1"
+		"hammerid"		"324411"
+	}
 }

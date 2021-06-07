@@ -42,4 +42,24 @@
 		"hammerid"		"89556"
 		"m_iname"		"surf_2_breakable_zm"
 	}
+	"157517"
+	{
+		"enable"		"-1"
+		"hammerid"		"157517"
+	}
+	"158170"
+	{
+		"enable"		"-1"
+		"hammerid"		"158170"
+	}
+	"148569"
+	{
+		"enable"		"-1"
+		"hammerid"		"148569"
+	}
+	"113303"
+	{
+		"enable"		"-1"
+		"hammerid"		"113303"
+	}
 }

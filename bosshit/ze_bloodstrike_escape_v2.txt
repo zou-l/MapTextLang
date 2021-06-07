@@ -48,4 +48,49 @@
 		"hammerid"		"8284"
 		"m_iname"		"tiesiwang3"
 	}
+	"642615"
+	{
+		"enable"		"-1"
+		"hammerid"		"642615"
+	}
+	"405272"
+	{
+		"enable"		"-1"
+		"hammerid"		"405272"
+	}
+	"405284"
+	{
+		"enable"		"-1"
+		"hammerid"		"405284"
+	}
+	"368557"
+	{
+		"enable"		"-1"
+		"hammerid"		"368557"
+	}
+	"131142"
+	{
+		"enable"		"-1"
+		"hammerid"		"131142"
+	}
+	"131154"
+	{
+		"enable"		"-1"
+		"hammerid"		"131154"
+	}
+	"42553"
+	{
+		"enable"		"-1"
+		"hammerid"		"42553"
+	}
+	"15064"
+	{
+		"enable"		"-1"
+		"hammerid"		"15064"
+	}
+	"4364"
+	{
+		"enable"		"-1"
+		"hammerid"		"4364"
+	}
 }

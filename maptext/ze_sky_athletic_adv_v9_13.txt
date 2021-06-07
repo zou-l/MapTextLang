@@ -227,7 +227,7 @@
 	"COOL DOWN : 35 SEC"
 	{
 		"chi"		"**冷却时间:35秒**"
-                "DoorCountdown" "-1"
+		"DoorCountDown"		"-1"
 	}
 	"*** LEVEL10 PORTAL ACTIVATED in 20 SECONDS ***"
 	{
@@ -288,7 +288,7 @@
 	"COOL DOWN : 40 SEC"
 	{
 		"chi"		"**风冷却时间：40秒**"
-		"DoorCountdown" "-1"
+		"DoorCountDown"		"-1"
 	}
 	"*** LEVEL12 PORTAL ACTIVATED in 20 SECONDS ***"
 	{
@@ -601,7 +601,7 @@
 	"COOL DOWN : 50 SEC"
 	{
 		"chi"		"**冰冷却时间:50秒**"
-		"DoorCountdown" "-1"
+		"DoorCountDown"		"-1"
 	}
 	"*** KEY BOARD CRASHER IS DEAD ***"
 	{
@@ -684,7 +684,7 @@
 	"*** A PLAYER HAS PICKED UP A SMALL HEALTH LIGHT ***"
 	{
 		"chi"		"**一位玩家捡起了小奶（可以缓慢回血,无次数限制）**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"CUTE CLOUD :Hi,humans..."
 	{
@@ -817,7 +817,7 @@
 	"Remember : 5 COUNTS !!!!!"
 	{
 		"chi"		"**记住: 5刀!!! **"
-		"DoorCountdown" "-1"
+		"DoorCountDown"		"-1"
 	}
 	"CUTE CLOUD :AAAHhhhh...."
 	{
@@ -899,7 +899,7 @@
 	{
 		"chi"		"**等待发生什么事情**"
 	}
-	"*** 5 SECONDS LEFT ***"
+	"*** 5 seconds left ***"
 	{
 		"chi"		"**还剩5秒 **"
 	}
@@ -922,7 +922,7 @@
 	"*** >>>> WARNING <<<< KEYBOARD RUSH ***"
 	{
 		"chi"		"**>>>> 警告 <<<< 键盘RUSH(全体强制1血**"
-		"DoorCountdown" "-1"
+		"DoorCountDown"		"-1"
 	}
 	"CRASHER :HAHAHA!!! What's the taste of this !!!?!?!?!"
 	{
@@ -1050,7 +1050,7 @@
 	}
 	"*** FLYING CHANCE ***"
 	{
-		"chi"		"**飞行推力(面对BOSS准备按住W抵抗瞬间推力)**"
+		"chi"		"**飞行推力(面对BOSS离远点，准备按住W抵抗瞬间推力)**"
 	}
 	"*** ESC STORM ***"
 	{
@@ -1343,7 +1343,7 @@
 	"Remember : 8 COUNTS !!!!!"
 	{
 		"chi"		"**记住: 8刀 **"
-		"DoorCountdown" "-1"
+		"DoorCountDown"		"-1"
 	}
 	"sync_version"
 	{
@@ -1477,7 +1477,7 @@
 	{
 		"chi"		"**云爸爸:如果你离开的话请小心.**"
 	}
-	"*** DEFEND FOR 30 SECONDS ***"
+	"*** Defend for 30 seconds ***"
 	{
 		"chi"		"**坚守30秒 **"
 	}
@@ -2122,7 +2122,7 @@
 	"Remember : 10 COUNTS !!!!!"
 	{
 		"chi"		"**记住: 10刀!!! **"
-		"DoorCountdown" "-1"
+		"DoorCountDown"		"-1"
 	}
 	"BOY CLOUD :Ahhh...They...really...strong...!!!"
 	{
@@ -2783,5 +2783,17 @@
 	"*** STAGE : HIS POWER button PRESSED ***"
 	{
 		"chi"		"**关卡: 真正实力按钮按下 **"
+	}
+	"*** Expired 20 seconds,next round will start at STAGE 1 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Bad weather... ***"
+	{
+		"chi"		"** **"
+	}
+	"*** STAGE : ????? button PRESSED ***"
+	{
+		"chi"		"** **"
 	}
 }

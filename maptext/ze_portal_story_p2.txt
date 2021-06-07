@@ -142,4 +142,28 @@
 	{
 		"syncvalue"		"22718"
 	}
+	">>> GLaDOS IS DEAD <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> NORMAL MODE COMPLETED <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> MOVING ON TO HARD MODE <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> ZE PORTAL STORY - HARD DIFFICULTY <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> HARD MODE COMPLETED <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> MOVING ON TO EXTREME MODE <<<"
+	{
+		"chi"		"** **"
+	}
 }

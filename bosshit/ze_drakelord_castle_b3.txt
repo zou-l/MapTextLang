@@ -34,7 +34,7 @@
 	{
 		"enable"		"0"
 		"hammerid"		"16817"
-		"m_iname"		"i_builder_straight_wr&0732"
+		"m_iname"		"i_builder_straight_wr&7061"
 	}
 	"15832"
 	{
@@ -58,7 +58,7 @@
 	{
 		"enable"		"0"
 		"hammerid"		"31668"
-		"m_iname"		"i_builder_bridgesmall"
+		"m_iname"		"i_builder_bridge"
 	}
 	"3791"
 	{
@@ -82,7 +82,7 @@
 	{
 		"enable"		"0"
 		"hammerid"		"16690"
-		"m_iname"		"i_builder_straight_wl&0726"
+		"m_iname"		"i_builder_straight_wl&7061"
 	}
 	"2271"
 	{
@@ -154,7 +154,7 @@
 	{
 		"enable"		"0"
 		"hammerid"		"84843"
-		"m_iname"		"i_builder_hold&0874"
+		"m_iname"		"i_builder_hold&7296"
 	}
 	"33740"
 	{
@@ -166,7 +166,7 @@
 	{
 		"enable"		"0"
 		"hammerid"		"9727"
-		"m_iname"		"i_builder_vinewall"
+		"m_iname"		"i_builder_vinewall&7323"
 	}
 	"83082"
 	{
@@ -184,7 +184,7 @@
 	{
 		"enable"		"0"
 		"hammerid"		"17267"
-		"m_iname"		"i_mine_phys&0859"
+		"m_iname"		"i_mine_phys&7325"
 	}
 	"2882"
 	{
@@ -202,7 +202,7 @@
 	{
 		"enable"		"0"
 		"hammerid"		"31727"
-		"m_iname"		"i_builder_bridge"
+		"m_iname"		"i_builder_bridgelong"
 	}
 	"34274"
 	{
@@ -274,7 +274,7 @@
 	{
 		"enable"		"0"
 		"hammerid"		"93637"
-		"m_iname"		"i_builder_librarywall&3232"
+		"m_iname"		"i_builder_librarywall&2562"
 	}
 	"117986"
 	{

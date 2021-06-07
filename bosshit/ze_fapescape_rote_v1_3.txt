@@ -210,7 +210,7 @@
 	{
 		"enable"		"1"
 		"hammerid"		"1344131"
-		"m_iname"		"stage_2_ex_boss_52"
+		"m_iname"		"mt_add"
 	}
 	"1339046"
 	{
@@ -985,5 +985,11 @@
 		"enable"		"1"
 		"hammerid"		"1338883"
 		"m_iname"		"stage_2_ex_boss_36"
+	}
+	"11344131"
+	{
+		"enable"		"1"
+		"hammerid"		"11344131"
+		"m_iname"		"mt_add"
 	}
 }

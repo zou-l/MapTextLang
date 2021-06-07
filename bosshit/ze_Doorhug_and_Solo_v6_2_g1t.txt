@@ -38,9 +38,9 @@
 	}
 	"43092"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"43092"
-		"m_iname"		"Monster_ZM_Phys"
+		"m_iname"		"mt_add"
 	}
 	"46719"
 	{

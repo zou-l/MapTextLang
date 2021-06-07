@@ -64,7 +64,7 @@
 	{
 		"chi"		"**平台将在5秒后碎裂**"
 	}
-	"MAP BY FRENCHY"
+	"Map by Frenchy"
 	{
 		"chi"		"**地图制作:FRENCHY 地图翻译:清新的二哈♪**"
 	}
@@ -208,7 +208,7 @@
 	{
 		"chi"		"**[最终关]**"
 	}
-	"BOSS FIGHT IN 10 SECOND"
+	"Boss fight in 10 second"
 	{
 		"chi"		"**10秒后开始BOSS战**"
 	}
@@ -220,7 +220,7 @@
 	{
 		"chi"		"**BOSS被打败了**"
 	}
-	"BOSS FIGHT"
+	"Boss Fight"
 	{
 		"chi"		"**BOSS进入战斗**"
 	}
@@ -243,5 +243,9 @@
 	"sync_version"
 	{
 		"syncvalue"		"34876"
+	}
+	"THE PLATFORM WILL BREAK IN 30 SECONDS"
+	{
+		"chi"		"** **"
 	}
 }

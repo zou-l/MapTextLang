@@ -96,4 +96,49 @@
 		"hammerid"		"45428"
 		"m_iname"		"balance_break8"
 	}
+	"871"
+	{
+		"enable"		"-1"
+		"hammerid"		"871"
+	}
+	"9693"
+	{
+		"enable"		"-1"
+		"hammerid"		"9693"
+	}
+	"30823"
+	{
+		"enable"		"-1"
+		"hammerid"		"30823"
+	}
+	"30840"
+	{
+		"enable"		"-1"
+		"hammerid"		"30840"
+	}
+	"30845"
+	{
+		"enable"		"-1"
+		"hammerid"		"30845"
+	}
+	"40298"
+	{
+		"enable"		"-1"
+		"hammerid"		"40298"
+	}
+	"42144"
+	{
+		"enable"		"-1"
+		"hammerid"		"42144"
+	}
+	"50947"
+	{
+		"enable"		"-1"
+		"hammerid"		"50947"
+	}
+	"68118"
+	{
+		"enable"		"-1"
+		"hammerid"		"68118"
+	}
 }

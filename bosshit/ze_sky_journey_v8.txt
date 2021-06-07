@@ -324,4 +324,21 @@
 		"hammerid"		"134416"
 		"m_iname"		"chufa8"
 	}
+	"185156"
+	{
+		"enable"		"-1"
+		"hammerid"		"185156"
+	}
+	"164027"
+	{
+		"enable"		"-1"
+		"hammerid"		"164027"
+		"m_iname"		"box_1"
+	}
+	"164038"
+	{
+		"enable"		"-1"
+		"hammerid"		"164038"
+		"m_iname"		"box_2"
+	}
 }

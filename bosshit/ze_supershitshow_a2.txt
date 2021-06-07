@@ -288,4 +288,113 @@
 		"hammerid"		"303199"
 		"m_iname"		"DoorwayDoor&8939"
 	}
+	"159336"
+	{
+		"enable"		"-1"
+		"hammerid"		"159336"
+	}
+	"159342"
+	{
+		"enable"		"-1"
+		"hammerid"		"159342"
+	}
+	"159348"
+	{
+		"enable"		"-1"
+		"hammerid"		"159348"
+	}
+	"159356"
+	{
+		"enable"		"-1"
+		"hammerid"		"159356"
+	}
+	"159485"
+	{
+		"enable"		"-1"
+		"hammerid"		"159485"
+	}
+	"159697"
+	{
+		"enable"		"-1"
+		"hammerid"		"159697"
+	}
+	"160009"
+	{
+		"enable"		"-1"
+		"hammerid"		"160009"
+	}
+	"160027"
+	{
+		"enable"		"-1"
+		"hammerid"		"160027"
+	}
+	"160448"
+	{
+		"enable"		"-1"
+		"hammerid"		"160448"
+	}
+	"160460"
+	{
+		"enable"		"-1"
+		"hammerid"		"160460"
+	}
+	"160571"
+	{
+		"enable"		"-1"
+		"hammerid"		"160571"
+	}
+	"82299"
+	{
+		"enable"		"-1"
+		"hammerid"		"82299"
+		"m_iname"		"ProjectileFreezerPhysics&1210"
+	}
+	"273723"
+	{
+		"enable"		"-1"
+		"hammerid"		"273723"
+		"m_iname"		"RockBarricadePhys&0111"
+	}
+	"152405"
+	{
+		"enable"		"-1"
+		"hammerid"		"152405"
+		"m_iname"		"VipAround"
+	}
+	"308621"
+	{
+		"enable"		"-1"
+		"hammerid"		"308621"
+		"m_iname"		"SkyArenaKubrick"
+	}
+	"183393"
+	{
+		"enable"		"1"
+		"hammerid"		"183393"
+		"m_iname"		"FaceBossSideWalls&1064"
+	}
+	"144213"
+	{
+		"enable"		"1"
+		"hammerid"		"144213"
+		"m_iname"		"FaceBossBreakable"
+	}
+	"128101"
+	{
+		"enable"		"1"
+		"hammerid"		"128101"
+		"m_iname"		"FaceBossBreakable"
+	}
+	"139169"
+	{
+		"enable"		"-1"
+		"hammerid"		"139169"
+		"m_iname"		"HorizontalBloodclotBrush&1074"
+	}
+	"139200"
+	{
+		"enable"		"-1"
+		"hammerid"		"139200"
+		"m_iname"		"VerticalBloodclotBrush&1078"
+	}
 }

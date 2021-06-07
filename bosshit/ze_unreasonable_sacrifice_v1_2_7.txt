@@ -72,4 +72,29 @@
 		"hammerid"		"2076"
 		"m_iname"		"wall2"
 	}
+	"35438"
+	{
+		"enable"		"-1"
+		"hammerid"		"35438"
+	}
+	"29821"
+	{
+		"enable"		"-1"
+		"hammerid"		"29821"
+	}
+	"29834"
+	{
+		"enable"		"-1"
+		"hammerid"		"29834"
+	}
+	"30310"
+	{
+		"enable"		"-1"
+		"hammerid"		"30310"
+	}
+	"15676"
+	{
+		"enable"		"-1"
+		"hammerid"		"15676"
+	}
 }

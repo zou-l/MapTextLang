@@ -126,4 +126,92 @@
 		"hammerid"		"1098755"
 		"m_iname"		"hard_break"
 	}
+	"630237"
+	{
+		"enable"		"-1"
+		"hammerid"		"630237"
+		"m_iname"		"hard_admin_box"
+	}
+	"587600"
+	{
+		"enable"		"-1"
+		"hammerid"		"587600"
+	}
+	"483847"
+	{
+		"enable"		"-1"
+		"hammerid"		"483847"
+		"m_iname"		"warmup_box"
+	}
+	"361465"
+	{
+		"enable"		"-1"
+		"hammerid"		"361465"
+		"m_iname"		"laser_admin_box"
+	}
+	"361587"
+	{
+		"enable"		"1"
+		"hammerid"		"361587"
+		"m_iname"		"boss_froyo_admin_box"
+	}
+	"361626"
+	{
+		"enable"		"1"
+		"hammerid"		"361626"
+		"m_iname"		"boss_star_admin_box"
+	}
+	"361650"
+	{
+		"enable"		"1"
+		"hammerid"		"361650"
+		"m_iname"		"boss_star_ii_admin_box"
+	}
+	"358335"
+	{
+		"enable"		"-1"
+		"hammerid"		"358335"
+		"m_iname"		"normal_box"
+	}
+	"201489"
+	{
+		"enable"		"-1"
+		"hammerid"		"201489"
+	}
+	"201499"
+	{
+		"enable"		"-1"
+		"hammerid"		"201499"
+	}
+	"201505"
+	{
+		"enable"		"-1"
+		"hammerid"		"201505"
+	}
+	"196960"
+	{
+		"enable"		"-1"
+		"hammerid"		"196960"
+	}
+	"196978"
+	{
+		"enable"		"-1"
+		"hammerid"		"196978"
+	}
+	"196995"
+	{
+		"enable"		"-1"
+		"hammerid"		"196995"
+	}
+	"117711"
+	{
+		"enable"		"-1"
+		"hammerid"		"117711"
+	}
+	"107778"
+	{
+		"enable"		"-1"
+		"hammerid"		"107778"
+		"m_iname"		"initial_box"
+	}
 }

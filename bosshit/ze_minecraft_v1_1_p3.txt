@@ -342,4 +342,89 @@
 		"hammerid"		"224371"
 		"m_iname"		"pronebreaker"
 	}
+	"4036"
+	{
+		"enable"		"-1"
+		"hammerid"		"4036"
+	}
+	"4454"
+	{
+		"enable"		"-1"
+		"hammerid"		"4454"
+	}
+	"4652"
+	{
+		"enable"		"-1"
+		"hammerid"		"4652"
+	}
+	"33690"
+	{
+		"enable"		"-1"
+		"hammerid"		"33690"
+	}
+	"58525"
+	{
+		"enable"		"-1"
+		"hammerid"		"58525"
+	}
+	"95884"
+	{
+		"enable"		"-1"
+		"hammerid"		"95884"
+	}
+	"95914"
+	{
+		"enable"		"-1"
+		"hammerid"		"95914"
+	}
+	"136935"
+	{
+		"enable"		"-1"
+		"hammerid"		"136935"
+	}
+	"140105"
+	{
+		"enable"		"-1"
+		"hammerid"		"140105"
+	}
+	"153382"
+	{
+		"enable"		"-1"
+		"hammerid"		"153382"
+	}
+	"153396"
+	{
+		"enable"		"-1"
+		"hammerid"		"153396"
+	}
+	"153411"
+	{
+		"enable"		"-1"
+		"hammerid"		"153411"
+	}
+	"170788"
+	{
+		"enable"		"-1"
+		"hammerid"		"170788"
+	}
+	"202558"
+	{
+		"enable"		"-1"
+		"hammerid"		"202558"
+	}
+	"202602"
+	{
+		"enable"		"-1"
+		"hammerid"		"202602"
+	}
+	"223939"
+	{
+		"enable"		"-1"
+		"hammerid"		"223939"
+	}
+	"223958"
+	{
+		"enable"		"-1"
+		"hammerid"		"223958"
+	}
 }

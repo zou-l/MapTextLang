@@ -24,4 +24,19 @@
 		"hammerid"		"19860"
 		"m_iname"		"muro"
 	}
+	"61206"
+	{
+		"enable"		"-1"
+		"hammerid"		"61206"
+	}
+	"61219"
+	{
+		"enable"		"-1"
+		"hammerid"		"61219"
+	}
+	"1511"
+	{
+		"enable"		"-1"
+		"hammerid"		"1511"
+	}
 }

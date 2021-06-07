@@ -96,4 +96,16 @@
 		"hammerid"		"368616"
 		"m_iname"		"St2_zm2"
 	}
+	"190489"
+	{
+		"enable"		"0"
+		"hammerid"		"190489"
+		"m_iname"		"phys"
+	}
+	"179354"
+	{
+		"enable"		"0"
+		"hammerid"		"179354"
+		"m_iname"		"phys"
+	}
 }

@@ -438,4 +438,105 @@
 		"hammerid"		"2531"
 		"m_iname"		"ballestaflecha2"
 	}
+	"2494"
+	{
+		"enable"		"0"
+		"hammerid"		"2494"
+		"m_iname"		"ballestaflecha"
+	}
+	"1498"
+	{
+		"enable"		"-1"
+		"hammerid"		"1498"
+	}
+	"1542"
+	{
+		"enable"		"-1"
+		"hammerid"		"1542"
+	}
+	"1544"
+	{
+		"enable"		"-1"
+		"hammerid"		"1544"
+	}
+	"1547"
+	{
+		"enable"		"-1"
+		"hammerid"		"1547"
+	}
+	"1579"
+	{
+		"enable"		"-1"
+		"hammerid"		"1579"
+	}
+	"1581"
+	{
+		"enable"		"-1"
+		"hammerid"		"1581"
+	}
+	"1583"
+	{
+		"enable"		"-1"
+		"hammerid"		"1583"
+	}
+	"1745"
+	{
+		"enable"		"-1"
+		"hammerid"		"1745"
+	}
+	"1755"
+	{
+		"enable"		"-1"
+		"hammerid"		"1755"
+	}
+	"1843"
+	{
+		"enable"		"-1"
+		"hammerid"		"1843"
+	}
+	"1993"
+	{
+		"enable"		"-1"
+		"hammerid"		"1993"
+	}
+	"1995"
+	{
+		"enable"		"-1"
+		"hammerid"		"1995"
+	}
+	"2121"
+	{
+		"enable"		"-1"
+		"hammerid"		"2121"
+	}
+	"2123"
+	{
+		"enable"		"-1"
+		"hammerid"		"2123"
+	}
+	"2397"
+	{
+		"enable"		"-1"
+		"hammerid"		"2397"
+	}
+	"2447"
+	{
+		"enable"		"-1"
+		"hammerid"		"2447"
+	}
+	"2457"
+	{
+		"enable"		"-1"
+		"hammerid"		"2457"
+	}
+	"2460"
+	{
+		"enable"		"-1"
+		"hammerid"		"2460"
+	}
+	"2466"
+	{
+		"enable"		"-1"
+		"hammerid"		"2466"
+	}
 }

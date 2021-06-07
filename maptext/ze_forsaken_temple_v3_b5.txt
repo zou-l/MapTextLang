@@ -656,4 +656,16 @@
 	{
 		"chi"		"**还剩5秒 **"
 	}
+	"** Maze exit is opening in 35s **"
+	{
+		"chi"		"** **"
+	}
+	"** Zombie items are temporary disabled **"
+	{
+		"chi"		"** **"
+	}
+	"** Zombie items can be used again **"
+	{
+		"chi"		"** **"
+	}
 }

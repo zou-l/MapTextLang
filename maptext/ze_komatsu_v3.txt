@@ -128,4 +128,8 @@
 	{
 		"chi"		"** **"
 	}
+	"***Laser room skipped***"
+	{
+		"chi"		"** **"
+	}
 }

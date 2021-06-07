@@ -74,9 +74,9 @@
 	}
 	"670648"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"670648"
-		"m_iname"		"pbox_dragon"
+		"m_iname"		"mt_add"
 	}
 	"1040564"
 	{
@@ -86,9 +86,9 @@
 	}
 	"641865"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"641865"
-		"m_iname"		"br_escdragon"
+		"m_iname"		"mt_add"
 	}
 	"136322"
 	{

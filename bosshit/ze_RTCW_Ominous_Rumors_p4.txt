@@ -54,4 +54,24 @@
 		"hammerid"		"1148933"
 		"m_iname"		"nazi_hitbox&4166"
 	}
+	"1070892"
+	{
+		"enable"		"-1"
+		"hammerid"		"1070892"
+	}
+	"253377"
+	{
+		"enable"		"-1"
+		"hammerid"		"253377"
+	}
+	"607100"
+	{
+		"enable"		"-1"
+		"hammerid"		"607100"
+	}
+	"972948"
+	{
+		"enable"		"-1"
+		"hammerid"		"972948"
+	}
 }

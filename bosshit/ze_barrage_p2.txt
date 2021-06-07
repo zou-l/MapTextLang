@@ -576,4 +576,69 @@
 		"hammerid"		"592515"
 		"m_iname"		"gas_roof"
 	}
+	"604700"
+	{
+		"enable"		"-1"
+		"hammerid"		"604700"
+	}
+	"604825"
+	{
+		"enable"		"-1"
+		"hammerid"		"604825"
+	}
+	"728976"
+	{
+		"enable"		"-1"
+		"hammerid"		"728976"
+	}
+	"728987"
+	{
+		"enable"		"-1"
+		"hammerid"		"728987"
+	}
+	"728991"
+	{
+		"enable"		"-1"
+		"hammerid"		"728991"
+	}
+	"728995"
+	{
+		"enable"		"-1"
+		"hammerid"		"728995"
+	}
+	"729037"
+	{
+		"enable"		"-1"
+		"hammerid"		"729037"
+	}
+	"880827"
+	{
+		"enable"		"-1"
+		"hammerid"		"880827"
+	}
+	"922857"
+	{
+		"enable"		"-1"
+		"hammerid"		"922857"
+	}
+	"922874"
+	{
+		"enable"		"-1"
+		"hammerid"		"922874"
+	}
+	"922923"
+	{
+		"enable"		"-1"
+		"hammerid"		"922923"
+	}
+	"922928"
+	{
+		"enable"		"-1"
+		"hammerid"		"922928"
+	}
+	"922932"
+	{
+		"enable"		"-1"
+		"hammerid"		"922932"
+	}
 }

@@ -114,4 +114,58 @@
 		"hammerid"		"19032"
 		"m_iname"		"i_stonefall_breakable&8296"
 	}
+	"28947"
+	{
+		"enable"		"-1"
+		"hammerid"		"28947"
+		"m_iname"		"i_templeguardian_hp&7160"
+	}
+	"27135"
+	{
+		"enable"		"-1"
+		"hammerid"		"27135"
+		"m_iname"		"i_templeguardian_base&7160"
+	}
+	"154084"
+	{
+		"enable"		"-1"
+		"hammerid"		"154084"
+		"m_iname"		"i_minotaurgod_nadehp"
+	}
+	"30343"
+	{
+		"enable"		"-1"
+		"hammerid"		"30343"
+		"m_iname"		"i_minotaurgod_hp"
+	}
+	"33857"
+	{
+		"enable"		"-1"
+		"hammerid"		"33857"
+		"m_iname"		"i_minotaurgod_base"
+	}
+	"357324"
+	{
+		"enable"		"-1"
+		"hammerid"		"357324"
+		"m_iname"		"i_endwall_1&1781"
+	}
+	"357319"
+	{
+		"enable"		"-1"
+		"hammerid"		"357319"
+		"m_iname"		"i_endwall_2&1779"
+	}
+	"357337"
+	{
+		"enable"		"-1"
+		"hammerid"		"357337"
+		"m_iname"		"i_endwall_3&1780"
+	}
+	"357623"
+	{
+		"enable"		"-1"
+		"hammerid"		"357623"
+		"m_iname"		"i_endwall_4&1777"
+	}
 }

@@ -253,7 +253,7 @@
 		"chi"		"**还剩10秒**"
 	}
 	"**Go to Goldenrod City!**"
-        {
+	{
 		"chi"		"**前往满金市**"
 	}
 	"**Welcome to GoldenRod City**"
@@ -299,7 +299,7 @@
 	"**Miltank has restored 150HP**"
 	{
 		"chi"		"**大奶罐恢复150HP **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"**Whitney: Miltank, use Attract!**"
 	{
@@ -388,12 +388,12 @@
 	"***Recharge: 80 seconds.***"
 	{
 		"chi"		"**冷却时间：80s**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"***Recharge: 45 seconds.***"
 	{
 		"chi"		"**冷却时间：45s**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"LETS SEE WHICH PATH WILL BE AVAIBLE"
 	{
@@ -410,7 +410,7 @@
 	"***Recharge: 60 Seconds.**"
 	{
 		"chi"		"**冷却时间：60s**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"MIDDLE PATH OPEN"
 	{
@@ -535,7 +535,7 @@
 	"**Groudon used Fissure!**"
 	{
 		"chi"		"**固拉多使用了地裂！快去两边出现的平台！**"
-		"DoorCountdown"		"5"
+		"DoorCountDown"		"5"
 	}
 	"**Get on the side platforms**"
 	{
@@ -544,12 +544,12 @@
 	"**Groudon is rising up platforms!**"
 	{
 		"chi"		"**防守尸笼**"
-		"DoorCountdown"		"5"
+		"DoorCountDown"		"5"
 	}
 	"**Groudon used Roar!**"
 	{
 		"chi"		"**固拉多使用了咆哮（按住w）**"
-		"DoorCountdown"		"5"
+		"DoorCountDown"		"5"
 	}
 	"DEFEND HERE FOR 45 SECONDS!"
 	{
@@ -898,7 +898,7 @@
 	"**Zombiecage breaking in 12 seconds**"
 	{
 		"chi"		"**尸笼12秒后开启**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"ALL BARRIERS DESTROYED, DEFEND HERE FOR 60 SECONDS"
 	{
@@ -947,7 +947,7 @@
 	"Cyrus: Honchkrow use Night Slash"
 	{
 		"chi"		"**赤日：乌鸦头头，使用暗袭要害**"
-		"DoorCountdown"		"5"
+		"DoorCountDown"		"5"
 	}
 	"DODGE THE SLASHES!"
 	{
@@ -964,7 +964,7 @@
 	"Honchkrow has restored 500HP!"
 	{
 		"chi"		"**乌鸦头头恢复500HP! **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"Honchkrow has fainted"
 	{
@@ -981,7 +981,7 @@
 	"Cyrus: Crobat, use Cross Venom"
 	{
 		"chi"		"**赤日：叉字蝠，使用交叉刀！**"
-		"DoorCountdown"		"5"
+		"DoorCountDown"		"5"
 	}
 	"Crobat has fainted."
 	{
@@ -1054,7 +1054,7 @@
 	"GIRATINA USED VOID"
 	{
 		"chi"		"**走到鬼龙正前方**"
-		"DoorCountdown"		"5"
+		"DoorCountDown"		"5"
 	}
 	"GO TO THE FRONT HURRY"
 	{
@@ -1063,17 +1063,17 @@
 	"GIRATINA IS SPAWNING PLATFORMS"
 	{
 		"chi"		"**防守尸笼**"
-		"DoorCountdown"		"5"
+		"DoorCountDown"		"5"
 	}
 	"GIRATINA USED OMINOUS WIND!"
 	{
 		"chi"		"**骑拉帝纳使用怪异旋风(BOSS方向按住W！！)**"
-		"DoorCountdown"		"5"
+		"DoorCountDown"		"5"
 	}
 	"GIRATINA USED DARK FORCE!"
 	{
 		"chi"		"**骑拉帝纳使用黑暗力量!(上梯子)**"
-		"DoorCountdown"		"5"
+		"DoorCountDown"		"5"
 	}
 	"CLIMB UP THE LADDER HURRY UP!"
 	{
@@ -1082,17 +1082,17 @@
 	"Cyrus: Weavile use Beat Up."
 	{
 		"chi"		"**赤日:玛狃拉使用毒打. **"
-		"DoorCountdown"		"5"
+		"DoorCountDown"		"5"
 	}
 	"**Giratina used Dragon Claw**"
 	{
 		"chi"		"**骑拉帝纳使用龙之爪(跳刀)**"
-		"DoorCountdown"		"5"
+		"DoorCountDown"		"5"
 	}
 	"**Arceus used Judgement**"
 	{
 		"chi"		"**阿尔宙斯使用了审判(射击头顶橙色的球)**"
-		"DoorCountdown"		"5"
+		"DoorCountDown"		"5"
 	}
 	"**Arceus used Roar of Time**"
 	{
@@ -1101,12 +1101,12 @@
 	"**Arceus used Living Earth**"
 	{
 		"chi"		"**防守尸笼**"
-		"DoorCountdown"		"12"
+		"DoorCountDown"		"12"
 	}
 	"**Arceus used Spacial Rend**"
 	{
 		"chi"		"**亚空切断(跳刀)**"
-		"DoorCountdown"		"5"
+		"DoorCountDown"		"5"
 	}
 	"Cyrus: Crobat use Antonish."
 	{
@@ -1143,7 +1143,7 @@
 	"**Defend until something happens**"
 	{
 		"chi"		"**防守直到传送点开启！**"
-		"DoorCountdown"		"33"
+		"DoorCountDown"		"33"
 	}
 	"**CROBAT FAINTED, PATH CLEAR**"
 	{
@@ -1180,7 +1180,7 @@
 	"**MAP BY LEVEL 100 CROBAT**"
 	{
 		"chi"		"**地图作者：level 100 crobat   翻译：神恋   校对：Misaka**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"**SPECIAL THANKS: ANTITEAL**"
 	{
@@ -1217,7 +1217,7 @@
 	"**Defend until the teleport activates**"
 	{
 		"chi"		"**防守直到传送器被激活！**"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"**Teleport enabled**"
 	{
@@ -1270,7 +1270,7 @@
 	"Weavile has restored 500HP."
 	{
 		"chi"		"**玛狃拉回复了500HP**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"**Darkrai has been defeated**"
 	{

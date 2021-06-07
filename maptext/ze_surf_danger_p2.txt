@@ -80,6 +80,7 @@
 	">>>If you can pass final SURF level you receive 10 of frags<<<"
 	{
 		"chi"		"**通过最终滑翔的人类将获得10个杀敌**"
+		"DoorCountDown"		"-1"
 	}
 	">>>Final Door open in 20 sec<<<"
 	{

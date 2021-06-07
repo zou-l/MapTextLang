@@ -382,4 +382,28 @@
 		"hammerid"		"2217"
 		"m_iname"		"2nivel"
 	}
+	"2094"
+	{
+		"enable"		"-1"
+		"hammerid"		"2094"
+		"m_iname"		"escalera_vida4"
+	}
+	"916"
+	{
+		"enable"		"-1"
+		"hammerid"		"916"
+		"m_iname"		"escalera_vida3"
+	}
+	"1695"
+	{
+		"enable"		"-1"
+		"hammerid"		"1695"
+		"m_iname"		"escalera_vida5"
+	}
+	"902"
+	{
+		"enable"		"-1"
+		"hammerid"		"902"
+		"m_iname"		"escalera_vida"
+	}
 }

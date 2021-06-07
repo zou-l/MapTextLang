@@ -102,4 +102,9 @@
 		"hammerid"		"57365"
 		"m_iname"		"glassback"
 	}
+	"57351"
+	{
+		"enable"		"-1"
+		"hammerid"		"57351"
+	}
 }

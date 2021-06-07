@@ -132,4 +132,34 @@
 		"hammerid"		"205580"
 		"m_iname"		"FirstLevel"
 	}
+	"4517"
+	{
+		"enable"		"-1"
+		"hammerid"		"4517"
+	}
+	"4528"
+	{
+		"enable"		"-1"
+		"hammerid"		"4528"
+	}
+	"7626"
+	{
+		"enable"		"-1"
+		"hammerid"		"7626"
+	}
+	"7629"
+	{
+		"enable"		"-1"
+		"hammerid"		"7629"
+	}
+	"7754"
+	{
+		"enable"		"-1"
+		"hammerid"		"7754"
+	}
+	"7769"
+	{
+		"enable"		"-1"
+		"hammerid"		"7769"
+	}
 }

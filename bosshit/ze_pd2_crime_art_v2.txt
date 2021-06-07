@@ -211,4 +211,10 @@
 		"enable"		"-1"
 		"hammerid"		"133233"
 	}
+	"0"
+	{
+		"enable"		"-1"
+		"hammerid"		"0"
+		"m_iname"		"zombie_protect_wall_6"
+	}
 }

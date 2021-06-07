@@ -15,7 +15,7 @@
 	"*** Dropship Arrives in 2 Minutes ***"
 	{
 		"chi"		"** 船将在2分钟后到达 **"
-		"DoorCountdown"		"130"
+		"DoorCountDown"		"130"
 	}
 	"*** Nuke Immediate After Dropship Departure ***"
 	{
@@ -28,7 +28,7 @@
 	"*** Dropship Arrival in 20 ***"
 	{
 		"chi"		"** 船将在20秒后到达 **"
-		"DoorCountdown"		"0"
+		"DoorCountDown"		"0"
 	}
 	"*** Dropship is Here ***"
 	{
@@ -37,11 +37,11 @@
 	"*** Dropship Departure in 30 Seconds ***"
 	{
 		"chi"		"**船将在30秒后离开（5S关门）**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"*** Dropship Departure in 10 Seconds ***"
 	{
 		"chi"		"** 船将在10秒后离开 **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 }

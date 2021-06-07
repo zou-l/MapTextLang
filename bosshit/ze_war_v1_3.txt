@@ -52,7 +52,7 @@
 	{
 		"enable"		"0"
 		"hammerid"		"6362"
-		"m_iname"		"item_zmshield_collision&3341"
+		"m_iname"		"item_zmshield_collision&0658"
 	}
 	"4258"
 	{

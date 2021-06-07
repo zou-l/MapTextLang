@@ -72,4 +72,29 @@
 		"hammerid"		"140791"
 		"m_iname"		"breakable wall"
 	}
+	"544483"
+	{
+		"enable"		"-1"
+		"hammerid"		"544483"
+	}
+	"317309"
+	{
+		"enable"		"-1"
+		"hammerid"		"317309"
+	}
+	"317312"
+	{
+		"enable"		"-1"
+		"hammerid"		"317312"
+	}
+	"317324"
+	{
+		"enable"		"-1"
+		"hammerid"		"317324"
+	}
+	"317336"
+	{
+		"enable"		"-1"
+		"hammerid"		"317336"
+	}
 }

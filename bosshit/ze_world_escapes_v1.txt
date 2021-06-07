@@ -42,4 +42,24 @@
 		"hammerid"		"879"
 		"m_iname"		"Break_First_Gate"
 	}
+	"29866"
+	{
+		"enable"		"-1"
+		"hammerid"		"29866"
+	}
+	"29879"
+	{
+		"enable"		"-1"
+		"hammerid"		"29879"
+	}
+	"29885"
+	{
+		"enable"		"-1"
+		"hammerid"		"29885"
+	}
+	"29891"
+	{
+		"enable"		"-1"
+		"hammerid"		"29891"
+	}
 }

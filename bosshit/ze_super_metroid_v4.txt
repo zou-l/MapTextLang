@@ -168,4 +168,34 @@
 		"hammerid"		"15681"
 		"m_iname"		"bunker_roof_se"
 	}
+	"512251"
+	{
+		"enable"		"-1"
+		"hammerid"		"512251"
+	}
+	"512256"
+	{
+		"enable"		"-1"
+		"hammerid"		"512256"
+	}
+	"512261"
+	{
+		"enable"		"-1"
+		"hammerid"		"512261"
+	}
+	"357500"
+	{
+		"enable"		"-1"
+		"hammerid"		"357500"
+	}
+	"357510"
+	{
+		"enable"		"-1"
+		"hammerid"		"357510"
+	}
+	"357519"
+	{
+		"enable"		"-1"
+		"hammerid"		"357519"
+	}
 }

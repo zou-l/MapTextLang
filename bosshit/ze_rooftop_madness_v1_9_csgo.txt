@@ -558,4 +558,29 @@
 		"hammerid"		"96452"
 		"m_iname"		"pbox_forcewep"
 	}
+	"29753"
+	{
+		"enable"		"-1"
+		"hammerid"		"29753"
+	}
+	"29737"
+	{
+		"enable"		"-1"
+		"hammerid"		"29737"
+	}
+	"29745"
+	{
+		"enable"		"-1"
+		"hammerid"		"29745"
+	}
+	"29696"
+	{
+		"enable"		"-1"
+		"hammerid"		"29696"
+	}
+	"29727"
+	{
+		"enable"		"-1"
+		"hammerid"		"29727"
+	}
 }

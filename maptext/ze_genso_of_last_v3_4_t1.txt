@@ -2,7 +2,7 @@
 {
 	"Map Fixed by Rulucy (For 93x Server Stripper)"
 	{
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"*** Moving to NORMAL mode ***"
 	{
@@ -35,7 +35,7 @@
 	"***The LeftGate is going to open***"
 	{
 		"chi"		"**守住至左侧大门打开**"
-		"DoorCountdown"		"40"
+		"DoorCountDown"		"40"
 	}
 	"***Hold 25seconds***"
 	{
@@ -44,12 +44,12 @@
 	"***Keep Defending***"
 	{
 		"chi"		"** **"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"***The Gate is going to close. Defend***"
 	{
 		"chi"		"** **"
-		"DoorCountdown"		"35"
+		"DoorCountDown"		"35"
 	}
 	"***You won Normal Mode***"
 	{
@@ -66,7 +66,7 @@
 	"***The RightGate is going to open***"
 	{
 		"chi"		"**守住至右侧大门打开**"
-		"DoorCountdown"		"40"
+		"DoorCountDown"		"40"
 	}
 	"***Hold 30seconds***"
 	{
@@ -127,7 +127,7 @@
 	"*** The Gates are going to open ***"
 	{
 		"chi"		"**守住至两侧大门打开**"
-		"DoorCountdown"		"45"
+		"DoorCountDown"		"45"
 	}
 	"*A player has picked up Ice Magic*"
 	{
@@ -164,7 +164,7 @@
 	"*** Wind ***"
 	{
 		"chi"		"**风（W抵抗）**"
-		"DoorCountdown"		"3"
+		"DoorCountDown"		"3"
 	}
 	"*** Hand Attack ***"
 	{
@@ -176,7 +176,7 @@
 	}
 	"*** Gravity ***"
 	{
-		"DoorCountdown"		"3"
+		"DoorCountDown"		"3"
 		"chi"		"**重力（S抵抗）**"
 	}
 	"< ??? >"
@@ -294,5 +294,45 @@
 	"*** !? ***"
 	{
 		"chi"		"** 这是什么!?准备迎接黑刀!!!10秒后门完全关闭 **"
+	}
+	"*** failed ***"
+	{
+		"chi"		"** **"
+	}
+	"***You won Thelast Mode***"
+	{
+		"chi"		"** **"
+	}
+	"*** Admin Selected ThelastMode ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Admin Selected SoulMode ***"
+	{
+		"chi"		"** **"
+	}
+	"*** what fuck? ***"
+	{
+		"chi"		"** **"
+	}
+	"*** whats this who are u ? ***"
+	{
+		"chi"		"** **"
+	}
+	"*** no use ice ***"
+	{
+		"chi"		"** **"
+	}
+	"[Zombies Mode]"
+	{
+		"chi"		"** **"
+	}
+	"< Survive in 180 seconds  >"
+	{
+		"chi"		"** **"
+	}
+	"*** Admin Selected HardMode ***"
+	{
+		"chi"		"** **"
 	}
 }

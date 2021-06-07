@@ -203,7 +203,7 @@
 	"***Make your way to the other end of the ballroom! Theres a hole in the railing to can use to make it to the second floor!***"
 	{
 		"chi"		"** 去舞厅的另外一端！护栏上有个洞，可以利用它到达 2 楼！**（说明说现在处于 3 楼）"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"***RUN! Get into the Submarine! Zombie cant get in!***"
 	{

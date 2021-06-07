@@ -24,4 +24,8 @@
 	{
 		"chi"		"** **"
 	}
+	"Survive 15 seconds"
+	{
+		"chi"		"** **"
+	}
 }

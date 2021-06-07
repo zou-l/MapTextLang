@@ -546,4 +546,149 @@
 		"hammerid"		"1427425"
 		"m_iname"		"stage1_random"
 	}
+	"953128"
+	{
+		"enable"		"-1"
+		"hammerid"		"953128"
+	}
+	"953131"
+	{
+		"enable"		"-1"
+		"hammerid"		"953131"
+	}
+	"953134"
+	{
+		"enable"		"-1"
+		"hammerid"		"953134"
+	}
+	"953137"
+	{
+		"enable"		"-1"
+		"hammerid"		"953137"
+	}
+	"953140"
+	{
+		"enable"		"-1"
+		"hammerid"		"953140"
+	}
+	"762482"
+	{
+		"enable"		"-1"
+		"hammerid"		"762482"
+		"m_iname"		"stage2_random"
+	}
+	"1657999"
+	{
+		"enable"		"-1"
+		"hammerid"		"1657999"
+		"m_iname"		"bow_arrow"
+	}
+	"603987"
+	{
+		"enable"		"1"
+		"hammerid"		"603987"
+		"m_iname"		"nether_bossphys&6847"
+	}
+	"1636986"
+	{
+		"enable"		"-1"
+		"hammerid"		"1636986"
+		"m_iname"		"stage3_random"
+	}
+	"1636994"
+	{
+		"enable"		"-1"
+		"hammerid"		"1636994"
+		"m_iname"		"stage3_random"
+	}
+	"1637002"
+	{
+		"enable"		"-1"
+		"hammerid"		"1637002"
+		"m_iname"		"stage3_random"
+	}
+	"1637033"
+	{
+		"enable"		"-1"
+		"hammerid"		"1637033"
+		"m_iname"		"stage3_random"
+	}
+	"1681226"
+	{
+		"enable"		"-1"
+		"hammerid"		"1681226"
+		"m_iname"		"stage3_random"
+	}
+	"1681240"
+	{
+		"enable"		"-1"
+		"hammerid"		"1681240"
+		"m_iname"		"stage3_random"
+	}
+	"1681246"
+	{
+		"enable"		"-1"
+		"hammerid"		"1681246"
+		"m_iname"		"stage3_random"
+	}
+	"1681252"
+	{
+		"enable"		"-1"
+		"hammerid"		"1681252"
+		"m_iname"		"stage3_random"
+	}
+	"1928236"
+	{
+		"enable"		"-1"
+		"hammerid"		"1928236"
+		"m_iname"		"stage3_random"
+	}
+	"1962803"
+	{
+		"enable"		"-1"
+		"hammerid"		"1962803"
+		"m_iname"		"stage3_random"
+	}
+	"2107132"
+	{
+		"enable"		"-1"
+		"hammerid"		"2107132"
+		"m_iname"		"stage3_random"
+	}
+	"2107158"
+	{
+		"enable"		"-1"
+		"hammerid"		"2107158"
+		"m_iname"		"stage3_random"
+	}
+	"948185"
+	{
+		"enable"		"-1"
+		"hammerid"		"948185"
+		"m_iname"		"item_fire_phys&6962"
+	}
+	"948271"
+	{
+		"enable"		"-1"
+		"hammerid"		"948271"
+		"m_iname"		"item_block_phys&6985"
+	}
+	"953180"
+	{
+		"enable"		"1"
+		"hammerid"		"953180"
+		"m_iname"		"end_bossphys&7019"
+	}
+	"1832743"
+	{
+		"enable"		"-1"
+		"hammerid"		"1832743"
+		"m_iname"		"stronghold_final_break2"
+	}
+	"1859297"
+	{
+		"enable"		"1"
+		"hammerid"		"1859297"
+		"m_iname"		"stronghold_final_hitbox"
+	}
 }

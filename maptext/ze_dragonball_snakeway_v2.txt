@@ -140,4 +140,12 @@
 	{
 		"syncvalue"		"60669"
 	}
+	"***Un jugador ha cogido El Escudo Antizombies***"
+	{
+		"chi"		"** **"
+	}
+	"***Un Zombie Ha Cogido El Chuchillo de Invisivilidad***"
+	{
+		"chi"		"** **"
+	}
 }

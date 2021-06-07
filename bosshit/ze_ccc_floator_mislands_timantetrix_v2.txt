@@ -144,4 +144,49 @@
 		"hammerid"		"125032"
 		"m_iname"		"cyber_cyberspace_exit_breakable"
 	}
+	"212000"
+	{
+		"enable"		"-1"
+		"hammerid"		"212000"
+	}
+	"212077"
+	{
+		"enable"		"-1"
+		"hammerid"		"212077"
+	}
+	"67196"
+	{
+		"enable"		"-1"
+		"hammerid"		"67196"
+	}
+	"64972"
+	{
+		"enable"		"-1"
+		"hammerid"		"64972"
+	}
+	"64985"
+	{
+		"enable"		"-1"
+		"hammerid"		"64985"
+	}
+	"64993"
+	{
+		"enable"		"-1"
+		"hammerid"		"64993"
+	}
+	"65001"
+	{
+		"enable"		"-1"
+		"hammerid"		"65001"
+	}
+	"562"
+	{
+		"enable"		"-1"
+		"hammerid"		"562"
+	}
+	"571"
+	{
+		"enable"		"-1"
+		"hammerid"		"571"
+	}
 }

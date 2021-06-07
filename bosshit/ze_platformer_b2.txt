@@ -1668,7 +1668,7 @@
 	{
 		"enable"		"0"
 		"hammerid"		"95076"
-		"m_iname"		"item_mine_phys&4225"
+		"m_iname"		"item_mine_phys&5379"
 	}
 	"30177"
 	{
@@ -1680,7 +1680,7 @@
 	{
 		"enable"		"0"
 		"hammerid"		"95702"
-		"m_iname"		"item_builder_brush&7378"
+		"m_iname"		"item_builder_brush&4516"
 	}
 	"28105"
 	{
@@ -1920,13 +1920,13 @@
 	{
 		"enable"		"0"
 		"hammerid"		"85192"
-		"m_iname"		"item_ladder_brush&3919"
+		"m_iname"		"item_ladder_brush&5539"
 	}
 	"40450"
 	{
 		"enable"		"0"
 		"hammerid"		"40450"
-		"m_iname"		"physboxRocket&4278"
+		"m_iname"		"physboxRocket&5405"
 	}
 	"55755"
 	{

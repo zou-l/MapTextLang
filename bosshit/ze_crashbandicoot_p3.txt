@@ -16,13 +16,13 @@
 	{
 		"enable"		"0"
 		"hammerid"		"186684"
-		"m_iname"		"tnt1&7782"
+		"m_iname"		"tnt1&9226"
 	}
 	"186669"
 	{
 		"enable"		"0"
 		"hammerid"		"186669"
-		"m_iname"		"nitro&7753"
+		"m_iname"		"nitro&9146"
 	}
 	"153996"
 	{
@@ -98,7 +98,7 @@
 	}
 	"369981"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"369981"
 		"m_iname"		"ukauka_phys"
 	}
@@ -106,13 +106,13 @@
 	{
 		"enable"		"0"
 		"hammerid"		"315251"
-		"m_iname"		"tnt2&6218"
+		"m_iname"		"tnt2&7168"
 	}
 	"162158"
 	{
 		"enable"		"0"
 		"hammerid"		"162158"
-		"m_iname"		"tynnyri1&9812"
+		"m_iname"		"tynnyri1&8764"
 	}
 	"186565"
 	{
@@ -154,7 +154,7 @@
 	{
 		"enable"		"0"
 		"hammerid"		"186652"
-		"m_iname"		"pomppu_box1&7756"
+		"m_iname"		"pomppu_box1&9157"
 	}
 	"121802"
 	{
@@ -329,5 +329,10 @@
 		"enable"		"0"
 		"hammerid"		"453490"
 		"m_iname"		"lvl3_seina2"
+	}
+	"467212"
+	{
+		"enable"		"-1"
+		"hammerid"		"467212"
 	}
 }

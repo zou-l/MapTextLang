@@ -354,4 +354,9 @@
 		"hammerid"		"917663"
 		"m_iname"		"Boss_3_Attacks_AbsoluteZero_bre"
 	}
+	"174273"
+	{
+		"enable"		"-1"
+		"hammerid"		"174273"
+	}
 }

@@ -91,17 +91,17 @@
 	"<<BOSS USED HELL'S FIRE >> "
 	{
 		"chi"		"**<<龙使用地狱之火(蹲下)>>**"
-		"DoorCountdown"		"4"
+		"DoorCountDown"		"4"
 	}
 	"<<BOSS USED  SHOCKWAVE>>"
 	{
 		"chi"		"**<<龙使用冲击波(按住W)>> **"
-		"DoorCountdown"		"4"
+		"DoorCountDown"		"4"
 	}
 	"<<BOSS USED PULL>>"
 	{
 		"chi"		"**<<龙使用吸(按住S)>> **"
-		"DoorCountdown"		"4"
+		"DoorCountDown"		"4"
 	}
 	"<< ZOMBIES TELEPORTED, DEFEND>>"
 	{
@@ -121,7 +121,7 @@
 	}
 	"<<WALL BREAKS IN 30 SECONDS>>"
 	{
-		"chi"		"**<<墙在三十秒后破碎>> **"
+		"chi"		">>>墙在30秒后破碎<<<"
 	}
 	"sync_version"
 	{
@@ -130,12 +130,12 @@
 	"<<BOSS USED  SHOCKWAVE >>"
 	{
 		"chi"		"**<<龙使用冲击波(按住W)>> **"
-		"DoorCountdown"		"4"
+		"DoorCountDown"		"4"
 	}
 	"<<LASER! LASER!  LASER!>>"
 	{
 		"chi"		"**<<回头看刀,刀速很慢!>>**"
-		"DoorCountdown"		"4"
+		"DoorCountDown"		"4"
 	}
 	"###  TELEPORT IN 40 SECONDS###"
 	{
@@ -324,17 +324,17 @@
 	"<<BOSS USED HELLS FIRE >>"
 	{
 		"chi"		"**<<龙使用地狱之火(蹲下)>>**"
-		"DoorCountdown"		"4"
+		"DoorCountDown"		"4"
 	}
 	"<<BABEL TOWER>>"
 	{
 		"chi"		"**<<通天塔轰击，看头顶去没有法阵的平台>>**"
-		"DoorCountdown"		"4"
+		"DoorCountDown"		"4"
 	}
 	"<<BABEL TOWER >>"
 	{
 		"chi"		"**<<通天塔轰击，看头顶去没有法阵的平台>>**"
-		"DoorCountdown"		"4"
+		"DoorCountDown"		"4"
 	}
 	"<<OMG! BOSS HEALED HIMSELF>>"
 	{
@@ -343,7 +343,7 @@
 	"<<BOSS USED PULL >>"
 	{
 		"chi"		"**<<龙使用吸(按住S)>>**"
-		"DoorCountdown"		"4"
+		"DoorCountDown"		"4"
 	}
 	"<<ZOMBIES ACTIVATED DEATH LASER>>"
 	{
@@ -355,7 +355,7 @@
 	}
 	"<<WALL BREAKS IN 10 SEC>>"
 	{
-		"chi"		"**墙将在10秒后破碎**"
+		"chi"		">>>(8秒)墙将在十秒后破碎<<<"
 	}
 	"<<INFERUS CIRCLE APPEARED>>"
 	{

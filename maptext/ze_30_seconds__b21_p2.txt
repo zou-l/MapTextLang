@@ -16,4 +16,16 @@
 	{
 		"chi"		"**地图作者: -sang-    帮助: V1KTOP**"
 	}
+	"The se"
+	{
+		"chi"		"** **"
+	}
+	"fuck"
+	{
+		"chi"		"** **"
+	}
+	"can u see this ?"
+	{
+		"chi"		"** **"
+	}
 }

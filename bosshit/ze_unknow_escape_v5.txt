@@ -18,4 +18,29 @@
 		"hammerid"		"7758"
 		"m_iname"		"concret_door_1"
 	}
+	"158621"
+	{
+		"enable"		"-1"
+		"hammerid"		"158621"
+	}
+	"102658"
+	{
+		"enable"		"-1"
+		"hammerid"		"102658"
+	}
+	"97995"
+	{
+		"enable"		"-1"
+		"hammerid"		"97995"
+	}
+	"51935"
+	{
+		"enable"		"-1"
+		"hammerid"		"51935"
+	}
+	"51368"
+	{
+		"enable"		"-1"
+		"hammerid"		"51368"
+	}
 }

@@ -190,4 +190,9 @@
 		"hammerid"		"102257"
 		"m_iname"		"break_bigbridge"
 	}
+	"44185"
+	{
+		"enable"		"-1"
+		"hammerid"		"44185"
+	}
 }

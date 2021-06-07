@@ -72,4 +72,9 @@
 		"hammerid"		"161608"
 		"m_iname"		"boss_breakable_block"
 	}
+	"160938"
+	{
+		"enable"		"-1"
+		"hammerid"		"160938"
+	}
 }

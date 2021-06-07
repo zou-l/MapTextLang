@@ -138,4 +138,39 @@
 		"hammerid"		"38652"
 		"m_iname"		"l1_plant_hitbox"
 	}
+	"326850"
+	{
+		"enable"		"-1"
+		"hammerid"		"326850"
+	}
+	"326873"
+	{
+		"enable"		"-1"
+		"hammerid"		"326873"
+	}
+	"294508"
+	{
+		"enable"		"-1"
+		"hammerid"		"294508"
+	}
+	"294511"
+	{
+		"enable"		"-1"
+		"hammerid"		"294511"
+	}
+	"294530"
+	{
+		"enable"		"-1"
+		"hammerid"		"294530"
+	}
+	"294541"
+	{
+		"enable"		"-1"
+		"hammerid"		"294541"
+	}
+	"294547"
+	{
+		"enable"		"-1"
+		"hammerid"		"294547"
+	}
 }

@@ -264,4 +264,138 @@
 		"hammerid"		"1247889"
 		"m_iname"		"boss_mb_mdog_phbox_s&8644"
 	}
+	"36837"
+	{
+		"enable"		"-1"
+		"hammerid"		"36837"
+	}
+	"770538"
+	{
+		"enable"		"-1"
+		"hammerid"		"770538"
+	}
+	"813036"
+	{
+		"enable"		"-1"
+		"hammerid"		"813036"
+	}
+	"813048"
+	{
+		"enable"		"-1"
+		"hammerid"		"813048"
+	}
+	"1810287"
+	{
+		"enable"		"1"
+		"hammerid"		"1810287"
+		"m_iname"		"boss_charon_phb2"
+	}
+	"1247992"
+	{
+		"enable"		"1"
+		"hammerid"		"1247992"
+		"m_iname"		"boss_charon_phbox"
+	}
+	"185259"
+	{
+		"enable"		"1"
+		"hammerid"		"185259"
+		"m_iname"		"lvl4_finalboss_pb"
+	}
+	"1296714"
+	{
+		"enable"		"-1"
+		"hammerid"		"1296714"
+		"m_iname"		"lvls_dd_floor_3_seal_phbox"
+	}
+	"999345"
+	{
+		"enable"		"-1"
+		"hammerid"		"999345"
+		"m_iname"		"lvls_collector_final_break"
+	}
+	"987908"
+	{
+		"enable"		"-1"
+		"hammerid"		"987908"
+		"m_iname"		"lvls_collector_weapon_pb_bow"
+	}
+	"1341179"
+	{
+		"enable"		"-1"
+		"hammerid"		"1341179"
+		"m_iname"		"lvls_true_final_m1_pb_axe"
+	}
+	"987868"
+	{
+		"enable"		"-1"
+		"hammerid"		"987868"
+		"m_iname"		"lvls_collector_weapon_pb_spear"
+	}
+	"987818"
+	{
+		"enable"		"-1"
+		"hammerid"		"987818"
+		"m_iname"		"lvls_collector_weapon_pb_sword"
+	}
+	"985207"
+	{
+		"enable"		"-1"
+		"hammerid"		"985207"
+		"m_iname"		"lvls_collector_weapon_pb_shield"
+	}
+	"1296641"
+	{
+		"enable"		"-1"
+		"hammerid"		"1296641"
+		"m_iname"		"lvls_dd_floor_3_column"
+	}
+	"1392134"
+	{
+		"enable"		"1"
+		"hammerid"		"1392134"
+		"m_iname"		"boss_catgirl_pb2"
+	}
+	"1942948"
+	{
+		"enable"		"1"
+		"hammerid"		"1942948"
+		"m_iname"		"boss_catgirl_phbox"
+	}
+	"1412307"
+	{
+		"enable"		"1"
+		"hammerid"		"1412307"
+		"m_iname"		"lvls_true_bossarena_catgirl_bre"
+	}
+	"1371624"
+	{
+		"enable"		"1"
+		"hammerid"		"1371624"
+		"m_iname"		"boss_errorgirl_pb2"
+	}
+	"1433941"
+	{
+		"enable"		"1"
+		"hammerid"		"1433941"
+		"m_iname"		"lvls_castle_final_boss_phbox"
+	}
+	"1342003"
+	{
+		"enable"		"-1"
+		"hammerid"		"1342003"
+		"m_iname"		"lvls_true_final_m2_back"
+	}
+	"1384711"
+	{
+		"enable"		"1"
+		"hammerid"		"1384711"
+		"m_iname"		"boss_queen_phbox"
+	}
+	"1942536"
+	{
+		"enable"		"1"
+		"hammerid"		"1942536"
+		"m_iname"		"boss_errorgirl_phbox"
+	}
 }

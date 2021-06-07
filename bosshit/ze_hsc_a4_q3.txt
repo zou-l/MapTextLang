@@ -720,4 +720,16 @@
 		"hammerid"		"33393"
 		"m_iname"		"2lg27"
 	}
+	"2178"
+	{
+		"enable"		"1"
+		"hammerid"		"2178"
+		"m_iname"		"boss1_pb6"
+	}
+	"2200"
+	{
+		"enable"		"-1"
+		"hammerid"		"2200"
+		"m_iname"		"processed"
+	}
 }

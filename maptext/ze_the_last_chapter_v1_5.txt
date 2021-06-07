@@ -18,7 +18,7 @@
 	}
 	"III PLAYER HAS PICKED UP AMMO BOX III"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家拾取了弹药箱**"
 	}
 	"### WARMUP - 10 SECONDS LEFT ###"
 	{
@@ -30,23 +30,23 @@
 	}
 	"III PLAYER HAS PICKED UP HEAL III"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家拾取了医疗包**"
 	}
 	"### ZOMBIES ARE COMING FROM THE RIGHT SIDE ###"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸将从右侧过来**"
 	}
 	">>> COUNTING DOWN 2:20 MINUTES  <<<"
 	{
-		"chi"		"** **"
+		"chi"		">>>计时140秒<<<"
 	}
 	"### BEFORE YOU ALL DEAD ###"
 	{
-		"chi"		"** **"
+		"chi"		"**在你死亡之前**"
 	}
 	"### FEEL MY LOVE ###"
 	{
-		"chi"		"** **"
+		"chi"		"**感受我的爱♂吧**"
 	}
 	"### FEEL MY PAIN ###"
 	{
@@ -54,111 +54,114 @@
 	}
 	">>> THIS IS NOT THE END !! <<<"
 	{
-		"chi"		"** **"
+		"chi"		">>>这还没有结束!<<<"
 	}
 	"III ZOMBIE HAS PICKED UP POISON III"
 	{
-		"chi"		"** **"
+		"chi"		"**一名僵尸拾取了毒气**"
 	}
 	"III PLAYER HAS PICKED UP FLAME III"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家拾取了火神器**"
 	}
 	"### DESTROY THE CRYSTAL ###"
 	{
-		"chi"		"** **"
+		"chi"		"**打碎中间的水晶**"
 	}
 	"### POISON ACTIVES IN 3 SECONDS ###"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸毒气将在3秒后激活**"
+		"DoorCountDown"		"-1"
 	}
 	"### POISON ACTIVES IN 2 SECONDS ###"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸毒气将在2秒后激活**"
+		"DoorCountDown"		"-1"
 	}
 	"### POISON ACTIVES IN 1 SECONDS ###"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸毒气将在1秒后激活**"
+		"DoorCountDown"		"-1"
 	}
 	"### DESTROY THE STATUE ###"
 	{
-		"chi"		"** **"
+		"chi"		"**打碎中间的雕像**"
 	}
 	"### HELL GATES ARE OPENING !! GOO !! ###"
 	{
-		"chi"		"** **"
+		"chi"		"**地狱大门正在打开，快走!**"
 	}
 	"### DESTROY BOTH BUTTONS ###"
 	{
-		"chi"		"** **"
+		"chi"		"**打碎门两边的按钮**"
 	}
 	"### TO ACTIVATED THE GATES ###"
 	{
-		"chi"		"** **"
+		"chi"		"**来激活大门**"
 	}
 	"### LEFT BUTTON HAVE DESTROYED ###"
 	{
-		"chi"		"** **"
+		"chi"		"**左侧按钮已被打碎**"
 	}
 	"### RIGHT BUTTON HAVE DESTROYED ###"
 	{
-		"chi"		"** **"
+		"chi"		"**右侧按钮已被打碎**"
 	}
 	"### ..... PLEASE GOD HELP US FROM THE SIN .....  ###"
 	{
-		"chi"		"** **"
+		"chi"		"**上帝啊，把我们从罪人这解放出来吧**"
 	}
 	"### ... SAINT OR SINNER ? ....  ###"
 	{
-		"chi"		"** **"
+		"chi"		"**圣人还是罪人?**"
 	}
 	"### YOU PRAY AND YOU PRAY ###"
 	{
-		"chi"		"** **"
+		"chi"		"**快祈祷，快祈祷**"
 	}
 	"### AND ALL OF YOUR PRAYERS ###"
 	{
-		"chi"		"** **"
+		"chi"		"**然后你的祈祷对象**"
 	}
 	"### THEY WILL GO ANSWERED ###"
 	{
-		"chi"		"** **"
+		"chi"		"**他们将会回应**"
 	}
 	"### WHEN BOTH GATES OPEN ###"
 	{
-		"chi"		"** **"
+		"chi"		"**当门打开时**"
 	}
 	"### THEN YOU WILL GET THE ANSWER PRAYERS ###"
 	{
-		"chi"		"** **"
+		"chi"		"**你就会见到你得祈祷者**"
 	}
 	">>> ZOMBIES WILL BE RELEASED IN AROUND 2 MINUTES  <<<"
 	{
-		"chi"		"** **"
+		"chi"		">>>僵尸将在120秒后被释放<<<"
 	}
 	"### KILL HIM WHILE YOU ARE STILL CAN ###"
 	{
-		"chi"		"** **"
+		"chi"		"**在你还能战斗时杀掉他**"
 	}
 	"lll GIVE ME YOUR LOVE lll"
 	{
-		"chi"		"** **"
+		"chi"		"**给我你的爱♂**"
 	}
 	">>> HES DEAD. DEFEND UNTIL GATES OPEN <<<"
 	{
-		"chi"		"** **"
+		"chi"		">>>守住直到门打开<<<"
 	}
 	"### ELEVATOR IS LEAVING IN 30 SECONDS ###"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯将在30秒后离开**"
 	}
 	"III PLAYER HAS PICKED UP BLIZZARD III"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家拾取了暴风雪**"
 	}
 	"III ZOMBIE HAS PICKED UP FIREWALL III"
 	{
-		"chi"		"** **"
+		"chi"		"**一名僵尸拾取了火墙**"
 	}
 	"### BOSS IS DEAD LASER DISABLE ###"
 	{
@@ -166,91 +169,97 @@
 	}
 	">>> YOU ALL HAVE 2:20 MINTUES BEFORE  <<<"
 	{
-		"chi"		"** **"
+		"chi"		">>>你有140秒的时间来对抗BOSS<<<"
 	}
 	"### NARAKA BECOMES IMMORTAL AND RELEASE ZOMBIES ###"
 	{
-		"chi"		"** **"
+		"chi"		"**在BOSS变成无敌和释放僵尸之前**"
 	}
 	"lll FEEL MY CURSE !! lll"
 	{
-		"chi"		"** **"
+		"chi"		"**感受我的诅咒！**"
 	}
 	"lll ELECTIC SHOCK lll"
 	{
-		"chi"		"** **"
+		"chi"		"**电子冲击！**"
 	}
 	"### PRESS ALL BUTTONS AND WAIT ###"
 	{
-		"chi"		"** **"
+		"chi"		"**按下三个开关然后守住！**"
 	}
 	"### ALL BUTTONS HAVE PRESSED ###"
 	{
-		"chi"		"** **"
+		"chi"		"**所有开关已被按下**"
 	}
 	"### LOVE BOAT IS COMING IN 30 SECONDS ###"
 	{
-		"chi"		"** **"
+		"chi"		"**可爱的小船将在30秒后到来**"
 	}
 	"### SWAN BOAT IS LEAVING IN 15 SECONDS ###"
 	{
-		"chi"		"** **"
+		"chi"		"**可爱的天鹅船将在15秒后离开**"
 	}
 	"III ZOMBIE HAS PICKED UP CURSE III"
 	{
-		"chi"		"** **"
+		"chi"		"**一名僵尸拾取了诅咒(减速)**"
 	}
 	"III PLAYER HAS PICKED UP TELEPORTER III"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家拾取了传送神器**"
 	}
 	"### TELEPORTER ACTIVE IN 3 SECONDS ###"
 	{
-		"chi"		"** **"
+		"chi"		"**传送神器将在3秒后激活**"
+		"DoorCountDown"		"-1"
 	}
 	"### TELEPORTER ACTIVE IN 2 SECONDS ###"
 	{
-		"chi"		"** **"
+		"chi"		"**传送神器将在2秒后激活**"
+		"DoorCountDown"		"-1"
 	}
 	"### TELEPORTER ACTIVE IN 1 SECONDS ###"
 	{
-		"chi"		"** **"
+		"chi"		"**传送神器将在1秒后激活**"
+		"DoorCountDown"		"-1"
 	}
 	"### WAIT FOR THE GATE OPEN ###"
 	{
-		"chi"		"** **"
+		"chi"		"**等待大门打开**"
 	}
 	"### AND GO TO ACTIVATE THE BUTTON ###"
 	{
-		"chi"		"** **"
+		"chi"		"**然后进去按下开关(按完记得赶紧出来)**"
 	}
 	"### CURSE ACTIVES IN 3 SECONDS ###"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸诅咒将在3秒后激活**"
+		"DoorCountDown"		"-1"
 	}
 	"### CURSE ACTIVES IN 2 SECONDS ###"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸诅咒将在2秒后激活**"
+		"DoorCountDown"		"-1"
 	}
 	"### CURSE ACTIVES IN 1 SECONDS ###"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸诅咒将在1秒后激活**"
+		"DoorCountDown"		"-1"
 	}
 	"### DESTROY 2 BUTTONS TO ACTIVE THE DOOR ###"
 	{
-		"chi"		"** **"
+		"chi"		"**打碎门两边的开关来激活大门**"
 	}
 	"### RIGHT BUTTON HAS DESTROYED ###"
 	{
-		"chi"		"** **"
+		"chi"		"**右边按钮已被打碎**"
 	}
 	"### LEFT BUTTON HAS DESTROYED ###"
 	{
-		"chi"		"** **"
+		"chi"		"**左边按钮已被打碎**"
 	}
 	">>> YOU ALL HAVE 03:00 MINTUES BEFORE  <<<"
 	{
-		"chi"		"** **"
+		"chi"		">>>你有180秒的时间<<<"
 	}
 	"MapGlobal_ConVars"
 	{
@@ -265,15 +274,15 @@
 	}
 	"### LIFE SEEKER HAS ARRIVED ###"
 	{
-		"chi"		"** **"
+		"chi"		"**噬命鬼出现了**"
 	}
 	"### NARAKA HAS DISAPPEAR !! ###"
 	{
-		"chi"		"** **"
+		"chi"		"**NARAKA消失了**"
 	}
 	"### NARAKA IS BACK ###"
 	{
-		"chi"		"** **"
+		"chi"		"**NARAKA又出现了**"
 	}
 	"sync_version"
 	{
@@ -281,31 +290,31 @@
 	}
 	"### SPIT 2 SIDES AND PRESS THE BOOK ##"
 	{
-		"chi"		"** **"
+		"chi"		"**分成两个队伍去两边并按下路上出现的发光的书**"
 	}
 	"### ..... PLEASE GOD HELP US  .....  ###"
 	{
-		"chi"		"** **"
+		"chi"		"**上帝啊，帮帮我们吧**"
 	}
 	"### HEAVEN OR HELL ? ###"
 	{
-		"chi"		"** **"
+		"chi"		"**天堂还是地狱?**"
 	}
 	"### GATES OPEN IN 10 SECONDS ###"
 	{
-		"chi"		"** **"
+		"chi"		"**门将在10秒后打开**"
 	}
 	"### GATES CLOSED IN 10 SECONDS ###"
 	{
-		"chi"		"** **"
+		"chi"		"**门将在10秒后关闭**"
 	}
 	">>> HES DEAD. RUN !! <<<"
 	{
-		"chi"		"** **"
+		"chi"		">>>他死了，快跑!<<<"
 	}
 	"### ELEVATOR IS LEAVING IN 20 SECONDS ###"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯将在20秒后离开**"
 	}
 	"lll FEEL MY ROYALTY FRIEND !! lll"
 	{
@@ -313,27 +322,27 @@
 	}
 	"### DEFEND VENTS IN 10 SECONDS ###"
 	{
-		"chi"		"** **"
+		"chi"		"**10秒后尸笼管道开放**"
 	}
 	"### LOVE BOAT IS COMING IN 20 SECONDS ###"
 	{
-		"chi"		"** **"
+		"chi"		"**可爱的小船将在20秒后到来**"
 	}
 	">>> BECAREFUL THIS BOSS CAN BE TELEPORT!  <<<"
 	{
-		"chi"		"** **"
+		"chi"		">>>小心!这个BOSS会传送<<<"
 	}
 	"### NO TIME LIMTED FOR THIS BOSS JUST KILL HIM ###"
 	{
-		"chi"		"** **"
+		"chi"		"**所以没有时限**"
 	}
 	"### NARAKA HAS TELEPORTED BACK ###"
 	{
-		"chi"		"** **"
+		"chi"		"**NRRAKA又传送回来了**"
 	}
 	"### ... DO YOU HAVE FAITH ? ....  ###"
 	{
-		"chi"		"** **"
+		"chi"		"**你有信仰么?**"
 	}
 	"### ... WE HAVE WE DONE ....  ###"
 	{
@@ -341,29 +350,61 @@
 	}
 	"III PLAYER HAS PICKED UP ELECTRIC III"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家拾取了电神器**"
 	}
 	">>> THIS BOSS HAS NO TIME LIMITED SO JUST KILL HIM  <<<"
 	{
-		"chi"		"** **"
+		"chi"		">>>这个BOSS没有时限，尽量杀死他吧<<<"
 	}
 	"### DEFEND LEFT VENTS IN 10 SECONDS ###"
 	{
-		"chi"		"** **"
+		"chi"		"**左侧尸笼管道将在10秒后开放**"
 	}
 	"### DEFEND RIGHT VENTS IN 10 SECONDS ###"
 	{
-		"chi"		"** **"
+		"chi"		"**右侧尸笼管道将在10秒后开放**"
 	}
 	"### THIS IS NOT THE END !! ###"
 	{
-		"chi"		"** **"
+		"chi"		"**这并没有结束，你们等着！**"
 	}
 	"### YOU THINK FLAME CAN HURT ME ? ###"
 	{
-		"chi"		"** **"
+		"chi"		"**你以为火焰能伤害到我?**"
 	}
 	"### ZOMBIES WILL BE RELEASE IN 3 SECONDS ###"
+	{
+		"chi"		"**僵尸将在3秒后释放**"
+	}
+	"### ADMIN HAS SELECTED : CHAPTER V ###"
+	{
+		"chi"		"** **"
+	}
+	"### ADMIN HAS SELECTED NUKE TO RESTART THE ROUND ###"
+	{
+		"chi"		"** **"
+	}
+	"### NUKE IN 5 SECONDS ###"
+	{
+		"chi"		"** **"
+	}
+	"### NUKE IN 4 SECONDS ###"
+	{
+		"chi"		"** **"
+	}
+	"### NUKE IN 3 SECONDS ###"
+	{
+		"chi"		"** **"
+	}
+	"### NUKE IN 2 SECONDS ###"
+	{
+		"chi"		"** **"
+	}
+	"### NUKE IN 1 SECONDS ###"
+	{
+		"chi"		"** **"
+	}
+	"### ADMIN HAS SELECTED : CHAPTER III ###"
 	{
 		"chi"		"** **"
 	}

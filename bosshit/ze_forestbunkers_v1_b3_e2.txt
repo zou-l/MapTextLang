@@ -78,4 +78,44 @@
 		"hammerid"		"52809"
 		"m_iname"		"forest03_bridge"
 	}
+	"2917"
+	{
+		"enable"		"-1"
+		"hammerid"		"2917"
+	}
+	"2919"
+	{
+		"enable"		"-1"
+		"hammerid"		"2919"
+	}
+	"3026"
+	{
+		"enable"		"-1"
+		"hammerid"		"3026"
+	}
+	"90437"
+	{
+		"enable"		"-1"
+		"hammerid"		"90437"
+	}
+	"106037"
+	{
+		"enable"		"-1"
+		"hammerid"		"106037"
+	}
+	"106503"
+	{
+		"enable"		"-1"
+		"hammerid"		"106503"
+	}
+	"106782"
+	{
+		"enable"		"-1"
+		"hammerid"		"106782"
+	}
+	"106798"
+	{
+		"enable"		"-1"
+		"hammerid"		"106798"
+	}
 }

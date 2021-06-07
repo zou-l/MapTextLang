@@ -6,7 +6,7 @@
 	}
 	"***LEVEL -- BOX WITH A LIGHT IN IT***"
 	{
-		"chi"		"**当前关卡：最初的小盒**"
+		"chi"		"**当前关卡：光之盒**"
 	}
 	"***Hold off the until youre teleport to 1 of the 12 maps!***"
 	{
@@ -18,7 +18,7 @@
 	}
 	"***By the way...zombie should be spawning soon...so pick a corner and good luck!***"
 	{
-		"chi"		"**快要选择母体了！找个角落狗起来！**"
+		"chi"		"**僵尸快要出生了！找个角落狗起来！**"
 	}
 	"***3***"
 	{
@@ -47,7 +47,7 @@
 	"***Survive for 75secs***"
 	{
 		"chi"		"**生存75秒**"
-		"DoorCountdown"		"75"
+		"DoorCountDown"		"75"
 	}
 	"***LEVEL -- CLASSIC ZOMBIE MOD***"
 	{
@@ -60,7 +60,7 @@
 	"***Hide and survive for 90secs!***"
 	{
 		"chi"		"**找个地方生存90秒！**"
-		"DoorCountdown"		"90"
+		"DoorCountDown"		"90"
 	}
 	"***LEVEL -- MAGIC CARPET ESCAPE***"
 	{
@@ -176,7 +176,7 @@
 	}
 	"***Jump and be careful not to hit to many blockers!***"
 	{
-		"chi"		"**小心的往前跳！要是撞了太多方块你就炸了！**"
+		"chi"		"**小心的往前跳！要是装了太多方块你就炸了！**"
 	}
 	"***LEVEL -- FAIL NADE***"
 	{
@@ -193,7 +193,7 @@
 	"***Zombies will arrive in 5secs!***"
 	{
 		"chi"		"**僵尸5秒后到达**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"***Upper pipes now open! Land a nade inside both within 25secs!***"
 	{
@@ -317,7 +317,7 @@
 	}
 	"***Escape the Rusty Temple Ruins before the curse spreads to the exit!***"
 	{
-		"chi"		"**在法老的诅咒蔓延到终点前逃离这座神庙遗迹！**"
+		"chi"		"**在法老的诅咒蔓延到终点前逃离这作神庙遗迹！**"
 	}
 	"***Be careful as the zombies will use traps to send you to the zombie cage!***"
 	{
@@ -365,7 +365,7 @@
 	}
 	"***Gavitiy outside is beening warped!? Make you way to the escape pod at the end of the bridge!***"
 	{
-		"chi"		"**外面的重力扭曲了！？去桥尽头的逃生舱！**"
+		"chi"		"**外面的重力扭曲了！？去桥尽头的逃生舱**"
 	}
 	"***Escape vehicle leaving in 10secs!***"
 	{
@@ -393,7 +393,7 @@
 	}
 	"***GET INTO THE ESCAPE POD!!***"
 	{
-		"chi"		"**快跳上最后的逃生舱！**"
+		"chi"		"**快跳上最后的逃生点！**"
 	}
 	"***3!!***"
 	{
@@ -490,7 +490,7 @@
 	"***Final attack will be charged in 60secs!!***"
 	{
 		"chi"		"**最后的攻击将会在60秒之后到来！**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"***Watch out for...barrel...attacks...?***"
 	{
@@ -499,7 +499,7 @@
 	"***The Boss has been weakened But it will recover in 60secs and use its final attack!***"
 	{
 		"chi"		"**boss萎了，但是他60秒之后又会活♂力♂四♂射**"
-		"DoorCountdown"		"60"
+		"DoorCountDown"		"60"
 	}
 	"***CTs will have to jump off and activate the switches!***"
 	{
@@ -548,7 +548,7 @@
 	"***Boat engine failure! Take the wash tub!***"
 	{
 		"chi"		"**不会真有人傻乎乎的上船吧？？**"
-		"DoorCountdown"		"5"
+		"DoorCountDown"		"5"
 	}
 	"***Nuke in 10secs!***"
 	{
@@ -557,7 +557,7 @@
 	"***Wash tub has a hole! Take the boat!***"
 	{
 		"chi"		"**还以为澡盆不会沉？**"
-		"DoorCountdown"		"5"
+		"DoorCountDown"		"5"
 	}
 	"***60secs left!***"
 	{
@@ -588,6 +588,18 @@
 		"chi"		"** **"
 	}
 	"***BACKSPACE!!!***"
+	{
+		"chi"		"** **"
+	}
+	"***Curse has reached the exit!***"
+	{
+		"chi"		"** **"
+	}
+	"***Switch 1 Unlocked!***"
+	{
+		"chi"		"** **"
+	}
+	"***CONGRATULATIONS -- ...Wait...F---!!***"
 	{
 		"chi"		"** **"
 	}

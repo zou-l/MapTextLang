@@ -216,4 +216,49 @@
 		"hammerid"		"782900"
 		"m_iname"		"aeris_004"
 	}
+	"3397174"
+	{
+		"enable"		"-1"
+		"hammerid"		"3397174"
+	}
+	"4162"
+	{
+		"enable"		"-1"
+		"hammerid"		"4162"
+	}
+	"5373"
+	{
+		"enable"		"-1"
+		"hammerid"		"5373"
+	}
+	"5424"
+	{
+		"enable"		"-1"
+		"hammerid"		"5424"
+	}
+	"6187"
+	{
+		"enable"		"-1"
+		"hammerid"		"6187"
+	}
+	"6299"
+	{
+		"enable"		"-1"
+		"hammerid"		"6299"
+	}
+	"6527"
+	{
+		"enable"		"-1"
+		"hammerid"		"6527"
+	}
+	"436091"
+	{
+		"enable"		"-1"
+		"hammerid"		"436091"
+	}
+	"555403"
+	{
+		"enable"		"-1"
+		"hammerid"		"555403"
+	}
 }

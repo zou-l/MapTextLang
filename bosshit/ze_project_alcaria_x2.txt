@@ -232,13 +232,19 @@
 	{
 		"enable"		"0"
 		"hammerid"		"1788109"
-		"m_iname"		"nrk_npc_CY01Physic1&3165"
+		"m_iname"		"nrk_npc_CY01Physic1&8105"
 	}
 	"1788130"
 	{
 		"enable"		"1"
 		"hammerid"		"1788130"
-		"m_iname"		"nrk_npc_hitbox&3165"
+		"m_iname"		"nrk_npc_hitbox&8105"
+	}
+	"2678464"
+	{
+		"enable"		"0"
+		"hammerid"		"2678464"
+		"m_iname"		"nrk_item_missile_break"
 	}
 	"3768478"
 	{
@@ -257,11 +263,5 @@
 		"enable"		"0"
 		"hammerid"		"3837159"
 		"m_iname"		"nrk3_biobomb_model"
-	}
-	"2678464"
-	{
-		"enable"		"0"
-		"hammerid"		"2678464"
-		"m_iname"		"nrk_item_missile_break"
 	}
 }

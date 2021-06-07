@@ -11,13 +11,12 @@
 	">>> mat_colorcorrection 1 IN CONSOLE FOR BETTER VISUALS <<<"
 	{
 		"chi"		"**mat_colorcorrection 1（色彩修正） 获得更好的视觉效果**"
-				"DoorCountdown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	">>> After winning a round you will get 100 points which equals with 1 level  <<<"
 	{
 		"chi"		"**每赢得一回合你会获得100分来提升一个等级**"
 		"DoorCountdown"		"-1"
-		
 	}
 	">>> Level 1 item requires 100 points Level 2 item requires 200 points and so on. <<<"
 	{
@@ -397,5 +396,21 @@
 	">> We need to hold the Plains District for 45 seconds HOLD THEM BACK! <<"
 	{
 		"chi"		"**我们需要在这平原防守45秒 **"
+	}
+	"level"
+	{
+		"chi"		"** **"
+	}
+	"this is a kinlkm test msg"
+	{
+		"chi"		"** **"
+	}
+	"this is a kinlkm test"
+	{
+		"chi"		"** **"
+	}
+	"sm_level"
+	{
+		"chi"		"** **"
 	}
 }

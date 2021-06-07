@@ -474,4 +474,9 @@
 		"hammerid"		"780008"
 		"m_iname"		"lv3_true_boss_break"
 	}
+	"152108"
+	{
+		"enable"		"-1"
+		"hammerid"		"152108"
+	}
 }

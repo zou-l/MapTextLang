@@ -103,10 +103,12 @@
 	"Remaining 40 seconds!"
 	{
 		"chi"		"**还剩40秒 **"
+		"DoorCountDown"		"-1"
 	}
 	"Remaining 10 seconds!"
 	{
 		"chi"		"**还剩10秒 **"
+		"DoorCountDown"		"-1"
 	}
 	"*** Difficulty : Insane ***"
 	{

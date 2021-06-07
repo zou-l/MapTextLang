@@ -823,4 +823,16 @@
 	{
 		"chi"		"** **"
 	}
+	"end"
+	{
+		"chi"		"** **"
+	}
+	"start"
+	{
+		"chi"		"** **"
+	}
+	"**Solar Crush - Causes damage to Gradyrat for 6 seconds,total 20% of its maximum HP**"
+	{
+		"chi"		"** **"
+	}
 }

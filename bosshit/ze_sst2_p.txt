@@ -90,4 +90,74 @@
 		"hammerid"		"151867"
 		"m_iname"		"sst_frontbreak1"
 	}
+	"53729"
+	{
+		"enable"		"-1"
+		"hammerid"		"53729"
+	}
+	"17576"
+	{
+		"enable"		"-1"
+		"hammerid"		"17576"
+	}
+	"17585"
+	{
+		"enable"		"-1"
+		"hammerid"		"17585"
+	}
+	"17588"
+	{
+		"enable"		"-1"
+		"hammerid"		"17588"
+	}
+	"54753"
+	{
+		"enable"		"-1"
+		"hammerid"		"54753"
+	}
+	"104432"
+	{
+		"enable"		"-1"
+		"hammerid"		"104432"
+	}
+	"106094"
+	{
+		"enable"		"-1"
+		"hammerid"		"106094"
+	}
+	"106286"
+	{
+		"enable"		"-1"
+		"hammerid"		"106286"
+	}
+	"123062"
+	{
+		"enable"		"-1"
+		"hammerid"		"123062"
+	}
+	"139241"
+	{
+		"enable"		"-1"
+		"hammerid"		"139241"
+	}
+	"139261"
+	{
+		"enable"		"-1"
+		"hammerid"		"139261"
+	}
+	"95543"
+	{
+		"enable"		"-1"
+		"hammerid"		"95543"
+	}
+	"95437"
+	{
+		"enable"		"-1"
+		"hammerid"		"95437"
+	}
+	"95440"
+	{
+		"enable"		"-1"
+		"hammerid"		"95440"
+	}
 }

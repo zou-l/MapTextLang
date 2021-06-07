@@ -36,4 +36,9 @@
 		"hammerid"		"12581"
 		"m_iname"		"vent_1"
 	}
+	"16048"
+	{
+		"enable"		"-1"
+		"hammerid"		"16048"
+	}
 }

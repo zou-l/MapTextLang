@@ -186,4 +186,14 @@
 		"hammerid"		"273552"
 		"m_iname"		"bridge_2"
 	}
+	"475814"
+	{
+		"enable"		"-1"
+		"hammerid"		"475814"
+	}
+	"459324"
+	{
+		"enable"		"-1"
+		"hammerid"		"459324"
+	}
 }

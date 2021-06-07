@@ -32,7 +32,7 @@
 	}
 	"633261"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"633261"
 		"m_iname"		"stage_1_phymonolit1"
 	}
@@ -44,7 +44,7 @@
 	}
 	"2073745"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"2073745"
 		"m_iname"		"stage_1_modelphybox1"
 	}
@@ -134,7 +134,7 @@
 	}
 	"5595068"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"5595068"
 		"m_iname"		"box1gigi"
 	}
@@ -203,27 +203,47 @@
 	}
 	"628820"
 	{
-		"enable"		"-1"
+		"enable"		"0"
 		"hammerid"		"628820"
 	}
 	"628817"
 	{
-		"enable"		"-1"
+		"enable"		"0"
 		"hammerid"		"628817"
 	}
 	"628814"
 	{
-		"enable"		"-1"
+		"enable"		"0"
 		"hammerid"		"628814"
 	}
 	"628811"
 	{
-		"enable"		"-1"
+		"enable"		"0"
 		"hammerid"		"628811"
 	}
 	"628078"
 	{
 		"enable"		"-1"
 		"hammerid"		"628078"
+	}
+	"628825"
+	{
+		"enable"		"1"
+	}
+	"628827"
+	{
+		"enable"		"1"
+	}
+	"628829"
+	{
+		"enable"		"1"
+	}
+	"628831"
+	{
+		"enable"		"1"
+	}
+	"629935"
+	{
+		"enable"		"1"
 	}
 }

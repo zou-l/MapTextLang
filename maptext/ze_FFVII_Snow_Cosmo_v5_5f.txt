@@ -605,4 +605,28 @@
 	{
 		"chi"		"**究极难度**"
 	}
+	"[Cloud] Oh shit. Theres a stranger right near our airship. Be careful.."
+	{
+		"chi"		"** **"
+	}
+	"[Cloud] Shit! He ran away.. I guess Shinra will notice Bahamut above Cosmo Canyon and we will have more destructions then.."
+	{
+		"chi"		"** **"
+	}
+	"**Ultimate MODE**"
+	{
+		"chi"		"** **"
+	}
+	"**Chest Quest completed!**"
+	{
+		"chi"		"** **"
+	}
+	"**The reward is waiting for you in the gi cave**"
+	{
+		"chi"		"** **"
+	}
+	"**A player has picked up Phoenix Down**"
+	{
+		"chi"		"** **"
+	}
 }

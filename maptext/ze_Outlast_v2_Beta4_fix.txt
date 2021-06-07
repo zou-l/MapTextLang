@@ -91,27 +91,27 @@
 	"||| 1/5 documents found  |||"
 	{
 		"chi"		"** 文档：1/5 **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"||| 2/5 documents found  |||"
 	{
 		"chi"		"** 文档：2/5 **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"||| 3/5 documents found  |||"
 	{
 		"chi"		"** 文档：3/5 **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"||| 4/5 documents found  |||"
 	{
 		"chi"		"** 文档：4/5 **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"||| 5/5 documents found  |||"
 	{
 		"chi"		"** 文档：5/5 **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"||| You found all the secrets Good Job  |||"
 	{
@@ -120,7 +120,7 @@
 	"||| Find 4 buttons to Turn On Power  |||"
 	{
 		"chi"		"** 寻找4个开关并开启发电机 **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"||| Press button in the middle  |||"
 	{
@@ -201,5 +201,69 @@
 	"||| Shoot the Boss and finsh The lasers!  |||"
 	{
 		"chi"		"**朝BOSS开枪并躲避跳刀**"
+	}
+	"||| The wall will explode  at 30 second  |||"
+	{
+		"chi"		"** **"
+	}
+	"||| Find the KeyCard   |||"
+	{
+		"chi"		"** **"
+	}
+	"||| Hide in the locker dont try to fight  |||"
+	{
+		"chi"		"** **"
+	}
+	"||| 15 documents found |||"
+	{
+		"chi"		"** **"
+	}
+	"||| The power on go back to defend   |||"
+	{
+		"chi"		"** **"
+	}
+	"*** HUMANS WON! MOVING ON TO STAGE 2 ***"
+	{
+		"chi"		"** **"
+	}
+	"||| Stage 2 Hospital   |||"
+	{
+		"chi"		"** **"
+	}
+	"||| Hold here for 10 seconds  |||"
+	{
+		"chi"		"** **"
+	}
+	"||| The LAST door will open at 30 second  |||"
+	{
+		"chi"		"** **"
+	}
+	"||| You win Stage 2 |||"
+	{
+		"chi"		"** **"
+	}
+	"*** HUMANS WON! MOVING ON TO STAGE 1 ***"
+	{
+		"chi"		"** **"
+	}
+	"||| 25 documents found |||"
+	{
+		"chi"		"** **"
+	}
+	"||| 35 documents found |||"
+	{
+		"chi"		"** **"
+	}
+	"||| 45 documents found |||"
+	{
+		"chi"		"** **"
+	}
+	"||| 55 documents found |||"
+	{
+		"chi"		"** **"
+	}
+	"||| You found all the secrets Good Job |||"
+	{
+		"chi"		"** **"
 	}
 }

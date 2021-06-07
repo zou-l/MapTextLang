@@ -208,4 +208,74 @@
 		"hammerid"		"1240772"
 		"m_iname"		"physbox_03"
 	}
+	"200190"
+	{
+		"enable"		"-1"
+		"hammerid"		"200190"
+	}
+	"540473"
+	{
+		"enable"		"-1"
+		"hammerid"		"540473"
+	}
+	"590432"
+	{
+		"enable"		"-1"
+		"hammerid"		"590432"
+	}
+	"667252"
+	{
+		"enable"		"-1"
+		"hammerid"		"667252"
+	}
+	"773520"
+	{
+		"enable"		"-1"
+		"hammerid"		"773520"
+	}
+	"775227"
+	{
+		"enable"		"-1"
+		"hammerid"		"775227"
+	}
+	"781216"
+	{
+		"enable"		"-1"
+		"hammerid"		"781216"
+	}
+	"922643"
+	{
+		"enable"		"-1"
+		"hammerid"		"922643"
+	}
+	"922659"
+	{
+		"enable"		"-1"
+		"hammerid"		"922659"
+	}
+	"922669"
+	{
+		"enable"		"-1"
+		"hammerid"		"922669"
+	}
+	"922687"
+	{
+		"enable"		"-1"
+		"hammerid"		"922687"
+	}
+	"953388"
+	{
+		"enable"		"-1"
+		"hammerid"		"953388"
+	}
+	"1533271"
+	{
+		"enable"		"-1"
+		"hammerid"		"1533271"
+	}
+	"1533287"
+	{
+		"enable"		"-1"
+		"hammerid"		"1533287"
+	}
 }

@@ -1074,4 +1074,75 @@
 		"hammerid"		"1822048"
 		"m_iname"		"Lvl8_Things"
 	}
+	"882"
+	{
+		"enable"		"-1"
+		"hammerid"		"882"
+	}
+	"1117"
+	{
+		"enable"		"-1"
+		"hammerid"		"1117"
+	}
+	"1694"
+	{
+		"enable"		"-1"
+		"hammerid"		"1694"
+	}
+	"1910"
+	{
+		"enable"		"-1"
+		"hammerid"		"1910"
+	}
+	"2539"
+	{
+		"enable"		"-1"
+		"hammerid"		"2539"
+	}
+	"3797"
+	{
+		"enable"		"-1"
+		"hammerid"		"3797"
+	}
+	"3814"
+	{
+		"enable"		"-1"
+		"hammerid"		"3814"
+	}
+	"928"
+	{
+		"enable"		"-1"
+		"hammerid"		"928"
+	}
+	"25812"
+	{
+		"enable"		"-1"
+		"hammerid"		"25812"
+	}
+	"25818"
+	{
+		"enable"		"-1"
+		"hammerid"		"25818"
+	}
+	"26468"
+	{
+		"enable"		"-1"
+		"hammerid"		"26468"
+	}
+	"26498"
+	{
+		"enable"		"-1"
+		"hammerid"		"26498"
+	}
+	"29426"
+	{
+		"enable"		"-1"
+		"hammerid"		"29426"
+	}
+	"1821988"
+	{
+		"enable"		"-1"
+		"hammerid"		"1821988"
+		"m_iname"		"Lvl8_Things"
+	}
 }

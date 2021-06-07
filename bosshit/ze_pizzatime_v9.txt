@@ -256,4 +256,28 @@
 		"enable"		"-1"
 		"hammerid"		"13175"
 	}
+	"188334"
+	{
+		"enable"		"-1"
+		"hammerid"		"188334"
+		"m_iname"		"rock_wall&6143"
+	}
+	"204560"
+	{
+		"enable"		"-1"
+		"hammerid"		"204560"
+		"m_iname"		"projectile_phys_2&7200"
+	}
+	"204449"
+	{
+		"enable"		"-1"
+		"hammerid"		"204449"
+		"m_iname"		"projectile_phys_1&4871"
+	}
+	"157430"
+	{
+		"enable"		"-1"
+		"hammerid"		"157430"
+		"m_iname"		"i_quadbike_phys&1222"
+	}
 }

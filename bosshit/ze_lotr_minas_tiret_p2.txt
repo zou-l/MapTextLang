@@ -450,4 +450,44 @@
 		"hammerid"		"18300"
 		"m_iname"		"EndBreak"
 	}
+	"609011"
+	{
+		"enable"		"-1"
+		"hammerid"		"609011"
+	}
+	"308378"
+	{
+		"enable"		"-1"
+		"hammerid"		"308378"
+	}
+	"320343"
+	{
+		"enable"		"-1"
+		"hammerid"		"320343"
+	}
+	"322291"
+	{
+		"enable"		"-1"
+		"hammerid"		"322291"
+	}
+	"322302"
+	{
+		"enable"		"-1"
+		"hammerid"		"322302"
+	}
+	"322313"
+	{
+		"enable"		"-1"
+		"hammerid"		"322313"
+	}
+	"322324"
+	{
+		"enable"		"-1"
+		"hammerid"		"322324"
+	}
+	"356288"
+	{
+		"enable"		"-1"
+		"hammerid"		"356288"
+	}
 }

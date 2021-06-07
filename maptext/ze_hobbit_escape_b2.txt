@@ -164,4 +164,16 @@
 	{
 		"chi"		"** **"
 	}
+	"*** The vent is open ! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** A player has found a sword ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Theyre too many humans. Another way has been opened. ***"
+	{
+		"chi"		"** **"
+	}
 }

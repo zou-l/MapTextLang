@@ -3,6 +3,7 @@
 	"** Door opening in 15 sec. **"
 	{
 		"chi"		"**门将在15秒后开**"
+		"DoorCountDown"		"15"
 	}
 	"** Door opening in 15 sec **"
 	{
@@ -15,10 +16,12 @@
 	"** Second door opening in 10 seconds **"
 	{
 		"chi"		"**第二扇门将在10秒后开**"
+		"DoorCountDown"		"10"
 	}
 	"** Boat leaving in 20 sec **"
 	{
 		"chi"		"**船将在20秒后离开**"
+		"DoorCountDown"		"20"
 	}
 	"** Door opening in 25 sec **"
 	{
@@ -27,6 +30,7 @@
 	"** Door opening in 20 sec **"
 	{
 		"chi"		"**门将在20秒后打开**"
+		"DoorCountDown"		"20"
 	}
 	"** Final door opening in 50 sec!!! **"
 	{

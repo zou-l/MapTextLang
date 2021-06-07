@@ -368,4 +368,8 @@
 	{
 		"chi"		"** **"
 	}
+	"** INVALID VICTORY - ELEVATOR INTERCEPTED **"
+	{
+		"chi"		"** **"
+	}
 }

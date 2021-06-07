@@ -19,7 +19,7 @@
 	"The promixity mine can be used every 24 seconds."
 	{
 		"chi"		"**提莫 每 24秒 能种 共产主义之雷 1次**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"10 seconds left"
 	{
@@ -44,17 +44,17 @@
 	"Steam pressure at 66%"
 	{
 		"chi"		"**steam 冬日特卖 66%折扣 快去按 2号阀门**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"Steam pressure at 33%"
 	{
 		"chi"		"**steam 冬日特卖 33%折扣 快去按 3号阀门**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"Steam pressure at 0%"
 	{
 		"chi"		"**steam 冬日特卖 0%折扣 快冲出大门 买买买**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"Zombie spawns advancing in 15 seconds"
 	{
@@ -67,6 +67,7 @@
 	"Dam door closing in 5 seconds"
 	{
 		"chi"		"**门将在5秒后关闭!**"
+		"DoorCountDown"		"5"
 	}
 	"Push gun obtained!"
 	{
@@ -75,7 +76,7 @@
 	"The push gun can be used every 45 seconds."
 	{
 		"chi"		"**每 45秒 可以用一次 噗嘘淦 记得看情况射临时（丧）工（尸）哦**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"Door opening in 20 seconds"
 	{
@@ -88,6 +89,7 @@
 	"Door closing in 10 seconds"
 	{
 		"chi"		"**门将在10秒后关闭**"
+		"DoorCountDown"		"10"
 	}
 	"Zombie spawns advancing in 25 seconds"
 	{
@@ -108,7 +110,7 @@
 	"C4 in now armed"
 	{
 		"chi"		"**安放GTX690战术核C4成功**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"New objective. Reach the top of the dam for extraction"
 	{
@@ -125,6 +127,7 @@
 	"Elevator doors closing in 10 seconds"
 	{
 		"chi"		"**10秒后关闭steam员工电梯门!**"
+		"DoorCountDown"		"10"
 	}
 	"Time portal will open in 50 seconds"
 	{
@@ -137,7 +140,7 @@
 	"TIP: Zombies can pass through our portal."
 	{
 		"chi"		"**提示:临时（丧）工（尸）可以通过我们的后宫沃兹高阶法师肉丸 59.99美元传送萌**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"TIP: It would be wise to stay and defend a bit until the explosion occurs."
 	{
@@ -154,17 +157,17 @@
 	"C4 exploding in 10 seconds"
 	{
 		"chi"		"**GTX690战术核C4将在10秒后爆炸!**"
-		"DoorCountdown"		"10"
+		"DoorCountDown"		"10"
 	}
 	"An infected got through our portal! Push them back!"
 	{
 		"chi"		"**一个临时（丧）工（尸）正在通过后宫沃兹高阶法师肉丸 59.99美元传送萌，把它们送回总部**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"An infected has passed through our portal."
 	{
 		"chi"		"**一个临时（丧）工（尸）已经通过了我们的后宫沃兹高阶法师肉丸 59.99美元传送萌**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"-Hardcore Mode-"
 	{

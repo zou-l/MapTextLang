@@ -954,4 +954,59 @@
 		"hammerid"		"1652"
 		"m_iname"		"br5"
 	}
+	"1679"
+	{
+		"enable"		"-1"
+		"hammerid"		"1679"
+	}
+	"1681"
+	{
+		"enable"		"-1"
+		"hammerid"		"1681"
+	}
+	"762801"
+	{
+		"enable"		"-1"
+		"hammerid"		"762801"
+	}
+	"762809"
+	{
+		"enable"		"-1"
+		"hammerid"		"762809"
+	}
+	"762814"
+	{
+		"enable"		"-1"
+		"hammerid"		"762814"
+	}
+	"1556237"
+	{
+		"enable"		"-1"
+		"hammerid"		"1556237"
+	}
+	"1556251"
+	{
+		"enable"		"-1"
+		"hammerid"		"1556251"
+	}
+	"2118130"
+	{
+		"enable"		"-1"
+		"hammerid"		"2118130"
+	}
+	"1836"
+	{
+		"enable"		"-1"
+		"hammerid"		"1836"
+	}
+	"6055031"
+	{
+		"enable"		"-1"
+		"hammerid"		"6055031"
+	}
+	"12821620"
+	{
+		"enable"		"-1"
+		"hammerid"		"12821620"
+	}
 }

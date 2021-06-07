@@ -8,7 +8,7 @@
 	{
 		"chi"		"** **"
 	}
-	"***Defend for 30 seconds***"
+	"***defend for 30 seconds***"
 	{
 		"chi"		"** **"
 	}
@@ -17,6 +17,38 @@
 		"chi"		"** **"
 	}
 	"***Zombie pick up Elfire***"
+	{
+		"chi"		"** **"
+	}
+	"***Defend for 40 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Wind***"
+	{
+		"chi"		"** **"
+	}
+	"***Laser***"
+	{
+		"chi"		"** **"
+	}
+	"***30 seconds left***"
+	{
+		"chi"		"** **"
+	}
+	"***Fail***"
+	{
+		"chi"		"** **"
+	}
+	"***Zombie pick up Diamonddust***"
+	{
+		"chi"		"** **"
+	}
+	"***Zombie pick up BulletShield***"
+	{
+		"chi"		"** **"
+	}
+	"***Zombie pick up Fire***"
 	{
 		"chi"		"** **"
 	}

@@ -235,7 +235,7 @@
 	"***ARE YOU 18 YEARS OLD?  MMHHHHMM YUMMY***"
 	{
 		"chi"		"**你有18岁吗？嗯唔唔唔唔 美味**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"***THE FATES OF THE FACE PATHS SHALL OPEN THEMSELVES***"
 	{
@@ -455,7 +455,7 @@
 	"***HASSAN CHOP***"
 	{
 		"chi"		"**哈桑斧击！（赶紧蹲下，别被削头了！）**"
-		"DoorCountdown"		"4"
+		"DoorCountDown"		"4"
 	}
 	"***Defend for 20 seconds***"
 	{
@@ -652,5 +652,9 @@
 	"***WAIT GREEN LIGHT 10 SECOND ***"
 	{
 		"chi"		"**离绿灯亮起还剩10秒（第二关大炮无法通行） **"
+	}
+	"***Normal Mode***"
+	{
+		"chi"		"** **"
 	}
 }

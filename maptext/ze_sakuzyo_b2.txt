@@ -55,7 +55,7 @@
 	"*** Boss room will open in 30 seconds ***"
 	{
 		"chi"		"**30秒后BOSS房门开启**"
-		"DoorCountdown"		"0"
+		"DoorCountDown"		"0"
 	}
 	"*** Doors will close in 10 seconds ***"
 	{
@@ -121,7 +121,7 @@
 	{
 		"chi"		"**BOSS大门已激活**"
 	}
-	"*** Door opens in 10 seconds ***"
+	"*** DOOR OPENS IN 10 SECONDS ***"
 	{
 		"chi"		"**大门将在10秒后打开**"
 	}
@@ -148,7 +148,7 @@
 	"*** Ice element is charging an attack! ***"
 	{
 		"chi"		"**冰之元素即将发动攻击**"
-		"DoorCountdown"		"10"
+		"DoorCountDown"		"10"
 	}
 	"** Laser barrier will disable in 30 seconds **"
 	{
@@ -221,7 +221,7 @@
 	"*** SHOOT THE ICE PROGRAM ***"
 	{
 		"chi"		"**快点射击冰之元素，不然我们都要爆炸**"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"*** The attack has been interrupted! ***"
 	{
@@ -254,5 +254,9 @@
 	"*** Final level comming soon ***"
 	{
 		"chi"		"**最终关卡即将到来，敬请期待。**"
+	}
+	"*** YOU ARE TOO SLOW ***"
+	{
+		"chi"		"** **"
 	}
 }

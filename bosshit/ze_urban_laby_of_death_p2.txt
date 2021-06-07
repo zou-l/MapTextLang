@@ -4,7 +4,7 @@
 	{
 		"enable"		"0"
 		"hammerid"		"347302"
-		"m_iname"		"Landmine_Brush&8429"
+		"m_iname"		"Landmine_Brush&9077"
 	}
 	"667717"
 	{
@@ -155,5 +155,10 @@
 		"enable"		"0"
 		"hammerid"		"165988"
 		"m_iname"		"glass4"
+	}
+	"35939"
+	{
+		"enable"		"-1"
+		"hammerid"		"35939"
 	}
 }

@@ -32,7 +32,7 @@
 	{
 		"chi"		"**门将在30秒后碎裂**"
 	}
-        "<<DESTRUCTION OF THE REACTOR IN 75 SECONDS>>"
+	"<<DESTRUCTION OF THE REACTOR IN 75 SECONDS>>"
 	{
 		"chi"		"**75秒后摧毁核反应堆**"
 	}
@@ -64,7 +64,7 @@
 	{
 		"chi"		"**激光墙将在30秒后关闭**"
 	}
-        "<<LASERS ARE DISABLED>>"
+	"<<LASERS ARE DISABLED>>"
 	{
 		"chi"		"**激光墙已关闭**"
 	}
@@ -87,5 +87,21 @@
 	"<<WALL IS DESTROYED>>"
 	{
 		"chi"		"**墙已坍塌**"
+	}
+	"<<4>>"
+	{
+		"chi"		"** **"
+	}
+	"<<3>>"
+	{
+		"chi"		"** **"
+	}
+	"<<2>>"
+	{
+		"chi"		"** **"
+	}
+	"<<1>>"
+	{
+		"chi"		"** **"
 	}
 }

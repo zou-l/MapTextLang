@@ -210,4 +210,54 @@
 		"hammerid"		"657357"
 		"m_iname"		"CY01Physic"
 	}
+	"720449"
+	{
+		"enable"		"-1"
+		"hammerid"		"720449"
+	}
+	"549762"
+	{
+		"enable"		"-1"
+		"hammerid"		"549762"
+	}
+	"428219"
+	{
+		"enable"		"-1"
+		"hammerid"		"428219"
+	}
+	"428743"
+	{
+		"enable"		"-1"
+		"hammerid"		"428743"
+	}
+	"425003"
+	{
+		"enable"		"-1"
+		"hammerid"		"425003"
+	}
+	"55378"
+	{
+		"enable"		"-1"
+		"hammerid"		"55378"
+	}
+	"35523"
+	{
+		"enable"		"-1"
+		"hammerid"		"35523"
+	}
+	"35541"
+	{
+		"enable"		"-1"
+		"hammerid"		"35541"
+	}
+	"35552"
+	{
+		"enable"		"-1"
+		"hammerid"		"35552"
+	}
+	"35563"
+	{
+		"enable"		"-1"
+		"hammerid"		"35563"
+	}
 }

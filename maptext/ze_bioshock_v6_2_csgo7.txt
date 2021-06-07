@@ -23,37 +23,37 @@
 	">>TIP #1: Big Daddy is immensely strong. Dont let him get close<<"
 	{
 		"chi"		"**提示1：大老爹非常强壮.不要让他靠近你们 **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	">>TIP #2: Repeated losses will make the map easier. Dont give up!<<"
 	{
 		"chi"		"**提示2:多次通关失败会使地图更容易，不要放弃! **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	">>TIP #3: Plasmids are limited use. Keep count!<<"
 	{
 		"chi"		"**提示3：质粒的使用受到限制,酌情使用！ **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	">>TIP #4: Upgrade your Plasmids at Power to the People stations. Upgrades are PERMANENT. Choose carefully!<<"
 	{
 		"chi"		"**提示4：在商店升级你的质粒，升级是永久性的，请谨慎选择！ **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	">>TIP #5: Little Sister can harvest corpses to buff her teammates. Search them out!<<"
 	{
 		"chi"		"**提示5:小妹妹可以收获尸体来给予队友基因强化，搜索尸体！ **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	">>TIP #6: Gene Tonics take effect on death. Dont die in vain!<<"
 	{
 		"chi"		"**提示6：基因强化在死亡时生效，不要白白牺牲！ **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	">>TIP #7: Lost health? Visit a health station to recover it!<<"
 	{
 		"chi"		"**提示7：HP减少了？你可以去加血站恢复它！ **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	">>>Introduction Complete<<<"
 	{
@@ -122,7 +122,7 @@
 	"*AFK teleport in 5s*"
 	{
 		"chi"		"**挂机玩家5秒后传送 **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	">>SECRET: Found the Bird Token<<"
 	{
@@ -131,12 +131,12 @@
 	">>Elevator 1 leaving - 5s<<"
 	{
 		"chi"		"**1号电梯离开-5秒 **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	">>Elevator 2 leaving - 5s<<"
 	{
 		"chi"		"**2号电梯离开-5秒 **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"***Plasmid obtained: Incinerate***"
 	{
@@ -177,12 +177,12 @@
 	"*Splicers have been blocked for 8 seconds*"
 	{
 		"chi"		"**僵尸被封锁8秒 **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"*Splicers have been blocked for 6 seconds*"
 	{
 		"chi"		"**僵尸被封锁6秒 **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	">>Hide or hold until the exit has drained - 84s<<"
 	{
@@ -191,12 +191,12 @@
 	"*Splicers have been blocked for 4 seconds*"
 	{
 		"chi"		"**僵尸被封锁4秒 **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"*Splicers have been blocked for 2 seconds*"
 	{
 		"chi"		"**僵尸被封锁2秒 **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"*Splicers have been freed!*"
 	{
@@ -281,7 +281,7 @@
 	">>AFK Teleport in 5s<<"
 	{
 		"chi"		"**挂机玩家5秒后传送 **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	">>Evaporate the flood water<<"
 	{
@@ -294,7 +294,7 @@
 	">>Laser incoming<<"
 	{
 		"chi"		"**准备跳刀！ **"
-		"DoorCountdown"		"3"
+		"DoorCountDown"		"2"
 	}
 	">>Elevator will be leaving soon<<"
 	{
@@ -310,7 +310,7 @@
 	}
 	">>Defend the Bathysphere - 40s<<"
 	{
-		"chi"		"**等待潜水装置到来-40秒 **"
+		"chi"		">>>守住潜水艇-40秒<<<"
 	}
 	">>Chapter Completed<<"
 	{
@@ -331,17 +331,17 @@
 	">>Thank you for playing. Try 1999 mode for a true challenge<<"
 	{
 		"chi"		"**谢谢你的玩耍，尝试挑战1999年模式 **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	">>Extra Chapter - 1999<<"
 	{
 		"chi"		"**额外章节-1999 **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	">>1999 is a special mode<<"
 	{
 		"chi"		"**1999是一个特殊的关卡 **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	">>Its long and difficult<<"
 	{
@@ -354,7 +354,7 @@
 	">>There are 2 ways to go. Someone must take the upper path<<"
 	{
 		"chi"		"**有2条路可以走，必须有人走上面的路。 **"
-		"DoorCountdown"		"5"
+		"DoorCountDown"		"-1"
 	}
 	">>They must go and open the lower door from behind<<"
 	{
@@ -375,7 +375,7 @@
 	"*AFK teleport in 5s"
 	{
 		"chi"		"**挂机玩家5秒后传送 **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	">>Kill the Patriot<<"
 	{
@@ -404,32 +404,32 @@
 	"***Plasmid upgraded: Sonic Boom 2***"
 	{
 		"chi"		"**质粒升级：音爆2级 **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"***Plasmid upgraded: Incinerate 2***"
 	{
 		"chi"		"**质粒升级：焚烧2级 **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"***Plasmid upgraded: Insect Swarm 2***"
 	{
 		"chi"		"**质粒升级：蜂群2级 **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"***Plasmid upgraded: Electro Bolt 2***"
 	{
 		"chi"		"**质粒升级：闪电2级 **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"***Plasmid upgraded: Winter Blast 2***"
 	{
 		"chi"		"**质粒升级：寒霜2级 **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"***Plasmid upgraded: Gravity Well 2***"
 	{
 		"chi"		"**质粒升级：重力2级 **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"*ADMIN Room: Plasmids set to max level*"
 	{
@@ -438,32 +438,32 @@
 	"***Plasmid upgraded: Sonic Boom 3***"
 	{
 		"chi"		"**质粒升级：音爆3级 **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"***Plasmid upgraded: Incinerate 3***"
 	{
 		"chi"		"**质粒升级：焚烧3级 **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"***Plasmid upgraded: Insect Swarm 3***"
 	{
 		"chi"		"**质粒升级：蜂群3级 **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"***Plasmid upgraded: Electro Bolt 3***"
 	{
 		"chi"		"**质粒升级：闪电3级 **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"***Plasmid upgraded: Winter Blast 3***"
 	{
 		"chi"		"**质粒升级：寒霜3级 **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"***Plasmid upgraded: Gravity Well 3***"
 	{
 		"chi"		"**质粒升级：重力3级**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	">>SECRET: Found the Airship Token<<"
 	{
@@ -500,7 +500,7 @@
 	">>>Elizabeth cant control the tear! Teleport in 5 seconds<<<"
 	{
 		"chi"		"**伊丽莎白对裂隙失去了控制!僵尸在5秒后传送 **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	">>>ELIZABETH: The boat! GET IN THE BOAT<<<"
 	{
@@ -553,5 +553,17 @@
 	">>Its your lucky day, kid<<"
 	{
 		"chi"		"**小子，今天是你的幸运日 **"
+	}
+	"*ADMIN Room: Next round set to Chapter 1*"
+	{
+		"chi"		"** **"
+	}
+	"*ADMIN Room: Next round set to 1999 mode. GOOD LUCK!*"
+	{
+		"chi"		"** **"
+	}
+	"*ADMIN Room: Next round set to Chapter 3*"
+	{
+		"chi"		"** **"
 	}
 }

@@ -580,4 +580,20 @@
 	{
 		"chi"		"**在僵尸把我们变为他们的同类前防守30秒-我来为你们打开酒馆后门**"
 	}
+	"[Red-XIII] Hope he will not escape this time� I afraid that we could attract extra attention.."
+	{
+		"chi"		"** **"
+	}
+	"**Chest Quest completed!**"
+	{
+		"chi"		"** **"
+	}
+	"**The reward is waiting for you in the gi cave**"
+	{
+		"chi"		"** **"
+	}
+	"**A player has picked up Phoenix Down**"
+	{
+		"chi"		"** **"
+	}
 }

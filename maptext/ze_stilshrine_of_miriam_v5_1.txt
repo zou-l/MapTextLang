@@ -3,7 +3,7 @@
 	"**Stilshrine of Miriam**"
 	{
 		"chi"		"**最终幻想12：米利暗遗迹**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"**Map by Malgo**"
 	{
@@ -97,7 +97,7 @@
 	{
 		"chi"		"**传送将在25秒后激活**"
 	}
-	"**The Gate will open in 15 seconds**"
+	"**The gate will open in 15 seconds**"
 	{
 		"chi"		"**大门将在15秒后打开**"
 	}
@@ -125,7 +125,7 @@
 	{
 		"chi"		"**一些神器会对其造成伤害，使用之！**"
 	}
-	"**Nades do more damage**"
+	"**NADES DO MORE DAMAGE**"
 	{
 		"chi"		"**手雷会造成更多的伤害**"
 	}
@@ -256,7 +256,7 @@
 	"**Mateus healing yourself, shes recuperate 255 health points!**"
 	{
 		"chi"		"**玛提乌斯治疗了自己，回复了225HP**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"**Hold for 13 seconds**"
 	{
@@ -273,6 +273,7 @@
 	"**The Right Gate will open in 8 seconds**"
 	{
 		"chi"		"**右侧大门将在8秒后打开**"
+		"DoorCountDown"		"-1"
 	}
 	"**The Left Exit Gate will open in 10 seconds**"
 	{
@@ -281,6 +282,7 @@
 	"**The Right Exit Gate will open in 10 seconds**"
 	{
 		"chi"		"**右侧出口将在10秒后打开**"
+		"DoorCountDown"		"-1"
 	}
 	"**Oh no its Cactuar!**"
 	{
@@ -445,5 +447,17 @@
 	"**ULTIMA mode was beaten. You won the map! **"
 	{
 		"chi"		"**您通过了终极难度！恭喜，本地图已通关！！**"
+	}
+	"**modified by bxzl**"
+	{
+		"chi"		"** **"
+	}
+	"**A player has picked up Health Potion**"
+	{
+		"chi"		"** **"
+	}
+	"**Mateus healing yourself, hes recuperate 255 health points!**"
+	{
+		"chi"		"** **"
 	}
 }

@@ -42,4 +42,9 @@
 		"hammerid"		"623"
 		"m_iname"		"boss_hpbar_1"
 	}
+	"12874"
+	{
+		"enable"		"-1"
+		"hammerid"		"12874"
+	}
 }

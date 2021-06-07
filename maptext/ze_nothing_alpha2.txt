@@ -28,7 +28,7 @@
 	{
 		"chi"		"**还有5秒 **"
 	}
-	"*** DOOR OPEN IN 20 SECONDS ***"
+	"*** Door open in 20 seconds ***"
 	{
 		"chi"		"**20秒后门开 **"
 	}

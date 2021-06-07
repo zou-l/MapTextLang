@@ -384,4 +384,54 @@
 		"hammerid"		"9679766"
 		"m_iname"		"phys"
 	}
+	"2271"
+	{
+		"enable"		"-1"
+		"hammerid"		"2271"
+	}
+	"2274"
+	{
+		"enable"		"-1"
+		"hammerid"		"2274"
+	}
+	"2277"
+	{
+		"enable"		"-1"
+		"hammerid"		"2277"
+	}
+	"3745"
+	{
+		"enable"		"-1"
+		"hammerid"		"3745"
+	}
+	"2082888"
+	{
+		"enable"		"-1"
+		"hammerid"		"2082888"
+	}
+	"3691885"
+	{
+		"enable"		"-1"
+		"hammerid"		"3691885"
+	}
+	"8159070"
+	{
+		"enable"		"-1"
+		"hammerid"		"8159070"
+	}
+	"8159074"
+	{
+		"enable"		"-1"
+		"hammerid"		"8159074"
+	}
+	"8159078"
+	{
+		"enable"		"-1"
+		"hammerid"		"8159078"
+	}
+	"8159082"
+	{
+		"enable"		"-1"
+		"hammerid"		"8159082"
+	}
 }

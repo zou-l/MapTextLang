@@ -94,4 +94,26 @@
 	{
 		"enable"		"1"
 	}
+	"2202831"
+	{
+		"enable"		"0"
+		"hammerid"		"2202831"
+		"m_iname"		"lvl_ph"
+	}
+	"2202828"
+	{
+		"enable"		"0"
+		"hammerid"		"2202828"
+		"m_iname"		"lvl_ph"
+	}
+	"9611875"
+	{
+		"enable"		"-1"
+		"hammerid"		"9611875"
+	}
+	"10107776"
+	{
+		"enable"		"-1"
+		"hammerid"		"10107776"
+	}
 }

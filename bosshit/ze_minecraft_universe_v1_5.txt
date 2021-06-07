@@ -192,4 +192,84 @@
 		"hammerid"		"216139"
 		"m_iname"		"s3_engine_test_breakable"
 	}
+	"2076515"
+	{
+		"enable"		"-1"
+		"hammerid"		"2076515"
+	}
+	"2076518"
+	{
+		"enable"		"-1"
+		"hammerid"		"2076518"
+	}
+	"1755968"
+	{
+		"enable"		"-1"
+		"hammerid"		"1755968"
+	}
+	"1542055"
+	{
+		"enable"		"-1"
+		"hammerid"		"1542055"
+	}
+	"1448186"
+	{
+		"enable"		"-1"
+		"hammerid"		"1448186"
+	}
+	"1272641"
+	{
+		"enable"		"-1"
+		"hammerid"		"1272641"
+	}
+	"1272644"
+	{
+		"enable"		"-1"
+		"hammerid"		"1272644"
+	}
+	"1209163"
+	{
+		"enable"		"-1"
+		"hammerid"		"1209163"
+	}
+	"2432"
+	{
+		"enable"		"-1"
+		"hammerid"		"2432"
+	}
+	"2435"
+	{
+		"enable"		"-1"
+		"hammerid"		"2435"
+	}
+	"2438"
+	{
+		"enable"		"-1"
+		"hammerid"		"2438"
+	}
+	"2441"
+	{
+		"enable"		"-1"
+		"hammerid"		"2441"
+	}
+	"2444"
+	{
+		"enable"		"-1"
+		"hammerid"		"2444"
+	}
+	"2447"
+	{
+		"enable"		"-1"
+		"hammerid"		"2447"
+	}
+	"2468"
+	{
+		"enable"		"-1"
+		"hammerid"		"2468"
+	}
+	"2474"
+	{
+		"enable"		"-1"
+		"hammerid"		"2474"
+	}
 }

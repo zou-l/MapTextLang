@@ -420,4 +420,38 @@
 		"hammerid"		"48468"
 		"m_iname"		"lv2break0-1"
 	}
+	"845518"
+	{
+		"enable"		"0"
+		"hammerid"		"845518"
+		"m_iname"		"physbox"
+	}
+	"781756"
+	{
+		"enable"		"0"
+		"hammerid"		"781756"
+		"m_iname"		"physbox"
+	}
+	"727507"
+	{
+		"enable"		"0"
+		"hammerid"		"727507"
+		"m_iname"		"physbox"
+	}
+	"727515"
+	{
+		"enable"		"0"
+		"hammerid"		"727515"
+		"m_iname"		"physbox"
+	}
+	"734932"
+	{
+		"enable"		"-1"
+		"hammerid"		"734932"
+	}
+	"487716"
+	{
+		"enable"		"-1"
+		"hammerid"		"487716"
+	}
 }

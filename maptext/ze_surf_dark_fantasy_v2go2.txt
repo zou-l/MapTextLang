@@ -15,7 +15,7 @@
 	"***Zombies will be teleported after 15 seconds***"
 	{
 		"chi"		"**僵尸将在15秒后传送**"
-		"DoorCountDown"		"15"	
+		"DoorCountDown"		"15"
 	}
 	"***Welcome to ze_surf_dark_fantasy***"
 	{
@@ -283,7 +283,7 @@
 	"***CatGirl can be Cured by 300 HP***"
 	{
 		"chi"		"**猫女回复了300血**"
-		"DoorCountdown"		"3"
+		"DoorCountDown"		"3"
 	}
 	"***CatGirl is using Electro***"
 	{
@@ -684,5 +684,64 @@
 	{
 		"chi"		"**僵尸拾取了魔爪**"
 	}
-	
+	"***You Found a Seal***"
+	{
+		"chi"		"** **"
+	}
+	"***BuyZone activated for 8 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***You have 60 seconds to kill CreeperGirl***"
+	{
+		"chi"		"** **"
+	}
+	"***You killed the final boss. Teleportation after 10 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Zombies will be teleported after 10 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***The order | 1-Shield 2-Spear 3-Bow 4-Sword***"
+	{
+		"chi"		"** **"
+	}
+	"***Door will open in 15 sec***"
+	{
+		"chi"		"** **"
+	}
+	"***Gate will open in 30 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***The order | 1-Bow 2-Shield 3-Spear 4-Sword***"
+	{
+		"chi"		"** **"
+	}
+	"***Afk will be teleported after 15 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***The order | 1-Bow 2-Spear 3-Sword 4-Shield***"
+	{
+		"chi"		"** **"
+	}
+	"***CatGirl can be Cured by 180 HP***"
+	{
+		"chi"		"** **"
+	}
+	"***The order | 1-Spear 2-Shield 3-Sword 4-Bow***"
+	{
+		"chi"		"** **"
+	}
+	"***The order | 1-Sword 2-Shield 3-Spear 4-Bow***"
+	{
+		"chi"		"** **"
+	}
+	"***The order | 1-Spear 2-Bow 3-Shield 4-Sword***"
+	{
+		"chi"		"** **"
+	}
 }

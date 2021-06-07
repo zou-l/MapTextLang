@@ -108,4 +108,8 @@
 	{
 		"chi"		"** **"
 	}
+	"*** Watch out for the roter blade! ***"
+	{
+		"chi"		"** **"
+	}
 }

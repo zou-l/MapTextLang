@@ -3,7 +3,7 @@
 	"MAP MADE BY ricca2554"
 	{
 		"chi"		"**地图作者：ricca2554 翻译：血色的龙琉璃**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"***donut***"
 	{
@@ -120,7 +120,7 @@
 	"***japan will be bombed in 1 minutes***"
 	{
 		"chi"		"JAPAN即将被毁灭"
-		"DoorCountDown"		"60"
+		"DoorCountdown"		"60"
 	}
 	"***SHORTCUT GATE OPENS IN 40 SEC***"
 	{
@@ -311,6 +311,122 @@
 		"chi"		"** **"
 	}
 	"***1***"
+	{
+		"chi"		"** **"
+	}
+	"***Zombies will teleport in 6 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***The blue bridge will appear in 10 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***The second blue bridge will appear in 20 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***The third blue bridge will appear in 20 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***The final blue bridge will appear in 20 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Defend last 30 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***The ladder will open in 40 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Door will open in 60 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***The elevator will leave in 10 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***你有60秒钟的时间拯救日本***"
+	{
+		"chi"		"** **"
+	}
+	"***你有50秒钟的时间拯救日本***"
+	{
+		"chi"		"** **"
+	}
+	"***你有40秒钟的时间拯救日本***"
+	{
+		"chi"		"** **"
+	}
+	"***你有30秒钟的时间拯救日本***"
+	{
+		"chi"		"** **"
+	}
+	"***你有20秒钟的时间拯救日本***"
+	{
+		"chi"		"** **"
+	}
+	"***只剩10秒钟了！！！***"
+	{
+		"chi"		"** **"
+	}
+	"***炸弹已爆炸，你失败了！！！***"
+	{
+		"chi"		"** **"
+	}
+	"**铁门将在60秒后打开**"
+	{
+		"chi"		"** **"
+	}
+	"**僵尸6秒后传送**"
+	{
+		"chi"		"** **"
+	}
+	"**桥将在10秒后出现**"
+	{
+		"chi"		"** **"
+	}
+	"**桥将在20秒后出现**"
+	{
+		"chi"		"** **"
+	}
+	"**最后一座桥将在20秒后出现**"
+	{
+		"chi"		"** **"
+	}
+	"**最后防守30秒**"
+	{
+		"chi"		"** **"
+	}
+	"***最后的大门将在25秒后打开***"
+	{
+		"chi"		"** **"
+	}
+	"***最后的大门将在20秒后打开***"
+	{
+		"chi"		"** **"
+	}
+	"***最后的大门将在15秒后打开***"
+	{
+		"chi"		"** **"
+	}
+	"***最后的大门将在10秒后打开***"
+	{
+		"chi"		"** **"
+	}
+	"***最后的大门将在5秒后打开***"
+	{
+		"chi"		"** **"
+	}
+	"**梯子40秒后开放**"
+	{
+		"chi"		"** **"
+	}
+	"**比利王的电梯将在10秒后启动**"
 	{
 		"chi"		"** **"
 	}

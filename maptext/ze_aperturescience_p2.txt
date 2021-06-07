@@ -226,4 +226,12 @@
 	{
 		"chi"		"** **"
 	}
+	"--Doors will reopen in 8 seconds--"
+	{
+		"chi"		"** **"
+	}
+	"--Office doors will reopen in 10 seconds--"
+	{
+		"chi"		"** **"
+	}
 }

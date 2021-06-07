@@ -78,4 +78,70 @@
 		"hammerid"		"248331"
 		"m_iname"		"st1_room1_door"
 	}
+	"493926"
+	{
+		"enable"		"-1"
+		"hammerid"		"493926"
+		"m_iname"		"stagebox_stage3"
+	}
+	"493937"
+	{
+		"enable"		"-1"
+		"hammerid"		"493937"
+		"m_iname"		"stagebox_stage4"
+	}
+	"493948"
+	{
+		"enable"		"-1"
+		"hammerid"		"493948"
+		"m_iname"		"stagebox_stage5"
+	}
+	"340744"
+	{
+		"enable"		"-1"
+		"hammerid"		"340744"
+	}
+	"340762"
+	{
+		"enable"		"-1"
+		"hammerid"		"340762"
+	}
+	"340768"
+	{
+		"enable"		"-1"
+		"hammerid"		"340768"
+	}
+	"340771"
+	{
+		"enable"		"-1"
+		"hammerid"		"340771"
+	}
+	"338797"
+	{
+		"enable"		"-1"
+		"hammerid"		"338797"
+	}
+	"155105"
+	{
+		"enable"		"-1"
+		"hammerid"		"155105"
+	}
+	"29178"
+	{
+		"enable"		"-1"
+		"hammerid"		"29178"
+		"m_iname"		"stagebox_stage1"
+	}
+	"29374"
+	{
+		"enable"		"-1"
+		"hammerid"		"29374"
+		"m_iname"		"stagebox_stage2"
+	}
+	"32718"
+	{
+		"enable"		"-1"
+		"hammerid"		"32718"
+		"m_iname"		"st1_crystal"
+	}
 }

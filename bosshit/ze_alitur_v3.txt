@@ -366,4 +366,35 @@
 		"hammerid"		"168725"
 		"m_iname"		"hako3"
 	}
+	"168586"
+	{
+		"enable"		"0"
+		"hammerid"		"168586"
+		"m_iname"		"hako2"
+	}
+	"444898"
+	{
+		"enable"		"-1"
+		"hammerid"		"444898"
+	}
+	"448440"
+	{
+		"enable"		"-1"
+		"hammerid"		"448440"
+	}
+	"451164"
+	{
+		"enable"		"-1"
+		"hammerid"		"451164"
+	}
+	"451171"
+	{
+		"enable"		"-1"
+		"hammerid"		"451171"
+	}
+	"451186"
+	{
+		"enable"		"-1"
+		"hammerid"		"451186"
+	}
 }

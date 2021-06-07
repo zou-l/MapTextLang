@@ -30,4 +30,14 @@
 		"hammerid"		"2030"
 		"m_iname"		"key"
 	}
+	"119864"
+	{
+		"enable"		"-1"
+		"hammerid"		"119864"
+	}
+	"9873"
+	{
+		"enable"		"-1"
+		"hammerid"		"9873"
+	}
 }

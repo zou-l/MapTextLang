@@ -329,4 +329,20 @@
 	{
 		"chi"		"**我们不能让病毒扩散出工厂**"
 	}
+	">>NUKE<<ADMINROOM NUKE ACTIVATED>>NUKE<<"
+	{
+		"chi"		"** **"
+	}
+	"<Stage 4 - EXTREME>"
+	{
+		"chi"		"** **"
+	}
+	">>Select NORMAL Stage<<"
+	{
+		"chi"		"** **"
+	}
+	"||| CHAPTER 8 => LIBERATION |||"
+	{
+		"chi"		"** **"
+	}
 }

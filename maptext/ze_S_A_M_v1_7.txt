@@ -807,4 +807,20 @@
 	{
 		"chi"		"** **"
 	}
+	"this is a fuck msg 999999"
+	{
+		"chi"		"** **"
+	}
+	"999999"
+	{
+		"chi"		"** **"
+	}
+	"#fffff"
+	{
+		"chi"		"** **"
+	}
+	"FlyingRatPhys"
+	{
+		"chi"		"** **"
+	}
 }

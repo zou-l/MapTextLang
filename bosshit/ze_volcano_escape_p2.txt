@@ -78,4 +78,44 @@
 		"hammerid"		"519536"
 		"m_iname"		"JournalBreak3"
 	}
+	"2286"
+	{
+		"enable"		"-1"
+		"hammerid"		"2286"
+	}
+	"4681"
+	{
+		"enable"		"-1"
+		"hammerid"		"4681"
+	}
+	"4684"
+	{
+		"enable"		"-1"
+		"hammerid"		"4684"
+	}
+	"103610"
+	{
+		"enable"		"-1"
+		"hammerid"		"103610"
+	}
+	"500642"
+	{
+		"enable"		"-1"
+		"hammerid"		"500642"
+	}
+	"500732"
+	{
+		"enable"		"-1"
+		"hammerid"		"500732"
+	}
+	"531859"
+	{
+		"enable"		"-1"
+		"hammerid"		"531859"
+	}
+	"568310"
+	{
+		"enable"		"-1"
+		"hammerid"		"568310"
+	}
 }

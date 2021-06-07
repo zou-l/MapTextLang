@@ -2,7 +2,7 @@
 {
 	"464323"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"464323"
 		"m_iname"		"ds_ornstein_hp"
 	}
@@ -110,13 +110,13 @@
 	}
 	"464425"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"464425"
 		"m_iname"		"ds_ornstein_phys"
 	}
 	"265947"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"265947"
 		"m_iname"		"ds_smough_hp"
 	}
@@ -128,7 +128,7 @@
 	}
 	"265956"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"265956"
 		"m_iname"		"ds_smough_phys"
 	}

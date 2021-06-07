@@ -240,4 +240,37 @@
 		"hammerid"		"1114934"
 		"m_iname"		"NotASecretThing"
 	}
+	"380624"
+	{
+		"enable"		"0"
+		"hammerid"		"380624"
+		"m_iname"		"HumanWeaponMover"
+	}
+	"347392"
+	{
+		"enable"		"-1"
+		"hammerid"		"347392"
+	}
+	"347403"
+	{
+		"enable"		"-1"
+		"hammerid"		"347403"
+	}
+	"901920"
+	{
+		"enable"		"-1"
+		"hammerid"		"901920"
+	}
+	"373069"
+	{
+		"enable"		"-1"
+		"hammerid"		"373069"
+		"m_iname"		"SnowballProjectile"
+	}
+	"1028440"
+	{
+		"enable"		"-1"
+		"hammerid"		"1028440"
+		"m_iname"		"TornadoMove"
+	}
 }

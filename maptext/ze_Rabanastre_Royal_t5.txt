@@ -23,7 +23,7 @@
 	"< ZE_RABANASTRE_ROYAL >"
 	{
 		"chi"		"**最终幻想12：拉巴纳斯塔王都 **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"< The path will clear in 30 seconds >"
 	{
@@ -67,11 +67,11 @@
 	}
 	"< SandMoster has casted Quicksand >"
 	{
-		"chi"		"**5---沙怪使用了流沙(注意脚底躲避伤害) **"
+		"chi"		">>>5---沙怪使用了流沙(注意脚底躲避伤害)<<<"
 	}
 	"< SandMonster has casted Sandstorm >"
 	{
-		"chi"		"**5---沙怪使用了沙尘暴(全屏伤害) **"
+		"chi"		">>>5---沙怪使用了沙尘暴(全屏伤害)<<<"
 	}
 	"< SandMonster has casted Wind >"
 	{
@@ -92,7 +92,7 @@
 	"< This is the last defend,hold! >"
 	{
 		"chi"		"**这是最后的防守了，坚持住！ **"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"< You must to kill all the zombies to win >"
 	{
@@ -121,12 +121,12 @@
 	"< You are too late... >"
 	{
 		"chi"		"**你太慢了... **"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"< SandMonster has casted Heal >"
 	{
 		"chi"		"**沙怪使用了治疗(回复300血) **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"< The Airship will leave in 10 seconds.Hurry up! >"
 	{
@@ -143,7 +143,7 @@
 	"< Defend!We almost leave the Lowtown soon! >"
 	{
 		"chi"		"**防守！我们马上就要离开拉巴纳斯塔王都地下区了 **"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"< The arena will open in 40 seconds >"
 	{
@@ -236,7 +236,7 @@
 	"< ZM Crystall teleport will enable in 5 seconds >"
 	{
 		"chi"		"**僵尸水晶传送将在5秒后启用 **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"< A zombie has acquired Bleed Magick >"
 	{
@@ -253,12 +253,12 @@
 	"< 2 minutes >"
 	{
 		"chi"		"**还剩2分钟 **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"< 1 minutes >"
 	{
 		"chi"		"**还剩1分钟 **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"< Boss fight start in 10 seconds... >"
 	{
@@ -271,7 +271,7 @@
 	"< Defend until the final gate open! >"
 	{
 		"chi"		"**准备防守，直到最后一扇门打开！ **"
-		"DoorCountdown"		"40"
+		"DoorCountDown"		"40"
 	}
 	"< A random gate will open in 30 seconds >"
 	{

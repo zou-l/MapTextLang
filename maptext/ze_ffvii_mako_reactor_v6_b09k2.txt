@@ -281,4 +281,16 @@
 	{
 		"chi"		"**巴哈姆特使用了屏障(反伤技能，停止开枪) **"
 	}
+	"< BAHAMUT MIMICS HEAL >"
+	{
+		"chi"		"** **"
+	}
+	"< BAHAMUT MIMICS ICE >"
+	{
+		"chi"		"** **"
+	}
+	"< BAHAMUT MIMICS WIND >"
+	{
+		"chi"		"** **"
+	}
 }

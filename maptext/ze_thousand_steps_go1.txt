@@ -180,4 +180,16 @@
 	{
 		"chi"		"** **"
 	}
+	"++Difficulty level: MEDIUM++"
+	{
+		"chi"		"** **"
+	}
+	"++Were overriding the gates, should take about 15 seconds++"
+	{
+		"chi"		"** **"
+	}
+	"++Door One will open in 25 seconds++"
+	{
+		"chi"		"** **"
+	}
 }

@@ -380,13 +380,13 @@
 	}
 	"837709"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"837709"
 		"m_iname"		"Level1_Pidgeot"
 	}
 	"836667"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"836667"
 		"m_iname"		"Miltank"
 	}

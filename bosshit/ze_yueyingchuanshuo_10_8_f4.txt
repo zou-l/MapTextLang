@@ -1,0 +1,61 @@
+"BOSSHP"
+{
+	"209874"
+	{
+		"enable"		"0"
+		"hammerid"		"209874"
+		"m_iname"		"ex_phys 1"
+	}
+	"127840"
+	{
+		"enable"		"0"
+		"hammerid"		"127840"
+		"m_iname"		"lvl_phys 2"
+	}
+	"548726"
+	{
+		"enable"		"-1"
+		"hammerid"		"548726"
+	}
+	"548764"
+	{
+		"enable"		"-1"
+		"hammerid"		"548764"
+	}
+	"548786"
+	{
+		"enable"		"-1"
+		"hammerid"		"548786"
+	}
+	"548799"
+	{
+		"enable"		"-1"
+		"hammerid"		"548799"
+	}
+	"475994"
+	{
+		"enable"		"-1"
+		"hammerid"		"475994"
+	}
+	"716667"
+	{
+		"enable"		"-1"
+		"hammerid"		"716667"
+	}
+	"716686"
+	{
+		"enable"		"-1"
+		"hammerid"		"716686"
+	}
+	"975869"
+	{
+		"enable"		"-1"
+		"hammerid"		"975869"
+		"m_iname"		"lvl_phys 3"
+	}
+	"803665"
+	{
+		"enable"		"-1"
+		"hammerid"		"803665"
+	}
+}

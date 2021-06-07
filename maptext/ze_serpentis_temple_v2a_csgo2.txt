@@ -1,0 +1,55 @@
+"Console_T"
+{
+	"*** 地图制作： Nostar & Moltard地图修改与修复： koyomaple&for X server***"
+	{
+		"chi"		"** **"
+	}
+	"*** WARMUP ROUND (60 sec) ***"
+	{
+		"chi"		"** **"
+	}
+	"*** This map is based on mg_Serpentis_Temple by Kaemon and Luffaren ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Many assets from the original map were used ***"
+	{
+		"chi"		"** **"
+	}
+	"*** WARMUP ROUND (50 sec) ***"
+	{
+		"chi"		"** **"
+	}
+	"*** WARMUP ROUND (40 sec) ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Map By Nostar & MoltardMap modified by koyomaple& for X server***"
+	{
+		"chi"		"** **"
+	}
+	"*** WARMUP ROUND (30 sec) ***"
+	{
+		"chi"		"** **"
+	}
+	"*** WARMUP ROUND (20 sec) ***"
+	{
+		"chi"		"** **"
+	}
+	"*** WARMUP ROUND (10 sec) ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Stage 1 loaded ***"
+	{
+		"chi"		"** **"
+	}
+	"*** STAGE 1 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Find a way to reach the temple ***"
+	{
+		"chi"		"** **"
+	}
+}

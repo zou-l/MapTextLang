@@ -294,4 +294,39 @@
 		"hammerid"		"577446"
 		"m_iname"		"LevelPhysBox"
 	}
+	"596269"
+	{
+		"enable"		"-1"
+		"hammerid"		"596269"
+	}
+	"218910"
+	{
+		"enable"		"-1"
+		"hammerid"		"218910"
+	}
+	"195974"
+	{
+		"enable"		"-1"
+		"hammerid"		"195974"
+	}
+	"196012"
+	{
+		"enable"		"-1"
+		"hammerid"		"196012"
+	}
+	"45332"
+	{
+		"enable"		"-1"
+		"hammerid"		"45332"
+	}
+	"40331"
+	{
+		"enable"		"-1"
+		"hammerid"		"40331"
+	}
+	"1877"
+	{
+		"enable"		"-1"
+		"hammerid"		"1877"
+	}
 }

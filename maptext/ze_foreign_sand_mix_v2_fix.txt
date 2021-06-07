@@ -36,4 +36,44 @@
 	{
 		"chi"		"**该死！！！保护自己，守住最后30秒！**"
 	}
+	"#Musics from ze_alien_mountain_ffvii, ze_gris, ze_doorhug_and_solo#"
+	{
+		"chi"		"** **"
+	}
+	"#Original Maps: ze_alien_mountain_ffvii, ze_sandstorm and ze_rizomata#"
+	{
+		"chi"		"** **"
+	}
+	"**坚守128秒**"
+	{
+		"chi"		"** **"
+	}
+	"**人类处于无敌状态，子弹、投掷物无限**"
+	{
+		"chi"		"** **"
+	}
+	"**不要让僵尸靠近平台中央**"
+	{
+		"chi"		"** **"
+	}
+	"**坚守120秒**"
+	{
+		"chi"		"** **"
+	}
+	"**30秒后处死人类**"
+	{
+		"chi"		"** **"
+	}
+	"**坚守90秒**"
+	{
+		"chi"		"** **"
+	}
+	"**15秒后处死人类**"
+	{
+		"chi"		"** **"
+	}
+	"**5秒后处死人类**"
+	{
+		"chi"		"** **"
+	}
 }

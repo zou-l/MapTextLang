@@ -1062,4 +1062,49 @@
 		"hammerid"		"6936867"
 		"m_iname"		"s4boss_atk_crystal_model&8922"
 	}
+	"6927851"
+	{
+		"enable"		"-1"
+		"hammerid"		"6927851"
+	}
+	"6927854"
+	{
+		"enable"		"-1"
+		"hammerid"		"6927854"
+	}
+	"6928835"
+	{
+		"enable"		"-1"
+		"hammerid"		"6928835"
+	}
+	"6928838"
+	{
+		"enable"		"-1"
+		"hammerid"		"6928838"
+	}
+	"6928841"
+	{
+		"enable"		"-1"
+		"hammerid"		"6928841"
+	}
+	"6928844"
+	{
+		"enable"		"-1"
+		"hammerid"		"6928844"
+	}
+	"6930165"
+	{
+		"enable"		"-1"
+		"hammerid"		"6930165"
+	}
+	"6938343"
+	{
+		"enable"		"-1"
+		"hammerid"		"6938343"
+	}
+	"6938346"
+	{
+		"enable"		"-1"
+		"hammerid"		"6938346"
+	}
 }

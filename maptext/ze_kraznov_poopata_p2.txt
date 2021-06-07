@@ -75,6 +75,7 @@
 	"** Thanks for the tip!!!!!!!!!!!!!!11!!1!1!one **"
 	{
 		"chi"		"** 感谢提醒!!!!!!!!!!!!!!11!!1!1!壹 **"
+		"DoorCountDown"		"-1"
 	}
 	"** Among the stars a cavern of endless night in blue and black awaits... **"
 	{
@@ -175,7 +176,7 @@
 	"** Map: 1 - People that make their mom ashamed with their stupidity: 0 **"
 	{
 		"chi"		"** 地图:1-人们让他们的妈妈羞于他们的愚蠢: 0 **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"** OK! Get going a bit - Youll need to hold that shapeless attempt of a thing right there! **"
 	{
@@ -260,7 +261,7 @@
 	"** Map: 2 - People that make their mom ashamed with their stupidity: 0 **"
 	{
 		"chi"		"** 地图:2-人们让他们的妈妈羞于他们的愚蠢: 0 **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"** Cool! You solved the puzzle designed for toddlers! **"
 	{
@@ -305,7 +306,7 @@
 	"** Map: 8 - People that make their mom ashamed with their stupidity: 0 **"
 	{
 		"chi"		"**地图:8-人们让他们的妈妈羞于他们的愚蠢: 0 **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"** To the top of the tip in the blue of a fish weve arrived **"
 	{
@@ -334,6 +335,6 @@
 	"** Map: 3 - People that make their mom ashamed with their stupidity: 0 **"
 	{
 		"chi"		"**地图:3-人们让他们的妈妈羞于他们的愚蠢: 0 **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 }

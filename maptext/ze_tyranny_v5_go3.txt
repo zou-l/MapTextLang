@@ -7,26 +7,27 @@
 	">>> AFK TELEPORT IN 10 SECONDS <<<"
 	{
 		"chi"		"**挂机玩家10秒后传送**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	">>> AFK TELEPORT IN 5 SECONDS <<<"
 	{
 		"chi"		"**挂机玩家5秒后传送**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	">>> TELEPORTER ACTIVATE IN 20 SECONDS <<<"
 	{
 		"chi"		"**传送点在20秒后激活**"
+		"DoorCountDown"		"-1"
 	}
 	">>> DRAGON USED WATER. GO FOWARD <<<"
 	{
 		"chi"		"**巨龙施放了浊液喷射，快往前跑！**"
-		"DoorCountdown"		"4"
+		"DoorCountDown"		"4"
 	}
 	">>> DRAGON USED FIRE. GO SIDE <<<"
 	{
 		"chi"		"**巨龙施放了焚烧烈焰，迅速往两边躲闪！**"
-		"DoorCountdown"		"4"
+		"DoorCountDown"		"4"
 	}
 	">>> DRAGON IS COMING AGAIN <<<"
 	{
@@ -47,7 +48,7 @@
 	">>> BALROG USED SHIELD. DONT USE ITEMS <<<"
 	{
 		"chi"		"**炎魔施放了魔力吸收，别使用你的神器，否则它将用我们的力量制造出可怕的黑洞**"
-		"DoorCountdown"		"4"
+		"DoorCountDown"		"4"
 	}
 	">>> HOLD 45 SECONDS <<<"
 	{
@@ -100,10 +101,12 @@
 	">>> HOLD 10 SECONDS <<<"
 	{
 		"chi"		"**坚守10秒**"
+		"DoorCountDown"		"10"
 	}
 	">>> HOLD 5 SECONDS <<<"
 	{
 		"chi"		"**坚守5秒**"
+		"DoorCountDown"		"5"
 	}
 	">>> PLAYER HAS PICKED UP HEAL <<<"
 	{
@@ -356,10 +359,12 @@
 	">>> BALROG USED FIRE <<<"
 	{
 		"chi"		">>>5---炎魔释放了焚烧烈焰，往没有被点燃的那个半场跑！<<<"
+		"DoorCountDown"		"5"
 	}
 	">>> BALROG USED GRAVITY <<<"
 	{
 		"chi"		">>>5---炎魔施放了重力攫取，抵抗它的吸力！<<<"
+		"DoorCountDown"		"5"
 	}
 	">>> BALROG USED POISON <<<"
 	{
@@ -368,6 +373,7 @@
 	">>> BALROG USED PUSH <<<"
 	{
 		"chi"		">>>5---炎魔施放了呼啸狂风，小心点别被推下平台了！<<<"
+		"DoorCountDown"		"5"
 	}
 	">>> ADMIN CHANGED TO STAGE 5 <<<"
 	{
@@ -452,11 +458,12 @@
 	">>> AFK TELEPORT IN 3 SECONDS <<<"
 	{
 		"chi"		"**挂机玩家3秒后传送**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	">>> BALROG USE LASER <<<"
 	{
 		"chi"		"**5---保持蹲下别被削掉脑袋了！小心炎魔挥出的二连死亡切割！**"
+		"DoorCountDown"		"5"
 	}
 	">>> BALROG USED HEAL <<<"
 	{
@@ -489,22 +496,22 @@
 	">>> SURVIVE 4 MINUTES <<<"
 	{
 		"chi"		"**想尽办法在4分钟内活下来**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	">>> 3 MINUTES LEFT <<<"
 	{
 		"chi"		"**还有3分钟**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	">>> 2 MINUTES LEFT <<<"
 	{
 		"chi"		">>>还有2分钟<<<"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	">>> 1 MINUTES LEFT <<<"
 	{
 		"chi"		"**最后1分钟**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	">>> 30 SECONDS LEFT <<<"
 	{
@@ -577,5 +584,13 @@
 	">>> ADMIN CHANGED TO STAGE 6 <<<"
 	{
 		"chi"		">>>管理员将关卡设置为了第六关<<<"
+	}
+	">>> BALROG USE LASER. CROUCH TO AVOID IT <<<"
+	{
+		"DoorCountDown"		"5"
+	}
+	">>> BALROG HEALED 150HP <<<"
+	{
+		"DoorCountDown"		"-1"
 	}
 }

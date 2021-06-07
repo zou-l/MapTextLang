@@ -1,5 +1,17 @@
 "BOSSHP"
 {
+	"32419"
+	{
+		"enable"		"1"
+		"hammerid"		"32419"
+		"m_iname"		"ReaperBossHealth"
+	}
+	"47159"
+	{
+		"enable"		"1"
+		"hammerid"		"47159"
+		"m_iname"		"bosscage"
+	}
 	"3498"
 	{
 		"enable"		"0"
@@ -144,12 +156,6 @@
 		"hammerid"		"3795"
 		"m_iname"		"FloorTile22"
 	}
-	"32419"
-	{
-		"enable"		"1"
-		"hammerid"		"32419"
-		"m_iname"		"ReaperBossHealth"
-	}
 	"45315"
 	{
 		"enable"		"0"
@@ -167,11 +173,5 @@
 		"enable"		"0"
 		"hammerid"		"45376"
 		"m_iname"		"3DefenceLightTrackerLight3"
-	}
-	"47159"
-	{
-		"enable"		"1"
-		"hammerid"		"47159"
-		"m_iname"		"bosscage"
 	}
 }

@@ -2,17 +2,17 @@
 {
 	"Defend the snow part for 2 min"
 	{
-		"DoorCountdown"		"118"
+		"DoorCountDown"		"118"
 		"chi"		"**在雪地防守118秒**"
 	}
 	"Defend the desert part for 2 min"
 	{
-		"DoorCountdown"		"109"
+		"DoorCountDown"		"109"
 		"chi"		"**在沙漠防守109秒**"
 	}
 	"Defend the house for 2 min"
 	{
-		"DoorCountdown"		"109"
+		"DoorCountDown"		"109"
 		"chi"		"**在房屋内防守109秒**"
 	}
 	"Doors will be opens in 20 sec"

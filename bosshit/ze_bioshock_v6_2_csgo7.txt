@@ -192,4 +192,136 @@
 		"hammerid"		"9304259"
 		"m_iname"		"frolic_alt_end_wall"
 	}
+	"2391178"
+	{
+		"enable"		"-1"
+		"hammerid"		"2391178"
+		"m_iname"		"EASY_ONLY_ENTITY"
+	}
+	"4032579"
+	{
+		"enable"		"-1"
+		"hammerid"		"4032579"
+		"m_iname"		"columbia_patriot_health"
+	}
+	"6000793"
+	{
+		"enable"		"-1"
+		"hammerid"		"6000793"
+		"m_iname"		"arcadia_exit_door"
+	}
+	"6692393"
+	{
+		"enable"		"1"
+		"hammerid"		"6692393"
+		"m_iname"		"hephaestus_boss_cage_door"
+	}
+	"7753547"
+	{
+		"enable"		"-1"
+		"hammerid"		"7753547"
+		"m_iname"		"EASY_ONLY_ENTITY"
+	}
+	"7927262"
+	{
+		"enable"		"-1"
+		"hammerid"		"7927262"
+		"m_iname"		"frolic_poseidon_block_stairs"
+	}
+	"8082390"
+	{
+		"enable"		"-1"
+		"hammerid"		"8082390"
+		"m_iname"		"welcome_alt_atrium_wall"
+	}
+	"8194752"
+	{
+		"enable"		"-1"
+		"hammerid"		"8194752"
+		"m_iname"		"arcadia_alt_wall"
+	}
+	"8609319"
+	{
+		"enable"		"1"
+		"hammerid"		"8609319"
+		"m_iname"		"columbia_alt_boss_exit_breakabl"
+	}
+	"8844631"
+	{
+		"enable"		"-1"
+		"hammerid"		"8844631"
+		"m_iname"		"columbia_alt_exit_breakable_cag"
+	}
+	"8910514"
+	{
+		"enable"		"1"
+		"hammerid"		"8910514"
+		"m_iname"		"columbia_lighthouse_hitbox"
+	}
+	"9676013"
+	{
+		"enable"		"-1"
+		"hammerid"		"9676013"
+		"m_iname"		"plasmid_gravity_physbox_1&0697"
+	}
+	"5318014"
+	{
+		"enable"		"-1"
+		"hammerid"		"5318014"
+		"m_iname"		"plasmid_upgrader_insect"
+	}
+	"10235857"
+	{
+		"enable"		"-1"
+		"hammerid"		"10235857"
+		"m_iname"		"plasmid_upgrader_gravity"
+	}
+	"10235740"
+	{
+		"enable"		"-1"
+		"hammerid"		"10235740"
+		"m_iname"		"plasmid_upgrader_incinerate"
+	}
+	"10235605"
+	{
+		"enable"		"-1"
+		"hammerid"		"10235605"
+		"m_iname"		"plasmid_upgrader_electro"
+	}
+	"10235788"
+	{
+		"enable"		"-1"
+		"hammerid"		"10235788"
+		"m_iname"		"plasmid_upgrader_cyclone"
+	}
+	"10235907"
+	{
+		"enable"		"-1"
+		"hammerid"		"10235907"
+		"m_iname"		"plasmid_upgrader_frost"
+	}
+	"9676032"
+	{
+		"enable"		"-1"
+		"hammerid"		"9676032"
+		"m_iname"		"plasmid_gravity_physbox_3"
+	}
+	"4201246"
+	{
+		"enable"		"1"
+		"hammerid"		"4201246"
+		"m_iname"		"cohen_hitbox"
+	}
+	"7072628"
+	{
+		"enable"		"-1"
+		"hammerid"		"7072628"
+		"m_iname"		"fontaine_2_breakable"
+	}
+	"9676029"
+	{
+		"enable"		"-1"
+		"hammerid"		"9676029"
+		"m_iname"		"plasmid_gravity_physbox_2&2230"
+	}
 }

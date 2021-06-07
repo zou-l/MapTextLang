@@ -156,4 +156,49 @@
 		"hammerid"		"484872"
 		"m_iname"		"grill"
 	}
+	"1259775"
+	{
+		"enable"		"-1"
+		"hammerid"		"1259775"
+	}
+	"1228345"
+	{
+		"enable"		"-1"
+		"hammerid"		"1228345"
+	}
+	"799"
+	{
+		"enable"		"-1"
+		"hammerid"		"799"
+	}
+	"12308"
+	{
+		"enable"		"-1"
+		"hammerid"		"12308"
+	}
+	"161752"
+	{
+		"enable"		"-1"
+		"hammerid"		"161752"
+	}
+	"232011"
+	{
+		"enable"		"-1"
+		"hammerid"		"232011"
+	}
+	"242886"
+	{
+		"enable"		"-1"
+		"hammerid"		"242886"
+	}
+	"707475"
+	{
+		"enable"		"-1"
+		"hammerid"		"707475"
+	}
+	"707662"
+	{
+		"enable"		"-1"
+		"hammerid"		"707662"
+	}
 }

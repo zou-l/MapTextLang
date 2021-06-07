@@ -92,4 +92,44 @@
 	{
 		"chi"		"**直升机启动了**"
 	}
+	"***Nuke in 10secs.***"
+	{
+		"chi"		"** **"
+	}
+	"***5***"
+	{
+		"chi"		"** **"
+	}
+	"***4***"
+	{
+		"chi"		"** **"
+	}
+	"***3***"
+	{
+		"chi"		"** **"
+	}
+	"***2***"
+	{
+		"chi"		"** **"
+	}
+	"***1***"
+	{
+		"chi"		"** **"
+	}
+	"<< A player picked up GGEASY >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Press USE key for JESSICA >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Press USE key for ICECAPSOLO >>"
+	{
+		"chi"		"** **"
+	}
+	"<<< SECRET MUSIC ENABLED >>>"
+	{
+		"chi"		"** **"
+	}
 }

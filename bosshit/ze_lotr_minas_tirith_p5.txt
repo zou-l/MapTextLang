@@ -10,19 +10,19 @@
 	{
 		"enable"		"0"
 		"hammerid"		"7485078"
-		"m_iname"		"ph_item_armor_2_d2&1211"
+		"m_iname"		"ph_item_armor_2_d2&2255"
 	}
 	"1397649"
 	{
 		"enable"		"0"
 		"hammerid"		"1397649"
-		"m_iname"		"ph_troll_hp_2&1225"
+		"m_iname"		"ph_troll_hp_2&2158"
 	}
 	"4848875"
 	{
 		"enable"		"0"
 		"hammerid"		"4848875"
-		"m_iname"		"ph_troll_hp_23&1215"
+		"m_iname"		"ph_troll_hp_23&2158"
 	}
 	"8518906"
 	{
@@ -246,17 +246,11 @@
 		"hammerid"		"6939756"
 		"m_iname"		"ph_stage_3_prop_dynamic"
 	}
-	"5349817"
-	{
-		"enable"		"0"
-		"hammerid"		"5349817"
-		"m_iname"		"item_oil_5&1253"
-	}
 	"1550580"
 	{
 		"enable"		"0"
 		"hammerid"		"1550580"
-		"m_iname"		"ph_object_soldier_5_2&1112"
+		"m_iname"		"ph_object_soldier_5_2&2201"
 	}
 	"4392144"
 	{
@@ -280,37 +274,37 @@
 	{
 		"enable"		"0"
 		"hammerid"		"1550597"
-		"m_iname"		"ph_object_soldier_5_3&1096"
+		"m_iname"		"ph_object_soldier_5_3&2190"
 	}
 	"4277697"
 	{
 		"enable"		"0"
 		"hammerid"		"4277697"
-		"m_iname"		"ph_barricade_12&8129"
-	}
-	"4277725"
-	{
-		"enable"		"0"
-		"hammerid"		"4277725"
-		"m_iname"		"ph_barricade_2&0868"
-	}
-	"4277722"
-	{
-		"enable"		"0"
-		"hammerid"		"4277722"
-		"m_iname"		"ph_barricade_3&1006"
-	}
-	"4277732"
-	{
-		"enable"		"0"
-		"hammerid"		"4277732"
-		"m_iname"		"ph_barricade_1&1281"
+		"m_iname"		"ph_barricade_12&1880"
 	}
 	"11131313"
 	{
 		"enable"		"0"
 		"hammerid"		"11131313"
-		"m_iname"		"ph_item_nazgul_7&1357"
+		"m_iname"		"ph_item_nazgul_7&0603"
+	}
+	"4277732"
+	{
+		"enable"		"0"
+		"hammerid"		"4277732"
+		"m_iname"		"ph_barricade_1&2298"
+	}
+	"4277725"
+	{
+		"enable"		"0"
+		"hammerid"		"4277725"
+		"m_iname"		"ph_barricade_2&2326"
+	}
+	"4277722"
+	{
+		"enable"		"0"
+		"hammerid"		"4277722"
+		"m_iname"		"ph_barricade_3&2351"
 	}
 	"3618313"
 	{
@@ -358,55 +352,55 @@
 	{
 		"enable"		"0"
 		"hammerid"		"1550559"
-		"m_iname"		"ph_object_soldier_5&1111"
-	}
-	"4277711"
-	{
-		"enable"		"0"
-		"hammerid"		"4277711"
-		"m_iname"		"ph_barricade_5&1326"
+		"m_iname"		"ph_object_soldier_5&2170"
 	}
 	"4277627"
 	{
 		"enable"		"0"
 		"hammerid"		"4277627"
-		"m_iname"		"ph_barricade_15&1266"
+		"m_iname"		"ph_barricade_15&2339"
 	}
 	"4277652"
 	{
 		"enable"		"0"
 		"hammerid"		"4277652"
-		"m_iname"		"ph_barricade_7&1256"
+		"m_iname"		"ph_barricade_7&2279"
 	}
 	"4277708"
 	{
 		"enable"		"0"
 		"hammerid"		"4277708"
-		"m_iname"		"ph_barricade_6&1366"
+		"m_iname"		"ph_barricade_6&2285"
+	}
+	"4277711"
+	{
+		"enable"		"0"
+		"hammerid"		"4277711"
+		"m_iname"		"ph_barricade_5&2318"
 	}
 	"4277682"
 	{
 		"enable"		"0"
 		"hammerid"		"4277682"
-		"m_iname"		"ph_barricade_10&1221"
+		"m_iname"		"ph_barricade_10&1851"
 	}
 	"12348348"
 	{
 		"enable"		"0"
 		"hammerid"		"12348348"
-		"m_iname"		"prop_explosive_phy&0957"
+		"m_iname"		"prop_explosive_phy&2304"
+	}
+	"4277634"
+	{
+		"enable"		"0"
+		"hammerid"		"4277634"
+		"m_iname"		"ph_barricade_14&2301"
 	}
 	"1638218"
 	{
 		"enable"		"0"
 		"hammerid"		"1638218"
 		"m_iname"		"stage_3_door8"
-	}
-	"1550614"
-	{
-		"enable"		"0"
-		"hammerid"		"1550614"
-		"m_iname"		"ph_object_soldier_5_4&1116"
 	}
 	"1648923"
 	{
@@ -444,23 +438,35 @@
 		"hammerid"		"739239"
 		"m_iname"		"stage_3_door3"
 	}
-	"4277634"
+	"1550614"
 	{
 		"enable"		"0"
-		"hammerid"		"4277634"
-		"m_iname"		"ph_barricade_14&1034"
+		"hammerid"		"1550614"
+		"m_iname"		"ph_object_soldier_5_4&2175"
+	}
+	"7345712"
+	{
+		"enable"		"0"
+		"hammerid"		"7345712"
+		"m_iname"		"item_escalera_s1"
+	}
+	"5349817"
+	{
+		"enable"		"0"
+		"hammerid"		"5349817"
+		"m_iname"		"item_oil_5&2344"
 	}
 	"4277645"
 	{
 		"enable"		"0"
 		"hammerid"		"4277645"
-		"m_iname"		"ph_barricade_13&1217"
+		"m_iname"		"ph_barricade_13&2341"
 	}
-	"6827928"
+	"2420999"
 	{
-		"enable"		"0"
-		"hammerid"		"6827928"
-		"m_iname"		"balrog_disabled"
+		"enable"		"1"
+		"hammerid"		"2420999"
+		"m_iname"		"ph_item_balrog_hp"
 	}
 	"7628577"
 	{
@@ -480,11 +486,11 @@
 		"hammerid"		"1660150"
 		"m_iname"		"ph_stage_4_barreras"
 	}
-	"7345712"
+	"6827928"
 	{
-		"enable"		"0"
-		"hammerid"		"7345712"
-		"m_iname"		"item_escalera_s1"
+		"enable"		"1"
+		"hammerid"		"6827928"
+		"m_iname"		"balrog_disabled"
 	}
 	"7345739"
 	{
@@ -492,16 +498,20 @@
 		"hammerid"		"7345739"
 		"m_iname"		"item_escalera_s1_2"
 	}
-	"2420999"
-	{
-		"enable"		"0"
-		"hammerid"		"2420999"
-		"m_iname"		"ph_item_balrog_hp"
-	}
 	"4277618"
 	{
 		"enable"		"0"
 		"hammerid"		"4277618"
-		"m_iname"		"ph_barricade_16&0865"
+		"m_iname"		"ph_barricade_16&9122"
+	}
+	"834084"
+	{
+		"enable"		"-1"
+		"hammerid"		"834084"
+	}
+	"834864"
+	{
+		"enable"		"-1"
+		"hammerid"		"834864"
 	}
 }

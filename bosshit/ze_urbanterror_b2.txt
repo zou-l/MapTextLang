@@ -60,4 +60,34 @@
 		"hammerid"		"26413"
 		"m_iname"		"radiator_trigger"
 	}
+	"326716"
+	{
+		"enable"		"-1"
+		"hammerid"		"326716"
+	}
+	"59994"
+	{
+		"enable"		"-1"
+		"hammerid"		"59994"
+	}
+	"60010"
+	{
+		"enable"		"-1"
+		"hammerid"		"60010"
+	}
+	"60016"
+	{
+		"enable"		"-1"
+		"hammerid"		"60016"
+	}
+	"60028"
+	{
+		"enable"		"-1"
+		"hammerid"		"60028"
+	}
+	"55894"
+	{
+		"enable"		"-1"
+		"hammerid"		"55894"
+	}
 }

@@ -616,7 +616,7 @@
 	}
 	"233462"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"233462"
 		"m_iname"		"mouth_phbox"
 	}
@@ -650,5 +650,9 @@
 	{
 		"enable"		"-1"
 		"hammerid"		"2663"
+	}
+	"265861"
+	{
+		"enable"		"1"
 	}
 }

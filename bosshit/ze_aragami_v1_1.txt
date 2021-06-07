@@ -66,4 +66,9 @@
 		"hammerid"		"57362"
 		"m_iname"		"door4"
 	}
+	"76929"
+	{
+		"enable"		"-1"
+		"hammerid"		"76929"
+	}
 }

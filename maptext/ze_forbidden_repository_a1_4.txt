@@ -47,17 +47,17 @@
 	"** MOVING TO HARD MODE.. **"
 	{
 		"chi"		"**恭喜过关，接下来进入[困难]难度**"
-		"DoorCountDown"		"3"
+		"DoorCountdown"		"3"
 	}
 	"** NICE! YOU BEAT THE MAP! **"
 	{
 		"chi"		"**全图已通关，感谢游玩**"
-		"DoorCountDown"		"3"
+		"DoorCountdown"		"3"
 	}
 	"** Path clearing in 50s **"
 	{
 		"chi"		"**清除路障需要一段时间，守住僵尸**"
-		"DoorCountDown"		"50"
+		"DoorCountdown"		"50"
 	}
 	"** WATCH OUT! ZOMBIE TELEPORT SOON! **"
 	{
@@ -74,12 +74,12 @@
 	"** Charge **"
 	{
 		"chi"		"**注意四周出现的直线冲锋头**"
-		"DoorCountDown"		"3"
+		"DoorCountdown"		"3"
 	}
 	"** Blade **"
 	{
 		"chi"		"**警惕四周出现的刀**"
-		"DoorCountDown"		"3"
+		"DoorCountdown"		"3"
 	}
 	"** We reached a dead end.. **"
 	{
@@ -120,12 +120,12 @@
 	"** Your HP amount must be divisible by 4 **"
 	{
 		"chi"		"**你的血量必须能被4整除**"
-		"DoorCountDown"		"3"
+		"DoorCountdown"		"3"
 	}
 	"** Your HP amount must be divisible by 2 **"
 	{
 		"chi"		"**你的血量必须能被2整除**"
-		"DoorCountDown"		"3"
+		"DoorCountdown"		"3"
 	}
 	"** Subtract **"
 	{
@@ -166,7 +166,7 @@
 	"** WATCH YOUR STEP **"
 	{
 		"chi"		"**注意脚下，不要踩红色地板**"
-		"DoorCountDown"		"3"
+		"DoorCountdown"		"3"
 	}
 	"** Special thanks: POSSESSION Server, Natsuki [HK], tuna **"
 	{
@@ -175,7 +175,7 @@
 	"** Cannon launching in 25s **"
 	{
 		"chi"		"**大炮25秒后开火，不要贴门**"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"** Security fence opening in 35s **"
 	{
@@ -188,17 +188,17 @@
 	"** Disclosure **"
 	{
 		"chi"		"**往后站一些等书合起来后到对面去**"
-		"DoorCountDown"		"3"
+		"DoorCountdown"		"3"
 	}
 	"** Void **"
 	{
 		"chi"		"**远离地面红色区域**"
-		"DoorCountDown"		"3"
+		"DoorCountdown"		"3"
 	}
 	"** Repel **"
 	{
 		"chi"		"**按住W抵抗**"
-		"DoorCountDown"		"3"
+		"DoorCountdown"		"3"
 	}
 	"** SHOOT NOW!! **"
 	{
@@ -211,7 +211,7 @@
 	"** Boss enrage in THREE minutes **"
 	{
 		"chi"		"**BOSS将在180秒后狂暴，抓紧时间解决！**"
-		"DoorCountDown"		"3"
+		"DoorCountdown"		"3"
 	}
 	"** Nade does more damage **"
 	{
@@ -234,6 +234,30 @@
 		"chi"		"**电梯35秒后抵达**"
 	}
 	"** KEEP DEFENDING **"
+	{
+		"chi"		"** **"
+	}
+	"** Book used **"
+	{
+		"chi"		"** **"
+	}
+	"** ROUND FAILED! ZOMBIE DETECTED!! **"
+	{
+		"chi"		"** **"
+	}
+	"** あなたのHPは2で割り切れる数値でなければなりません。 **"
+	{
+		"chi"		"** **"
+	}
+	"** 你的HP值必須能被2整除 **"
+	{
+		"chi"		"** **"
+	}
+	"** あなたのHPは4で割り切れる数値でなければなりません。 **"
+	{
+		"chi"		"** **"
+	}
+	"** 你的HP值必須能被4整除 **"
 	{
 		"chi"		"** **"
 	}

@@ -623,6 +623,7 @@
 	"<== Map play time around 18-25min==>"
 	{
 		"chi"		"**地图游戏时间：18-25分钟 **"
+		"DoorCountDown"		"-1"
 	}
 	"<== The most recent version is in Mapeadores ==>"
 	{

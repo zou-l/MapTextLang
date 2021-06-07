@@ -90,7 +90,7 @@
 	}
 	"***30s left!***"
 	{
-		"chi"		"**还剩30秒 **"
+		"chi"		"**还剩30秒**"
 	}
 	"***5s left!***"
 	{
@@ -131,6 +131,7 @@
 	"***Boss Star II***"
 	{
 		"chi"		"**BOSS之星II号**"
+		"DoorCountDown"		"-1"
 	}
 	"***Check travellers crystals......***"
 	{
@@ -158,8 +159,8 @@
 	}
 	"***Plane 2 will move in 25s!***"
 	{
-		"chi"		"**二号飞机25秒后起飞**"
-		"DoorCountdown"		"25"
+		"chi"		"**二号飞机将在25秒后起飞**"
+		"DoorCountDown"		"25"
 	}
 	"***Hold here for 30s!***"
 	{
@@ -183,7 +184,7 @@
 	}
 	"***Hold for 30s!***"
 	{
-		"chi"		"**守住30秒**"
+		"chi"		"**坚守30秒**"
 	}
 	"***Wood will break in 45s!***"
 	{
@@ -275,7 +276,7 @@
 	}
 	"***Plane 3 will move in 25s!***"
 	{
-		"chi"		"**三号飞机25秒后离开**"
+		"chi"		"**三号飞机将在25秒后离开**"
 	}
 	"***You have 90s to fight Boss Star!***"
 	{
@@ -335,15 +336,15 @@
 	}
 	"***Zombies will come in 8s!"
 	{
-		"chi"		"**僵尸将在8秒后活动 **"
+		"chi"		"**僵尸将在8秒后到来**"
 	}
 	"***Wait for 30s until the box breaks!***"
 	{
-		"chi"		"**守住30秒，直到箱子破碎! **"
+		"chi"		"**等待30秒至箱子破碎**"
 	}
 	"***Hold for 35s!***"
 	{
-		"chi"		"**守住35秒**"
+		"chi"		"**坚守35秒**"
 	}
 	"sync_version"
 	{
@@ -351,71 +352,71 @@
 	}
 	"***10s left to win!***"
 	{
-		"chi"		"**10秒后人类胜利 **"
+		"chi"		"**离胜利还剩10秒**"
 	}
 	"***You have 30s to fight Boss Star!***"
 	{
-		"chi"		"**你还剩30秒打败BOSS Star **"
+		"chi"		"**还剩30秒时间来击败BOSS**"
 	}
 	"***A traveller has picked Boss Stars ultimate --- Wave!***"
 	{
-		"chi"		"**一位旅行者选择了BOSS Stars的终极-波动之星 **"
+		"chi"		"**一位旅行者拾取了终极--波动之星**"
 	}
 	"***A traveller has picked unknown crystal!***"
 	{
-		"chi"		"**一位旅行者选择了复制水晶！ **"
+		"chi"		"**一位旅行者拾取了复制水晶**"
 	}
 	"***Wood will break in 30s!***"
 	{
-		"chi"		"**木箱将在30秒后破碎！**"
+		"chi"		"**木板将在30秒后破碎**"
 	}
 	"***You have 60s to fight Boss Star!***"
 	{
-		"chi"		"**你还剩60秒打败BOSS Star **"
+		"chi"		"**还剩60秒来击败BOSS**"
 	}
 	"***Boss Star will destroy all travellers in 5s!***"
 	{
-		"chi"		"**5秒后BOSS Star将释放终极 **"
+		"chi"		"**5秒后BOSS将摧毁所有幸存者**"
 	}
 	"***Box will break in 35s!***"
 	{
-		"chi"		"**木箱将在35秒后破碎！**"
+		"chi"		"**木箱将在35秒后破碎**"
 	}
 	"***Box will break in 5s!***"
 	{
-		"chi"		"**木箱将在5秒后破碎！**"
+		"chi"		"**木箱将在5秒后破碎**"
 	}
 	"***Find and touch the star!***"
 	{
-		"chi"		"**发现并触碰星星 **"
+		"chi"		"**寻找并触碰星星**"
 	}
 	"***The teleportion crystal will be active in 60s!***"
 	{
-		"chi"		"**传送晶体将在60秒后激活 **"
+		"chi"		"**传送水晶将在60秒后激活**"
 	}
 	"***Well!Boss Froyo has been defeated!***"
 	{
-		"chi"		"**好！BOSS酸奶被击败 **"
+		"chi"		"**酸奶BOSS已被打败**"
 	}
 	"***A traveller has picked Boss Froyos ultimate --- Blast!***"
 	{
-		"chi"		"**一位旅行者选择了BOSS酸奶的终极-冲击波 **"
+		"chi"		"**一位旅行者拾取了酸奶终极---冲击波**"
 	}
 	"***Wait for 40s until the box breaks!***"
 	{
-		"chi"		"**守住40秒，直到箱子破碎! **"
+		"chi"		"**等待40秒至箱子破碎**"
 	}
 	"***Press the button and activate teleportion!***"
 	{
-		"chi"		"**按下按钮!激活传送! **"
+		"chi"		"**按下按钮来激活传送**"
 	}
 	"***Well!Teleportion will be active in 60s!***"
 	{
-		"chi"		"**好!传送将在60秒后启动**"
+		"chi"		"**传送将在60秒后激活**"
 	}
 	"***Teleportion is active!Go ahead,travellers!***"
 	{
-		"chi"		"**传送启动了！去吧，旅行者 **"
+		"chi"		"**传送已激活。快向前进吧，旅行者**"
 	}
 	"The server is about to close the update ,Please update your game"
 	{
@@ -423,23 +424,23 @@
 	}
 	"***Boss Star will appear in 20s!***"
 	{
-		"chi"		"**20秒后星之BOSS出现 **"
+		"chi"		"**20秒后星之BOSS出现**"
 	}
 	"***Box will break in 20s!***"
 	{
-		"chi"		"**木箱将在20秒后破碎 **"
+		"chi"		"**木箱将在20秒后破碎**"
 	}
 	"***Box will break in 10s!***"
 	{
-		"chi"		"**木箱将在10秒后破碎 **"
+		"chi"		"**木箱将在10秒后破碎**"
 	}
 	"***Wait for 10s until the box breaks!***"
 	{
-		"chi"		"**等待10秒至木箱破碎 **"
+		"chi"		"**等待10秒至箱子破碎**"
 	}
 	"***Hold for 25s!***"
 	{
-		"chi"		"**守住25秒 **"
+		"chi"		"**守住25秒**"
 	}
 	"***Map Made By Color!***"
 	{
@@ -447,25 +448,33 @@
 	}
 	"***Well!If the count of travellers is less than half,all zombies will be teleported in 40s!***"
 	{
-		"chi"		"**如果人类数量不到一半，僵尸就会在40秒后传送 **"
+		"chi"		"**如果幸存人类少于一半，僵尸将在40秒后传送**"
 	}
 	"***Hold star for 40s!***"
 	{
-		"chi"		"**守住星星40秒 **"
+		"chi"		"**守住星星40秒**"
 	}
 	"***Hold for 40s!***"
 	{
-		"chi"		"**守住40秒 **"
+		"chi"		"**坚守40秒**"
 	}
 	"***The boat will move in 60s!***"
 	{
-		"chi"		"**这个船将在60秒后离开 **"
+		"chi"		"**这艘船将在60秒后离开**"
 	}
 	"***Bridge can pass through in 25s!***"
 	{
-		"chi"		"**桥将会在25秒后放行 **"
+		"chi"		"**桥将在25秒后放行**"
 	}
 	"***(Admin)Hard in next round!***"
+	{
+		"chi"		"** **"
+	}
+	"***Great!The teleportion crystal is active!***"
+	{
+		"chi"		"** **"
+	}
+	"***(Admin)Initial in next round!***"
 	{
 		"chi"		"** **"
 	}

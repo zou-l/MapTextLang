@@ -852,4 +852,30 @@
 		"hammerid"		"259"
 		"m_iname"		"Fb"
 	}
+	"28767"
+	{
+		"enable"		"-1"
+		"hammerid"		"28767"
+	}
+	"28781"
+	{
+		"enable"		"-1"
+		"hammerid"		"28781"
+	}
+	"29354"
+	{
+		"enable"		"-1"
+		"hammerid"		"29354"
+	}
+	"29361"
+	{
+		"enable"		"-1"
+		"hammerid"		"29361"
+	}
+	"685"
+	{
+		"enable"		"-1"
+		"hammerid"		"685"
+		"m_iname"		"random_shoot_phy"
+	}
 }

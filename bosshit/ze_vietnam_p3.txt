@@ -72,4 +72,19 @@
 		"hammerid"		"31250"
 		"m_iname"		"plane_wing"
 	}
+	"495460"
+	{
+		"enable"		"-1"
+		"hammerid"		"495460"
+	}
+	"68705"
+	{
+		"enable"		"-1"
+		"hammerid"		"68705"
+	}
+	"21336"
+	{
+		"enable"		"-1"
+		"hammerid"		"21336"
+	}
 }

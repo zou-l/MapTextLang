@@ -134,7 +134,7 @@
 	}
 	"503736"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"503736"
 		"m_iname"		"Monstruo_Breakable"
 	}
@@ -386,7 +386,7 @@
 	}
 	"3666"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"3666"
 		"m_iname"		"bahamutend1"
 	}
@@ -509,5 +509,51 @@
 		"enable"		"0"
 		"hammerid"		"3294"
 		"m_iname"		"epick16"
+	}
+	"1624"
+	{
+		"enable"		"0"
+		"hammerid"		"1624"
+	}
+	"1749"
+	{
+		"enable"		"-1"
+		"hammerid"		"1749"
+	}
+	"1847"
+	{
+		"enable"		"-1"
+		"hammerid"		"1847"
+	}
+	"1849"
+	{
+		"enable"		"-1"
+		"hammerid"		"1849"
+	}
+	"1851"
+	{
+		"enable"		"-1"
+		"hammerid"		"1851"
+	}
+	"2341"
+	{
+		"enable"		"-1"
+		"hammerid"		"2341"
+	}
+	"3064"
+	{
+		"enable"		"-1"
+		"hammerid"		"3064"
+	}
+	"3696"
+	{
+		"enable"		"-1"
+		"hammerid"		"3696"
+	}
+	"0"
+	{
+		"enable"		"-1"
+		"hammerid"		"0"
+		"m_iname"		"S_Ext2_Extra_Item_Tp_Box"
 	}
 }

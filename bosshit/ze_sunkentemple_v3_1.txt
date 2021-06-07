@@ -72,4 +72,34 @@
 		"hammerid"		"772775"
 		"m_iname"		"Wall"
 	}
+	"195747"
+	{
+		"enable"		"-1"
+		"hammerid"		"195747"
+	}
+	"195755"
+	{
+		"enable"		"-1"
+		"hammerid"		"195755"
+	}
+	"195760"
+	{
+		"enable"		"-1"
+		"hammerid"		"195760"
+	}
+	"195768"
+	{
+		"enable"		"-1"
+		"hammerid"		"195768"
+	}
+	"131402"
+	{
+		"enable"		"-1"
+		"hammerid"		"131402"
+	}
+	"131482"
+	{
+		"enable"		"-1"
+		"hammerid"		"131482"
+	}
 }

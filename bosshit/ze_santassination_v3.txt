@@ -6,43 +6,43 @@
 	}
 	"bosss_hpg"
 	{
-		"enable"		"1"
+		"enable"		"0"
 	}
 	"bosss_hpg1"
 	{
-		"enable"		"1"
+		"enable"		"0"
 	}
 	"bosss_hpg2"
 	{
-		"enable"		"1"
+		"enable"		"0"
 	}
 	"bosss_hpg3"
 	{
-		"enable"		"1"
+		"enable"		"0"
 	}
 	"bosss_phys"
 	{
-		"enable"		"1"
+		"enable"		"0"
 	}
 	"bosss_hp1"
 	{
-		"enable"		"1"
+		"enable"		"0"
 	}
 	"bosss_phys1"
 	{
-		"enable"		"1"
+		"enable"		"0"
 	}
 	"bosss_hp2"
 	{
-		"enable"		"1"
+		"enable"		"0"
 	}
 	"bosss_phys2"
 	{
-		"enable"		"1"
+		"enable"		"0"
 	}
 	"bosss_hp"
 	{
-		"enable"		"1"
+		"enable"		"0"
 	}
 	"600"
 	{
@@ -64,13 +64,13 @@
 	}
 	"1827424"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"1827424"
 		"m_iname"		"boss_sb_wallbreak"
 	}
 	"1135370"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"1135370"
 		"m_iname"		"boss_sb_wallbreak"
 	}
@@ -100,13 +100,13 @@
 	}
 	"1617321"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"1617321"
 		"m_iname"		"truth_bosspathbreak"
 	}
 	"1515748"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"1515748"
 		"m_iname"		"fs_bosszcage1"
 	}
@@ -142,31 +142,31 @@
 	}
 	"1767907"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"1767907"
 		"m_iname"		"bosss_hpg"
 	}
 	"1736347"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"1736347"
 		"m_iname"		"bosss_hpg1"
 	}
 	"1736535"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"1736535"
 		"m_iname"		"bosss_hpg2"
 	}
 	"1736672"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"1736672"
 		"m_iname"		"bosss_hpg3"
 	}
 	"1596041"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"1596041"
 		"m_iname"		"bosss_phys"
 	}
@@ -178,7 +178,7 @@
 	}
 	"1597907"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"1597907"
 		"m_iname"		"bosss_phys1"
 	}
@@ -190,7 +190,7 @@
 	}
 	"1598479"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"1598479"
 		"m_iname"		"bosss_phys2"
 	}
@@ -358,7 +358,7 @@
 	}
 	"716807"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"716807"
 		"m_iname"		"sf_sledwindow_hitler"
 	}

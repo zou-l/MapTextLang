@@ -24,4 +24,24 @@
 		"hammerid"		"904430"
 		"m_iname"		"stage1_Breakable0"
 	}
+	"1364413"
+	{
+		"enable"		"-1"
+		"hammerid"		"1364413"
+	}
+	"1364416"
+	{
+		"enable"		"-1"
+		"hammerid"		"1364416"
+	}
+	"685497"
+	{
+		"enable"		"-1"
+		"hammerid"		"685497"
+	}
+	"681714"
+	{
+		"enable"		"-1"
+		"hammerid"		"681714"
+	}
 }

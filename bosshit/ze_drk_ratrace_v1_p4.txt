@@ -234,4 +234,89 @@
 		"hammerid"		"145890"
 		"m_iname"		"fall"
 	}
+	"149706"
+	{
+		"enable"		"-1"
+		"hammerid"		"149706"
+	}
+	"9652"
+	{
+		"enable"		"-1"
+		"hammerid"		"9652"
+	}
+	"9722"
+	{
+		"enable"		"-1"
+		"hammerid"		"9722"
+	}
+	"11764"
+	{
+		"enable"		"-1"
+		"hammerid"		"11764"
+	}
+	"11772"
+	{
+		"enable"		"-1"
+		"hammerid"		"11772"
+	}
+	"11863"
+	{
+		"enable"		"-1"
+		"hammerid"		"11863"
+	}
+	"11966"
+	{
+		"enable"		"-1"
+		"hammerid"		"11966"
+	}
+	"62022"
+	{
+		"enable"		"-1"
+		"hammerid"		"62022"
+	}
+	"123834"
+	{
+		"enable"		"-1"
+		"hammerid"		"123834"
+	}
+	"145835"
+	{
+		"enable"		"-1"
+		"hammerid"		"145835"
+	}
+	"166642"
+	{
+		"enable"		"-1"
+		"hammerid"		"166642"
+	}
+	"166760"
+	{
+		"enable"		"-1"
+		"hammerid"		"166760"
+	}
+	"166882"
+	{
+		"enable"		"-1"
+		"hammerid"		"166882"
+	}
+	"167173"
+	{
+		"enable"		"-1"
+		"hammerid"		"167173"
+	}
+	"216017"
+	{
+		"enable"		"-1"
+		"hammerid"		"216017"
+	}
+	"216053"
+	{
+		"enable"		"-1"
+		"hammerid"		"216053"
+	}
+	"221639"
+	{
+		"enable"		"-1"
+		"hammerid"		"221639"
+	}
 }

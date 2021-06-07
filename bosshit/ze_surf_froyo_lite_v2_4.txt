@@ -24,4 +24,21 @@
 		"hammerid"		"113357"
 		"m_iname"		"break_zombie1"
 	}
+	"483847"
+	{
+		"enable"		"0"
+		"hammerid"		"483847"
+		"m_iname"		"warmup_box"
+	}
+	"361626"
+	{
+		"enable"		"1"
+		"hammerid"		"361626"
+		"m_iname"		"boss_star_admin_box"
+	}
+	"117711"
+	{
+		"enable"		"-1"
+		"hammerid"		"117711"
+	}
 }

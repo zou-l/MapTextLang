@@ -294,4 +294,68 @@
 		"hammerid"		"942433"
 		"m_iname"		"ventilacion_hard"
 	}
+	"3873"
+	{
+		"enable"		"-1"
+		"hammerid"		"3873"
+	}
+	"3951"
+	{
+		"enable"		"-1"
+		"hammerid"		"3951"
+	}
+	"5120"
+	{
+		"enable"		"-1"
+		"hammerid"		"5120"
+	}
+	"5122"
+	{
+		"enable"		"-1"
+		"hammerid"		"5122"
+	}
+	"5124"
+	{
+		"enable"		"-1"
+		"hammerid"		"5124"
+	}
+	"5201"
+	{
+		"enable"		"-1"
+		"hammerid"		"5201"
+	}
+	"359301"
+	{
+		"enable"		"-1"
+		"hammerid"		"359301"
+	}
+	"448148"
+	{
+		"enable"		"-1"
+		"hammerid"		"448148"
+		"m_iname"		"hardbarricada1"
+	}
+	"448193"
+	{
+		"enable"		"-1"
+		"hammerid"		"448193"
+		"m_iname"		"hardbarricada1"
+	}
+	"448322"
+	{
+		"enable"		"-1"
+		"hammerid"		"448322"
+		"m_iname"		"extremebarricada2"
+	}
+	"697118"
+	{
+		"enable"		"-1"
+		"hammerid"		"697118"
+		"m_iname"		"hardbarricada1"
+	}
+	"942410"
+	{
+		"enable"		"-1"
+		"hammerid"		"942410"
+	}
 }

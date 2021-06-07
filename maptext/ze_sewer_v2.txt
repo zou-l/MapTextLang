@@ -128,4 +128,32 @@
 	{
 		"chi"		"** **"
 	}
+	"Ramp door closing in 50 seconds! Hold off the infection."
+	{
+		"chi"		"** **"
+	}
+	"Ramp door is closing in 10 seconds!"
+	{
+		"chi"		"** **"
+	}
+	"Ramp door is closing!"
+	{
+		"chi"		"** **"
+	}
+	"Ramp door will open again in 20 seconds!"
+	{
+		"chi"		"** **"
+	}
+	"Ramp back door is opening!"
+	{
+		"chi"		"** **"
+	}
+	"Zombies have gotten past the ramp defend point! Zombie gate being deployed. Gate will open in 20 seconds."
+	{
+		"chi"		"** **"
+	}
+	"Zombies have gotten past the hallway defend point! Zombie gate being deployed. Gate will open in 20 seconds."
+	{
+		"chi"		"** **"
+	}
 }

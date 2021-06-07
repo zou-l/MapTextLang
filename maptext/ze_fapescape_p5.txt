@@ -181,7 +181,7 @@
 	{
 		"chi"		"跑跑跑！！！"
 	}
-	"*** Door opens in 10 seconds ***"
+	"*** DOOR OPENS IN 10 SECONDS ***"
 	{
 		"chi"		"门10秒后开启"
 	}
@@ -275,7 +275,7 @@
 	{
 		"chi"		"梯子25秒后出现"
 	}
-	"*** Door opens in 20 seconds ***"
+	"*** DOOR OPENS IN 20 SECONDS ***"
 	{
 		"chi"		"门于20秒后开放"
 	}

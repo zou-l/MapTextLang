@@ -92,7 +92,7 @@
 	{
 		"chi"		"**门打开了**"
 	}
-	"***Door opening in 20 seconds***"
+	"***DOOR OPENING IN 20 SECONDS***"
 	{
 		"chi"		"**离门开启还有20秒**"
 	}
@@ -123,7 +123,7 @@
 	"***WARMUP - 60 SECONDS LEFT***"
 	{
 		"chi"		"**热身回合，等待其它玩家加入**"
-		"DoorCountdown"		"60"
+		"DoorCountDown"		"60"
 	}
 	"***WARMUP MODE DISABLED FOR NEXT ROUND***"
 	{
@@ -185,7 +185,7 @@
 	{
 		"chi"		"**还剩1秒**"
 	}
-	"***GOOD LUCK***"
+	"***good luck***"
 	{
 		"chi"		"**祝你好运**"
 	}

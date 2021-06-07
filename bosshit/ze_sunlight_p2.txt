@@ -413,4 +413,34 @@
 		"enable"		"-1"
 		"hammerid"		"626207"
 	}
+	"501741"
+	{
+		"enable"		"1"
+		"hammerid"		"501741"
+		"m_iname"		"boss_physbox"
+	}
+	"738011"
+	{
+		"enable"		"1"
+		"hammerid"		"738011"
+		"m_iname"		"br_boss_crystal"
+	}
+	"575821"
+	{
+		"enable"		"-1"
+		"hammerid"		"575821"
+		"m_iname"		"br_stage5statue1"
+	}
+	"575859"
+	{
+		"enable"		"-1"
+		"hammerid"		"575859"
+		"m_iname"		"br_stage5statue2"
+	}
+	"575958"
+	{
+		"enable"		"-1"
+		"hammerid"		"575958"
+		"m_iname"		"br_stage5statue3"
+	}
 }

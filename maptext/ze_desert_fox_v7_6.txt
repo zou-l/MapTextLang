@@ -27,7 +27,7 @@
 	"Door open in 5 seconds"
 	{
 		"chi"		"**门将于5秒后打开**"
-		"DoorCountdown"		"5"
+		"DoorCountDown"		"5"
 	}
 	"Door is open"
 	{
@@ -40,7 +40,7 @@
 	"defend this spot few seconds"
 	{
 		"chi"		"**守住这里！！**"
-		"DoorCountdown"		"38"
+		"DoorCountDown"		"38"
 	}
 	"Fall Back !!!"
 	{
@@ -69,7 +69,7 @@
 	"<< Nuke has been launched!! 20 seconds until explosion >>"
 	{
 		"chi"		"** **"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"<< Map by Lup4n` >>"
 	{

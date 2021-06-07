@@ -1,6 +1,6 @@
 "Console_T"
 {
-	">> Door Opens in 30 Seconds <<"
+	">> Door opens in 30 seconds <<"
 	{
 		"chi"		"** **"
 	}
@@ -15,6 +15,7 @@
 	">> Vent will break in 40 seconds <<"
 	{
 		"chi"		"** **"
+		"DoorCountDown"		"-1"
 	}
 	">> HOLD! Elevator leaves in 30 seconds <<"
 	{
@@ -101,6 +102,10 @@
 		"chi"		"** **"
 	}
 	">>> 空气墙将在10秒后消失,同时僵尸传送 <<<"
+	{
+		"chi"		"** **"
+	}
+	"The se"
 	{
 		"chi"		"** **"
 	}

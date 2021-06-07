@@ -100,4 +100,10 @@
 		"enable"		"-1"
 		"hammerid"		"97000"
 	}
+	"2349"
+	{
+		"enable"		"-1"
+		"hammerid"		"2349"
+		"m_iname"		"Item_Wall_wall"
+	}
 }

@@ -78,4 +78,64 @@
 		"hammerid"		"5270"
 		"m_iname"		"viimeinensilta"
 	}
+	"6214"
+	{
+		"enable"		"-1"
+		"hammerid"		"6214"
+	}
+	"6434"
+	{
+		"enable"		"-1"
+		"hammerid"		"6434"
+	}
+	"6572"
+	{
+		"enable"		"-1"
+		"hammerid"		"6572"
+	}
+	"6609"
+	{
+		"enable"		"-1"
+		"hammerid"		"6609"
+	}
+	"6718"
+	{
+		"enable"		"-1"
+		"hammerid"		"6718"
+	}
+	"6706"
+	{
+		"enable"		"-1"
+		"hammerid"		"6706"
+	}
+	"6694"
+	{
+		"enable"		"-1"
+		"hammerid"		"6694"
+	}
+	"6682"
+	{
+		"enable"		"-1"
+		"hammerid"		"6682"
+	}
+	"6815"
+	{
+		"enable"		"-1"
+		"hammerid"		"6815"
+	}
+	"6803"
+	{
+		"enable"		"-1"
+		"hammerid"		"6803"
+	}
+	"6791"
+	{
+		"enable"		"-1"
+		"hammerid"		"6791"
+	}
+	"6779"
+	{
+		"enable"		"-1"
+		"hammerid"		"6779"
+	}
 }

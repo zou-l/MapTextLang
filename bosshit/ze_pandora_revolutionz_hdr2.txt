@@ -182,7 +182,7 @@
 	}
 	"370472"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"370472"
 		"m_iname"		"Daddy_Phys"
 	}

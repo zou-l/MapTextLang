@@ -36,4 +36,9 @@
 		"hammerid"		"140454"
 		"m_iname"		"break_bridge_01"
 	}
+	"323216"
+	{
+		"enable"		"-1"
+		"hammerid"		"323216"
+	}
 }

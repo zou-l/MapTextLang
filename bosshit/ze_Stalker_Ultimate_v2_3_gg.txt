@@ -504,4 +504,29 @@
 		"hammerid"		"2357018"
 		"m_iname"		"Nightstar_E_Pickup_Block"
 	}
+	"798"
+	{
+		"enable"		"-1"
+		"hammerid"		"798"
+	}
+	"1021"
+	{
+		"enable"		"-1"
+		"hammerid"		"1021"
+	}
+	"1085"
+	{
+		"enable"		"-1"
+		"hammerid"		"1085"
+	}
+	"429218"
+	{
+		"enable"		"-1"
+		"hammerid"		"429218"
+	}
+	"2115588"
+	{
+		"enable"		"-1"
+		"hammerid"		"2115588"
+	}
 }

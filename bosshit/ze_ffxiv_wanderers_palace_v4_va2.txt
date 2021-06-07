@@ -404,7 +404,7 @@
 	}
 	"261794"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"261794"
 		"m_iname"		"true_bahamut_hitbox"
 	}
@@ -413,5 +413,30 @@
 		"enable"		"1"
 		"hammerid"		"469411"
 		"m_iname"		"odin_hitbox"
+	}
+	"401655"
+	{
+		"enable"		"-1"
+		"hammerid"		"401655"
+	}
+	"85317"
+	{
+		"enable"		"-1"
+		"hammerid"		"85317"
+	}
+	"85320"
+	{
+		"enable"		"-1"
+		"hammerid"		"85320"
+	}
+	"85398"
+	{
+		"enable"		"-1"
+		"hammerid"		"85398"
+	}
+	"85410"
+	{
+		"enable"		"-1"
+		"hammerid"		"85410"
 	}
 }

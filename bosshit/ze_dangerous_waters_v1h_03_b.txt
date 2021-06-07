@@ -192,4 +192,69 @@
 		"hammerid"		"377999"
 		"m_iname"		"flyingfox_breakable"
 	}
+	"698096"
+	{
+		"enable"		"-1"
+		"hammerid"		"698096"
+	}
+	"680672"
+	{
+		"enable"		"-1"
+		"hammerid"		"680672"
+	}
+	"680682"
+	{
+		"enable"		"-1"
+		"hammerid"		"680682"
+	}
+	"677270"
+	{
+		"enable"		"-1"
+		"hammerid"		"677270"
+	}
+	"549762"
+	{
+		"enable"		"-1"
+		"hammerid"		"549762"
+	}
+	"428219"
+	{
+		"enable"		"-1"
+		"hammerid"		"428219"
+	}
+	"428743"
+	{
+		"enable"		"-1"
+		"hammerid"		"428743"
+	}
+	"425003"
+	{
+		"enable"		"-1"
+		"hammerid"		"425003"
+	}
+	"55378"
+	{
+		"enable"		"-1"
+		"hammerid"		"55378"
+	}
+	"35523"
+	{
+		"enable"		"-1"
+		"hammerid"		"35523"
+	}
+	"35541"
+	{
+		"enable"		"-1"
+		"hammerid"		"35541"
+	}
+	"35552"
+	{
+		"enable"		"-1"
+		"hammerid"		"35552"
+	}
+	"35563"
+	{
+		"enable"		"-1"
+		"hammerid"		"35563"
+	}
 }

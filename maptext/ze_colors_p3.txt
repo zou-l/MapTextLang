@@ -92,4 +92,36 @@
 	{
 		"chi"		"** **"
 	}
+	"** HOLD IT! WE MUST SURVIVE FOR THE LAST BIT! **"
+	{
+		"chi"		"** **"
+	}
+	"*** Amazing! You did it!! Lets see how you do on Grape mode! ***"
+	{
+		"chi"		"** **"
+	}
+	"** Level: Grape **"
+	{
+		"chi"		"** **"
+	}
+	"** Shake-shaka-shake-shaka-boom! Grape is a fruit with calcium! **"
+	{
+		"chi"		"** **"
+	}
+	"*** Incredible! You managed to clear Grape mode! How about another go? ***"
+	{
+		"chi"		"** **"
+	}
+	"** Level: Grape 2 **"
+	{
+		"chi"		"** **"
+	}
+	"** Type mat_colorcorrection 0 to disable the redness... Oh! - nevermind **"
+	{
+		"chi"		"** **"
+	}
+	"*** Bet you didnt expect to see this message! Congratulations for beating Grape 2 mode! Do you dare to keep playing? ***"
+	{
+		"chi"		"** **"
+	}
 }

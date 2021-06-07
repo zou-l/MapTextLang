@@ -48,4 +48,54 @@
 		"hammerid"		"4060"
 		"m_iname"		"ramp0"
 	}
+	"3880"
+	{
+		"enable"		"-1"
+		"hammerid"		"3880"
+	}
+	"3888"
+	{
+		"enable"		"-1"
+		"hammerid"		"3888"
+	}
+	"3896"
+	{
+		"enable"		"-1"
+		"hammerid"		"3896"
+	}
+	"3904"
+	{
+		"enable"		"-1"
+		"hammerid"		"3904"
+	}
+	"4125"
+	{
+		"enable"		"-1"
+		"hammerid"		"4125"
+	}
+	"4147"
+	{
+		"enable"		"-1"
+		"hammerid"		"4147"
+	}
+	"4155"
+	{
+		"enable"		"-1"
+		"hammerid"		"4155"
+	}
+	"4177"
+	{
+		"enable"		"-1"
+		"hammerid"		"4177"
+	}
+	"4199"
+	{
+		"enable"		"-1"
+		"hammerid"		"4199"
+	}
+	"4207"
+	{
+		"enable"		"-1"
+		"hammerid"		"4207"
+	}
 }

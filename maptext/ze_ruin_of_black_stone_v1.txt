@@ -123,7 +123,7 @@
 	"<< Warning: Nuke in 180 seconds >>"
 	{
 		"chi"		"**警告：180秒后核弹将会爆炸**"
-		"DoorCountDown"		"180"
+		"DoorCountdown"		"180"
 	}
 	"<< Hurry up!!! Get back to the entrance of the town!!! >>"
 	{
@@ -196,7 +196,7 @@
 	"<< Give me some time to break this huge stone >>"
 	{
 		"chi"		"**给我一些时间来破坏这个石头**"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"<< The door will break in 20 seconds >>"
 	{
@@ -209,7 +209,7 @@
 	"<< defend until the rock broken! >>"
 	{
 		"chi"		"**防守直到石头破碎！**"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"<< No one is here...... >>"
 	{
@@ -586,9 +586,29 @@
 	"<< Teleporter will activate in 45 seconds >>"
 	{
 		"chi"		"**传送器将在45秒后激活**"
-        }	
+	}
 	"<< Got it!!! Tesla has died!!! >>"
 	{
 		"chi"		"**做到了！特斯拉死了！**"
+	}
+	"<< Zombies escape!!! You fail!!! >>"
+	{
+		"chi"		"** **"
+	}
+	"<< ???: What? Youve killed my pet?! >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Maybe we should investigate it later......>>"
+	{
+		"chi"		"** **"
+	}
+	"<< Youve win all the chapters!!! >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Map by SilverCrew, reworked by Misaka >>"
+	{
+		"chi"		"** **"
 	}
 }

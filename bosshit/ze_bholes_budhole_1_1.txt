@@ -102,4 +102,14 @@
 		"hammerid"		"19758"
 		"m_iname"		"cake_top"
 	}
+	"89780"
+	{
+		"enable"		"-1"
+		"hammerid"		"89780"
+	}
+	"76818"
+	{
+		"enable"		"-1"
+		"hammerid"		"76818"
+	}
 }

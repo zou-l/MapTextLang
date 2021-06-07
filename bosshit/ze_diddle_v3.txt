@@ -8,7 +8,7 @@
 	}
 	"423841"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"423841"
 		"m_iname"		"dd_hp"
 	}
@@ -1014,5 +1014,11 @@
 	{
 		"enable"		"-1"
 		"hammerid"		"324179"
+	}
+	"0"
+	{
+		"enable"		"-1"
+		"hammerid"		"0"
+		"m_iname"		"ExtremeShootBeach"
 	}
 }

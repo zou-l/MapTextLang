@@ -44,7 +44,7 @@
 	{
 		"chi"		"**再进去一次！**"
 	}
-	"*** map created by thas ***"
+	"*** Map created by thas ***"
 	{
 		"chi"		"**地图作者：thas  翻译：Misaka**"
 	}

@@ -216,4 +216,12 @@
 	{
 		"syncvalue"		"96117"
 	}
+	"*** STAGE I activated from admin room ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Global nuke activated from admin room ***"
+	{
+		"chi"		"** **"
+	}
 }

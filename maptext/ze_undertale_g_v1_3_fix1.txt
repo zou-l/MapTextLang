@@ -37,7 +37,7 @@
 		"chi"		"**守住20秒 **"
 		"DoorCountDown"		"20"
 	}
-	"*** 5 seconds left ***"
+	"*** 5 SECONDS LEFT ***"
 	{
 		"chi"		"** **"
 	}
@@ -684,6 +684,14 @@
 		"chi"		"** **"
 	}
 	"Youre gonna have to try a little harder than THAT !"
+	{
+		"chi"		"** **"
+	}
+	"We had a school project where we had to take care of flowers ."
+	{
+		"chi"		"** **"
+	}
+	"The king - we had to call him Mr. Dreemurr - volunteered to donate his own flowers ."
 	{
 		"chi"		"** **"
 	}

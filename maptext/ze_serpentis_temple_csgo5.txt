@@ -590,4 +590,12 @@
 	{
 		"chi"		"** **"
 	}
+	"script by bxzl on 2020.12.02"
+	{
+		"chi"		"** **"
+	}
+	"[ADMIN ROOM] STAGE 1 NEXT ROUND"
+	{
+		"chi"		"** **"
+	}
 }

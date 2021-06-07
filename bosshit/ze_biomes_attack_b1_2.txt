@@ -54,4 +54,44 @@
 		"hammerid"		"36801"
 		"m_iname"		"bridge_protector"
 	}
+	"31964"
+	{
+		"enable"		"-1"
+		"hammerid"		"31964"
+	}
+	"31981"
+	{
+		"enable"		"-1"
+		"hammerid"		"31981"
+	}
+	"32031"
+	{
+		"enable"		"-1"
+		"hammerid"		"32031"
+	}
+	"32035"
+	{
+		"enable"		"-1"
+		"hammerid"		"32035"
+	}
+	"32780"
+	{
+		"enable"		"-1"
+		"hammerid"		"32780"
+	}
+	"32784"
+	{
+		"enable"		"-1"
+		"hammerid"		"32784"
+	}
+	"32787"
+	{
+		"enable"		"-1"
+		"hammerid"		"32787"
+	}
+	"32791"
+	{
+		"enable"		"-1"
+		"hammerid"		"32791"
+	}
 }

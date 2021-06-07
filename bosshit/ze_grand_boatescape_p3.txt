@@ -938,4 +938,10 @@
 		"enable"		"-1"
 		"hammerid"		"194445"
 	}
+	"195568"
+	{
+		"enable"		"-1"
+		"hammerid"		"195568"
+		"m_iname"		"wooden_wall_phy20"
+	}
 }

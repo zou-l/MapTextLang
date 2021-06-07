@@ -64,4 +64,32 @@
 	{
 		"chi"		"** **"
 	}
+	"God said, Let there be light. Shoot to the light! Stage: 3.  Game: Panic"
+	{
+		"chi"		"** **"
+	}
+	"Hold 90s!"
+	{
+		"chi"		"** **"
+	}
+	"God said, Let there be light. Shoot to the light! Stage: 3.  Game: Unknown"
+	{
+		"chi"		"** **"
+	}
+	"God said, Let there be light. Shoot to the light! Stage: 4.  Game: T800"
+	{
+		"chi"		"** **"
+	}
+	"Boom in 70s!"
+	{
+		"chi"		"** **"
+	}
+	"God said, Let there be light. Shoot to the light! Stage: 3.  Game: Massacre"
+	{
+		"chi"		"** **"
+	}
+	"God said, Let there be light. Shoot to the light! Stage: 3.  Game: Bright"
+	{
+		"chi"		"** **"
+	}
 }

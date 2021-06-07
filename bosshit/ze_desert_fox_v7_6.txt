@@ -72,4 +72,19 @@
 		"hammerid"		"1341"
 		"m_iname"		"door_1"
 	}
+	"146699"
+	{
+		"enable"		"-1"
+		"hammerid"		"146699"
+	}
+	"12008"
+	{
+		"enable"		"-1"
+		"hammerid"		"12008"
+	}
+	"12025"
+	{
+		"enable"		"-1"
+		"hammerid"		"12025"
+	}
 }

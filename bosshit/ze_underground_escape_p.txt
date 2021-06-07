@@ -96,4 +96,74 @@
 		"hammerid"		"18057"
 		"m_iname"		"truck_2_box_3"
 	}
+	"14147"
+	{
+		"enable"		"-1"
+		"hammerid"		"14147"
+	}
+	"14165"
+	{
+		"enable"		"-1"
+		"hammerid"		"14165"
+	}
+	"14702"
+	{
+		"enable"		"-1"
+		"hammerid"		"14702"
+	}
+	"14710"
+	{
+		"enable"		"-1"
+		"hammerid"		"14710"
+	}
+	"14718"
+	{
+		"enable"		"-1"
+		"hammerid"		"14718"
+	}
+	"14726"
+	{
+		"enable"		"-1"
+		"hammerid"		"14726"
+	}
+	"14960"
+	{
+		"enable"		"-1"
+		"hammerid"		"14960"
+	}
+	"14968"
+	{
+		"enable"		"-1"
+		"hammerid"		"14968"
+	}
+	"14977"
+	{
+		"enable"		"-1"
+		"hammerid"		"14977"
+	}
+	"14985"
+	{
+		"enable"		"-1"
+		"hammerid"		"14985"
+	}
+	"14993"
+	{
+		"enable"		"-1"
+		"hammerid"		"14993"
+	}
+	"15001"
+	{
+		"enable"		"-1"
+		"hammerid"		"15001"
+	}
+	"15293"
+	{
+		"enable"		"-1"
+		"hammerid"		"15293"
+	}
+	"15621"
+	{
+		"enable"		"-1"
+		"hammerid"		"15621"
+	}
 }

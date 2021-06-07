@@ -162,4 +162,24 @@
 		"hammerid"		"900869"
 		"m_iname"		"lv2_boss_skill3_nade"
 	}
+	"1104034"
+	{
+		"enable"		"-1"
+		"hammerid"		"1104034"
+	}
+	"1091757"
+	{
+		"enable"		"-1"
+		"hammerid"		"1091757"
+	}
+	"160001"
+	{
+		"enable"		"-1"
+		"hammerid"		"160001"
+	}
+	"160015"
+	{
+		"enable"		"-1"
+		"hammerid"		"160015"
+	}
 }

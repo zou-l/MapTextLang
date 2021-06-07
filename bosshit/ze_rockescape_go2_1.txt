@@ -132,4 +132,19 @@
 		"hammerid"		"8484"
 		"m_iname"		"start_path_breakable_3"
 	}
+	"91588"
+	{
+		"enable"		"-1"
+		"hammerid"		"91588"
+	}
+	"73546"
+	{
+		"enable"		"-1"
+		"hammerid"		"73546"
+	}
+	"11185"
+	{
+		"enable"		"-1"
+		"hammerid"		"11185"
+	}
 }

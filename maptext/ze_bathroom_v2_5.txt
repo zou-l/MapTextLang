@@ -147,4 +147,12 @@
 	{
 		"chi"		"** **"
 	}
+	"Resist for 30 seconds."
+	{
+		"chi"		"** **"
+	}
+	"Hold here until the blue sponge drops, then get in the tub!"
+	{
+		"chi"		"** **"
+	}
 }

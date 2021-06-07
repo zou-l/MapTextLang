@@ -604,4 +604,16 @@
 	{
 		"chi"		"** **"
 	}
+	"### NARAKA SOULS COLLECTER IS DEFEATED  ###"
+	{
+		"chi"		"** **"
+	}
+	"### THE RETALIATION HAS BEGUN  ###"
+	{
+		"chi"		"** **"
+	}
+	"### SEE YOU IN THE OTHER SIDE OF HELL   ###"
+	{
+		"chi"		"** **"
+	}
 }

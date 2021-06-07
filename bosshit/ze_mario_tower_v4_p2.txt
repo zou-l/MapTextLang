@@ -132,4 +132,249 @@
 		"hammerid"		"6622"
 		"m_iname"		"ladderblock"
 	}
+	"4838"
+	{
+		"enable"		"-1"
+		"hammerid"		"4838"
+	}
+	"4846"
+	{
+		"enable"		"-1"
+		"hammerid"		"4846"
+	}
+	"4854"
+	{
+		"enable"		"-1"
+		"hammerid"		"4854"
+	}
+	"4862"
+	{
+		"enable"		"-1"
+		"hammerid"		"4862"
+	}
+	"4870"
+	{
+		"enable"		"-1"
+		"hammerid"		"4870"
+	}
+	"4878"
+	{
+		"enable"		"-1"
+		"hammerid"		"4878"
+	}
+	"4886"
+	{
+		"enable"		"-1"
+		"hammerid"		"4886"
+	}
+	"4894"
+	{
+		"enable"		"-1"
+		"hammerid"		"4894"
+	}
+	"4902"
+	{
+		"enable"		"-1"
+		"hammerid"		"4902"
+	}
+	"4910"
+	{
+		"enable"		"-1"
+		"hammerid"		"4910"
+	}
+	"4918"
+	{
+		"enable"		"-1"
+		"hammerid"		"4918"
+	}
+	"4926"
+	{
+		"enable"		"-1"
+		"hammerid"		"4926"
+	}
+	"4934"
+	{
+		"enable"		"-1"
+		"hammerid"		"4934"
+	}
+	"4942"
+	{
+		"enable"		"-1"
+		"hammerid"		"4942"
+	}
+	"4950"
+	{
+		"enable"		"-1"
+		"hammerid"		"4950"
+	}
+	"4958"
+	{
+		"enable"		"-1"
+		"hammerid"		"4958"
+	}
+	"4966"
+	{
+		"enable"		"-1"
+		"hammerid"		"4966"
+	}
+	"4974"
+	{
+		"enable"		"-1"
+		"hammerid"		"4974"
+	}
+	"4982"
+	{
+		"enable"		"-1"
+		"hammerid"		"4982"
+	}
+	"5122"
+	{
+		"enable"		"-1"
+		"hammerid"		"5122"
+	}
+	"5130"
+	{
+		"enable"		"-1"
+		"hammerid"		"5130"
+	}
+	"5138"
+	{
+		"enable"		"-1"
+		"hammerid"		"5138"
+	}
+	"5146"
+	{
+		"enable"		"-1"
+		"hammerid"		"5146"
+	}
+	"5154"
+	{
+		"enable"		"-1"
+		"hammerid"		"5154"
+	}
+	"5162"
+	{
+		"enable"		"-1"
+		"hammerid"		"5162"
+	}
+	"5170"
+	{
+		"enable"		"-1"
+		"hammerid"		"5170"
+	}
+	"5178"
+	{
+		"enable"		"-1"
+		"hammerid"		"5178"
+	}
+	"5186"
+	{
+		"enable"		"-1"
+		"hammerid"		"5186"
+	}
+	"5194"
+	{
+		"enable"		"-1"
+		"hammerid"		"5194"
+	}
+	"5202"
+	{
+		"enable"		"-1"
+		"hammerid"		"5202"
+	}
+	"5210"
+	{
+		"enable"		"-1"
+		"hammerid"		"5210"
+	}
+	"5218"
+	{
+		"enable"		"-1"
+		"hammerid"		"5218"
+	}
+	"5226"
+	{
+		"enable"		"-1"
+		"hammerid"		"5226"
+	}
+	"5319"
+	{
+		"enable"		"-1"
+		"hammerid"		"5319"
+	}
+	"5335"
+	{
+		"enable"		"-1"
+		"hammerid"		"5335"
+	}
+	"5343"
+	{
+		"enable"		"-1"
+		"hammerid"		"5343"
+	}
+	"5351"
+	{
+		"enable"		"-1"
+		"hammerid"		"5351"
+	}
+	"5383"
+	{
+		"enable"		"-1"
+		"hammerid"		"5383"
+	}
+	"5391"
+	{
+		"enable"		"-1"
+		"hammerid"		"5391"
+	}
+	"5399"
+	{
+		"enable"		"-1"
+		"hammerid"		"5399"
+	}
+	"6436"
+	{
+		"enable"		"-1"
+		"hammerid"		"6436"
+	}
+	"6558"
+	{
+		"enable"		"-1"
+		"hammerid"		"6558"
+	}
+	"6566"
+	{
+		"enable"		"-1"
+		"hammerid"		"6566"
+	}
+	"6597"
+	{
+		"enable"		"-1"
+		"hammerid"		"6597"
+	}
+	"6605"
+	{
+		"enable"		"-1"
+		"hammerid"		"6605"
+	}
+	"6614"
+	{
+		"enable"		"-1"
+		"hammerid"		"6614"
+	}
+	"6630"
+	{
+		"enable"		"-1"
+		"hammerid"		"6630"
+	}
+	"6638"
+	{
+		"enable"		"-1"
+		"hammerid"		"6638"
+	}
+	"6678"
+	{
+		"enable"		"-1"
+		"hammerid"		"6678"
+	}
 }

@@ -252,7 +252,7 @@ different civilizations with us**"
 	{
 		"chi"		"**还剩20秒**"
 	}
-	"**10 seconds remaining**"
+	"**10 Seconds remaining**"
 	{
 		"chi"		"**还剩10秒**"
 	}
@@ -336,13 +336,9 @@ appear in our world!**"
 	}
 	"sync_version"
 	{
-		"syncvalue"		"73154"
+		"syncvalue"		"17404"
 	}
 	"[Secret Quest] You found the energy crystal , item <Wisp> has unlocked!"
-	{
-		"chi"		"** **"
-	}
-	"**Nithhogg is releasing <The advent of despair: Gotterdammerung>"
 	{
 		"chi"		"** **"
 	}
@@ -354,14 +350,6 @@ appear in our world!**"
 	{
 		"chi"		"** **"
 	}
-	"**Nithhogg cured itself**"
-	{
-		"chi"		"** **"
-	}
-	"**Nithhogg has released Twilight of The Gods, run into the shield quickly**"
-	{
-		"chi"		"** **"
-	}
 	"**That was close.I dont want to face it twice anymore. But I have to say things are not so simple like what he says...Then what will be the next one?**"
 	{
 		"chi"		"** **"
@@ -369,6 +357,10 @@ appear in our world!**"
 	"**What a wasteland...No,according to the index,here should be the Asgard Forest. What the hell is going on here...?**"
 	{
 		"chi"		"** **"
+	}
+	"**A player get <Brightness>"
+	{
+		"chi"		"**一位人类获得了<光明>(被动奶)。**"
 	}
 	"**Dead end? No way, there should be able to find another path...**"
 	{
@@ -386,6 +378,10 @@ appear in our world!**"
 	{
 		"chi"		"** **"
 	}
+	"**The statues seem to contain some secrets.**"
+	{
+		"chi"		"** **"
+	}
 	"**Solve the clock puzzle or defend 40 seconds**"
 	{
 		"chi"		"** **"
@@ -398,23 +394,11 @@ appear in our world!**"
 	{
 		"chi"		"** **"
 	}
-	"**A player get <Brightness>"
-	{
-		"chi"		"** **"
-	}
-	"**The statues seem to contain some secrets.**"
-	{
-		"chi"		"** **"
-	}
 	"**We need to activate the mechanism of the ruins to let the magic flow out**"
 	{
 		"chi"		"** **"
 	}
 	"**So we have to reach the center of the ruins**"
-	{
-		"chi"		"** **"
-	}
-	"**A zombie has picked up <Rescue>**"
 	{
 		"chi"		"** **"
 	}
@@ -478,6 +462,10 @@ appear in our world!**"
 	{
 		"chi"		"** **"
 	}
+	"**A zombie has picked up <Rescue>**"
+	{
+		"chi"		"** **"
+	}
 	"**Waiting for your teammate for 20 seconds**"
 	{
 		"chi"		"** **"
@@ -486,7 +474,15 @@ appear in our world!**"
 	{
 		"chi"		"** **"
 	}
+	"**Nithhogg has released Twilight of The Gods, run into the shield quickly**"
+	{
+		"chi"		"** **"
+	}
 	"**Nithhogg is casting <The advent of despair: Gotterdammerung>"
+	{
+		"chi"		"** **"
+	}
+	"**A player get <Darkness>**"
 	{
 		"chi"		"** **"
 	}

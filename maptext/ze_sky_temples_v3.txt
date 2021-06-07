@@ -19,7 +19,7 @@
 	"<<< Get behind last pillars for teleport! >>>"
 	{
 		"chi"		"**跑到最后一个柱子并等待传送 **"
-		"DoorCountdown"		"40"
+		"DoorCountDown"		"40"
 	}
 	"*** Rush to door! ***"
 	{
@@ -147,7 +147,7 @@
 	}
 	"<<< Defend for 60 seconds! >>>"
 	{
-		"DoorCountdown"		"60"
+		"DoorCountDown"		"60"
 		"chi"		"** **"
 	}
 	"<<< Disperse >>>"
@@ -187,6 +187,10 @@
 		"chi"		"**第三关完成**"
 	}
 	"The server is about to close the update ,Please update your game"
+	{
+		"chi"		"** **"
+	}
+	"<<< Changed to level 3 >>>"
 	{
 		"chi"		"** **"
 	}

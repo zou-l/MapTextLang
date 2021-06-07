@@ -1,0 +1,123 @@
+"Console_T"
+{
+	"Door opens in 15 seconds ."
+	{
+		"chi"		"** **"
+	}
+	"DOOR OPENS IN 5 SECONDS ."
+	{
+		"chi"		"** **"
+	}
+	"Gate will be available in 20 seconds keep holding !"
+	{
+		"chi"		"** **"
+	}
+	"GATE WILL BE AVAILABLE IN 5 SECONDS KEEP HOLDING !"
+	{
+		"chi"		"** **"
+	}
+	"Path will be open in 15 seconds ."
+	{
+		"chi"		"** **"
+	}
+	"PATH WILL BE OPEN IN 5 SECONDS ."
+	{
+		"chi"		"** **"
+	}
+	"Door opens in 12 seconds ."
+	{
+		"chi"		"** **"
+	}
+	"Path will be open in 20 seconds ."
+	{
+		"chi"		"** **"
+	}
+	"There are 10 seconds left until the wagon departs."
+	{
+		"chi"		"** **"
+	}
+	"DOOR CLOSES IN 15 SECONDS . KEEP HOLDING !"
+	{
+		"chi"		"** **"
+	}
+	"DOOR CLOSES IN 5 SECONDS . KEEP HOLDING !!"
+	{
+		"chi"		"** **"
+	}
+	"Door opens in 25 seconds ."
+	{
+		"chi"		"** **"
+	}
+	"DOOR CLOSES IN 5 SECONDS ."
+	{
+		"chi"		"** **"
+	}
+	"Door opens in 35 seconds ."
+	{
+		"chi"		"** **"
+	}
+	"DOOR OPENS IN 10 SECONDS ."
+	{
+		"chi"		"** **"
+	}
+	"DOOR OPENS IN 7 SECONDS ."
+	{
+		"chi"		"** **"
+	}
+	"Door opens in 20 seconds ."
+	{
+		"chi"		"** **"
+	}
+	"::: Medium Clear :::"
+	{
+		"chi"		"** **"
+	}
+	"Path will be open in 25 seconds ."
+	{
+		"chi"		"** **"
+	}
+	"Well be leaving in 7 seconds."
+	{
+		"chi"		"** **"
+	}
+	"DOOR CLOSES IN 10 SECONDS ."
+	{
+		"chi"		"** **"
+	}
+	"The Bridge breaks in 10 seconds ."
+	{
+		"chi"		"** **"
+	}
+	"::: Admin Room Episode 1 :::"
+	{
+		"chi"		"** **"
+	}
+	"admun slay please :3"
+	{
+		"chi"		"** **"
+	}
+	"::: Admin Room Episode 2 :::"
+	{
+		"chi"		"** **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"45241"
+	}
+	"PATH WILL BE OPEN IN 7 SECONDS ."
+	{
+		"chi"		"** **"
+	}
+	"PATH WILL BE OPEN IN 12 SECONDS ."
+	{
+		"chi"		"** **"
+	}
+	"::: Admin Room Lv_2 :::"
+	{
+		"chi"		"** **"
+	}
+	"::: Admin Room Lv_1 :::"
+	{
+		"chi"		"** **"
+	}
+}

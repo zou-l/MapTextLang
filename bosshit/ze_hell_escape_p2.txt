@@ -156,4 +156,104 @@
 		"hammerid"		"153055"
 		"m_iname"		"Door Cage 1"
 	}
+	"9111"
+	{
+		"enable"		"-1"
+		"hammerid"		"9111"
+	}
+	"53695"
+	{
+		"enable"		"-1"
+		"hammerid"		"53695"
+	}
+	"53796"
+	{
+		"enable"		"-1"
+		"hammerid"		"53796"
+	}
+	"79982"
+	{
+		"enable"		"-1"
+		"hammerid"		"79982"
+	}
+	"146320"
+	{
+		"enable"		"-1"
+		"hammerid"		"146320"
+	}
+	"146333"
+	{
+		"enable"		"-1"
+		"hammerid"		"146333"
+	}
+	"146345"
+	{
+		"enable"		"-1"
+		"hammerid"		"146345"
+	}
+	"146351"
+	{
+		"enable"		"-1"
+		"hammerid"		"146351"
+	}
+	"146375"
+	{
+		"enable"		"-1"
+		"hammerid"		"146375"
+	}
+	"146378"
+	{
+		"enable"		"-1"
+		"hammerid"		"146378"
+	}
+	"146381"
+	{
+		"enable"		"-1"
+		"hammerid"		"146381"
+	}
+	"146384"
+	{
+		"enable"		"-1"
+		"hammerid"		"146384"
+	}
+	"146423"
+	{
+		"enable"		"-1"
+		"hammerid"		"146423"
+	}
+	"146426"
+	{
+		"enable"		"-1"
+		"hammerid"		"146426"
+	}
+	"146429"
+	{
+		"enable"		"-1"
+		"hammerid"		"146429"
+	}
+	"146432"
+	{
+		"enable"		"-1"
+		"hammerid"		"146432"
+	}
+	"146459"
+	{
+		"enable"		"-1"
+		"hammerid"		"146459"
+	}
+	"146462"
+	{
+		"enable"		"-1"
+		"hammerid"		"146462"
+	}
+	"146465"
+	{
+		"enable"		"-1"
+		"hammerid"		"146465"
+	}
+	"146468"
+	{
+		"enable"		"-1"
+		"hammerid"		"146468"
+	}
 }

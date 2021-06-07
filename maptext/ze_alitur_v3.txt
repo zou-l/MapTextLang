@@ -300,7 +300,23 @@
 	{
 		"chi"		"** **"
 	}
-	"*** Kill the remaining zombie ***"
+	"*** Button No.3 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Chenge lvl : 3 ***"
+	{
+		"chi"		"** **"
+	}
+	"Admin chenge Nextmap : ze_crazy_escape_v5"
+	{
+		"chi"		"** **"
+	}
+	"*** Chenge lvl : 2 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Chenge lvl : 1 ***"
 	{
 		"chi"		"** **"
 	}

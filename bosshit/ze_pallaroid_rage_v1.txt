@@ -90,4 +90,10 @@
 		"hammerid"		"31793"
 		"m_iname"		"After_boss1_Breakable"
 	}
+	"31816"
+	{
+		"enable"		"-1"
+		"hammerid"		"31816"
+		"m_iname"		"patrick"
+	}
 }

@@ -114,4 +114,34 @@
 		"hammerid"		"3313"
 		"m_iname"		"steyr_break"
 	}
+	"678"
+	{
+		"enable"		"-1"
+		"hammerid"		"678"
+	}
+	"681"
+	{
+		"enable"		"-1"
+		"hammerid"		"681"
+	}
+	"890"
+	{
+		"enable"		"-1"
+		"hammerid"		"890"
+	}
+	"911"
+	{
+		"enable"		"-1"
+		"hammerid"		"911"
+	}
+	"914"
+	{
+		"enable"		"-1"
+		"hammerid"		"914"
+	}
+	"917"
+	{
+		"enable"		"-1"
+		"hammerid"		"917"
+	}
 }

@@ -228,4 +228,40 @@
 	{
 		"chi"		"** **"
 	}
+	"15s"
+	{
+		"chi"		"** **"
+	}
+	"WE FOUND IT!!! WE FOUND THE PATH!!! We are clearing the entrance now, fall back to us NOW!!!!"
+	{
+		"chi"		"** **"
+	}
+	"Thorin: Watch out!!!! The path is covered by those deadly plants, stay on the rocks and logs!!!!"
+	{
+		"chi"		"** **"
+	}
+	"Thorin: There are no shortcuts in Mirkwood, stick to the path!!!"
+	{
+		"chi"		"** **"
+	}
+	"20s"
+	{
+		"chi"		"** **"
+	}
+	"Thorin: The rocks are blocking the path, break through!!!"
+	{
+		"chi"		"** **"
+	}
+	"Thorin: The Spiders are gone, fall back now!!!!!"
+	{
+		"chi"		"** **"
+	}
+	"Thorin: Run, the orcs are comming!!!!"
+	{
+		"chi"		"** **"
+	}
+	"Thorin: There are Orc archers ahead, watch out for their arrrows!!!!"
+	{
+		"chi"		"** **"
+	}
 }

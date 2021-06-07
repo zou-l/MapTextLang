@@ -168,7 +168,7 @@
 	{
 		"chi"		"** **"
 	}
-	"***Boss is Dead***"
+	"***Boss is dead***"
 	{
 		"chi"		"**Boss死了！人类胜利！**"
 	}

@@ -485,4 +485,34 @@
 		"hammerid"		"189203"
 		"m_iname"		"PanicBossVent_B"
 	}
+	"569911"
+	{
+		"enable"		"-1"
+		"hammerid"		"569911"
+		"m_iname"		"mis"
+	}
+	"4051"
+	{
+		"enable"		"-1"
+		"hammerid"		"4051"
+		"m_iname"		"TornadoMove"
+	}
+	"585325"
+	{
+		"enable"		"-1"
+		"hammerid"		"585325"
+		"m_iname"		"PanicEndRubble&2018"
+	}
+	"585881"
+	{
+		"enable"		"-1"
+		"hammerid"		"585881"
+		"m_iname"		"PanicEndRubble&2018"
+	}
+	"487162"
+	{
+		"enable"		"-1"
+		"hammerid"		"487162"
+		"m_iname"		"SpitPanic_Physbox&0313"
+	}
 }

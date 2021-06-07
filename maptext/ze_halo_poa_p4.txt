@@ -36,7 +36,7 @@
 	{
 		"chi"		"** **"
 	}
-	"***5 SECONDS LEFT***"
+	"***5 seconds left***"
 	{
 		"chi"		"** **"
 	}
@@ -49,6 +49,94 @@
 		"chi"		"** **"
 	}
 	"***SPAM E ON THE BOMBS TO ACTIVATE THEM***"
+	{
+		"chi"		"** **"
+	}
+	"***UPPER DOOR IS OPENING IN 10 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***BOMB 2 HAS BEEN ACTIVATED***"
+	{
+		"chi"		"** **"
+	}
+	"***BOMB 1 HAS BEEN ACTIVATED***"
+	{
+		"chi"		"** **"
+	}
+	"***ELVATOR LEAVING IN 10 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***ELEVATOR LEAVING IN 10 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***YOU MUST ACTIVATE ALL 3 BOMBS BEFORE MOVING ON***"
+	{
+		"chi"		"** **"
+	}
+	"***BOMB 3 HAS BEEN ACTIVATED***"
+	{
+		"chi"		"** **"
+	}
+	"***ALL BOMBS ARE PLANTED***"
+	{
+		"chi"		"** **"
+	}
+	"***RUN DOWN TO ESCAPE***"
+	{
+		"chi"		"** **"
+	}
+	"***THE CARGO LIFT IS ON THE WAY***"
+	{
+		"chi"		"** **"
+	}
+	"***THE CARGO LIFT IS HERE***"
+	{
+		"chi"		"** **"
+	}
+	"***GET IN NUMBNUTS!***"
+	{
+		"chi"		"** **"
+	}
+	"***THE PODS ARE LEAVING IN 2 MINUTES***"
+	{
+		"chi"		"** **"
+	}
+	"***STRATEGISE YOUR DEFENDING TO ESCAPE SAFELY***"
+	{
+		"chi"		"** **"
+	}
+	"***GO!***"
+	{
+		"chi"		"** **"
+	}
+	"***OPENING POD DOORS***"
+	{
+		"chi"		"** **"
+	}
+	"***PODS LEAVING IN 10 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***CLOSING POD DOORS***"
+	{
+		"chi"		"** **"
+	}
+	"***PODS ARE LEAVING***"
+	{
+		"chi"		"** **"
+	}
+	"** DEFEND 30 SECONDS !!! **"
+	{
+		"chi"		"** **"
+	}
+	"** blueskytest **"
+	{
+		"chi"		"** **"
+	}
+	"The se"
 	{
 		"chi"		"** **"
 	}

@@ -408,4 +408,124 @@
 		"hammerid"		"270246"
 		"m_iname"		"stage2_start_wood"
 	}
+	"292039"
+	{
+		"enable"		"-1"
+		"hammerid"		"292039"
+	}
+	"270274"
+	{
+		"enable"		"-1"
+		"hammerid"		"270274"
+	}
+	"270291"
+	{
+		"enable"		"-1"
+		"hammerid"		"270291"
+	}
+	"266304"
+	{
+		"enable"		"-1"
+		"hammerid"		"266304"
+	}
+	"241176"
+	{
+		"enable"		"-1"
+		"hammerid"		"241176"
+	}
+	"241236"
+	{
+		"enable"		"-1"
+		"hammerid"		"241236"
+	}
+	"241250"
+	{
+		"enable"		"-1"
+		"hammerid"		"241250"
+	}
+	"241261"
+	{
+		"enable"		"-1"
+		"hammerid"		"241261"
+	}
+	"244057"
+	{
+		"enable"		"-1"
+		"hammerid"		"244057"
+	}
+	"244060"
+	{
+		"enable"		"-1"
+		"hammerid"		"244060"
+	}
+	"244063"
+	{
+		"enable"		"-1"
+		"hammerid"		"244063"
+	}
+	"244066"
+	{
+		"enable"		"-1"
+		"hammerid"		"244066"
+	}
+	"244070"
+	{
+		"enable"		"-1"
+		"hammerid"		"244070"
+	}
+	"244073"
+	{
+		"enable"		"-1"
+		"hammerid"		"244073"
+	}
+	"244076"
+	{
+		"enable"		"-1"
+		"hammerid"		"244076"
+	}
+	"244079"
+	{
+		"enable"		"-1"
+		"hammerid"		"244079"
+	}
+	"245576"
+	{
+		"enable"		"-1"
+		"hammerid"		"245576"
+	}
+	"245579"
+	{
+		"enable"		"-1"
+		"hammerid"		"245579"
+	}
+	"245582"
+	{
+		"enable"		"-1"
+		"hammerid"		"245582"
+	}
+	"245585"
+	{
+		"enable"		"-1"
+		"hammerid"		"245585"
+	}
+	"247090"
+	{
+		"enable"		"-1"
+		"hammerid"		"247090"
+	}
+	"247093"
+	{
+		"enable"		"-1"
+		"hammerid"		"247093"
+	}
+	"247096"
+	{
+		"enable"		"-1"
+		"hammerid"		"247096"
+	}
+	"247099"
+	{
+		"enable"		"-1"
+		"hammerid"		"247099"
+	}
 }

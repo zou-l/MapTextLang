@@ -1,0 +1,123 @@
+"Console_T"
+{
+	"***Shutter open in 20 seconds.***"
+	{
+		"chi"		"** **"
+	}
+	"***Escalator is blocked.***"
+	{
+		"chi"		"** **"
+	}
+	"***Shoot the tree!***"
+	{
+		"chi"		"** **"
+	}
+	"***The tree is broken.***"
+	{
+		"chi"		"** **"
+	}
+	"***Zombie teleport soon at 3rd floor.***"
+	{
+		"chi"		"** **"
+	}
+	"***Door open in 20 seconds.***"
+	{
+		"chi"		"** **"
+	}
+	"***Door open in 10 seconds.***"
+	{
+		"chi"		"** **"
+	}
+	"***Zombie teleport soon at 1st floor.***"
+	{
+		"chi"		"** **"
+	}
+	"***Door open in 15 seconds.***"
+	{
+		"chi"		"** **"
+	}
+	"***Open the emergency door...***"
+	{
+		"chi"		"** **"
+	}
+	"***Be ready to fight the horde!***"
+	{
+		"chi"		"** **"
+	}
+	"***Here they come...***"
+	{
+		"chi"		"** **"
+	}
+	"***Deactivate the alarm on the 3rd floor.***"
+	{
+		"chi"		"** **"
+	}
+	"***Zombie teleport soon at 2nd floor.***"
+	{
+		"chi"		"** **"
+	}
+	"***Go up fast!***"
+	{
+		"chi"		"** **"
+	}
+	"***Deactivated the alarm.***"
+	{
+		"chi"		"** **"
+	}
+	"***Defend here in 30 seconds.***"
+	{
+		"chi"		"** **"
+	}
+	"***Zombie coming from other side!***"
+	{
+		"chi"		"** **"
+	}
+	"***Watch out!***"
+	{
+		"chi"		"** **"
+	}
+	"***The path is clear!***"
+	{
+		"chi"		"** **"
+	}
+	"***Door close in 30 seconds.***"
+	{
+		"chi"		"** **"
+	}
+	"***Were safe... for now.***"
+	{
+		"chi"		"** **"
+	}
+	"***Route 2F button pressed in Admin room.***"
+	{
+		"chi"		"** **"
+	}
+	"***Nuke button pressed in Admin room.***"
+	{
+		"chi"		"** **"
+	}
+	"***Shoot out the store window...***"
+	{
+		"chi"		"** **"
+	}
+	"***Control room door is closed.***"
+	{
+		"chi"		"** **"
+	}
+	"***Defend here in 25 seconds.***"
+	{
+		"chi"		"** **"
+	}
+	"***Door is opened.***"
+	{
+		"chi"		"** **"
+	}
+	"***Kill all remaining zombies in safe room.***"
+	{
+		"chi"		"** **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"30963"
+	}
+}

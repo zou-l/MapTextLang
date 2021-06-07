@@ -475,6 +475,22 @@
 	}
 	"sync_version"
 	{
-		"syncvalue"		"17560"
+		"syncvalue"		"94307"
+	}
+	"<< No Misaka Mode for only one round >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Admin select STAGE IX >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Misaka mode >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Do not select this stage!!! >>"
+	{
+		"chi"		"** **"
 	}
 }

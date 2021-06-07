@@ -186,4 +186,10 @@
 		"hammerid"		"383176"
 		"m_iname"		"Boss3_Vent"
 	}
+	"383838"
+	{
+		"enable"		"-1"
+		"hammerid"		"383838"
+		"m_iname"		"SubZero_Phys"
+	}
 }

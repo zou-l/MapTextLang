@@ -256,4 +256,10 @@
 		"hammerid"		"151650"
 		"m_iname"		"L4_GreenAttack_Platforms"
 	}
+	"310247"
+	{
+		"enable"		"1"
+		"hammerid"		"310247"
+		"m_iname"		"L4_WhiteEyes_Hitbox"
+	}
 }

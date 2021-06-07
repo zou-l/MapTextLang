@@ -158,7 +158,7 @@
 	}
 	"2096387"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"2096387"
 		"m_iname"		"st1_dragonphysbox"
 	}
@@ -416,7 +416,7 @@
 	}
 	"7756"
 	{
-		"enable"		"-1"
+		"enable"		"1"
 		"hammerid"		"7756"
 	}
 }

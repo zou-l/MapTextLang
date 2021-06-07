@@ -444,10 +444,36 @@
 		"hammerid"		"652473"
 		"m_iname"		"train_car_door_2_damage2"
 	}
+	"652434"
+	{
+		"enable"		"0"
+		"hammerid"		"652434"
+		"m_iname"		"train_car_door_2_damage2_bullet"
+	}
 	"652479"
 	{
 		"enable"		"0"
 		"hammerid"		"652479"
 		"m_iname"		"train_car_door_2_damage1"
+	}
+	"676486"
+	{
+		"enable"		"-1"
+		"hammerid"		"676486"
+	}
+	"676525"
+	{
+		"enable"		"-1"
+		"hammerid"		"676525"
+	}
+	"676544"
+	{
+		"enable"		"-1"
+		"hammerid"		"676544"
+	}
+	"968708"
+	{
+		"enable"		"-1"
+		"hammerid"		"968708"
 	}
 }

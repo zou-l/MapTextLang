@@ -2,7 +2,7 @@
 {
 	"325192"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"325192"
 		"m_iname"		"enemy2_core1&7071"
 	}
@@ -74,7 +74,7 @@
 	}
 	"4195665"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"4195665"
 		"m_iname"		"radiation_target"
 	}

@@ -8,7 +8,7 @@
 	}
 	"2290947"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"2290947"
 		"m_iname"		"Cloak_Armor_Balthier"
 	}
@@ -425,5 +425,60 @@
 		"enable"		"0"
 		"hammerid"		"1449973"
 		"m_iname"		"Airship_Vent2_x"
+	}
+	"171529"
+	{
+		"enable"		"-1"
+		"hammerid"		"171529"
+	}
+	"171544"
+	{
+		"enable"		"-1"
+		"hammerid"		"171544"
+	}
+	"174970"
+	{
+		"enable"		"-1"
+		"hammerid"		"174970"
+	}
+	"404410"
+	{
+		"enable"		"-1"
+		"hammerid"		"404410"
+	}
+	"404421"
+	{
+		"enable"		"-1"
+		"hammerid"		"404421"
+	}
+	"404356"
+	{
+		"enable"		"-1"
+		"hammerid"		"404356"
+	}
+	"404392"
+	{
+		"enable"		"-1"
+		"hammerid"		"404392"
+	}
+	"604857"
+	{
+		"enable"		"-1"
+		"hammerid"		"604857"
+	}
+	"604861"
+	{
+		"enable"		"-1"
+		"hammerid"		"604861"
+	}
+	"604881"
+	{
+		"enable"		"-1"
+		"hammerid"		"604881"
+	}
+	"604885"
+	{
+		"enable"		"-1"
+		"hammerid"		"604885"
 	}
 }

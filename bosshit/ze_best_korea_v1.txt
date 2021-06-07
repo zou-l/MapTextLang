@@ -354,4 +354,9 @@
 		"hammerid"		"150776"
 		"m_iname"		"babyboss_hp"
 	}
+	"592090"
+	{
+		"enable"		"-1"
+		"hammerid"		"592090"
+	}
 }

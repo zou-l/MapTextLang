@@ -28,7 +28,7 @@
 	{
 		"chi"		"**大门正在打开**"
 	}
-	"Door Opens in 30 seconds!"
+	"Door Opens in 30 Seconds!"
 	{
 		"chi"		"**门在30s后打开**"
 	}
@@ -76,7 +76,7 @@
 	{
 		"chi"		"**守住30s**"
 	}
-	"Teleporting Zombies in 10 seconds!"
+	"Teleporting Zombies in 10 Seconds!"
 	{
 		"chi"		"**10s后僵尸传送**"
 	}
@@ -88,7 +88,7 @@
 	{
 		"chi"		"**门在40秒后打开**"
 	}
-	"Door opens in 10 seconds"
+	"Door opens in 10 Seconds"
 	{
 		"chi"		"**门在10s后打开**"
 	}
@@ -136,7 +136,7 @@
 	{
 		"chi"		"**或许你要再等会**"
 	}
-	"Door opens in 20 Seconds!"
+	"Door Opens in 20 Seconds!"
 	{
 		"chi"		"**大门20s后打开**"
 	}
@@ -153,6 +153,62 @@
 		"chi"		"** **"
 	}
 	"Path opens in 40 seconds!"
+	{
+		"chi"		"** **"
+	}
+	"test"
+	{
+		"chi"		"** **"
+	}
+	"Hold here for a minute!"
+	{
+		"chi"		"** **"
+	}
+	"30! seconds! left!"
+	{
+		"chi"		"** **"
+	}
+	"Hold here for 20 seconds!"
+	{
+		"chi"		"** **"
+	}
+	"Hold for 35 Seconds!"
+	{
+		"chi"		"** **"
+	}
+	"Hold for 5 Seconds!"
+	{
+		"chi"		"** **"
+	}
+	"The way is open!"
+	{
+		"chi"		"** **"
+	}
+	"Hold here for 45 Seconds"
+	{
+		"chi"		"** **"
+	}
+	"15 Seconds left!"
+	{
+		"chi"		"** **"
+	}
+	"Please Hold till the tram warms up!"
+	{
+		"chi"		"** **"
+	}
+	"20 Seconds left!"
+	{
+		"chi"		"** **"
+	}
+	"Initializing Hard Def mode."
+	{
+		"chi"		"** **"
+	}
+	"Removing Items"
+	{
+		"chi"		"** **"
+	}
+	"You have beaten the map Congrats!"
 	{
 		"chi"		"** **"
 	}

@@ -1,0 +1,163 @@
+"Console_T"
+{
+	"World Level 01"
+	{
+		"chi"		"** **"
+	}
+	"*** Electric has been acquired ***"
+	{
+		"chi"		"** **"
+	}
+	"***You found a switch***"
+	{
+		"chi"		"** **"
+	}
+	"***Try to find more switches***"
+	{
+		"chi"		"** **"
+	}
+	"The first switch has been found"
+	{
+		"chi"		"** **"
+	}
+	"There are also three switches"
+	{
+		"chi"		"** **"
+	}
+	"The second switch has been found"
+	{
+		"chi"		"** **"
+	}
+	"There are also two switches"
+	{
+		"chi"		"** **"
+	}
+	"The third switch has been found"
+	{
+		"chi"		"** **"
+	}
+	"There is one switch left"
+	{
+		"chi"		"** **"
+	}
+	"We missed a switch"
+	{
+		"chi"		"** **"
+	}
+	"Try to find out"
+	{
+		"chi"		"** **"
+	}
+	"All the switches were pressed"
+	{
+		"chi"		"** **"
+	}
+	"Go to the next location"
+	{
+		"chi"		"** **"
+	}
+	"The road will be cleared soon"
+	{
+		"chi"		"** **"
+	}
+	"*** Heal has been acquired ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Rock has been acquired ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Wind has been acquired ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Fire has been acquired ***"
+	{
+		"chi"		"** **"
+	}
+	"***High mountain***"
+	{
+		"chi"		"** **"
+	}
+	"*** Water has been acquired ***"
+	{
+		"chi"		"** **"
+	}
+	"Kill all remaining zombies"
+	{
+		"chi"		"** **"
+	}
+	"Coming to the next level"
+	{
+		"chi"		"** **"
+	}
+	"World Level 02"
+	{
+		"chi"		"** **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"58854"
+	}
+	"Congratulations on completing all levels"
+	{
+		"chi"		"** **"
+	}
+	"***Flowing water***"
+	{
+		"chi"		"** **"
+	}
+	"*The left door is about to open*"
+	{
+		"chi"		"** **"
+	}
+	"*The right button is broken*"
+	{
+		"chi"		"** **"
+	}
+	"Have the conditions to enter the next scene"
+	{
+		"chi"		"** **"
+	}
+	"Ready to move on to the next location"
+	{
+		"chi"		"** **"
+	}
+	"***Challenge***"
+	{
+		"chi"		"** **"
+	}
+	"*Gain*"
+	{
+		"chi"		"** **"
+	}
+	"*Suction*"
+	{
+		"chi"		"** **"
+	}
+	"*Outside the circle*"
+	{
+		"chi"		"** **"
+	}
+	"*Defend*"
+	{
+		"chi"		"** **"
+	}
+	"*Thrust*"
+	{
+		"chi"		"** **"
+	}
+	"*In the circle*"
+	{
+		"chi"		"** **"
+	}
+	"*The right door is about to open*"
+	{
+		"chi"		"** **"
+	}
+	"*The left button is broken*"
+	{
+		"chi"		"** **"
+	}
+}

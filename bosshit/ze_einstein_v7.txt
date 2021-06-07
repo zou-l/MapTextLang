@@ -40,6 +40,76 @@
 	{
 		"enable"		"0"
 		"hammerid"		"281901"
-		"m_iname"		"FirePhysicsCore&0754"
+		"m_iname"		"FirePhysicsCore&7930"
+	}
+	"271883"
+	{
+		"enable"		"-1"
+		"hammerid"		"271883"
+	}
+	"175993"
+	{
+		"enable"		"-1"
+		"hammerid"		"175993"
+	}
+	"179151"
+	{
+		"enable"		"-1"
+		"hammerid"		"179151"
+	}
+	"130083"
+	{
+		"enable"		"-1"
+		"hammerid"		"130083"
+	}
+	"130108"
+	{
+		"enable"		"-1"
+		"hammerid"		"130108"
+	}
+	"130151"
+	{
+		"enable"		"-1"
+		"hammerid"		"130151"
+	}
+	"946"
+	{
+		"enable"		"-1"
+		"hammerid"		"946"
+	}
+	"949"
+	{
+		"enable"		"-1"
+		"hammerid"		"949"
+	}
+	"1220"
+	{
+		"enable"		"-1"
+		"hammerid"		"1220"
+	}
+	"1223"
+	{
+		"enable"		"-1"
+		"hammerid"		"1223"
+	}
+	"1228"
+	{
+		"enable"		"-1"
+		"hammerid"		"1228"
+	}
+	"1366"
+	{
+		"enable"		"-1"
+		"hammerid"		"1366"
+	}
+	"1391"
+	{
+		"enable"		"-1"
+		"hammerid"		"1391"
+	}
+	"2205"
+	{
+		"enable"		"-1"
+		"hammerid"		"2205"
 	}
 }

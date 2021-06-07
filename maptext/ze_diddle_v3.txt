@@ -3,7 +3,7 @@
 	"***THE DIDDLERY WILL COMMENCE IN 30 SECONDS***"
 	{
 		"chi"		"**欺骗游戏将在30秒后开始**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"***THE DIDDLERY WILL COMMENCE IN 20 SECONDS***"
 	{
@@ -92,6 +92,7 @@
 	"*Elevator Activating in 10 seconds*"
 	{
 		"chi"		"**电梯10秒后激活**"
+		"DoorCountDown"		"10"
 	}
 	"*Elevator activated*"
 	{
@@ -104,6 +105,7 @@
 	"*Wall 2 breaks in 40 seconds*"
 	{
 		"chi"		"**二号墙在40秒后破碎**"
+		"DoorCountDown"		"40"
 	}
 	"*Do you hear that?*"
 	{
@@ -124,6 +126,7 @@
 	"*Gates closing in 5 seconds*"
 	{
 		"chi"		"**大门将在5秒后关闭**"
+		"DoorCountDown"		"5"
 	}
 	"*Gates closing*"
 	{
@@ -200,7 +203,7 @@
 	"*Wall 1 breaks in 40 seconds*"
 	{
 		"chi"		"**一号墙40秒后破碎**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"***SACRIFICE YOUR LOVE***"
 	{
@@ -221,12 +224,12 @@
 	"<== Get 2 !  ==>"
 	{
 		"chi"		">>>拿到2个<<<"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"<== Get 3 !  ==>"
 	{
 		"chi"		">>>拿到3个<<<"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"<== Get 5 !  ==>"
 	{
@@ -235,17 +238,17 @@
 	"<== Get 4 !  ==>"
 	{
 		"chi"		">>>拿到4个<<<"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"<== Get 6 !  ==>"
 	{
 		"chi"		">>>拿到6个<<<"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"<== Get 1 !  ==>"
 	{
 		"chi"		">>>拿到1个<<<"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"***TPING IN 10 SECS***"
 	{
@@ -506,6 +509,7 @@
 	"***Turtle heals every 50 seconds***"
 	{
 		"chi"		"**恶魔海龟每五十秒会自我加血，抓紧时间输出**"
+		"DoorCountDown"		"-1"
 	}
 	"***The digletts have been defeated*** gg"
 	{
@@ -526,7 +530,7 @@
 	"*Tiki 2 Broken*"
 	{
 		"chi"		"**2号海龟箱子已经被破坏了**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"*Demon Turtle seems to be angrier*"
 	{
@@ -539,12 +543,12 @@
 	"*Demon Turtle casts 29--"
 	{
 		"chi"		"**跳上前面平台，然后再跳回来**"
-		"DoorCountdown"		"5"
+		"DoorCountDown"		"5"
 	}
 	"*Demon Turtle 7_) Launch2.0.exe*"
 	{
 		"chi"		"**二重乱码条攻击（先大跳后蹲）**"
-		"DoorCountdown"		"5"
+		"DoorCountDown"		"5"
 	}
 	"*-9).$ casts -Turtle.jpg*"
 	{
@@ -553,7 +557,7 @@
 	"*Demon Turtle casts Launch*"
 	{
 		"chi"		"**使用了乱码条攻击（蹲下来）**"
-		"DoorCountdown"		"5"
+		"DoorCountDown"		"5"
 	}
 	"*Something is happening..*"
 	{
@@ -619,7 +623,7 @@
 	{
 		"chi"		"**剩余5秒**"
 	}
-	"***Fall back***"
+	"***Fall Back***"
 	{
 		"chi"		"**撤退**"
 	}
@@ -710,7 +714,7 @@
 	"***A VAGINA RUNS 78 MILES PER DAY ON AVERAGE***"
 	{
 		"chi"		"**引道平均每天跑78英里**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"***A VAGINA INCLUDES CHILD SUPPORT***"
 	{
@@ -775,7 +779,7 @@
 	"***A VAGINA EATS PIZZA DAILY***"
 	{
 		"chi"		"**引道每天都吃披萨**"
-		"DoorCountdown"		"3"
+		"DoorCountDown"		"3"
 	}
 	"***A VAGINA CAN FART***"
 	{
@@ -792,7 +796,7 @@
 	"***A VAGINA RUNS AROUND THE PRIZE OF 40$***"
 	{
 		"chi"		"**引道四处奔忙，为了赚40$**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"***A VAGINA GIVES BIRTH TO GOOD PEOPLE***"
 	{
@@ -922,7 +926,7 @@
 	{
 		"chi"		"**欺骗他们20秒钟**"
 	}
-	"***go***"
+	"***GO***"
 	{
 		"chi"		"**快走**"
 	}
@@ -1209,7 +1213,7 @@
 	"there are probably AT LEAST 50 people in the world who likes to sniff cats buttholes"
 	{
 		"chi"		"**世界上可能至少有50个人喜欢闻猫屎的味道**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"why do we even exist"
 	{
@@ -1230,12 +1234,12 @@
 	"*Tiki 1 Broken - There are 2 more tikis to find*"
 	{
 		"chi"		"**1号海龟箱子已被打破-还有另外两个**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"*Tiki 3 Broken*"
 	{
 		"chi"		"**3号海龟箱子已被打破**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"sync_version"
 	{
@@ -1268,12 +1272,12 @@
 	"***TELEPORTING OUT IN 4 MINUTES***"
 	{
 		"chi"		"**传送4分钟后开始**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"***BURN ALL 10 HOUSES AND SHOOT ALL 5 WEEBS TO TELEPORT OUT EARLIER***"
 	{
 		"chi"		"**烧掉10间房子，并打碎5个手办可推迟人类传送**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"***ESCAPE YOUR LOVE***"
 	{
@@ -1298,7 +1302,7 @@
 	"***YOU WILL TELEPORT OUT IF YOU TAKE TOO LONG (2:30 MINUTES)***"
 	{
 		"chi"		"**如果你花费的时间太长(2分30秒)，你就会被传送**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"***HOLD THEM OFF FOR A LONG TIME***"
 	{
@@ -1543,6 +1547,22 @@
 	"*SOME ZS ARE IN FRONT WITH LOW HP, KILL THEM!*"
 	{
 		"chi"		"**一些低血量的僵尸被传送在前线，消灭它们**"
-		"DoorCountdown"		"10"
+		"DoorCountDown"		"10"
+	}
+	"***DIDDLE EXTREME ACTIVATED***"
+	{
+		"chi"		"** **"
+	}
+	"***PREPARE FOR ULTIMATE DIDDLING***"
+	{
+		"chi"		"** **"
+	}
+	"***REMOVING TORCHES IN 2 SECONDS...***"
+	{
+		"chi"		"** **"
+	}
+	"1"
+	{
+		"chi"		"** **"
 	}
 }

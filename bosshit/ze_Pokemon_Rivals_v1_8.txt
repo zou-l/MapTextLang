@@ -330,4 +330,226 @@
 		"hammerid"		"561515"
 		"m_iname"		"Pokeball_CT_1_phys"
 	}
+	"560355"
+	{
+		"enable"		"-1"
+		"hammerid"		"560355"
+		"m_iname"		"T_pokemon3"
+	}
+	"560357"
+	{
+		"enable"		"-1"
+		"hammerid"		"560357"
+		"m_iname"		"T_pokemon2"
+	}
+	"560375"
+	{
+		"enable"		"-1"
+		"hammerid"		"560375"
+		"m_iname"		"T_pokemon2"
+	}
+	"560377"
+	{
+		"enable"		"-1"
+		"hammerid"		"560377"
+		"m_iname"		"T_pokemon3"
+	}
+	"561140"
+	{
+		"enable"		"-1"
+		"hammerid"		"561140"
+		"m_iname"		"CT_pokemon3"
+	}
+	"561347"
+	{
+		"enable"		"-1"
+		"hammerid"		"561347"
+		"m_iname"		"CT_pokemon3"
+	}
+	"561598"
+	{
+		"enable"		"-1"
+		"hammerid"		"561598"
+		"m_iname"		"Weedle_Phys&0647"
+	}
+	"561571"
+	{
+		"enable"		"1"
+		"hammerid"		"561571"
+		"m_iname"		"Weedle_hitbox"
+	}
+	"561673"
+	{
+		"enable"		"-1"
+		"hammerid"		"561673"
+		"m_iname"		"Machop_Phys&0511"
+	}
+	"561609"
+	{
+		"enable"		"1"
+		"hammerid"		"561609"
+		"m_iname"		"Machop_hitbox"
+	}
+	"561480"
+	{
+		"enable"		"-1"
+		"hammerid"		"561480"
+		"m_iname"		"Horsea_Phys&0651"
+	}
+	"561469"
+	{
+		"enable"		"1"
+		"hammerid"		"561469"
+		"m_iname"		"Horsea_hitbox"
+	}
+	"561492"
+	{
+		"enable"		"-1"
+		"hammerid"		"561492"
+		"m_iname"		"Psyduck_Phys&0655"
+	}
+	"561428"
+	{
+		"enable"		"1"
+		"hammerid"		"561428"
+		"m_iname"		"Psyduck_hitbox"
+	}
+	"634952"
+	{
+		"enable"		"-1"
+		"hammerid"		"634952"
+		"m_iname"		"Misty_Ground"
+	}
+	"749242"
+	{
+		"enable"		"-1"
+		"hammerid"		"749242"
+		"m_iname"		"Misty_Ground2"
+	}
+	"796404"
+	{
+		"enable"		"-1"
+		"hammerid"		"796404"
+		"m_iname"		"Misty_Ground3"
+	}
+	"561732"
+	{
+		"enable"		"-1"
+		"hammerid"		"561732"
+		"m_iname"		"Attack_wall"
+	}
+	"561829"
+	{
+		"enable"		"-1"
+		"hammerid"		"561829"
+		"m_iname"		"Attack_wall"
+	}
+	"561661"
+	{
+		"enable"		"-1"
+		"hammerid"		"561661"
+		"m_iname"		"Diglett_Phys&0631"
+	}
+	"561650"
+	{
+		"enable"		"1"
+		"hammerid"		"561650"
+		"m_iname"		"Diglett_hitbox"
+	}
+	"561559"
+	{
+		"enable"		"-1"
+		"hammerid"		"561559"
+		"m_iname"		"Spearow_Phys&0659"
+	}
+	"561529"
+	{
+		"enable"		"1"
+		"hammerid"		"561529"
+		"m_iname"		"Spearow_hitbox"
+	}
+	"634962"
+	{
+		"enable"		"-1"
+		"hammerid"		"634962"
+		"m_iname"		"Brock_Ground"
+	}
+	"749173"
+	{
+		"enable"		"-1"
+		"hammerid"		"749173"
+		"m_iname"		"Brock_Ground2"
+	}
+	"796426"
+	{
+		"enable"		"-1"
+		"hammerid"		"796426"
+		"m_iname"		"Brock_Ground3"
+	}
+	"561387"
+	{
+		"enable"		"-1"
+		"hammerid"		"561387"
+		"m_iname"		"Pokeball_CT_2_phys"
+	}
+	"635002"
+	{
+		"enable"		"-1"
+		"hammerid"		"635002"
+		"m_iname"		"Gary_Ground"
+	}
+	"749136"
+	{
+		"enable"		"-1"
+		"hammerid"		"749136"
+		"m_iname"		"Gary_Ground2"
+	}
+	"796310"
+	{
+		"enable"		"-1"
+		"hammerid"		"796310"
+		"m_iname"		"Gary_Ground3"
+	}
+	"1000281"
+	{
+		"enable"		"-1"
+		"hammerid"		"1000281"
+		"m_iname"		"PalletTownGate_zmmode"
+	}
+	"778134"
+	{
+		"enable"		"-1"
+		"hammerid"		"778134"
+		"m_iname"		"Burned_humans"
+	}
+	"758568"
+	{
+		"enable"		"-1"
+		"hammerid"		"758568"
+		"m_iname"		"pikapika"
+	}
+	"778108"
+	{
+		"enable"		"-1"
+		"hammerid"		"778108"
+		"m_iname"		"Poisoned_humans"
+	}
+	"3881"
+	{
+		"enable"		"-1"
+		"hammerid"		"3881"
+		"m_iname"		"Oaks_zombie_cage2"
+	}
+	"778221"
+	{
+		"enable"		"-1"
+		"hammerid"		"778221"
+		"m_iname"		"Poisoned_zombies"
+	}
+	"779105"
+	{
+		"enable"		"-1"
+		"hammerid"		"779105"
+		"m_iname"		"Burned_zombies"
+	}
 }

@@ -180,4 +180,34 @@
 		"hammerid"		"687250"
 		"m_iname"		"breakable_3_4_5"
 	}
+	"1279017"
+	{
+		"enable"		"-1"
+		"hammerid"		"1279017"
+	}
+	"158227"
+	{
+		"enable"		"-1"
+		"hammerid"		"158227"
+	}
+	"93328"
+	{
+		"enable"		"-1"
+		"hammerid"		"93328"
+	}
+	"76574"
+	{
+		"enable"		"-1"
+		"hammerid"		"76574"
+	}
+	"76581"
+	{
+		"enable"		"-1"
+		"hammerid"		"76581"
+	}
+	"72947"
+	{
+		"enable"		"-1"
+		"hammerid"		"72947"
+	}
 }

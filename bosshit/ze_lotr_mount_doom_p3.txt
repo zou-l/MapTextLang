@@ -696,4 +696,104 @@
 		"hammerid"		"2279"
 		"m_iname"		"esca1"
 	}
+	"47629"
+	{
+		"enable"		"-1"
+		"hammerid"		"47629"
+	}
+	"47690"
+	{
+		"enable"		"-1"
+		"hammerid"		"47690"
+	}
+	"1307"
+	{
+		"enable"		"-1"
+		"hammerid"		"1307"
+	}
+	"1309"
+	{
+		"enable"		"-1"
+		"hammerid"		"1309"
+	}
+	"1311"
+	{
+		"enable"		"-1"
+		"hammerid"		"1311"
+	}
+	"1933"
+	{
+		"enable"		"-1"
+		"hammerid"		"1933"
+	}
+	"2316"
+	{
+		"enable"		"-1"
+		"hammerid"		"2316"
+	}
+	"44577"
+	{
+		"enable"		"-1"
+		"hammerid"		"44577"
+	}
+	"63167"
+	{
+		"enable"		"-1"
+		"hammerid"		"63167"
+	}
+	"63181"
+	{
+		"enable"		"-1"
+		"hammerid"		"63181"
+	}
+	"75335"
+	{
+		"enable"		"-1"
+		"hammerid"		"75335"
+	}
+	"75562"
+	{
+		"enable"		"-1"
+		"hammerid"		"75562"
+	}
+	"75574"
+	{
+		"enable"		"-1"
+		"hammerid"		"75574"
+	}
+	"75595"
+	{
+		"enable"		"-1"
+		"hammerid"		"75595"
+	}
+	"75607"
+	{
+		"enable"		"-1"
+		"hammerid"		"75607"
+	}
+	"83348"
+	{
+		"enable"		"-1"
+		"hammerid"		"83348"
+	}
+	"83352"
+	{
+		"enable"		"-1"
+		"hammerid"		"83352"
+	}
+	"83356"
+	{
+		"enable"		"-1"
+		"hammerid"		"83356"
+	}
+	"83773"
+	{
+		"enable"		"-1"
+		"hammerid"		"83773"
+	}
+	"97617"
+	{
+		"enable"		"-1"
+		"hammerid"		"97617"
+	}
 }

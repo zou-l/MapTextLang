@@ -90,4 +90,19 @@
 		"hammerid"		"44840"
 		"m_iname"		"boxik"
 	}
+	"38093"
+	{
+		"enable"		"-1"
+		"hammerid"		"38093"
+	}
+	"38529"
+	{
+		"enable"		"-1"
+		"hammerid"		"38529"
+	}
+	"44822"
+	{
+		"enable"		"-1"
+		"hammerid"		"44822"
+	}
 }

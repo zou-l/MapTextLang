@@ -72,4 +72,24 @@
 		"hammerid"		"21285"
 		"m_iname"		"GroundDoor"
 	}
+	"56962"
+	{
+		"enable"		"-1"
+		"hammerid"		"56962"
+	}
+	"15772"
+	{
+		"enable"		"-1"
+		"hammerid"		"15772"
+	}
+	"15793"
+	{
+		"enable"		"-1"
+		"hammerid"		"15793"
+	}
+	"10176"
+	{
+		"enable"		"-1"
+		"hammerid"		"10176"
+	}
 }

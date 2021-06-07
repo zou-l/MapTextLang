@@ -240,4 +240,10 @@
 		"hammerid"		"114576"
 		"m_iname"		"i_thunderspawner_phys&0903"
 	}
+	"114916"
+	{
+		"enable"		"-1"
+		"hammerid"		"114916"
+		"m_iname"		"i_ghost_mtarget&8589"
+	}
 }

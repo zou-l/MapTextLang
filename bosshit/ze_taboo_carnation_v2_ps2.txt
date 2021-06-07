@@ -126,4 +126,29 @@
 		"hammerid"		"1971384"
 		"m_iname"		"physboxGauss&1289"
 	}
+	"39680"
+	{
+		"enable"		"-1"
+		"hammerid"		"39680"
+	}
+	"51971"
+	{
+		"enable"		"-1"
+		"hammerid"		"51971"
+	}
+	"51987"
+	{
+		"enable"		"-1"
+		"hammerid"		"51987"
+	}
+	"140655"
+	{
+		"enable"		"-1"
+		"hammerid"		"140655"
+	}
+	"766204"
+	{
+		"enable"		"-1"
+		"hammerid"		"766204"
+	}
 }

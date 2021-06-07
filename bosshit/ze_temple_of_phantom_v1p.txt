@@ -1,0 +1,168 @@
+"BOSSHP"
+{
+	"642132"
+	{
+		"enable"		"0"
+		"hammerid"		"642132"
+		"m_iname"		"knife_fuhua_phys"
+	}
+	"372790"
+	{
+		"enable"		"0"
+		"hammerid"		"372790"
+		"m_iname"		"2_fire_bre"
+	}
+	"372793"
+	{
+		"enable"		"0"
+		"hammerid"		"372793"
+		"m_iname"		"2_fire_bre"
+	}
+	"384609"
+	{
+		"enable"		"0"
+		"hammerid"		"384609"
+		"m_iname"		"2_door_9_breaka1"
+	}
+	"384807"
+	{
+		"enable"		"1"
+		"hammerid"		"384807"
+		"m_iname"		"nrk_level5_hitbox"
+	}
+	"385375"
+	{
+		"enable"		"0"
+		"hammerid"		"385375"
+		"m_iname"		"2_hyfs_1_breaka"
+	}
+	"385379"
+	{
+		"enable"		"0"
+		"hammerid"		"385379"
+		"m_iname"		"2_hyfs_1_breaka_0"
+	}
+	"385449"
+	{
+		"enable"		"0"
+		"hammerid"		"385449"
+		"m_iname"		"2_hyfs_2_breaka"
+	}
+	"312433"
+	{
+		"enable"		"1"
+		"hammerid"		"312433"
+		"m_iname"		"1_boss_door"
+	}
+	"312676"
+	{
+		"enable"		"0"
+		"hammerid"		"312676"
+		"m_iname"		"lvl_phys"
+	}
+	"287979"
+	{
+		"enable"		"1"
+		"hammerid"		"287979"
+		"m_iname"		"hitbox"
+	}
+	"272496"
+	{
+		"enable"		"1"
+		"hammerid"		"272496"
+		"m_iname"		"1_boss_phys"
+	}
+	"264603"
+	{
+		"enable"		"0"
+		"hammerid"		"264603"
+	}
+	"265461"
+	{
+		"enable"		"0"
+		"hammerid"		"265461"
+		"m_iname"		"nrk1_button_5_door2"
+	}
+	"251721"
+	{
+		"enable"		"0"
+		"hammerid"		"251721"
+	}
+	"209014"
+	{
+		"enable"		"1"
+		"hammerid"		"209014"
+		"m_iname"		"1_boss_snow_door2_break2"
+	}
+	"204746"
+	{
+		"enable"		"1"
+		"hammerid"		"204746"
+		"m_iname"		"1_boss_snow_door2_break"
+	}
+	"191702"
+	{
+		"enable"		"0"
+		"hammerid"		"191702"
+	}
+	"157177"
+	{
+		"enable"		"0"
+		"hammerid"		"157177"
+		"m_iname"		"wk_box"
+	}
+	"40138"
+	{
+		"enable"		"0"
+		"hammerid"		"40138"
+		"m_iname"		"TD1_door_1_1_1_1_1"
+	}
+	"40228"
+	{
+		"enable"		"0"
+		"hammerid"		"40228"
+		"m_iname"		"TD1_door_1_1_1_1_1"
+	}
+	"32970"
+	{
+		"enable"		"0"
+		"hammerid"		"32970"
+		"m_iname"		"TD1_door_1_1_1"
+	}
+	"33047"
+	{
+		"enable"		"0"
+		"hammerid"		"33047"
+		"m_iname"		"TD1_door_1_1_1_1"
+	}
+	"27062"
+	{
+		"enable"		"0"
+		"hammerid"		"27062"
+		"m_iname"		"TD1_door_1"
+	}
+	"27110"
+	{
+		"enable"		"0"
+		"hammerid"		"27110"
+		"m_iname"		"TD1_door_1_1"
+	}
+	"1720"
+	{
+		"enable"		"0"
+		"hammerid"		"1720"
+		"m_iname"		"lvl_phys"
+	}
+	"42411"
+	{
+		"enable"		"0"
+		"hammerid"		"42411"
+		"m_iname"		"zshield_box2"
+	}
+	"42337"
+	{
+		"enable"		"-1"
+		"hammerid"		"42337"
+		"m_iname"		"item_zm_Frozen_ice&6607"
+	}
+}

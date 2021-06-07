@@ -30,4 +30,44 @@
 		"hammerid"		"4249"
 		"m_iname"		"breakable_transporter"
 	}
+	"3021"
+	{
+		"enable"		"-1"
+		"hammerid"		"3021"
+	}
+	"3030"
+	{
+		"enable"		"-1"
+		"hammerid"		"3030"
+	}
+	"3768"
+	{
+		"enable"		"-1"
+		"hammerid"		"3768"
+	}
+	"3770"
+	{
+		"enable"		"-1"
+		"hammerid"		"3770"
+	}
+	"3941"
+	{
+		"enable"		"-1"
+		"hammerid"		"3941"
+	}
+	"4251"
+	{
+		"enable"		"-1"
+		"hammerid"		"4251"
+	}
+	"4253"
+	{
+		"enable"		"-1"
+		"hammerid"		"4253"
+	}
+	"4255"
+	{
+		"enable"		"-1"
+		"hammerid"		"4255"
+	}
 }

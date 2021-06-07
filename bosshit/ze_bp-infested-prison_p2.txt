@@ -24,4 +24,29 @@
 		"hammerid"		"56328"
 		"m_iname"		"Grate_Bunker"
 	}
+	"18876"
+	{
+		"enable"		"-1"
+		"hammerid"		"18876"
+	}
+	"18889"
+	{
+		"enable"		"-1"
+		"hammerid"		"18889"
+	}
+	"21275"
+	{
+		"enable"		"-1"
+		"hammerid"		"21275"
+	}
+	"23242"
+	{
+		"enable"		"-1"
+		"hammerid"		"23242"
+	}
+	"26164"
+	{
+		"enable"		"-1"
+		"hammerid"		"26164"
+	}
 }

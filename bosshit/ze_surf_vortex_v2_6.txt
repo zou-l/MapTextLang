@@ -84,4 +84,59 @@
 		"hammerid"		"8172"
 		"m_iname"		"secret_p1"
 	}
+	"21476"
+	{
+		"enable"		"-1"
+		"hammerid"		"21476"
+	}
+	"20508"
+	{
+		"enable"		"-1"
+		"hammerid"		"20508"
+	}
+	"2423"
+	{
+		"enable"		"-1"
+		"hammerid"		"2423"
+	}
+	"2470"
+	{
+		"enable"		"-1"
+		"hammerid"		"2470"
+	}
+	"2473"
+	{
+		"enable"		"-1"
+		"hammerid"		"2473"
+	}
+	"2476"
+	{
+		"enable"		"-1"
+		"hammerid"		"2476"
+	}
+	"2479"
+	{
+		"enable"		"-1"
+		"hammerid"		"2479"
+	}
+	"2482"
+	{
+		"enable"		"-1"
+		"hammerid"		"2482"
+	}
+	"2485"
+	{
+		"enable"		"-1"
+		"hammerid"		"2485"
+	}
+	"2488"
+	{
+		"enable"		"-1"
+		"hammerid"		"2488"
+	}
+	"2491"
+	{
+		"enable"		"-1"
+		"hammerid"		"2491"
+	}
 }

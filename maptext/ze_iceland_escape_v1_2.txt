@@ -88,4 +88,8 @@
 	{
 		"syncvalue"		"88178"
 	}
+	"## Secret way triggred ##"
+	{
+		"chi"		"** **"
+	}
 }

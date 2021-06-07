@@ -78,4 +78,29 @@
 		"hammerid"		"885"
 		"m_iname"		"iiiiiiiiiiiiiiiiiiiiiiiiiiiiiii"
 	}
+	"770"
+	{
+		"enable"		"-1"
+		"hammerid"		"770"
+	}
+	"857"
+	{
+		"enable"		"-1"
+		"hammerid"		"857"
+	}
+	"908"
+	{
+		"enable"		"-1"
+		"hammerid"		"908"
+	}
+	"910"
+	{
+		"enable"		"-1"
+		"hammerid"		"910"
+	}
+	"812"
+	{
+		"enable"		"-1"
+		"hammerid"		"812"
+	}
 }

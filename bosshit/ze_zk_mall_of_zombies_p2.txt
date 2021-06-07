@@ -149,4 +149,16 @@
 		"enable"		"-1"
 		"hammerid"		"224229"
 	}
+	"611250"
+	{
+		"enable"		"-1"
+		"hammerid"		"611250"
+		"m_iname"		"DoorCarnage&3562"
+	}
+	"611259"
+	{
+		"enable"		"-1"
+		"hammerid"		"611259"
+		"m_iname"		"DoorCarnage&3562"
+	}
 }

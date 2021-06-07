@@ -150,4 +150,24 @@
 		"hammerid"		"637264"
 		"m_iname"		"Wall"
 	}
+	"41716"
+	{
+		"enable"		"-1"
+		"hammerid"		"41716"
+	}
+	"41897"
+	{
+		"enable"		"-1"
+		"hammerid"		"41897"
+	}
+	"31930"
+	{
+		"enable"		"-1"
+		"hammerid"		"31930"
+	}
+	"22835"
+	{
+		"enable"		"-1"
+		"hammerid"		"22835"
+	}
 }

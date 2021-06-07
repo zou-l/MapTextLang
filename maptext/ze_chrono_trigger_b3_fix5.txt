@@ -44,6 +44,7 @@
 	"*** Zombies teleporting in 3 seconds... ***"
 	{
 		"chi"		"**僵尸3秒后传送! **"
+		"DoorCountDown"		"-1"
 	}
 	"*** Teleporter activating in 20 seconds. ***"
 	{
@@ -68,15 +69,15 @@
 	}
 	"*** Barrier 1 breaking in 20 seconds... ***"
 	{
-		"chi"		"**屏障一将在20秒后打开 **"
+		"chi"		"**屏障一将在20秒后打开**"
 	}
 	"*** Barrier 1 breaking in 10 seconds... ***"
 	{
-		"chi"		"**屏障一将在10秒后打开 **"
+		"chi"		"**屏障一将在10秒后打开**"
 	}
 	"*** Barrier 2 breaking in 10 seconds... ***"
 	{
-		"chi"		"**屏障二将在10秒后打开 **"
+		"chi"		"**屏障二将在10秒后打开**"
 	}
 	"*** The temple is locked? ***"
 	{
@@ -197,15 +198,15 @@
 	}
 	"*** Barrier 1 breaking in 15 seconds.. ***"
 	{
-		"chi"		"**一号屏障15秒后打开 **"
+		"chi"		"**一号屏障15秒后打开**"
 	}
 	"*** Barrier 2 breaking in 15 seconds.. ***"
 	{
-		"chi"		"**二号屏障15秒后打开 **"
+		"chi"		"**二号屏障15秒后打开**"
 	}
 	"*** Barrier 3 breaking in 15 seconds.. ***"
 	{
-		"chi"		"**三号屏障15秒后打开 **"
+		"chi"		"**三号屏障15秒后打开**"
 	}
 	"*** Defend for 20 seconds aboard the bridge! ***"
 	{

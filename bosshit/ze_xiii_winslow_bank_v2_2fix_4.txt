@@ -48,4 +48,10 @@
 		"hammerid"		"40664"
 		"m_iname"		"item1"
 	}
+	"27522"
+	{
+		"enable"		"-1"
+		"hammerid"		"27522"
+		"m_iname"		"n1"
+	}
 }

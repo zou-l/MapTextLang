@@ -45,7 +45,7 @@
 	{
 		"chi"		"**水神器已经被拾取**"
 	}
-	"*** DOOR OPENING IN 20 SECONDS ***"
+	"*** Door opening in 20 seconds ***"
 	{
 		"chi"		"**门还有20秒后开启**"
 	}
@@ -57,7 +57,7 @@
 	{
 		"chi"		"**门还有30秒后开启**"
 	}
-	"*** DOOR OPENING IN 5 SECONDS ***"
+	"*** Door opening in 5 seconds ***"
 	{
 		"chi"		"**门还有5秒后开启，撤退时别忘记放神器或者宽口高爆窄口火**"
 	}
@@ -73,7 +73,7 @@
 	{
 		"chi"		"**治疗（奶）已经被拾取**"
 	}
-	"*** DEFEND FOR 30 SECONDS ***"
+	"*** Defend for 30 seconds ***"
 	{
 		"chi"		"**守住30秒**"
 	}
@@ -166,6 +166,7 @@
 	"*** Defend until the path is clear ***"
 	{
 		"chi"		"**30秒 守到蜘蛛网清除**"
+		"DoorCountDown"		"-1"
 	}
 	">> PLAYER HAS PICKED UP 6 MINES <<"
 	{

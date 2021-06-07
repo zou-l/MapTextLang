@@ -102,4 +102,84 @@
 		"hammerid"		"1650"
 		"m_iname"		"crateblock"
 	}
+	"1097"
+	{
+		"enable"		"-1"
+		"hammerid"		"1097"
+	}
+	"1099"
+	{
+		"enable"		"-1"
+		"hammerid"		"1099"
+	}
+	"1154"
+	{
+		"enable"		"-1"
+		"hammerid"		"1154"
+	}
+	"1156"
+	{
+		"enable"		"-1"
+		"hammerid"		"1156"
+	}
+	"1162"
+	{
+		"enable"		"-1"
+		"hammerid"		"1162"
+	}
+	"1193"
+	{
+		"enable"		"-1"
+		"hammerid"		"1193"
+	}
+	"1347"
+	{
+		"enable"		"-1"
+		"hammerid"		"1347"
+	}
+	"1375"
+	{
+		"enable"		"-1"
+		"hammerid"		"1375"
+	}
+	"1564"
+	{
+		"enable"		"-1"
+		"hammerid"		"1564"
+	}
+	"1571"
+	{
+		"enable"		"-1"
+		"hammerid"		"1571"
+	}
+	"1580"
+	{
+		"enable"		"-1"
+		"hammerid"		"1580"
+	}
+	"1648"
+	{
+		"enable"		"-1"
+		"hammerid"		"1648"
+	}
+	"1658"
+	{
+		"enable"		"-1"
+		"hammerid"		"1658"
+	}
+	"1660"
+	{
+		"enable"		"-1"
+		"hammerid"		"1660"
+	}
+	"1676"
+	{
+		"enable"		"-1"
+		"hammerid"		"1676"
+	}
+	"1678"
+	{
+		"enable"		"-1"
+		"hammerid"		"1678"
+	}
 }

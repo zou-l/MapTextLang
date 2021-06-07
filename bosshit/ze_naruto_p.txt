@@ -180,4 +180,87 @@
 		"hammerid"		"865206"
 		"m_iname"		"break_lvl_hard"
 	}
+	"13667"
+	{
+		"enable"		"-1"
+		"hammerid"		"13667"
+	}
+	"15577"
+	{
+		"enable"		"-1"
+		"hammerid"		"15577"
+		"m_iname"		"break_bibli"
+	}
+	"15591"
+	{
+		"enable"		"-1"
+		"hammerid"		"15591"
+		"m_iname"		"break_bibli"
+	}
+	"130582"
+	{
+		"enable"		"-1"
+		"hammerid"		"130582"
+	}
+	"130586"
+	{
+		"enable"		"-1"
+		"hammerid"		"130586"
+	}
+	"130590"
+	{
+		"enable"		"-1"
+		"hammerid"		"130590"
+	}
+	"471469"
+	{
+		"enable"		"-1"
+		"hammerid"		"471469"
+		"m_iname"		"bibli_1"
+	}
+	"471578"
+	{
+		"enable"		"-1"
+		"hammerid"		"471578"
+		"m_iname"		"bibli_2"
+	}
+	"866189"
+	{
+		"enable"		"-1"
+		"hammerid"		"866189"
+	}
+	"881202"
+	{
+		"enable"		"-1"
+		"hammerid"		"881202"
+	}
+	"884603"
+	{
+		"enable"		"-1"
+		"hammerid"		"884603"
+	}
+	"1058421"
+	{
+		"enable"		"1"
+		"hammerid"		"1058421"
+		"m_iname"		"SasukeBoss_Hitbox"
+	}
+	"1058424"
+	{
+		"enable"		"1"
+		"hammerid"		"1058424"
+		"m_iname"		"SasukeBoss_HitboxHE"
+	}
+	"1047584"
+	{
+		"enable"		"1"
+		"hammerid"		"1047584"
+		"m_iname"		"SasukeBossFake_Hitbox&0373"
+	}
+	"1047621"
+	{
+		"enable"		"1"
+		"hammerid"		"1047621"
+		"m_iname"		"SasukeBossFake_HitboxHE&0373"
+	}
 }

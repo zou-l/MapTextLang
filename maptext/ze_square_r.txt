@@ -47,7 +47,7 @@
 	"***Neptune will teleport you after 15sec...***"
 	{
 		"chi"		"**Neptune将在15s后将你传送 **"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"Neptune : FALL BACK ! ! !"
 	{
@@ -65,7 +65,7 @@
 	{
 		"chi"		"**撤退！！！ **"
 	}
-	"***Boss used Gravity***"
+	"***BOSS used gravity***"
 	{
 		"chi"		"**boss释放了黑洞 **"
 	}
@@ -73,7 +73,7 @@
 	{
 		"chi"		"**boss释放了电 **"
 	}
-	"***Boss used Fire***"
+	"***BOSS used fire***"
 	{
 		"chi"		"**boss释放了火 **"
 	}

@@ -66,4 +66,39 @@
 		"hammerid"		"184361"
 		"m_iname"		"guncover"
 	}
+	"184167"
+	{
+		"enable"		"-1"
+		"hammerid"		"184167"
+	}
+	"18740"
+	{
+		"enable"		"-1"
+		"hammerid"		"18740"
+	}
+	"18743"
+	{
+		"enable"		"-1"
+		"hammerid"		"18743"
+	}
+	"18745"
+	{
+		"enable"		"-1"
+		"hammerid"		"18745"
+	}
+	"18747"
+	{
+		"enable"		"-1"
+		"hammerid"		"18747"
+	}
+	"18749"
+	{
+		"enable"		"-1"
+		"hammerid"		"18749"
+	}
+	"18751"
+	{
+		"enable"		"-1"
+		"hammerid"		"18751"
+	}
 }

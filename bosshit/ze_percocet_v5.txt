@@ -66,4 +66,14 @@
 		"hammerid"		"4268"
 		"m_iname"		"break_2"
 	}
+	"49164"
+	{
+		"enable"		"-1"
+		"hammerid"		"49164"
+	}
+	"49176"
+	{
+		"enable"		"-1"
+		"hammerid"		"49176"
+	}
 }
