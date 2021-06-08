@@ -11,6 +11,7 @@ AUTOBHOP <- false;
 
 function MapStart()
 {
+	EntFire("console", "Command", "say >>> say script by BlueSkyClouds on 2021.06.08 <<<", 0.00, null);
 	if(BLOCKWANDSHOP){CLOSEWANDSHOP=true;EntFire("map_wandblock_ZM", "Enable", "", 0.00, null);EntFire("map_wandblock_HM", "Enable", "", 0.00, null);}
 	else if(!BLOCKWANDSHOP && CLOSEWANDSHOP){CLOSEWANDSHOP=false;EntFire("map_wandblock_ZM", "Disable", "", 0.00, null);EntFire("map_wandblock_HM", "Disable", "", 0.00, null);}
 	EntFire("item_level_0", "SetText", "YOUR ITEM LEVEL: 0", 0.00, null);
