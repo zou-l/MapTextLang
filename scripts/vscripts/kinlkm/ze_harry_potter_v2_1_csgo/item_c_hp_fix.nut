@@ -1,4 +1,3 @@
-//repush
 ZMITEMLVLUP <- 0;
 ITEM_DISABLE <- true;
 ZOMBIE_ITEM_DISABLE <- true;
@@ -1201,7 +1200,7 @@ function IncendioReceivedLevel()
 {
     if(INCENDIOLEVEL == 0)
     {
-        EntFire("spx_impedimenta_spwnr_entmaker","AddOutput","EntityTemplate spx_incendio_spwnr_template",0.00,null);
+        EntFire("spx_incendio_spwnr_entmaker","AddOutput","EntityTemplate spx_incendio_spwnr_template",0.00,null);
         EntFire("spx_effect_upgrade_incendio","ClearParent","",1.00,null);
         EntFire("spx_effect_upgrade_incendio","Stop","",1.00,null);
         EntFire("spx_incendio_trigger1","ClearParent","",2.00,null);
@@ -1222,7 +1221,7 @@ function IncendioReceivedLevel()
     else if(INCENDIOLEVEL == 1)
     {
         IncendioItemLevel1M();
-        EntFire("spx_impedimenta_spwnr_entmaker","AddOutput","EntityTemplate spx_incendio_spwnr_template1",0.00,null);
+        EntFire("spx_incendio_spwnr_entmaker","AddOutput","EntityTemplate spx_incendio_spwnr_template1",0.00,null);
         EntFire("spx_effect_upgrade_incendio","Start","",0.00,null);
         EntFire("spx_effect_upgrade_incendio","ClearParent","",1.00,null);
         EntFire("spx_effect_upgrade_incendio","Stop","",1.00,null);
@@ -1245,7 +1244,7 @@ function IncendioReceivedLevel()
     {
         IncendioItemLevel2M();
         ZMITEMLVLUP++;
-        EntFire("spx_impedimenta_spwnr_entmaker","AddOutput","EntityTemplate spx_incendio_spwnr_template2",0.00,null);
+        EntFire("spx_incendio_spwnr_entmaker","AddOutput","EntityTemplate spx_incendio_spwnr_template2",0.00,null);
         EntFire("spx_effect_upgrade_incendio","Start","",0.00,null);
         EntFire("spx_effect_upgrade_incendio","ClearParent","",1.00,null);
         EntFire("spx_effect_upgrade_incendio","Stop","",1.00,null);
@@ -1268,7 +1267,7 @@ function IncendioReceivedLevel()
     {
         IncendioItemLevel3M();
         ZMITEMLVLUP++;
-        EntFire("spx_impedimenta_spwnr_entmaker","AddOutput","EntityTemplate spx_incendio_spwnr_template3",0.00,null);
+        EntFire("spx_incendio_spwnr_entmaker","AddOutput","EntityTemplate spx_incendio_spwnr_template3",0.00,null);
         EntFire("spx_effect_upgrade_incendio","Start","",0.00,null);
         EntFire("spx_effect_upgrade_incendio","ClearParent","",1.00,null);
         EntFire("spx_effect_upgrade_incendio","Stop","",1.00,null);
@@ -1291,7 +1290,7 @@ function IncendioReceivedLevel()
     {
         IncendioItemLevel4M();
         ZMITEMLVLUP++;
-        EntFire("spx_impedimenta_spwnr_entmaker","AddOutput","EntityTemplate spx_incendio_spwnr_template3",0.00,null);
+        EntFire("spx_incendio_spwnr_entmaker","AddOutput","EntityTemplate spx_incendio_spwnr_template3",0.00,null);
         EntFire("spx_effect_upgrade_incendio","Start","",0.00,null);
         EntFire("spx_effect_upgrade_incendio","ClearParent","",1.00,null);
         EntFire("spx_effect_upgrade_incendio","Stop","",1.00,null);
