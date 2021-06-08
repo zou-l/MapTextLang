@@ -2395,7 +2395,7 @@ function SetPlayerScript()
 	{
 		if(FplHu.GetTeam() == 3 && FplHu.GetHealth() > 0 && FplHu.GetName() != "player_s" && FplHu.GetName() != "harrypotter")
 		{
-            EntFire("!activator", "RunScriptFile", "harryk/harry_player.nut", 0.00, FplHu);
+            EntFire("!activator", "RunScriptFile", "kinlkm/ze_harry_potter_v2_1_csgo/harry_player_fix.nut", 0.00, FplHu);
             EntFire("!activator", "AddOutput", "targetname player_s", 0.01, FplHu);
 		}
 	}
@@ -2404,7 +2404,7 @@ function SetPlayerScript()
 	{
 		if(FplZm.GetTeam() == 2 && FplZm.GetHealth() > 0 && FplZm.GetName() != "player_s" && FplZm.GetName() != "harrypotter")
 		{
-            EntFire("!activator", "RunScriptFile", "harryk/harry_player.nut", 0.00, FplZm);
+            EntFire("!activator", "RunScriptFile", "kinlkm/ze_harry_potter_v2_1_csgo/harry_player_fix.nut", 0.00, FplZm);
             EntFire("!activator", "AddOutput", "targetname player_s", 0.01, FplZm);
 		}
 	}
