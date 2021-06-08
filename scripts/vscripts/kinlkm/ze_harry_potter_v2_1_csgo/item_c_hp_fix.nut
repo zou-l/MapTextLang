@@ -2256,7 +2256,7 @@ function PickUpExpulso()
     EntFireByHandle(self,"RunScriptCode","CheckOwnerExpulso();",5.00,null,null);
     if(EXPULSOONCE)
     {
-        EntFire("!activator", "AddOutput", "origin 12300 9336 13586", 0.10, EXPULSOACT);
+        EntFire("!activator", "AddOutput", "origin 11458 9416 13614", 0.10, EXPULSOACT);
         EntFireByHandle(self,"RunScriptCode","ExpulsoReceivedLevel();",0.01,null,null);
         EXPULSOONCE = false;
     }
@@ -3471,55 +3471,55 @@ function CheckZMPickUpItemsFix()
 	if(activator==EXPULSOACT)
 	{
 		EntFire("!activator", "AddOutput", "origin 11458 9416 13614", 0.10, EXPULSOACT);
-		EntFire("personal_text", "SetText", "You already have ZM Item\nEXPULSO", 0.00, activator);
+		EntFire("personal_text", "SetText", "你已经有了一个僵尸神器\nEXPULSO", 0.00, activator);
 		EntFire("personal_text", "Display", "", 0.01, activator);
 	}
 	if(activator==DEPRIMOACT)
 	{
 		EntFire("!activator", "AddOutput", "origin 11458 9416 13614", 0.10, DEPRIMOACT);
-		EntFire("personal_text", "SetText", "You already have ZM Item\nDEPRIMO", 0.00, activator);
+		EntFire("personal_text", "SetText", "你已经有了一个僵尸神器\nDEPRIMO", 0.00, activator);
 		EntFire("personal_text", "Display", "", 0.01, activator);
 	}
 	if(activator==CONFUNDUSACT)
 	{
 		EntFire("!activator", "AddOutput", "origin 11458 9416 13614", 0.10, CONFUNDUSACT);
-		EntFire("personal_text", "SetText", "You already have ZM Item\nCONFUNDUS", 0.00, activator);
+		EntFire("personal_text", "SetText", "你已经有了一个僵尸神器\nCONFUNDUS", 0.00, activator);
 		EntFire("personal_text", "Display", "", 0.01, activator);
 	}
 	if(activator==EMENDOACT)
 	{
 		EntFire("!activator", "AddOutput", "origin 11458 9416 13614", 0.10, EMENDOACT);
-		EntFire("personal_text", "SetText", "You already have ZM Item\nEMENDO", 0.00, activator);
+		EntFire("personal_text", "SetText", "你已经有了一个僵尸神器\nEMENDO", 0.00, activator);
 		EntFire("personal_text", "Display", "", 0.01, activator);
 	}
 	if(activator==ZMINCENDIOACT)
 	{
 		EntFire("!activator", "AddOutput", "origin 11458 9416 13614", 0.10, ZMINCENDIOACT);
-		EntFire("personal_text", "SetText", "You already have ZM Item\nZMINCENDIO", 0.00, activator);
+		EntFire("personal_text", "SetText", "你已经有了一个僵尸神器\nZMINCENDIO", 0.00, activator);
 		EntFire("personal_text", "Display", "", 0.01, activator);
 	}
 	if(activator==DISILLUSIONMENTACT)
 	{
 		EntFire("!activator", "AddOutput", "origin 11458 9416 13614", 0.10, DISILLUSIONMENTACT);
-		EntFire("personal_text", "SetText", "You already have ZM Item\nDISILLUSIONMENT", 0.00, activator);
+		EntFire("personal_text", "SetText", "你已经有了一个僵尸神器\nDISILLUSIONMENT", 0.00, activator);
 		EntFire("personal_text", "Display", "", 0.01, activator);
 	}
 	if(activator==CONJUNCTIVITUSACT)
 	{
 		EntFire("!activator", "AddOutput", "origin 11458 9416 13614", 0.10, CONJUNCTIVITUSACT);
-		EntFire("personal_text", "SetText", "You already have ZM Item\nCONJUNCTIVITUS", 0.00, activator);
+		EntFire("personal_text", "SetText", "你已经有了一个僵尸神器\nCONJUNCTIVITUS", 0.00, activator);
 		EntFire("personal_text", "Display", "", 0.01, activator);
 	}
 	if(activator==DELETRIUSACT)
 	{
 		EntFire("!activator", "AddOutput", "origin 11458 9416 13614", 0.10, DELETRIUSACT);
-		EntFire("personal_text", "SetText", "You already have ZM Item\nDELETRIUS", 0.00, activator);
+		EntFire("personal_text", "SetText", "你已经有了一个僵尸神器\nDELETRIUS", 0.00, activator);
 		EntFire("personal_text", "Display", "", 0.01, activator);
 	}
 	if(activator==REDUCIOACT)
 	{
 		EntFire("!activator", "AddOutput", "origin 11458 9416 13614", 0.10, REDUCIOACT);
-		EntFire("personal_text", "SetText", "You already have ZM Item\nREDUCIO", 0.00, activator);
+		EntFire("personal_text", "SetText", "你已经有了一个僵尸神器\nREDUCIO", 0.00, activator);
 		EntFire("personal_text", "Display", "", 0.01, activator);
 	}
 }
