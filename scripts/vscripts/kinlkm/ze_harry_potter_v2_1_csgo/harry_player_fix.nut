@@ -1,4 +1,3 @@
-//repush
 handles <- null;
 ItemText <- "";
 ITEMLEVEL <- 0;
@@ -119,7 +118,7 @@ function PersonalItemText(i, level)
     //0 PROTEGO
     if(i == 0 && level == 0)
     {
-        ItemText = "护身屏障\n按E键使用\n无限使用次数\n入学生\n生成土墙阻挡僵尸\n60 秒冷却时间\n4 秒持续时间";
+        ItemText = "护身屏障\n按E键使用\n无限使用次数\n幼儿园学生\n生成土墙阻挡僵尸\n60 秒冷却时间\n4 秒持续时间";
     }
     else if(i == 0 && level == 1)
     {
@@ -140,7 +139,7 @@ function PersonalItemText(i, level)
     //1 REPAIRO
     if(i == 1 && level == 0)
     {
-        ItemText = "恢复如初\n按E键使用\n无限使用次数\n入学生\n恢复生命值\n50 秒冷却时间\n4 秒持续时间"; 
+        ItemText = "恢复如初\n按E键使用\n无限使用次数\n幼儿园学生\n恢复生命值\n50 秒冷却时间\n4 秒持续时间"; 
     } 
     else if(i == 1 && level == 1)
     {
@@ -160,8 +159,8 @@ function PersonalItemText(i, level)
     }   
     //2 AVADA
     if(i == 2 && level == 0)
-    
-        ItemText = "阿瓦达索命\n按E键使用\n可以使用2次\n入学生\n范围内秒杀僵尸\n140 秒冷却时间\n使用10秒后生效咒语\n1 秒持续时间";
+    {
+        ItemText = "阿瓦达索命\n按E键使用\n可以使用2次\n幼儿园学生\n范围内秒杀僵尸\n140 秒冷却时间\n使用10秒后生效咒语\n1 秒持续时间";
     } 
     else if(i == 2 && level == 1)
     {
@@ -182,7 +181,7 @@ function PersonalItemText(i, level)
     //3 FLIPENDO
     if(i == 3 && level == 0)
     {
-        ItemText = "退敌三尺\n按E键使用\n无限使用次数\n入学生\n直线吹风\n60 秒冷却时间\n4 秒持续时间"; 
+        ItemText = "退敌三尺\n按E键使用\n无限使用次数\n幼儿园学生\n直线吹风\n60 秒冷却时间\n4 秒持续时间"; 
     }
     else if(i == 3 && level == 1)
     {
@@ -203,7 +202,7 @@ function PersonalItemText(i, level)
     //4 Impedimenta
     if(i == 4 && level == 0)
     {
-        ItemText = "障碍重重\n按E键使用\n无限使用次数\n入学生\n范围冰冻僵尸\n70 秒冷却时间\n4 秒持续时间"; 
+        ItemText = "障碍重重\n按E键使用\n无限使用次数\n幼儿园学生\n范围冰冻僵尸\n70 秒冷却时间\n4 秒持续时间"; 
     }
     else if(i == 4 && level == 1)
     {
@@ -224,7 +223,7 @@ function PersonalItemText(i, level)
     //5 Incendio
     if(i == 5 && level == 0)
     {
-        ItemText = "火焰熊熊\n按E键使用\n无限使用次数\n入学生\nBURN ZOMBIES\n55 秒冷却时间\n4 秒持续时间"; 
+        ItemText = "火焰熊熊\n按E键使用\n无限使用次数\n幼儿园学生\nBURN ZOMBIES\n55 秒冷却时间\n4 秒持续时间"; 
     }
     else if(i == 5 && level == 1)
     {
@@ -245,7 +244,7 @@ function PersonalItemText(i, level)
     //6 Accio
     if(i == 6 && level == 0)
     {
-        ItemText = "弹药飞来\n按E键使用\n无限使用次数\n入学生\n无限弹药 补充两颗手雷\n50 秒冷却时间\n4 秒持续时间"; 
+        ItemText = "弹药飞来\n按E键使用\n无限使用次数\n幼儿园学生\n无限弹药 补充两颗手雷\n50 秒冷却时间\n4 秒持续时间"; 
     }
     else if(i == 6 && level == 1)
     {
@@ -266,7 +265,7 @@ function PersonalItemText(i, level)
     //7 Crucio
     if(i == 7 && level == 0)
     {
-        ItemText = "钻心剜骨\n按E键使用\n无限使用次数\n入学生\n对僵尸造成伤害\n60 秒冷却时间\n4 秒持续时间"; 
+        ItemText = "钻心剜骨\n按E键使用\n无限使用次数\n幼儿园学生\n对僵尸造成伤害\n60 秒冷却时间\n4 秒持续时间"; 
     }
     else if(i == 7 && level == 1)
     {
@@ -287,7 +286,7 @@ function PersonalItemText(i, level)
     //8 Aguamenti
     if(i == 8 && level == 0)
     {
-        ItemText = "清水如泉\n按E键使用\n无限使用次数\n入学生\n减速前方僵尸\n60 秒冷却时间\n4 秒持续时间"; 
+        ItemText = "清水如泉\n按E键使用\n无限使用次数\n幼儿园学生\n减速前方僵尸\n60 秒冷却时间\n4 秒持续时间"; 
     }
     else if(i == 8 && level == 1)
     {
