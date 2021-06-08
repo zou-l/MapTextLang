@@ -2245,6 +2245,7 @@ TickCheckExpulso <- true;
 ////////////EXPULSO/////////////
 ////////////////////////////////
 
+//四分五裂
 function PickUpExpulso()
 {
     EXPULSOACT = activator;
@@ -2376,6 +2377,7 @@ TickCheckDeprimo <- true;
 ////////////DEPRIMO/////////////
 ////////////////////////////////
 
+//除你武器
 function PickUpDeprimo()
 {
     DEPRIMOACT = activator;
@@ -2509,6 +2511,7 @@ TickCheckConfundus <- true;
 ///////////CONFUNDUS////////////
 ////////////////////////////////
 
+//混淆视听
 function PickUpConfundus()
 {
     CONFUNDUSACT = activator;
@@ -2641,6 +2644,7 @@ TickCheckEmendo <- true;
 /////////////EMENDO/////////////
 ////////////////////////////////
 
+//修骨补形
 function PickUpEmendo()
 {
     EMENDOACT = activator;
@@ -2773,6 +2777,7 @@ TickCheckIncendio <- true;
 ////////////INCENDIO////////////
 ////////////////////////////////
 
+//火焰熊熊
 function PickUpZMIncendio()
 {
     ZMINCENDIOACT = activator;
@@ -2905,6 +2910,7 @@ TickCheckDisillusionment <- true;
 /////////DISILLUSIONMENT////////
 ////////////////////////////////
 
+//若隐若现
 function PickUpDisillusionment()
 {
     DISILLUSIONMENTACT = activator;
@@ -3037,6 +3043,7 @@ TickCheckConjunctivitus <- true;
 /////////CONJUNCTIVITUS/////////
 ////////////////////////////////
 
+//粉身碎骨
 function PickUpConjunctivitus()
 {
     CONJUNCTIVITUSACT = activator;
@@ -3169,6 +3176,7 @@ TickCheckDeletrius <- true;
 ////////////DELETRIUS///////////
 ////////////////////////////////
 
+//消隐无踪
 function PickUpDeletrius()
 {
     DELETRIUSACT = activator;
@@ -3327,6 +3335,7 @@ TickCheckReducio <- true;
 ////////////REDUCIO/////////////
 ////////////////////////////////
 
+//速速缩小
 function PickUpReducio()
 {
     REDUCIOACT = activator;
