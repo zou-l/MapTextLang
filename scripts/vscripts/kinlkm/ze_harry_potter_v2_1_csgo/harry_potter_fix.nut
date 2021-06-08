@@ -11,14 +11,14 @@ AUTOBHOP <- false;
 
 function MapStart()
 {
-	EntFire("console", "Command", "say >>> script by BlueSkyClouds on 2021.06.08 23:22 <<<", 0.00, null);
+	EntFire("console", "Command", "say >>> script by BlueSkyClouds on 2021.06.09 0:30 <<<", 0.00, null);
 	if(BLOCKWANDSHOP){CLOSEWANDSHOP=true;EntFire("map_wandblock_ZM", "Enable", "", 0.00, null);EntFire("map_wandblock_HM", "Enable", "", 0.00, null);}
 	else if(!BLOCKWANDSHOP && CLOSEWANDSHOP){CLOSEWANDSHOP=false;EntFire("map_wandblock_ZM", "Disable", "", 0.00, null);EntFire("map_wandblock_HM", "Disable", "", 0.00, null);}
-	EntFire("item_level_0", "SetText", "YOUR ITEM LEVEL: 0", 0.00, null);
-	EntFire("item_level_1", "SetText", "YOUR ITEM LEVEL: 1", 0.00, null);
-	EntFire("item_level_2", "SetText", "YOUR ITEM LEVEL: 2", 0.00, null);
-	EntFire("item_level_3", "SetText", "YOUR ITEM LEVEL: 3", 0.00, null);
-	EntFire("item_level_4", "SetText", "YOUR ITEM LEVEL: 4", 0.00, null);
+	EntFire("item_level_0", "SetText", "你当前是: 幼儿园", 0.00, null);
+	EntFire("item_level_1", "SetText", "你当前是: 一年级", 0.00, null);
+	EntFire("item_level_2", "SetText", "你当前是: 二年级", 0.00, null);
+	EntFire("item_level_3", "SetText", "你当前是: 三年级", 0.00, null);
+	EntFire("item_level_4", "SetText", "你当前是: 四年级", 0.00, null);
 	if(STAGE <= 6)
 	{
 		EXTREME = false;
@@ -123,7 +123,7 @@ function MapStart()
 		TimerMap(117, 3);
         EntFire("map_nuke_spawn", "Enable", "", 125.00, null);
 		EntFireByHandle(self,"RunScriptCode","WonLevel();",115.00,null,null);
-		EntFire("map_fixthis", "FireUser1", "", 115.00, null);
+		//EntFire("map_fixthis", "FireUser1", "", 115.00, null);
 	    EntFire("console", "Command", "say >>> STARTING THE MAP - HAVE FUN <<<", 116.00, null);
 	    EntFire("map_shake", "StartShake", "", 114.50, null);
 	    EntFire("map_zmfix_spawn", "Kill", "", 114.00, null);
