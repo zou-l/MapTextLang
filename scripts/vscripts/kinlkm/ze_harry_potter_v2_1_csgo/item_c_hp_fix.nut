@@ -1185,6 +1185,7 @@ function PickUpIncendio()
     INCENDIOCALL = caller;
     EntFire("!activator", "RunScriptCode", "UpDateHandle();", 0.00, INCENDIOACT);
     EntFire("!activator", "AddOutput", "rendercolor 255 34 34", 0.30, INCENDIOACT);
+    EntFire("spxZM_incendio_button","UnLock","",5.00,null);
     EntFireByHandle(self,"RunScriptCode","IncendioItemM();",2.00,null,null);
     if(INCENDIOONCE)
     {
@@ -2253,6 +2254,7 @@ function PickUpExpulso()
     TickCheckExpulso = true;
     EntFire("spxZM_effect_wand_expulso", "Start", "", 1.00, null);
     EntFire("!activator", "RunScriptCode", "UpDateHandle();", 0.00, EXPULSOACT);
+    EntFire("spxZM_expulso_button", "Unlock", "", 10.00, null);
     EntFireByHandle(self,"RunScriptCode","ExpulsoItemM();",2.00,null,null);
     EntFireByHandle(self,"RunScriptCode","CheckOwnerExpulso();",5.00,null,null);
     if(EXPULSOONCE)
@@ -2385,6 +2387,7 @@ function PickUpDeprimo()
     TickCheckDeprimo = true;
     EntFire("spxZM_effect_wand_deprimo", "Start", "", 1.00, null);
     EntFire("!activator", "RunScriptCode", "UpDateHandle();", 0.00, DEPRIMOACT);
+    EntFire("spxZM_deprimo_button", "Unlock", "", 5.00, null);
     EntFireByHandle(self,"RunScriptCode","DeprimoItemM();",2.00,null,null);
     EntFireByHandle(self,"RunScriptCode","CheckOwnerDeprimo();",5.00,null,null);
     if(DEPRIMOONCE)
@@ -2519,6 +2522,7 @@ function PickUpConfundus()
     TickCheckConfundus = true;
     EntFire("spxZM_effect_wand_confundus", "Start", "", 1.00, null);
     EntFire("!activator", "RunScriptCode", "UpDateHandle();", 0.00, CONFUNDUSACT);
+    EntFire("spxZM_confundus_button", "Unlock", "", 5.00, null);
     EntFireByHandle(self,"RunScriptCode","ConfundusItemM();",2.00,null,null);
     EntFireByHandle(self,"RunScriptCode","CheckOwnerConfundus();",5.00,null,null);
     if(CONFUNDUSONCE)
@@ -2652,6 +2656,7 @@ function PickUpEmendo()
     TickCheckEmendo = true;
     EntFire("spxZM_effect_wand_emendo", "Start", "", 1.00, null);
     EntFire("!activator", "RunScriptCode", "UpDateHandle();", 0.00, EMENDOACT);
+    EntFire("spxZM_emendo_button","UnLock","",5.00,null);
     EntFireByHandle(self,"RunScriptCode","EmendoItemM();",2.00,null,null);
     EntFireByHandle(self,"RunScriptCode","CheckOwnerEmendo();",5.00,null,null);
     if(EMENDOONCE)
@@ -2918,6 +2923,7 @@ function PickUpDisillusionment()
     TickCheckDisillusionment = true;
     EntFire("spxZM_effect_wand_disillu", "Start", "", 1.00, null);
     EntFire("!activator", "RunScriptCode", "UpDateHandle();", 0.00, DISILLUSIONMENTACT);
+    EntFire("spxZM_disillu_button", "Unlock", "", 5.00, null);
     EntFireByHandle(self,"RunScriptCode","DisillusionmentItemM();",2.00,null,null);
     EntFireByHandle(self,"RunScriptCode","CheckOwnerDisillusionment();",5.00,null,null);
     if(DISILLUSIONMENTONCE)
@@ -3051,6 +3057,7 @@ function PickUpConjunctivitus()
     TickCheckConjunctivitus = true;
     EntFire("spxZM_effect_wand_conjunct", "Start", "", 1.00, null);
     EntFire("!activator", "RunScriptCode", "UpDateHandle();", 0.00, CONJUNCTIVITUSACT);
+    EntFire("spxZM_conjunct_button", "Unlock", "", 5.00, null);
     EntFireByHandle(self,"RunScriptCode","ConjunctivitusItemM();",2.00,null,null);
     EntFireByHandle(self,"RunScriptCode","CheckOwnerConjunctivitus();",5.00,null,null);
     if(CONJUNCTIVITUSONCE)
@@ -3184,6 +3191,7 @@ function PickUpDeletrius()
     TickCheckDeletrius = true;
     EntFire("spxZM_effect_wand_deletrius", "Start", "", 1.00, null);
     EntFire("!activator", "RunScriptCode", "UpDateHandle();", 0.00, DELETRIUSACT);
+    EntFire("spxZM_deletrius_button", "Unlock", "", 5.00, null);
     EntFireByHandle(self,"RunScriptCode","DeletriusItemM();",2.00,null,null);
     EntFireByHandle(self,"RunScriptCode","CheckOwnerDeletrius();",5.00,null,null);
     if(DELETRIUSONCE)
@@ -3343,6 +3351,7 @@ function PickUpReducio()
     TickCheckReducio = true;
     EntFire("spxZM_effect_wand_reducio", "Start", "", 1.00, null);
     EntFire("!activator", "RunScriptCode", "UpDateHandle();", 0.00, REDUCIOACT);
+    EntFire("spxZM_reducio_button", "Unlock", "", 5.00, null);
     EntFireByHandle(self,"RunScriptCode","ReducioItemM();",2.00,null,null);
     EntFireByHandle(self,"RunScriptCode","CheckOwnerReducio();",5.00,null,null);
     if(REDUCIOONCE)
