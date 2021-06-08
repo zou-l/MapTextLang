@@ -11,7 +11,7 @@ AUTOBHOP <- false;
 
 function MapStart()
 {
-	EntFire("console", "Command", "say >>> script by BlueSkyClouds on 2021.06.09 0:30 <<<", 0.00, null);
+	EntFire("console", "Command", "say >>> script by BlueSkyClouds on 2021.06.09 3:00 <<<", 0.00, null);
 	if(BLOCKWANDSHOP){CLOSEWANDSHOP=true;EntFire("map_wandblock_ZM", "Enable", "", 0.00, null);EntFire("map_wandblock_HM", "Enable", "", 0.00, null);}
 	else if(!BLOCKWANDSHOP && CLOSEWANDSHOP){CLOSEWANDSHOP=false;EntFire("map_wandblock_ZM", "Disable", "", 0.00, null);EntFire("map_wandblock_HM", "Disable", "", 0.00, null);}
 	EntFire("item_level_0", "SetText", "你当前是: 幼儿园", 0.00, null);
@@ -349,7 +349,7 @@ function MapStart()
 		EntFire("mode_stage_acces", "FireUser2", "", 0.80, null);
 		EntFire("console", "Command", "zr_class_modify zombies health 10000", 0.06, null);
 		EntFire("console", "Command", "sv_enablebunnyhopping 0", 0.04, null);
-		EntFire("console", "Command", "sm_cvar zr_infect_mzombie_ratio 8", 0.02, null);
+		EntFire("console", "Command", "zr_infect_mzombie_ratio 8", 0.02, null);
 		EntFire("map_template_bosscount", "ForceSpawn", "", 34.00, null);
 		EntFire("map_template_bosscount", "Kill", "", 35.00, null);
 		EntFire("map_soundsys_case", "FireUser1", "", 70.00, null);
