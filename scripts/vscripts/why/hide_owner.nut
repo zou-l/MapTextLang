@@ -68,7 +68,9 @@ function Tick(){
 			local weapon=WEAPON[i];
 			if(!weapon.IsValid()||null==weapon.GetOwner()||!weapon.GetOwner().IsValid()||3!=weapon.GetOwner().GetTeam()){
 				if(""!=HIGH_LIGHT[i]){
-					HIGH_LIGHT[i].Destroy();
+					if(HIGH_LIGHT[i].IsValid()){
+						HIGH_LIGHT[i].Destroy();
+					}
 					HIGH_LIGHT[i]="";
 				}
 				if(""!=OLD_OWNER[i]){
@@ -85,6 +87,7 @@ function Tick(){
 }
 
 function hidePlayer(player,hide){
+	if(!player.IsValid())return;
 	local pscr=player.GetScriptScope();
 	if(pscr==null)return;
 	if(!("hide" in pscr))return;
@@ -176,7 +179,7 @@ function ClearPlayerHide(){
 function Init(){
 	IncludeScript("why/color_cfg.nut", this);
 	IncludeScript("why/map_cfg.nut", this);
-	ScriptPrintMessageChatAll(" \x03已加载神器隐身 20210525\x01");
+	ScriptPrintMessageChatAll(" \x03已加载神器隐身 20210611\x01");
 }
 
 self.ConnectOutput("OnSpawn", "Init");
