@@ -3517,12 +3517,15 @@ function UseItemReducio()
 function ResetModel()
 {
     local zmrm = null;
-	while(null != (zmrm = Entities.FindByClassname(zmrm,"player")))
+	while(null != (zmrm = Entities.FindByClassname(zmrm,"*")))
 	{
-		if(zmrm.GetTeam() == 2 && zmrm.GetHealth() > 0 && zmrm.IsValid())
-		{
-            zmrm.SetModel("models/player/zombie_harry.mdl");
-		}
+        if (zmrm.GetClassname() == "player")
+        {
+            if(zmrm.GetTeam() == 2 && zmrm.GetHealth() > 0 && zmrm.IsValid())
+            {
+                zmrm.SetModel("models/player/zombie_harry.mdl");
+            }
+        }
 	}
 }
 
@@ -3543,43 +3546,43 @@ function CheckZMPickUpItemsFix()
 	if(activator==EXPULSOACT)
 	{
 		EntFire("!activator", "AddOutput", "origin 11458 9416 13614", 0.10, EXPULSOACT);
-		EntFire("personal_text", "SetText", "你已经有了一个僵尸神器\nEXPULSO", 0.00, activator);
+		EntFire("personal_text", "SetText", "你已经有了一个僵尸神器了\nEXPULSO", 0.00, activator);
 		EntFire("personal_text", "Display", "", 0.01, activator);
 	}
 	if(activator==DEPRIMOACT)
 	{
 		EntFire("!activator", "AddOutput", "origin 11458 9416 13614", 0.10, DEPRIMOACT);
-		EntFire("personal_text", "SetText", "你已经有了一个僵尸神器\nDEPRIMO", 0.00, activator);
+		EntFire("personal_text", "SetText", "你已经有了一个僵尸神器了\nDEPRIMO", 0.00, activator);
 		EntFire("personal_text", "Display", "", 0.01, activator);
 	}
 	if(activator==CONFUNDUSACT)
 	{
 		EntFire("!activator", "AddOutput", "origin 11458 9416 13614", 0.10, CONFUNDUSACT);
-		EntFire("personal_text", "SetText", "你已经有了一个僵尸神器\nCONFUNDUS", 0.00, activator);
+		EntFire("personal_text", "SetText", "你已经有了一个僵尸神器了\nCONFUNDUS", 0.00, activator);
 		EntFire("personal_text", "Display", "", 0.01, activator);
 	}
 	if(activator==EMENDOACT)
 	{
 		EntFire("!activator", "AddOutput", "origin 11458 9416 13614", 0.10, EMENDOACT);
-		EntFire("personal_text", "SetText", "你已经有了一个僵尸神器\nEMENDO", 0.00, activator);
+		EntFire("personal_text", "SetText", "你已经有了一个僵尸神器了\nEMENDO", 0.00, activator);
 		EntFire("personal_text", "Display", "", 0.01, activator);
 	}
 	if(activator==ZMINCENDIOACT)
 	{
 		EntFire("!activator", "AddOutput", "origin 11458 9416 13614", 0.10, ZMINCENDIOACT);
-		EntFire("personal_text", "SetText", "你已经有了一个僵尸神器\nZMINCENDIO", 0.00, activator);
+		EntFire("personal_text", "SetText", "你已经有了一个僵尸神器了\nZMINCENDIO", 0.00, activator);
 		EntFire("personal_text", "Display", "", 0.01, activator);
 	}
 	if(activator==DISILLUSIONMENTACT)
 	{
 		EntFire("!activator", "AddOutput", "origin 11458 9416 13614", 0.10, DISILLUSIONMENTACT);
-		EntFire("personal_text", "SetText", "你已经有了一个僵尸神器\nDISILLUSIONMENT", 0.00, activator);
+		EntFire("personal_text", "SetText", "你已经有了一个僵尸神器了\nDISILLUSIONMENT", 0.00, activator);
 		EntFire("personal_text", "Display", "", 0.01, activator);
 	}
 	if(activator==CONJUNCTIVITUSACT)
 	{
 		EntFire("!activator", "AddOutput", "origin 11458 9416 13614", 0.10, CONJUNCTIVITUSACT);
-		EntFire("personal_text", "SetText", "你已经有了一个僵尸神器\nCONJUNCTIVITUS", 0.00, activator);
+		EntFire("personal_text", "SetText", "你已经有了一个僵尸神器了\nCONJUNCTIVITUS", 0.00, activator);
 		EntFire("personal_text", "Display", "", 0.01, activator);
 	}
 	if(activator==DELETRIUSACT)
