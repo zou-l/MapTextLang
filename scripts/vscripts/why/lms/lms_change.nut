@@ -12,10 +12,8 @@ function UseItemSummoner()
                 SummonerToggle = false;
                 SummonerUses++;
                 if(PortalList.len()>1){
-                    if(PortalList[0].IsValid()){
-                        PortalList[0].Destroy();
-                    }
-                    PortalList[0]=PortalList[1];
+                    PortalList[0].Destroy();
+                    PortalList.remove(0);
                 }
                 EntFire("Summoner_Tele_Maker", "ForceSpawnAtEntityOrigin", "!activator", 0.0, activator);
                 EntFire("summoner_tele&*", "AddOutput", "solid 2", 0, activator);
@@ -75,23 +73,18 @@ function SummonTele(){
 }
 
 function ClearSummon(){
-    for(local i=0;i<PortalList.len();i++){
+    for(local i=PortalList.len()-1;i>-1;i--){
         PortalList[i].Destroy();
+        PortalList.remove(i);
     }
 }
 
 function ClearSummonOnL3(){
-    for(local i=0;i<PortalList.len();i++){
-        if(!PortalList[i].IsValid())continue;
+    for(local i=PortalList.len()-1;i>-1;i--){
         local tmpV=PortalList[i].GetOrigin();
         if(tmpV.x<7000&&tmpV.x>6800&&tmpV.y<6400&&tmpV.y>6000){
             PortalList[i].Destroy();
+            PortalList.remove(i);
         }
-    }
-    if(PortalList.len()<2)return;
-    if(!PortalList[1].IsValid()&&PortalList[0].IsValid()){
-        local tmp=PortalList[1];
-        PortalList[1]=PortalList[0];
-        PortalList[0]=tmp;
     }
 }
