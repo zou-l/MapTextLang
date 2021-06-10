@@ -3223,7 +3223,7 @@ function CheckOwnerDeletrius()
 				EntFire("spxZM_effect_wand_deletrius", "Kill", "", 0.20, null);
 				EntFire("spxZM_effect_static_deletrius", "Kill", "", 0.30, null);
 				EntFire("itemZM_deletrius_entree", "Kill", "", 0.30, null);
-				if(ZOMBIE_ITEM_DISABLE){EntFire("respawn_deletrius_template", "ForceSpawn", "", 0.40, null);}
+				if(ZOMBIE_ITEM_DISABLE){EntFire("respawn_deletrius_template", "ForceSpawn", "", 10.40, null);}
 			}
 		} catch(exception)
 		{
@@ -3240,7 +3240,7 @@ function CheckOwnerDeletrius()
             EntFire("spxZM_effect_wand_deletrius", "Kill", "", 0.20, null);
             EntFire("spxZM_effect_static_deletrius", "Kill", "", 0.30, null);
             EntFire("itemZM_deletrius_entree", "Kill", "", 0.30, null);
-            if(ZOMBIE_ITEM_DISABLE){EntFire("respawn_deletrius_template", "ForceSpawn", "", 0.40, null);}
+            if(ZOMBIE_ITEM_DISABLE){EntFire("respawn_deletrius_template", "ForceSpawn", "", 10.40, null);}
 		}
         EntFireByHandle(self,"RunScriptCode","CheckOwnerDeletrius();",5.00,null,null);
     }
