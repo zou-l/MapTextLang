@@ -2288,7 +2288,10 @@ function CheckOwnerExpulso()
 				EntFire("spxZM_expulso_wandprop", "Kill", "", 0.20, null);
 				EntFire("itemZM_expulso_entree", "Kill", "", 0.30, null);
 				EntFire("spxZM_effect_static_expulso", "Kill", "", 0.30, null);
-				if(ZOMBIE_ITEM_DISABLE){EntFire("respawn_expulso_template", "ForceSpawn", "", 80.40, null);}
+				if(ZOMBIE_ITEM_DISABLE){
+					EntFire("respawn_expulso_template", "ForceSpawn", "", 80.40, null);
+					CountdownTimer("ZM_expulso",80);
+					}
 			}
 		} catch(exception)
 		{
@@ -2307,7 +2310,10 @@ function CheckOwnerExpulso()
 			EntFire("spxZM_expulso_wandprop", "Kill", "", 0.20, null);
 			EntFire("itemZM_expulso_entree", "Kill", "", 0.30, null);
 			EntFire("spxZM_effect_static_expulso", "Kill", "", 0.30, null);
-			if(ZOMBIE_ITEM_DISABLE){EntFire("respawn_expulso_template", "ForceSpawn", "", 80.40, null);}
+			if(ZOMBIE_ITEM_DISABLE){
+                EntFire("respawn_expulso_template", "ForceSpawn", "", 80.40, null);
+                CountdownTimer("ZM_expulso",80);
+                }
 		}
         
         EntFireByHandle(self,"RunScriptCode","CheckOwnerExpulso();",5.00,null,null);
@@ -2421,7 +2427,10 @@ function CheckOwnerDeprimo()
 				EntFire("spxZM_effect_wand_deprimo", "Kill", "", 0.20, null);
 				EntFire("spxZM_effect_static_deprimo", "Kill", "", 0.30, null);
 				EntFire("itemZM_deprimo_entree", "Kill", "", 0.30, null);
-				if(ZOMBIE_ITEM_DISABLE){EntFire("respawn_deprimo_template", "ForceSpawn", "", 60.40, null);}
+				if(ZOMBIE_ITEM_DISABLE){
+					EntFire("respawn_deprimo_template", "ForceSpawn", "", 60.40, null);
+					CountdownTimer("ZM_deprimo",60);
+					}
 			}
 		} catch(exception)
 		{
@@ -2440,7 +2449,10 @@ function CheckOwnerDeprimo()
             EntFire("spxZM_effect_wand_deprimo", "Kill", "", 0.20, null);
             EntFire("spxZM_effect_static_deprimo", "Kill", "", 0.30, null);
             EntFire("itemZM_deprimo_entree", "Kill", "", 0.30, null);
-            if(ZOMBIE_ITEM_DISABLE){EntFire("respawn_deprimo_template", "ForceSpawn", "", 60.40, null);}
+            if(ZOMBIE_ITEM_DISABLE){
+                EntFire("respawn_deprimo_template", "ForceSpawn", "", 60.40, null);
+                CountdownTimer("ZM_deprimo",60);
+                }
 		}
         
         EntFireByHandle(self,"RunScriptCode","CheckOwnerDeprimo();",5.00,null,null);
@@ -2556,7 +2568,10 @@ function CheckOwnerConfundus()
 				EntFire("spxZM_effect_wand_confundus", "Kill", "", 0.20, null);
 				EntFire("spxZM_effect_static_confundus", "Kill", "", 0.30, null);
 				EntFire("itemZM_confundus_entree", "Kill", "", 0.30, null);
-				if(ZOMBIE_ITEM_DISABLE){EntFire("respawn_confundus_template", "ForceSpawn", "", 40.40, null);}
+				if(ZOMBIE_ITEM_DISABLE){
+					EntFire("respawn_confundus_template", "ForceSpawn", "", 40.40, null);
+					CountdownTimer("ZM_confundus",40);
+					}
 			}
 		} catch(exception)
 		{
@@ -2575,7 +2590,10 @@ function CheckOwnerConfundus()
             EntFire("spxZM_effect_wand_confundus", "Kill", "", 0.20, null);
             EntFire("spxZM_effect_static_confundus", "Kill", "", 0.30, null);
             EntFire("itemZM_confundus_entree", "Kill", "", 0.30, null);
-            if(ZOMBIE_ITEM_DISABLE){EntFire("respawn_confundus_template", "ForceSpawn", "", 40.40, null);}
+            if(ZOMBIE_ITEM_DISABLE){
+                EntFire("respawn_confundus_template", "ForceSpawn", "", 40.40, null);
+                CountdownTimer("ZM_confundus",40);
+                }
 		}
         EntFireByHandle(self,"RunScriptCode","CheckOwnerConfundus();",5.00,null,null);
     }
@@ -2690,7 +2708,10 @@ function CheckOwnerEmendo()
 				EntFire("spxZM_effect_wand_emendo", "Kill", "", 0.20, null);
 				EntFire("spxZM_effect_static_emendo", "Kill", "", 0.30, null);
 				EntFire("itemZM_emendo_entree", "Kill", "", 0.30, null);
-				if(ZOMBIE_ITEM_DISABLE){EntFire("respawn_emendo_template", "ForceSpawn", "", 50.40, null);}
+				if(ZOMBIE_ITEM_DISABLE){
+					EntFire("respawn_emendo_template", "ForceSpawn", "", 50.40, null);
+					CountdownTimer("ZM_emendo",50);
+					}
 			}
 		} catch(exception)
 		{
@@ -2709,7 +2730,10 @@ function CheckOwnerEmendo()
             EntFire("spxZM_effect_wand_emendo", "Kill", "", 0.20, null);
             EntFire("spxZM_effect_static_emendo", "Kill", "", 0.30, null);
             EntFire("itemZM_emendo_entree", "Kill", "", 0.30, null);
-            if(ZOMBIE_ITEM_DISABLE){EntFire("respawn_emendo_template", "ForceSpawn", "", 50.40, null);}
+            if(ZOMBIE_ITEM_DISABLE){
+                EntFire("respawn_emendo_template", "ForceSpawn", "", 50.40, null);
+                CountdownTimer("ZM_emendo",50);
+                }
 		}
         EntFireByHandle(self,"RunScriptCode","CheckOwnerEmendo();",5.00,null,null);
     }
@@ -2823,7 +2847,10 @@ function CheckOwnerZMIncendio()
 				EntFire("spxZM_effect_wand_incendio", "Kill", "", 0.20, null);
 				EntFire("spxZM_effect_static_incendio", "Kill", "", 0.30, null);
 				EntFire("itemZM_incendio_entree", "Kill", "", 0.30, null);
-				if(ZOMBIE_ITEM_DISABLE){EntFire("respawn_incendio_template", "ForceSpawn", "", 60.40, null);}
+				if(ZOMBIE_ITEM_DISABLE){
+					EntFire("respawn_incendio_template", "ForceSpawn", "", 60.40, null);
+					CountdownTimer("ZM_incendio",60);
+					}
 			}
 		} catch(exception)
 		{
@@ -2842,7 +2869,10 @@ function CheckOwnerZMIncendio()
             EntFire("spxZM_effect_wand_incendio", "Kill", "", 0.20, null);
             EntFire("spxZM_effect_static_incendio", "Kill", "", 0.30, null);
             EntFire("itemZM_incendio_entree", "Kill", "", 0.30, null);
-            if(ZOMBIE_ITEM_DISABLE){EntFire("respawn_incendio_template", "ForceSpawn", "", 60.40, null);}
+            if(ZOMBIE_ITEM_DISABLE){
+                EntFire("respawn_incendio_template", "ForceSpawn", "", 60.40, null);
+                CountdownTimer("ZM_incendio",60);
+                }
 		}
         EntFireByHandle(self,"RunScriptCode","CheckOwnerZMIncendio();",5.00,null,null);
     }
@@ -2957,7 +2987,10 @@ function CheckOwnerDisillusionment()
 				EntFire("spxZM_effect_wand_disillu", "Kill", "", 0.20, null);
 				EntFire("spxZM_effect_static_disillu", "Kill", "", 0.30, null);
 				EntFire("itemZM_disillu_entree", "Kill", "", 0.30, null);
-				if(ZOMBIE_ITEM_DISABLE){EntFire("respawn_disillu_template", "ForceSpawn", "", 50.40, null);}
+				if(ZOMBIE_ITEM_DISABLE){
+					EntFire("respawn_disillu_template", "ForceSpawn", "", 50.40, null);
+					CountdownTimer("ZM_disillu",50);
+					}
 			}
 		} catch(exception)
 		{
@@ -2976,7 +3009,10 @@ function CheckOwnerDisillusionment()
             EntFire("spxZM_effect_wand_disillu", "Kill", "", 0.20, null);
             EntFire("spxZM_effect_static_disillu", "Kill", "", 0.30, null);
             EntFire("itemZM_disillu_entree", "Kill", "", 0.30, null);
-            if(ZOMBIE_ITEM_DISABLE){EntFire("respawn_disillu_template", "ForceSpawn", "", 50.40, null);}
+            if(ZOMBIE_ITEM_DISABLE){
+                EntFire("respawn_disillu_template", "ForceSpawn", "", 50.40, null);
+                CountdownTimer("ZM_disillu",50);
+                }
 		}
         EntFireByHandle(self,"RunScriptCode","CheckOwnerDisillusionment();",5.00,null,null);
     }
@@ -3091,7 +3127,10 @@ function CheckOwnerConjunctivitus()
 				EntFire("spxZM_effect_wand_conjunct", "Kill", "", 0.20, null);
 				EntFire("spxZM_effect_static_conjunct", "Kill", "", 0.30, null);
 				EntFire("itemZM_conjunct_entree", "Kill", "", 0.30, null);
-				if(ZOMBIE_ITEM_DISABLE){EntFire("respawn_conjunct_template", "ForceSpawn", "", 40.40, null);}
+				if(ZOMBIE_ITEM_DISABLE){
+					EntFire("respawn_conjunct_template", "ForceSpawn", "", 40.40, null);
+					CountdownTimer("ZM_conjunct",40);
+					}
 			}
 		} catch(exception)
 		{
@@ -3110,7 +3149,10 @@ function CheckOwnerConjunctivitus()
 			EntFire("spxZM_effect_wand_conjunct", "Kill", "", 0.20, null);
 			EntFire("spxZM_effect_static_conjunct", "Kill", "", 0.30, null);
 			EntFire("itemZM_conjunct_entree", "Kill", "", 0.30, null);
-			if(ZOMBIE_ITEM_DISABLE){EntFire("respawn_conjunct_template", "ForceSpawn", "", 40.40, null);}
+			if(ZOMBIE_ITEM_DISABLE){
+                EntFire("respawn_conjunct_template", "ForceSpawn", "", 40.40, null);
+                CountdownTimer("ZM_conjunct",40);
+                }
 		}
         EntFireByHandle(self,"RunScriptCode","CheckOwnerConjunctivitus();",5.00,null,null);
     }
@@ -3223,7 +3265,10 @@ function CheckOwnerDeletrius()
 				EntFire("spxZM_effect_wand_deletrius", "Kill", "", 0.20, null);
 				EntFire("spxZM_effect_static_deletrius", "Kill", "", 0.30, null);
 				EntFire("itemZM_deletrius_entree", "Kill", "", 0.30, null);
-				if(ZOMBIE_ITEM_DISABLE){EntFire("respawn_deletrius_template", "ForceSpawn", "", 10.40, null);}
+				if(ZOMBIE_ITEM_DISABLE){
+					EntFire("respawn_deletrius_template", "ForceSpawn", "", 10.40, null);
+					CountdownTimer("ZM_deletrius",10);
+					}
 			}
 		} catch(exception)
 		{
@@ -3240,7 +3285,10 @@ function CheckOwnerDeletrius()
             EntFire("spxZM_effect_wand_deletrius", "Kill", "", 0.20, null);
             EntFire("spxZM_effect_static_deletrius", "Kill", "", 0.30, null);
             EntFire("itemZM_deletrius_entree", "Kill", "", 0.30, null);
-            if(ZOMBIE_ITEM_DISABLE){EntFire("respawn_deletrius_template", "ForceSpawn", "", 10.40, null);}
+            if(ZOMBIE_ITEM_DISABLE){
+                EntFire("respawn_deletrius_template", "ForceSpawn", "", 10.40, null);
+                CountdownTimer("ZM_deletrius",10);
+                }
 		}
         EntFireByHandle(self,"RunScriptCode","CheckOwnerDeletrius();",5.00,null,null);
     }
@@ -3383,7 +3431,10 @@ function CheckOwnerReducio()
 				EntFire("spxZM_effect_wand_reducio", "Kill", "", 0.20, null);
 				EntFire("spxZM_effect_static_reducio", "Kill", "", 0.30, null);
 				EntFire("itemZM_reducio_entree", "Kill", "", 0.30, null);
-				if(ZOMBIE_ITEM_DISABLE){EntFire("respawn_reducio_template", "ForceSpawn", "", 105.40, null);}
+				if(ZOMBIE_ITEM_DISABLE){
+					EntFire("respawn_reducio_template", "ForceSpawn", "", 105.40, null);
+					CountdownTimer("ZM_reducio",105);
+					}
 			}
 		} catch(exception)
 		{
@@ -3400,7 +3451,10 @@ function CheckOwnerReducio()
             EntFire("spxZM_effect_wand_reducio", "Kill", "", 0.20, null);
             EntFire("spxZM_effect_static_reducio", "Kill", "", 0.30, null);
             EntFire("itemZM_reducio_entree", "Kill", "", 0.30, null);
-            if(ZOMBIE_ITEM_DISABLE){EntFire("respawn_reducio_template", "ForceSpawn", "", 105.40, null);}
+            if(ZOMBIE_ITEM_DISABLE){
+                EntFire("respawn_reducio_template", "ForceSpawn", "", 105.40, null);
+                CountdownTimer("ZM_reducio",105);
+                }
 		}
         EntFireByHandle(self,"RunScriptCode","CheckOwnerReducio();",5.00,null,null);
     }
@@ -3540,4 +3594,16 @@ function CheckZMPickUpItemsFix()
 		EntFire("personal_text", "SetText", "你已经有了一个僵尸神器\nREDUCIO", 0.00, activator);
 		EntFire("personal_text", "Display", "", 0.01, activator);
 	}
+}
+
+function CountdownTimer(name,amount)
+{
+	local _name = name;
+	local i = amount;
+	local j;
+	for(j = amount;j > 0;j--)
+	{
+		EntFire(_name,"AddOutput","message " + j.tostring() + "Seconds",i-j);
+	}
+	EntFire(_name,"AddOutput","message Ready",i+1,null);
 }
