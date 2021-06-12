@@ -1,40 +1,34 @@
-mao_text <- null;
-time <- 0;
-text <-  "";
-
+map_text <- null;
+text_1 <- null;
+text_2 <-  null;
 
 function A()
 {
-	mao_text = Entities.FindByName(null,"door_text");
+	map_text = Entities.FindByName(null,"door_text");
 }
 
-function B()
+function B(time)
 {
-	if(time==0)
-	{
-		text = "";
-		EntFire("door_time","Disable","",0.00,null);
-	}
-	if(time>0)
-	{
-		text = "机甲工厂门将在"+time.tostring()+"秒后打开";
-		time-=1;
-	}
-	mao_text.__KeyValueFromString("message",text);
+	text_1 = "机甲大门将在"
+	text_2 = "秒后打开"
+	CountdownTimer(time);
 }
 
-function C()
+function C(time)
 {
-	if(time==0)
-	{
-		text = "";
-		EntFire("qiao_time","Disable","",0.00,null);
-	}
-	if(time>0)
-	{
-		text = "大桥将在"+time.tostring()+"秒后爆炸";
-		time-=1;
-	}
-	mao_text.__KeyValueFromString("message",text);
+	text_1 = "大桥将在"
+	text_2 = "秒后爆炸"
+	CountdownTimer(time);
 }
-//更正
+
+function CountdownTimer(amount)
+{
+	local temp1 = map_text.GetName();
+	local i = amount;
+	local j;
+	for(j = amount;j > 0;j--)
+	{
+		EntFire(temp1,"SetText",text_1 + j.tostring() + text_2,i-j);
+		EntFire(temp1,"Display","",i-j);
+	}
+}
