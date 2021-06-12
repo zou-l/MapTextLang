@@ -11,14 +11,14 @@ AUTOBHOP <- false;
 
 function MapStart()
 {
-	EntFire("console", "Command", "say >>> script by BlueSkyClouds on 2021.06.09 3:00 <<<", 0.00, null);
+	EntFire("console", "Command", "say >>> script by BlueSkyClouds on 2021.06.12 <<<", 10.00, null);
 	if(BLOCKWANDSHOP){CLOSEWANDSHOP=true;EntFire("map_wandblock_ZM", "Enable", "", 0.00, null);EntFire("map_wandblock_HM", "Enable", "", 0.00, null);}
 	else if(!BLOCKWANDSHOP && CLOSEWANDSHOP){CLOSEWANDSHOP=false;EntFire("map_wandblock_ZM", "Disable", "", 0.00, null);EntFire("map_wandblock_HM", "Disable", "", 0.00, null);}
-	EntFire("item_level_0", "SetText", "你当前是: 幼儿园", 0.00, null);
-	EntFire("item_level_1", "SetText", "你当前是: 一年级", 0.00, null);
-	EntFire("item_level_2", "SetText", "你当前是: 二年级", 0.00, null);
-	EntFire("item_level_3", "SetText", "你当前是: 三年级", 0.00, null);
-	EntFire("item_level_4", "SetText", "你当前是: 四年级", 0.00, null);
+	EntFire("item_level_0", "SetText", "你当前是: 幼儿园", 2.00, null);
+	EntFire("item_level_1", "SetText", "你当前是: 一年级", 2.00, null);
+	EntFire("item_level_2", "SetText", "你当前是: 二年级", 2.00, null);
+	EntFire("item_level_3", "SetText", "你当前是: 三年级", 2.00, null);
+	EntFire("item_level_4", "SetText", "你当前是: 四年级", 2.00, null);
 	if(STAGE <= 6)
 	{
 		EXTREME = false;
@@ -556,6 +556,8 @@ function MapStart()
 		EntFire("filter_targets_block_multi", "FireUser4", "", 50.00, null);
 		EntFire("console", "Command", "say >>> ALL WANDS DISABLED FOR USE TILL THE END<<<", 35.00, null);
 		EntFire("console", "Command", "say >>> ALL WANDS ARE ENABLED FOR USE <<<", 228.00, null);
+		EntFire("Zm_Lock", "Enable", "", 10.20, null);
+		EntFire("Zm_Lock", "Disable", "", 228.00, null);
 		EntFire("admin_fixups", "Trigger", "", 15.00, null);
 		EntFire("map_shake", "FireUser2", "", 227.70, null);
 		EntFire("map_barrels_temp1", "ForceSpawn", "", 38.20, null);
@@ -1516,6 +1518,8 @@ function MapStart()
 		EntFire("filter_targets_block_multi", "FireUser4", "", 50, null);
 		EntFire("console", "Command", "say >>> ALL WANDS DISABLED FOR USE TILL THE END<<<", 35, null);
 		EntFire("console", "Command", "say >>> ALL WANDS ARE ENABLED FOR USE <<<", 228, null);
+		EntFire("Zm_Lock", "Enable", "", 10.20, null);
+		EntFire("Zm_Lock", "Disable", "", 228.00, null);
 		EntFire("stageZM_counter_logic", "Trigger", "", 301, null);
 		EntFire("admin_fixups", "Trigger", "", 11, null);
 		EntFire("map_shake", "FireUser2", "", 227.7, null);
