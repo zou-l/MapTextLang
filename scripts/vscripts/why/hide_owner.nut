@@ -1,4 +1,3 @@
-//repush
 WEAPON<-[];
 OLD_OWNER<-[];
 HIGH_LIGHT<-[];
@@ -185,7 +184,7 @@ function ClearPlayerHide(){
 function Init(){
 	IncludeScript("why/color_cfg.nut", this);
 	IncludeScript("why/map_cfg.nut", this);
-	ScriptPrintMessageChatAll(" \x03已加载神器隐身 20210612\x01");
+	ScriptPrintMessageChatAll(" \x03已加载神器隐身 20210612 17:30\x01");
 }
 
 self.ConnectOutput("OnSpawn", "Init");
