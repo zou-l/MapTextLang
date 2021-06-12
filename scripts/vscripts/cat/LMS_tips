@@ -1,0 +1,39 @@
+mao_text <- null;
+time <- 0;
+text <-  "";
+
+
+function A()
+{
+	mao_text = Entities.FindByName(null,"door_text");
+}
+
+function B()
+{
+	if(time==0)
+	{
+		text = "";
+		EntFire("door_time","Disable","",0.00,null);
+	}
+	if(time>0)
+	{
+		text = "机甲工厂门将在"+time.tostring()+"秒后打开";
+		time-=1;
+	}
+	mao_text.__KeyValueFromString("message",text);
+}
+
+function C()
+{
+	if(time==0)
+	{
+		text = "";
+		EntFire("qiao_time","Disable","",0.00,null);
+	}
+	if(time>0)
+	{
+		text = "大桥将在"+time.tostring()+"秒后爆炸";
+		time-=1;
+	}
+	mao_text.__KeyValueFromString("message",text);
+}
