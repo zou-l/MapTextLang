@@ -37,3 +37,4 @@ function C()
 	}
 	mao_text.__KeyValueFromString("message",text);
 }
+//更正
