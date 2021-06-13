@@ -38,7 +38,7 @@
 	}
 	"*The right door is about to open*"
 	{
-		"chi"		"**右边的门将会打开---10**"
+		"chi"		"**右边的门将会打开---20**"
 	}
 	"*The left button is broken*"
 	{
@@ -46,7 +46,7 @@
 	}
 	"*The left door is about to open*"
 	{
-		"chi"		"**左边的门将会打开---10**"
+		"chi"		"**左边的门将会打开---20**"
 	}
 	"*The right button is broken*"
 	{
@@ -86,7 +86,7 @@
 	}
 	"*Gain*"
 	{
-		"chi"		"**吸收---3**"
+		"chi"		"**增益---3**"
 	}
 	"*Defend*"
 	{
@@ -110,11 +110,11 @@
 	}
 	"*Easy*"
 	{
-		"chi"		"**已选择简单难度**"
+		"chi"		"**已选择简单路线**"
 	}
 	"*Hard*"
 	{
-		"chi"		"**已选择困难难度**"
+		"chi"		"**已选择困难路线**"
 	}
 	"***Challenge***"
 	{
