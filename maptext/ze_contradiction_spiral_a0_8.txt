@@ -1,7 +1,0 @@
-"Console_T"
-{
-	"World Level 01"
-	{
-		"chi"		"** **"
-	}
-}
