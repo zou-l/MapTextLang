@@ -38,7 +38,7 @@ function text_change()
 
 function Time_Tick()
 {
-	boss_time_text = "距离BOSS杀死我们还剩余 : " + boss_time.tostring() + "秒";
+	boss_time_text = "距离BOSS杀死我们还剩余 : " + boss_time.tostring() + " 秒";
 	EntFireByHandle(self,"RunScriptCode","boss_time-=1;",1.00,null,null);
 
 	if(boss_time <= 0)
