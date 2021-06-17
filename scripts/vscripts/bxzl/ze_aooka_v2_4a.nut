@@ -21,7 +21,7 @@ bxzl_text_array <- [
     },
 
     { 
-        array_message="魂出电入 - 地面深色区域火焰伤害,且安全区内远离闪电"
+        array_message="魂出电入 - 地面深色区域火焰伤害,且不要在左右两边有闪电的安全区"
         array_holdtime=5.0
     },
 
