@@ -15,7 +15,7 @@ function Detect()
 }
 function EPick(){
 	if(!detect)return;
-	if(!activator.GetTeam() != 3)return;
+	if(activator.GetTeam() != 3)return;
 	local ent=Entities.FindByClassname(null, "player_speedmod");
 	if(ent==null){
 		ent=Entities.CreateByClassname("player_speedmod");
@@ -23,6 +23,7 @@ function EPick(){
 	EntFireByHandle(ent, "ModifySpeed", "0.75", 0, activator, caller);
 	EntFireByHandle(ent, "ModifySpeed", "1", 5, activator, caller);
 	EntFireByHandle(activator, "IgniteLifetime", "10", 0, activator, caller);
+	activator.__KeyValueFromString("rendercolor", "200 0 0");
 	ScriptPrintMessageChatAll(" \x02按e仔被点燃了，笑他\x01");
 }
 
