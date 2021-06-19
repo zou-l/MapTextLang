@@ -46,7 +46,7 @@
 	}
 	"<Zombie second kill has been banned>"
 	{
-		"chi"		"**<僵尸技能已被禁用>**"
+		"chi"		"**<僵尸秒杀已被禁用>**"
 	}
 	"***Luo Xing Yun Mang ***"
 	{
